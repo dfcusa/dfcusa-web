@@ -1,4 +1,4 @@
 <?php
 	$html = file_get_contents("php://input");
-	file_put_contents('/Users/vinay/Documents/htdocs/dfcusa2/' . $_GET['page'], $html);
+	file_put_contents('/var/www/html/dfcusa-web/' . $_GET['page'], $html);
 ?>
