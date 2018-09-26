@@ -1,0 +1,42 @@
+/*LARGE DESKTOP */
+@media (min-width: 1900px) {
+
+}
+
+@media (min-width:1661px) {
+}
+
+/*SEMI-LARGE DESKTOP */
+@media (min-width:1400px) and (max-width:1660px) {
+
+}
+
+/*NORMAL DESKTOP */
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+}
+
+/*iPad OR SMALL DESKTOP*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*TABLET & iPad*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*LARGE MOBILES OR PHABLET*/
+@media (max-width: 767px) {
+
+}
+
+/*MEDIUM MOBILES*/
+@media (min-width: 360px) and (max-width: 480px) {
+
+}
+
+/*SMALL MOBILES*/
+@media (max-width: 320px){
+
+}
