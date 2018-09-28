@@ -8,5 +8,4 @@ $.ajax({
 	contentType: 'text/plain'
 }).done(function() {
 	alert('Saved');
-location.reload();
 });
