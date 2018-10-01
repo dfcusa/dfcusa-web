@@ -1,7 +1,7 @@
 <section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h1><span>Community Projects</span></h1>
+    <h1><span>Coaching</span></h1>
   </div>
 </section>
 
@@ -11,25 +11,16 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>An easy way to adopt Design for Change</h2>
-        <p>Community Projects are the traditional implementation of the FIDS framework.</p>
+        <p>In person and virtual coaching sessions now available!</p>
         <table class="table">
           <tr>
-            <td width="25%"><b>Feature:</b></td><td>Student seek opportunities to do good, while considering Global Goals</td>
+            <td width="25%"><b>Feature:</b></td><td>Customized assistance with the rollout of DFC from a trained DFC professional</td>
           </tr>
           <tr>
-            <td width="25%"><b>Time Required:</b></td><td>8-10 Weeks</td>
+            <td width="25%"><b>Time Required:</b></td><td>1h+multi day, ongoing</td>
           </tr>
           <tr>
-            <td width="25%"><b>Feel:</b></td><td>Interview Stakeholders in school or community</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Imagine:</b></td><td>Collaborative Brainstorming</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Do:</b></td><td>Implementation of solution</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Share:</b></td><td>Community Event </td>
+            <td width="25%"><b>Feel:</b></td><td>Teachers, Administrators, Executive Directors, Coaches</td>
           </tr>
         </table>
       </div>

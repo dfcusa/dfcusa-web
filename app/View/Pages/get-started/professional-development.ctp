@@ -1,7 +1,7 @@
 <section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h1><span>Design Sprints</span></h1>
+    <h1><span>Professional Development</span></h1>
   </div>
 </section>
 
