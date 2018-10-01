@@ -15,7 +15,7 @@
 
         <div class="pathway-block educator-block">
           <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_coaching.png" alt="img" class="img-fluid">
+            <img src="/dfcusa-web/app/webroot/img/ico_c_customresources.png" alt="img" class="img-fluid">
           </div>
           <div class="pathway-det">
             <h3>CUSTOM RESOURCES</h3>
