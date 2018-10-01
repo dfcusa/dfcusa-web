@@ -1,0 +1,181 @@
+2018-09-25 23:25:23 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:26:02 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:26:44 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:27:20 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:27:30 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:28:14 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-25 23:28:45 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+PagesController::display() - APP/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2018-09-26 03:29:44 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 267
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 213
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 169
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2018-09-26 03:29:44 Notice: Notice (8): Undefined offset: 0 in [/Users/vinay/Documents/htdocs/dfcusa/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::renderLayout() - CORE/Cake/View/View.php, line 539
+View::render() - CORE/Cake/View/View.php, line 483
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 267
+ExceptionRenderer::error400() - CORE/Cake/Error/ExceptionRenderer.php, line 213
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 169
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2018-09-30 21:40:06 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 920
+View::_render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 883
+View::renderLayout() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 539
+View::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 483
+Controller::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 957
+PagesController::display() - /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 161
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 42
+
+2018-09-30 21:40:11 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 920
+View::_render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 883
+View::renderLayout() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 539
+View::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 483
+Controller::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 957
+PagesController::display() - /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 161
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 42
+
+2018-09-30 21:40:19 Notice: Notice (8): Use of undefined constant pass - assumed 'pass' in [/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Layouts/default.ctp, line 66]
+Trace:
+include - APP/View/Layouts/default.ctp, line 66
+View::_evaluate() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 920
+View::_render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 883
+View::renderLayout() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 539
+View::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php, line 483
+Controller::render() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 957
+PagesController::display() - /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php, line 161
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 42
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Design for Change - USA</title>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/css/aos.css" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/css/style.css" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/css/responsive.css" rel="stylesheet">
+</head>
+
+<body>
+
+<?php echo $this->element('header') ?>
+
+<?php echo $this->fetch('content'); ?>
+
+<?php echo $this->element('footer'); ?>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="/dfcusa-web/app/webroot/js/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+<script src="/dfcusa-web/app/webroot/js/main.js"></script>
+</body>
+</html>
