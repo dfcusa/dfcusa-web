@@ -10,8 +10,8 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/stories">Stories</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'programs') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/programs">Programs</a>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
+            <a class="nav-link" href="/pages/program">Program</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/get-started">Get Started</a>
