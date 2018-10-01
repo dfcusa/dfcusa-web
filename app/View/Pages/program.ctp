@@ -53,28 +53,28 @@
           <div class="row">
             <div class="col-md-3 col-lg-3">
               <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
                 <p>Young people observe and list the issues in their community that bother them.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_imagine.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
                 <p>They interact with folks in their community to identify points of intervention and solutions.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
                 <p>They develop and implement an action plan, keeping in mind resources, budget and time.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
                 <p>They share their story of change and inspire others to get involved or do their own project.</p>
               </div>

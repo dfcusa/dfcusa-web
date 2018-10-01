@@ -19,7 +19,7 @@
           </div>
           <div class="pathway-det">
             <h3>EMPATHY MATERIALS</h3>
-            <p>Using a podcast and accompanying visuals that captures community interviews, introduce students to the Design for Change methodology and the UN Global Goals </p>
+            <p>Using a podcast and accompanying visuals that captures community interviews, introduce students to the Design for Change methodology and the UN Global Goals.</p>
           </div>
         </div>
 
@@ -27,28 +27,28 @@
           <div class="row">
             <div class="col-md-3 col-lg-3">
               <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
                 <h5>Specially design podcast highlighting a community challenge</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_imagine.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
                 <h5>Collaborative brainstorming</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
                 <h5>Rapid prototyping</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
                 <h5>Collective presentations</h5>
               </div>
@@ -63,7 +63,6 @@
 
     <div class="row">
       <div class="col-sm-12">
-        <p>Design Sprints offer a 4-hour Design for Change experience for students, introducing them to design thinking for social impact. With the Design Sprints resources, educators have access to fully designed lesson plans for each of the stages of the Design for Change framework: Feel, Imagine, Do, Share. Design Sprints have the potential to launch students into Community Projects.</p>
         <table class="table">
           <tr>
             <td width="25%"><b>Time Required:</b></td><td>4 hours</td>

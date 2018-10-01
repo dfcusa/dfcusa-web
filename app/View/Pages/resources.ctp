@@ -133,7 +133,7 @@
           <div class="pathway-det">
             <h3>OUR CHAPTER TOOLKIT</h3>
             <p>Are you a college/university student, interested in starting a Design for Change local chapter and mentoring young change makers in your community? Sign up for a free Chapter Toolkit including step by step instructions on setting up your chapter, expert designed curriculum content and access to the DFC Web Portal.</p>
-            <a href="/pages/contact-us?ref=chapter-toolkit">REQUEST </a>
+            <a href="/pages/contact-us?ref=chapter-toolkit">REQUEST TOOLKIT</a>
           </div>
         </div>
       </div>

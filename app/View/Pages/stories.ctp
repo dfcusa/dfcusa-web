@@ -29,28 +29,28 @@
           <div class="row">
             <div class="col-md-3 col-lg-3">
               <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
                 <p>The flu is both a local and global problem. As such we chose to address Global Goal #3 - Good Health and Well Being.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_imagine.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
                 <p>Students brainstormed many ideas including fancy surgical masks and hand sanitizers. They decided on a campaign to #STOPTHESPREAD through proper hand washing.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
                 <p>Students surveyed their peers using google surveys. Eventually they decided to make and sell their own soap, earning over $1000 which they donated to charity.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
                 <p>Students presented at a school wide assembly, created posters and music videos. They also presented at WEday in New York in front of 15,000 students, and were interviewed by CBS.</p>
               </div>

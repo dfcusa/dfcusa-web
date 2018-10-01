@@ -12254,3 +12254,348 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 #1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
 #2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2018-10-01 19:56:43 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 19:56:56 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 19:57:00 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 19:57:00 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 19:57:02 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 19:57:02 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:00:44 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:00:44 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:00:45 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:00:45 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:01:45 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:01:45 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:02:05 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:02:05 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:02:08 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:04:31 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:04:31 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:04:40 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:03 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:05 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:10 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:14 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:17 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:21 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:21 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/img/img_hedr_stories@2x.png.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('img/img_hedr_st...')
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('img/img_hedr_st...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('img/img_hedr_st...')
+#3 [internal function]: PagesController->display('img', 'img_hedr_storie...')
+#4 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-10-01 20:08:25 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:08:25 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/img/img_hedr_stories@2x.png.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('img/img_hedr_st...')
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('img/img_hedr_st...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('img/img_hedr_st...')
+#3 [internal function]: PagesController->display('img', 'img_hedr_storie...')
+#4 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-10-01 20:08:27 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:20:31 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:20:33 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:20:38 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:20:41 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:20:47 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:21:20 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:30:11 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:30:13 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:30:18 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:30:23 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:30:26 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:42:32 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:42:35 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:42:38 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:17 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:20 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:22 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:44 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:47 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:50 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:43:55 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:00 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:05 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:06 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:07 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:10 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:13 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:15 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:17 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:20 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:22 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:23 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:23 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:23 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/img/img_hedr_stories@2x.png.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('img/img_hedr_st...')
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('img/img_hedr_st...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('img/img_hedr_st...')
+#3 [internal function]: PagesController->display('img', 'img_hedr_storie...')
+#4 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-10-01 20:44:37 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-01 20:44:37 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/img/img_hedr_stories@2x.png.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('img/img_hedr_st...')
+#1 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('img/img_hedr_st...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('img/img_hedr_st...')
+#3 [internal function]: PagesController->display('img', 'img_hedr_storie...')
+#4 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
