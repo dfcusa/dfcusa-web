@@ -511,6 +511,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
   }
 }
 
+.store-block {
+  background: #f1f1f1;
+  border-color: #666;
+  margin: 50px 0 0 0;
+  h3 {
+    border-color: #B20977;
+    font-size: 25px;
+    color: #666;
+  }
+  a { 
+    color: #666;
+    border-color: #666;
+  }
+  a:hover {
+    color: #e23ea9;
+  }
+  p {
+    font-size: 15px;
+    color: #666;
+  }
+}
+
 .sprint-block {
   background: #ff5e17;
   border-color: #EF3934;
@@ -551,13 +573,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
 
 
 
-.not-sure { padding:80px 0 0 0; text-align:center;
+.not-sure { 
+  padding:80px 0 0 0; text-align:center;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ebf5fd+52,e4f1fc+100 */
-background: #ffffff; /* Old browsers */
-background: -moz-linear-gradient(top, #ffffff 0%, #ebf5fd 52%, #e4f1fc 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #ffffff 0%,#ebf5fd 52%,#e4f1fc 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #ffffff 0%,#ebf5fd 52%,#e4f1fc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e4f1fc',GradientType=0 ); /* IE6-9 */
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #ebf5fd 52%, #e4f1fc 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ffffff 0%,#ebf5fd 52%,#e4f1fc 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ffffff 0%,#ebf5fd 52%,#e4f1fc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e4f1fc',GradientType=0 ); /* IE6-9 */
+  &.inverse {
+    padding: 0px 0 80px 0;
+    background: -moz-linear-gradient(top, #ffffff 0%, #ebf5fd 100%, #e4f1fc 52%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%, #ebf5fd 100%,#e4f1fc 52%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%, #ebf5fd 100%, #e4f1fc 52%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  }
 }
 .not-sure {
   span {
@@ -597,6 +626,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
     &:hover {
       background: #ED1651;
       color: #fff;
+    }
+  }
+  .highlight-image {
+    width: 500px;
+  }
+  .highlights {
+    li {
+      font-size: 20px;
+      margin-bottom: 5px;
     }
   }
 }
@@ -1252,7 +1290,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
     position: absolute;
     left: 10%;
     z-index: 99;
-    top: 20%;
+    top: 28%;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
@@ -1463,6 +1501,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
   float: left;
   width: 100%;
   margin: 0 0 40px 0;
+  position: relative;
+  .watch-video-btn {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    img {
+      width: 55px;
+      height: 55px;
+    }
+  }
 }
 
 .story-media {
@@ -1478,13 +1526,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
   width: 100%;
   padding: 20px;
   text-align: center;
+  h4 {
+    font-size: 12pt;
+    font-weight: 700;
+    font-style: italic;
+    color: #666;
+    margin-bottom: 15px;
+  }
   a {
     float: left;
     width: 100%;
     font-size: 16px;
     font-weight: 700;
     color: #575757;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
   }
   p {
     float: left;
@@ -1716,6 +1771,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
 .educator-block {
   padding: 40px 60px;
   background: #E3003E;
+  &.chapter {
+    background-color: #ff5e17;
+  }
   .pathway-img {
     width: 35%;
     text-align: center;
@@ -1954,4 +2012,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
 
 .dark-text {
   color: #666 !important;
+}
+
+.portal-widget {
+  position: relative;
+  iframe {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border: 0px;
+    display: inline-block;
+    width: 1500px;
+  }
 }

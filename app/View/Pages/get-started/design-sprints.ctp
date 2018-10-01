@@ -10,67 +10,115 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2>An easy way to adopt Design for Change</h2>
-        <p>Design Sprints are mini DFC experiences intended to provide educators the ability to introduce the FIDS framework to their students in a short amount of time. Design Sprints have the potential to launch students into a full Community Projects. </p>
+        <h2>An Easy Way to Get Started</h2>
+        <p>Design Sprints offer a 4-hour Design for Change experience for students, introducing them to design thinking for social impact. With the Design Sprints resources, educators have access to fully designed lesson plans for each of the stages of the Design for Change framework: Feel, Imagine, Do, Share. Design Sprints have the potential to launch students into Community Projects.</p>
+
+        <div class="pathway-block educator-block">
+          <div class="pathway-img">
+            <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png" alt="img" class="img-fluid">
+          </div>
+          <div class="pathway-det">
+            <h3>EMPATHY MATERIALS</h3>
+            <p>Using a podcast and accompanying visuals that captures community interviews, introduce students to the Design for Change methodology and the UN Global Goals </p>
+          </div>
+        </div>
+
+        <div class="apply-icons">
+          <div class="row">
+            <div class="col-md-3 col-lg-3">
+              <div class="apply-block feel-block">
+                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>Feel</h4>
+                <h5>Specially design podcast highlighting a community challenge</h5>
+              </div>
+            </div>
+            <div class="col-md-3 col-lg-3">
+              <div class="apply-block imagine-block">
+                <img src="/dfcusa-web/app/webroot/img/ico_large_imagine.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>IMAGINE</h4>
+                <h5>Collaborative brainstorming</h5>
+              </div>
+            </div>
+            <div class="col-md-3 col-lg-3">
+              <div class="apply-block do-block">
+                <img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>DO</h4>
+                <h5>Rapid prototyping</h5>
+              </div>
+            </div>
+            <div class="col-md-3 col-lg-3">
+              <div class="apply-block share-block">
+                <img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>SHARE</h4>
+                <h5>Collective presentations</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+
+    <br/>
+    <br/>
+
+    <div class="row">
+      <div class="col-sm-12">
+        <p>Design Sprints offer a 4-hour Design for Change experience for students, introducing them to design thinking for social impact. With the Design Sprints resources, educators have access to fully designed lesson plans for each of the stages of the Design for Change framework: Feel, Imagine, Do, Share. Design Sprints have the potential to launch students into Community Projects.</p>
         <table class="table">
-          <tr>
-            <td width="25%"><b>Feature:</b></td><td>Introduce students to the Global Goals through podcast interviews</td>
-          </tr>
           <tr>
             <td width="25%"><b>Time Required:</b></td><td>4 hours</td>
           </tr>
           <tr>
-            <td width="25%"><b>Feel:</b></td><td>Specially designed podcasts</td>
+            <td width="25%"><b>Feature:</b></td><td>Introduces the Design for Change methodology</td>
           </tr>
           <tr>
-            <td width="25%"><b>Imagine:</b></td><td>Collaborative brainstorming</td>
+            <td width="25%"><b>Effort:</b></td><td>Provides concise and scripted experience for students</td>
           </tr>
           <tr>
-            <td width="25%"><b>Do:</b></td><td>Action Plan</td>
+            <td width="25%"><b>Alignment:</b></td><td>Aligns to a UN Global Goal</td>
           </tr>
           <tr>
-            <td width="25%"><b>Share:</b></td><td>Classroom Presentation</td>
+            <td width="25%"><b>Context:</b></td><td>Connects to relevant, local community challenges</td>
           </tr>
         </table>
       </div>
     </div>
+    
     <div class="row">
       <div class="col-sm-12">
-        <section>
-          <div class="container">
-            <div class="generic-block">
-              <div class="generic-inner">
-                <h3 class="dark-text">More Information&nbsp;</h3>
-                <ul class="list">
-                  <ol>Point</ol>
-                  <ol>Point</ol>
-                  <ol>Point</ol>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
+        <h2>Perfect for the educator...</h2>
+        <ul class="list">
+          <li>Looking for a quick way to introduce students to the Design for Change methodology</li>
+          <li>Searching for ready-made lesson plans that guide through the design cycle</li>
+          <li>Interested in promoting the UN Global Goals</li>
+          <li>Passionate about connecting students to relevant issues in their community</li>
+        </ul>
       </div>
     </div>
   </div>
 </section>
 
-<section class="newsletter">
-  <div class="container">    
-    <div class="newsletter-inner">
-      <div class="row">
-        <div class="col-sm-4">
-            <div class="newsletter-globe"><img src="/dfcusa-web/app/webroot/img/ico_bigearth.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-        </div>
-        <div class="col-sm-8">
-          <h2>Change Starts with You</h2>
-          <p>Sign up to receive our <strong>newsletter</strong> and other free resources.</p>
-          <div class="newsletter-form">
-            <input type="text" placeholder="Enter your e-mail address">
-              <button>Send</button>
-          </div>
-        </div>
+<section class="not-sure inverse">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2>Browse our Design Sprints</h2>
+        <p>Get started with your class in minutes.</p>
+        <a href="/dfcusa-pm/sprints">SEE SPRINT CATALOG</a>
       </div>
     </div>
   </div>
 </section>
+
+
+<section class="page-content portal-widget hide">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2>Browser our Design Sprints</h2>
+        <iframe src="/dfcusa-pm/pages/sprints?nonav=true"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+

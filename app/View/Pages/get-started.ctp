@@ -14,7 +14,7 @@
         <p>Students are often asked to wait to make meaningful change in their worlds. Yet with the right tools and resources, students are leading authentic and lasting change in their communities. The principles of design thinking activate such student agency.</p>
         <p></p><p></p>
         <h3>STEP 1</h3>
-        <h4>Download our Free Educator’s Toolkit & Activities.</h4>
+        <h4>Download Our Free Educator’s Toolkit & Activities.</h4>
         <div class="pathway-block educator-block">
           <div class="pathway-img">
             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="img" class="img-fluid">

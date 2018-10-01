@@ -42,7 +42,7 @@
         <div class="design-change-video">
           <!-- <img src="/dfcusa-web/app/webroot/img/IMG_9044.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"> -->
           <iframe width="955" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          <a href="javascript:void(0)" class="watch-video-btn" source="MkVYu-ZvDR8"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="MkVYu-ZvDR8"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
         </div>
       </div>
     </div>

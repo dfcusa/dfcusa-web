@@ -87,34 +87,87 @@
     <div class="row">
       <div class="col-sm-4">
 				<div class="story-block">
-        	<div class="story-media"><img src="/dfcusa-web/app/webroot/img/img_video_placeholder.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></div>
+        	<div class="story-media"><img src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="L_q-K3mLhPQ"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="L_q-K3mLhPQ"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
-            	<a href="#">"H.O.P.E: Have Only Positive Expectations"</a>
-                <p>By Washington Elementary</p>
-                <span>Sandpoint, ID</span>
+              <h4>2018 Ambassador Team</h4>
+            	<a href="javascript:void()" class="youtube-link" source="L_q-K3mLhPQ">"SUDS4SOCIETY"</a>
+              <p>By The Bellaire School (P.S. 135Q)</p>
+              <span>Queens, New York, NY</span>
             </div>
         </div>
       </div>
-      <div class="col-sm-4">
-				<div class="story-block">
-          <div class="story-media"><img src="/dfcusa-web/app/webroot/img/img_video_placeholder.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></div>
-            <div class="story-det">
-              <a href="#">"H.O.P.E: Have Only Positive Expectations"</a>
-                <p>By Washington Elementary</p>
-                <span>Sandpoint, ID</span>
-            </div>
-        </div>
-      </div>
+      
+
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="/dfcusa-web/app/webroot/img/img_video_placeholder.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></div>
+          <div class="story-media"><img src="http://img.youtube.com/vi/IUPiuurowds/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="IUPiuurowds"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="IUPiuurowds"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
-              <a href="#">"H.O.P.E: Have Only Positive Expectations"</a>
-                <p>By Washington Elementary</p>
-                <span>Sandpoint, ID</span>
+              <h4>2017 Ambassador Team</h4>
+              <a href="javascript:void()" class="youtube-link" source="IUPiuurowds">"H.O.P.E : Have Only Positive Expectations"</a>
+              <p>By Washington Elementary</p>
+              <span>Sandpoint, ID</span>
+            </div>
+        </div>
+      </div>    
+
+
+      <div class="col-sm-4">
+        <div class="story-block">
+          <div class="story-media"><img src="http://img.youtube.com/vi/70YnAcqvq3E/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="70YnAcqvq3E"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="70YnAcqvq3E"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+            <div class="story-det">
+              <h4>2016 Ambassador Team</h4>
+              <a href="javascript:void()" class="youtube-link" source="70YnAcqvq3E">"Supporting Refugees in Our Community"</a>
+              <p>By Exploris School</p>
+              <span>Raleigh, NC</span>
+            </div>
+        </div>
+      </div>   
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="story-block">
+          <div class="story-media"><img src="http://img.youtube.com/vi/QbrHVZ7yJ4w/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="QbrHVZ7yJ4w"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="QbrHVZ7yJ4w"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+            <div class="story-det">
+              <h4>2015 Ambassador Team</h4>
+              <a href="javascript:void()" class="youtube-link" source="QbrHVZ7yJ4w">"Starfish Program"</a>
+              <p>By John Winthrop School (City Year)</p>
+              <span>Dorchester, MA</span>
             </div>
         </div>
       </div>
+      
+
+      <div class="col-sm-4">
+        <div class="story-block">
+          <div class="story-media"><img src="http://img.youtube.com/vi/jyEuqLSVMH0/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="jyEuqLSVMH0"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="jyEuqLSVMH0"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+            <div class="story-det">
+              <h4>2014 Ambassador Team</h4>
+              <a href="javascript:void()" class="youtube-link" source="jyEuqLSVMH0">"Trap Houses"</a>
+              <p>By Charles Rice Learning Center (ACU)</p>
+              <span>Dallas, TX</span>
+            </div>
+        </div>
+      </div>    
+
+
+      <div class="col-sm-4">
+        <div class="story-block">
+          <div class="story-media"><img src="http://img.youtube.com/vi/m4v4TTXwmTA/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="m4v4TTXwmTA"></div>
+            <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="m4v4TTXwmTA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+            <div class="story-det">
+              <h4>2016 Ambassador Team</h4>
+              <a href="javascript:void()" class="youtube-link" source="m4v4TTXwmTA">"Crazy Horse School"</a>
+              <p>By The Crazy Horse School (TFA)</p>
+              <span>Pine Ridge, SD</span>
+            </div>
+        </div>
+      </div>   
     </div>
         
     <div class="pagination-row hide">
