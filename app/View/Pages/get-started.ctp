@@ -40,7 +40,7 @@
             <h3>DESIGN SPRINTS</h3>
             <p>Implement quick, challenge-based activities that offer a fun, fresh and exciting way to introduce Design for Change.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>4 hours</span></p>
-            <a href="/dfcusa-web/pages/design-sprints">Learn more</a>
+            <a href="/dfcusa-web/pages/programs/design-sprints">Learn more</a>
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@
             <h3>COMMUNITY PROJECTS</h3>
             <p>Using expert-designed lesson plans and activities, build a customized learning experience for your students.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>8-10 weeks</span></p>
-            <a href="/dfcusa-web/pages/community-projects">Learn more</a>
+            <a href="/dfcusa-web/pages/programs/community-projects">Learn more</a>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@
             <h3>PROFESSIONAL DEVELOPMENT</h3>
             <p>Organize an experiential workshop for educators in your community to introduce the Design for Change methodology.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>1/2 Day | Full Day</span></p>
-            <a href="#">Learn more</a>
+            <a href="/dfcusa-web/pages/programs/professional-development">Learn more</a>
           </div>
         </div>
       </div>
@@ -87,7 +87,7 @@
             <h3>COACHING</h3>
             <p>Schedule customized coaching sessions for guidance on your implementation of the Design for Change methodology.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>Flexible</span></p>
-            <a href="#">Learn more</a>
+            <a href="/dfcusa-web/pages/programs/coaching">Learn more</a>
           </div>
         </div>
       </div>

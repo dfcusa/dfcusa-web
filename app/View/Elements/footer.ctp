@@ -10,6 +10,7 @@
             <h4>GET STARTED</h4>
             <a href="/pages/get-started">Next Steps</a>
             <a href="/pages/activities">Activities</a>
+            <a href="https://www.dfcworld.com/SITE/Research" target="_new">Research</a>            
           </div>
         </div>
         <div class="col-md-2 col-lg-2">
@@ -23,8 +24,10 @@
           <div class="footer-links">
             <h4>PROGRAMS</h4>
             <a href="/pages/programs">Our Programs</a>
-            <a href="/pages/design-sprints">Design Sprints</a>
-            <a href="https://www.dfcworld.com/SITE/Research" target="_new">Research</a>
+            <a href="/pages/programs/design-sprints">Design Sprints</a>
+            <a href="/pages/programs/community-projects">Community Projects</a>
+            <a href="/pages/programs/professional-development">Professional Development</a>
+            <a href="/pages/programs/coaching">Coaching</a>
           </div>
         </div>
         <div class="col-md-3 col-lg-2">

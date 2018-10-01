@@ -1,7 +1,7 @@
 <section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
-    <h1><span>ABOUT US</span></h1>
+    <h4><span>Our mission is to empower every child in the United States with the opportunity to find their voice and become an agent of change  in their own community.</span></h4>
   </div>
 </section>
 
