@@ -11,7 +11,7 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>Getting Started With Design for Change</h2>
-        <p>Students are often asked to wait to make meaningful change in their worlds. Yet with the right tools and resources, students are leading authentic and lasting change in their communities. The principles of design thinking activate such student agency.</p>
+        <p>Students are often told they must wait until some unknown time to start making changes in the world. Yet with the right tools and resources, students can and are already leading lasting change in their communities. DFC fosters fosters student agency by recognizing the potential in each child, to be a designer of change. Find out how you can start your DFC journey today!</p>
         <p></p><p></p>
         <h3>STEP 1</h3>
         <h4>Download Our Free Educator’s Toolkit Poster</h4>
@@ -101,7 +101,7 @@
           <div class="pathway-det">
             <h3>NEED A CUSTOM DESIGNED PROGRAM?</h3>
             <p>In the spirit of design thinking, our DFC Certified Coaches will co-create a series of learning experiences that best align to the priorities of your organization.</p>
-            <a href="/pages/contact">Contact us</a>
+            <a href="/pages/contact-us">Contact us</a>
           </div>
         </div>
       </div>

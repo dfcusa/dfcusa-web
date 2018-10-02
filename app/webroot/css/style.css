@@ -401,7 +401,7 @@ header {
     width: 209px;
     margin-right: 35px;
     margin-left: -75px;
-    margin-bottom: 25px;
+    margin-bottom: 80px;
     margin-top: 44px;
     float: left; }
 
@@ -490,6 +490,8 @@ header {
       color: #000; }
     .pathway-det a.inverse {
       color: #666; }
+    .pathway-det a.big {
+      font-size: 15px; }
 
 .generic-block {
   float: left;
@@ -1304,9 +1306,15 @@ footer {
       line-height: 30px;
       margin-left: 25px;
       margin-bottom: 25px;
-      border: 0px; }
+      border: 0px;
+      height: 100px;
+      vertical-align: middle; }
       .page-content .table td a {
         color: #666; }
+    .page-content .table tr {
+      border-bottom: 3px solid #c5c5c5; }
+      .page-content .table tr:last-child {
+        border: 0px; }
 
 .content-image, .content-video {
   float: left;
@@ -1348,7 +1356,7 @@ footer {
   background: #EC1A54;
   padding: 65px 0 50px 0;
   text-align: center;
-  margin: 100px 0 0 0; }
+  margin: 50px 0 0 0; }
   .interested-dfc ul {
     float: left;
     width: 100%;
@@ -1376,7 +1384,7 @@ footer {
   .interested-dfc a {
     margin: auto;
     display: table;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     padding: 12px 40px;
     color: #fff;

@@ -10,18 +10,18 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h2>Stories of Change</h2>
+      	<h2>Stories of Change from DFC USA</h2>
         <p>What if you witnessed third graders shut down a drug house? What if we told you about fifth graders to creating a pipeline between farmers and those living in food deserts? What if you saw high schoolers increase the number of mental health professionals at their school? Would you believe these stories of change?</p>
         <p class="big">At DFC, we not only believe, we have seen what is possible when students are given the tools to drive social change in their community. </p>
         <div class="content-image">
         	<img src="/dfcusa-web/app/webroot/img/img_stories_tirepainting@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid">
         </div>
         <h2>Stories of Change from Design for Change USA</h2>
-        <p>In 2018, DFC USA received over 200 projects of change. Each student team identified an issue in their community and used the DFC framework to address it. Every year, an Ambassador Student Team is selected to represent the USA at the annual DFC Global Conference - Be The Change (Taiwan, 2018).</p>
+        <p>In 2018, DFC USA received over 200 projects of change. Each student team identified an issue in their community and used the Feel, Imagine, Do, Share  framework to design and implement a solution.</p>
         <h3 class="extra-margin">The Story of the 2018 DFC USA Ambassador Team</h3>
         <h4>“SUDS4SOCIETY” By The BellaireSchool (P.S. 135Q), Queens, New York, NY</h4>
         <div class="content-video">
-        	<img src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
+        	<img src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
           <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
         </div>
         <p>During the month of October 2017, there were many students going home with flu. Students researched the causes of the disease and ways to prevent it from spreading.</p>        
@@ -81,7 +81,6 @@
   	<div class="row">
     	<div class="col-sm-12">
         <h2>See more of our stories of change in the gallery below</h2>
-        <h3>Every year we highlight a story of change and select a student team to be the US Ambassadors at the Global Be the Change Conference.</h3>
       </div>
     </div>
         

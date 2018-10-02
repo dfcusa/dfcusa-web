@@ -14977,3 +14977,47 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 #6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2018-10-02 06:35:24 Error: [MissingControllerException] Controller class SprintsController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-10-02 06:41:29 Error: [MissingControllerException] Controller class SprintsController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-10-02 06:42:17 Error: [MissingControllerException] Controller class ProjectsController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-10-02 07:00:49 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-02 07:02:24 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-02 07:02:26 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-10-02 08:23:46 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/contact.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('contact')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('contact', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('contact')
+#3 [internal function]: PagesController->display('contact')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-10-02 08:23:48 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/contact.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('contact')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('contact', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('contact')
+#3 [internal function]: PagesController->display('contact')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

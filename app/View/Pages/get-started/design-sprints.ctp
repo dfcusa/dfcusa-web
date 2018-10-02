@@ -63,9 +63,9 @@
 
     <div class="row">
       <div class="col-sm-12">
-        <table class="table">
+        <table class="table" style="width: 100%">
           <tr>
-            <td width="25%"><b>Time Required:</b></td><td>4 hours</td>
+            <td width="25%"><b>Time Required:</b></td><td style="width: 850px">4 hours</td>
           </tr>
           <tr>
             <td width="25%"><b>Feature:</b></td><td>Introduces the Design for Change methodology</td>

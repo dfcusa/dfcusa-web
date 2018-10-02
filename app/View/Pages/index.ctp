@@ -41,8 +41,9 @@
         <p>Design for Change is a global movement of educators and young people using a simple design thinking framework to create social impact.</p>
         <div class="design-change-video">
           <!-- <img src="/dfcusa-web/app/webroot/img/IMG_9044.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"> -->
-          <img width="955" height="560" src="http://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
-          <a href="//www.youtube.com/watch?v=MkVYu-ZvDR8" data-lity class="watch-video-btn youtube-link"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <iframe width="995" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <!-- <img width="955" height="560" src="http://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
+          <a href="//www.youtube.com/watch?v=MkVYu-ZvDR8" data-lity class="watch-video-btn youtube-link"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a> -->
         </div>
       </div>
     </div>
@@ -109,7 +110,7 @@
       <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson Plan</a> to address the 17 Global Goals as determined by the United Nations.</p>
+        <p class="inverse">DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson Plan</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="http://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
       </div>
     </div>
   </div>
@@ -122,7 +123,7 @@
       <div class="row">
         <div class="col-sm-12">
           <h2>Get Started</h2>
-          <p>Select one of the pathways below and join our global movement of education changemakers</p>
+          <p>Select one of the pathways below and join the DFC global movement</p>
         </div>
       </div>
     </div>
@@ -192,7 +193,7 @@
         	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h2>Wondering where to begin?</h2>
           <p>Contact us and we'll help you get started.</p>
-          <a href="/contact">CONTACT US</a>
+          <a href="/pages/contact-us">CONTACT US</a>
           <div class="not-sure-img">
           	<img src="/dfcusa-web/app/webroot/pics/15276226498_56d159e927_k.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
           </div>
@@ -226,7 +227,7 @@
           <span><img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h3>Dana Kinel</h3>
           <div class="review-foot">
-            <h5>Teacher</h5>
+            <h5>Design Technology Teacher</h5>
             <p>Sunset Ridge Middle School, Hartford, CT</p>
           </div>
         </div>
