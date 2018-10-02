@@ -49,7 +49,7 @@
               <li>Submit projects for the Design for Change Challenge.</li>
             </ul>
           </p>
-          <a href="http://portal.designforchange.us">CREATE YOUR ACCOUNT</a>
+          <a href="http://www.designforchange.us/dfcusa-pm/login#register">CREATE YOUR ACCOUNT</a>
           <p></p>
         </div>
     </div>
