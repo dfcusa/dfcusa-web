@@ -11,7 +11,7 @@
   	<div class="row">
       <div class="col-sm-12 donate">
         <h2>The 2018 Ambassador Team</h2>
-        <p>We are proud to announce the winners of DFC USA 2018 - PS 135Q (The Bellaire School) in New York. Catalyzed by local health issues in their school community, students from City used design thinking to address the root cause of healthy hygiene. As they learned more about the issues and brainstormed solutions, they were motivated to create change both in their community and internationally.
+        <p>We are proud to announce the winners of DFC USA 2018 - PS 135Q (The Bellaire School) in New York. Catalyzed by local health issues in their school community, students used design thinking to address the root cause of healthy hygiene. 
         <br/><br/>Each year, DFC hosts a global conference “Be The Change,” to celebrate student teams from around the world. This year, the DFC Global conference will be held in Taipei, Taiwan. To qualify, student teams must have submitted their DFC project to be evaluated by industry experts by May 15, 2019. Ambassador teams are chosen from each country to share their project on a global stage, meeting and inspiring students from around the world. 
         <br/><br/>Help support their journey! Make a donation today!</p>
       </div>
