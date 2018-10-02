@@ -14,7 +14,7 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
-<link href="/dfcusa-web/app/webroot/css/aos.css" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/style.css" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/responsive.css" rel="stylesheet">
 </head>
@@ -31,8 +31,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="/dfcusa-web/app/webroot/js/aos.js"></script>
+<script src="/dfcusa-web/app/webroot/js/lity.js"></script>
+<script src="/dfcusa-web/app/webroot/js/jquery.cookie.js"></script>
 <script>
   AOS.init();
+
+  if ($.cookie('user')) {
+  	$('.my-projects-nav').removeClass('hide');
+  } else {
+  	$('.login-nav').removeClass('hide');
+  }
 </script>
 <script src="/dfcusa-web/app/webroot/js/main.js"></script>
 </body>

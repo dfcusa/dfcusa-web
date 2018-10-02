@@ -1,7 +1,7 @@
 <section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-  	<h1><span>Get Started</span></h1>
+  	<h4><span>Change starts<br>with you.</span></h4>
   </div>
 </section>
 
@@ -10,18 +10,18 @@
 	<div class="container">
   	<div class="row">
       <div class="col-sm-12">
-        <h2>Change Starts with You</h2>
+        <h2>Getting Started With Design for Change</h2>
         <p>Students are often asked to wait to make meaningful change in their worlds. Yet with the right tools and resources, students are leading authentic and lasting change in their communities. The principles of design thinking activate such student agency.</p>
         <p></p><p></p>
         <h3>STEP 1</h3>
-        <h4>Download Our Free Educator’s Toolkit & Activities.</h4>
+        <h4>Download Our Free Educator’s Toolkit Poster</h4>
         <div class="pathway-block educator-block">
           <div class="pathway-img">
             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="img" class="img-fluid">
           </div>
           <div class="pathway-det">
-            <h3>DFC EDUCATOR'S TOOLBOX</h3>
-            <p>The DFC Toolkit poster provides a quick overview of each stage of the DFC framework.</p>
+            <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
+            <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework.</p>
             <a href="/dfcusa-web/app/webroot/files/Design%20for%20Change%20-%20Educator%20Toolkit%202018.pdf">DOWNLOAD</a>
           </div>
         </div>
@@ -109,22 +109,4 @@
   </div>
 </section>
 
-<!-- <section class="newsletter">
-  <div class="container">    
-    <div class="newsletter-inner">
-      <div class="row">
-        <div class="col-sm-4">
-            <div class="newsletter-globe"><img src="/dfcusa-web/app/webroot/img/ico_bigearth.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-        </div>
-        <div class="col-sm-8">
-          <h2>Change Starts with You</h2>
-          <p>Sign up to receive our <strong>newsletter</strong> and other free resources.</p>
-          <div class="newsletter-form">
-            <input type="text" placeholder="Enter your e-mail address">
-              <button>Send</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
+<?php echo $this->element('newsletter'); ?>

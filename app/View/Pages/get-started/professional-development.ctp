@@ -79,6 +79,9 @@
           <tr>
             <td width="25%"><b>Outcome:</b></td><td>Results in a plan for implementing the Design for Change methodology into various contexts</td>
           </tr>
+          <tr>
+            <td width="25%"><b>Price:</b></td><td>$3,000 for full day | $2,500 for half day (travel not included)</td>
+          </tr>
         </table>
       </div>
     </div>
@@ -88,8 +91,8 @@
         <h2>Perfect for the organization...</h2>
         <ul class="list">
           <li>Looking for a quick way to introduce educators to the Design for Change methodology, design thinking for social impact and the UN Global Goals</li>
-          <li>Searching for a catalyzing experience for educators</li>
-          <li>Interested in expanding, refining or diversifying their use of student-driven design thinking for social change</li>
+          <li>Searching for a meaningful learning experience for educators</li>
+          <li>Interested in expanding, refining or diversifying their use of design thinking</li>
         </ul>
       </div>
     </div>

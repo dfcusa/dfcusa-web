@@ -1,7 +1,7 @@
 <section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
-    <h4><span>Our mission is to empower every child in the United States with the opportunity to find their voice and become an agent of change  in their own community.</span></h4>
+    <h4><span>Empowering young people to become<br/>agents of change in their own community.</span></h4>
   </div>
 </section>
 
@@ -13,19 +13,22 @@
         <p>Design for Change USA is the national chapter of <a href="http://www.dfcworld.com" target="_new">Design for Change World</a>, a global movement of young people creating positive impact in their community. We use a simple design thinking framework (Feel, Imagine, Do, Share) to empower students to design and implement social change projects in their community, fostering an I CAN mindset.<br/><br/>When students participate in DFC, they join a coalition of young people around the world saying, I CAN!</p>
 
         <p></p><p></p>
-        <h3>Excellent for working global goals for sustainable development</h3>
+        <h4>A framework for addressing the UN Global Goals</h4>
         <p>DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson Plan</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each stage of the 4 step DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked to address the UN Global Goals, designing new and innovative solutions for the world's most pressing challenges.</p>
         <div class="content-image">
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>
 
         <p></p><p></p>
-        <h3>The story of our founder Kiran Bir Sethi</h3>
-        <p>The Design for Change global movement was founded in 2009, by world renowned educator and design thinker, Kiran Bir Sethi. She started the movement with a conviction that if young were made to feel empowered, they could design a better world. Kiran partnered with leading experts from Stanford Design School and IDEO to launch the very first design-thinking guide for young people across India. This guide served to introduce young people to the FIDS Framework. Today, the DFC movement can be felt worldwide, spanning 65+ countries and over 2 million children. </p>
+        <h4>The story of our founder Kiran Bir Sethi</h4>
+        <p style="float: left; width: 50%">
+          The Design for Change global movement was founded in 2009, by world renowned educator and design thinker, Kiran Bir Sethi. She started the movement with a conviction that if young were made to feel empowered, they could design a better world. Kiran partnered with leading experts from Stanford Design School and IDEO to launch the very first design-thinking guide for young people across India. This guide served to introduce young people to the FIDS Framework. Today, the DFC movement can be felt worldwide, spanning 65+ countries and over 2 million children.
+        </p>
+        <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="500" height="385" style="float: right; margin: 10px;"></iframe>
         
         <hr>
         
-        <h3>DESIGN FOR CHANGE USA</h3>
+        <h3 class="center big">DESIGN FOR CHANGE USA</h3>
         <p>We are Design for Change USA, a nonprofit organization based in Boston, MA -- the U.S. partner of the worldwide Design for Change network.</p>
         <div class="content-image">
         	<img src="/dfcusa-web/app/webroot/img/Lynn.jpg" alt="img" class="img-fluid">
@@ -33,17 +36,18 @@
         
         <hr>
         
-        <h3>We Help Shape Better Change Makers</h3>
-        <p>Empathy is at the heart of the DFC experience. We encourage our participants to understand another perspective and design for change. We help young people connect great ideas with hard work and recognize the power they have to build their character.</p>
+        <h3>Designing for Humanity</h3>
+        <p>Empathy is at the heart of the DFC experience. We encourage students and educators to understand another perspective by using the Feel, Imagine, Do, Share methodology. By transforming their communities, young people transform themselves, realizing their own power to create lasting change.</p>
         <p></p>
         <h3>We Are Your Partner</h3>
-        <p>The DFC team helps educators and mentors be prepared to promote design thinking and service learning in their schools and organizations. Whether it's getting others on board, or reminding teachers that they ARE making a difference, we provide evidence that this works and it makes a difference.</p>
+        <p>The DFC team supports educators/mentors in their own design thinking journey, through a combination of training and tools. Our goal is to equip educators/mentors with the knowledge they need to implement the DFC methodology with their students. We hope to remind all educators that they are making a meaningful difference in their community each and every day.</p>
         <p></p>
         <h3>We Give Time Back</h3>
-        <p>We know that teachers and mentors are already doing more with less so our goal isn’t to add more things - or make them more complex - but rather find new and simpler ways of creating better Change Makers. Our focus on easy to adopt frameworks and integrating Design Thinking into existing curriculum will help get more out of what our partners are already doing.</p>
+        <p>We recognize that teachers and mentors are always doing more with less (less time, less resources, less everything). Our goal isn’t to add more things for them to do - rather find new and simpler ways of doing them. Our focus on easy to adopt frameworks and integrating Design Thinking into existing curriculum will help get more out of what our partners are already doing.</p>
         
         <hr>
 
+        <h4>Our Team</h4>
         <div class="team-area">
           <div class="row">
             <div class="col-sm-4">
@@ -76,7 +80,7 @@
                 <div class="member-det">
                   <div class="member-name">Courtney Tee</div>
                   <span>
-                    Researcher<br>
+                    Impact Evaluator<br>
                     <a href="https://www.linkedin.com/in/courtney-tee-bb444b6a/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
                   </span>
                 </div>
@@ -84,8 +88,10 @@
             </div>
           </div>
         </div>
+
+        <hr>
         
-        <h3>Our Board of Directors</h3>
+        <h4>Our Board of Directors</h4>
         <div class="team-area">
           <div class="row">
             <div class="col-sm-4">
@@ -163,7 +169,9 @@
           </div>
         </div>
 
-        <h3>Our Education Advisor Board</h3>
+        <hr>
+
+        <h4>Our Education Advisor Board</h4>
         <div class="team-area">
           <div class="row">
             <div class="col-sm-4">
@@ -209,22 +217,4 @@
   </div>
 </section>
 
-<section class="newsletter">
-  <div class="container">    
-    <div class="newsletter-inner">
-      <div class="row">
-        <div class="col-sm-4">
-            <div class="newsletter-globe"><img src="/dfcusa-web/app/webroot/img/ico_bigearth.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-        </div>
-        <div class="col-sm-8">
-          <h2>Change Starts with You</h2>
-          <p>Sign up to receive our <strong>newsletter</strong> and other free resources.</p>
-          <div class="newsletter-form">
-            <input type="text" placeholder="Enter your e-mail address">
-              <button>Send</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<?php echo $this->element('newsletter'); ?>

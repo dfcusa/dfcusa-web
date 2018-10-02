@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
+<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
     <h1><span>Community Projects</span></h1>
@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>A Robust Community Change-Making Experience</h2>
-        <p>Community Projects offer an authentic and responsive experience for students, guiding them through a design thinking process as they develop and implement a community change project. With the Community Project resources, educators have access to a 100+ lesson plans and activities in order to build out a learning arc that meets the needs of their students and accounts for the constraints in their unique context. Ultimately, students have the opportunity to build habits of mind and carry out an action plan to create social change locally.</p>
+        <p>Community Projects offer an authentic and responsive experience for students, guiding them through a design thinking process as they develop and implement a community change project. With the Community Project resources, educators have access to a 100+ lesson plans and activities. Educators can use these resources to meet the needs of their students and account for the constraints in their unique context. Ultimately, students build skills and carry out an action plan to create social change locally.</p>
 
         <div class="pathway-block educator-block">
           <div class="pathway-img">
@@ -88,7 +88,7 @@
         <h2>Perfect for the educator...</h2>
         <ul class="list">
           <li>Looking for a robust way to introduce students to the Design for Change methodology</li>
-          <li>Searching for modifiable resources that guide through the design cycle</li>
+          <li>Searching for adaptable resources that facilitate the design thinking process</li>
           <li>Interested in creating a unique experience that meets the academic and socioemotional needs of their students</li>
           <li>Passionate about empowering students to create authentic and lasting change in their community</li>
         </ul>

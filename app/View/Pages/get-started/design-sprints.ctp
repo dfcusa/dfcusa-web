@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
+<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
     <h1><span>Design Sprints</span></h1>
@@ -29,7 +29,7 @@
               <div class="apply-block feel-block">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
-                <h5>Specially design podcast highlighting a community challenge</h5>
+                <h5>Specially designed podcast highlighting a community challenge</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
@@ -108,16 +108,3 @@
     </div>
   </div>
 </section>
-
-
-<section class="page-content portal-widget hide">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>Browser our Design Sprints</h2>
-        <iframe src="/dfcusa-pm/pages/sprints?nonav=true"></iframe>
-      </div>
-    </div>
-  </div>
-</section>
-

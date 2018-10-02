@@ -29,7 +29,10 @@
             <a class="nav-link" href="/blog">Blog</a>
           </li>
         </ul>
-        <div class="account-menu">
+        <div class="account-menu my-projects-nav hide">
+          <a href="/dfcusa-pm/projects" class="active">My Projects</a>
+        </div>
+        <div class="account-menu login-nav hide">
           <a href="/dfcusa-pm/login#register" class="active">Sign Up</a>
           <a href="/dfcusa-pm/login">Login</a>
         </div>
@@ -37,3 +40,7 @@
     </nav>  	
   </div>
 </header>
+
+<div class="donate-nav">
+  <a href="/pages/donate">Donate</a>
+</div>

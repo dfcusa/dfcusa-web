@@ -7,7 +7,6 @@
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
         <p>Join a global movement of young people and educators using<br/>design thinking for social impact.</p>
-        <a href="#">Learn More</a>
         </div>
       </div>
     </div>
@@ -20,6 +19,7 @@
       <div class="col-sm-12">
         <h3>Endorsed by</h3>
       <div class="endorsed-logos">
+          <a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_hasbro.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="http://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="http://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="http://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
@@ -38,11 +38,11 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>What is Design for Change?</h2>
-        <p>Design for Change is a global movement that uses a simple design thinking framework to empower teachers and young people to create social change.</p>
+        <p>Design for Change is a global movement of educators and young people using a simple design thinking framework to create social impact.</p>
         <div class="design-change-video">
           <!-- <img src="/dfcusa-web/app/webroot/img/IMG_9044.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"> -->
-          <iframe width="955" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          <a href="javascript:void(0)" class="watch-video-btn youtube-link" source="MkVYu-ZvDR8"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <img width="955" height="560" src="http://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
+          <a href="//www.youtube.com/watch?v=MkVYu-ZvDR8" data-lity class="watch-video-btn youtube-link"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
         </div>
       </div>
     </div>
@@ -56,7 +56,6 @@
       <div class="row">
         <div class="col-sm-12">
           <h2>The Design for Change Framework</h2>
-          <p>A simple 4 step design thinking method:</p>
         </div>
       </div>
     </div>
@@ -142,7 +141,7 @@
                 <strong>Time Commitment:</strong><br>
                 1/2 Day | Full Day
               </p>
-              <a href="#">Learn more</a>
+              <a href="/pages/get-started/professional-development">Learn more</a>
             </div>
           </div>
         </div>
@@ -159,7 +158,7 @@
                 <strong>Time Commitment:</strong><br>
                 4 hours
               </p>
-              <a href="#">Learn more</a>
+              <a href="/pages/get-started/design-sprints">Learn more</a>
             </div>
           </div>
         </div>
@@ -175,7 +174,7 @@
                   <strong>Time Commitment:</strong><br>
                   8-10 weeks
               </p>
-              <a href="#">Learn more</a>
+              <a href="/pages/get-started/community-projects">Learn more</a>
             </div>
           </div>
         </div>
@@ -190,15 +189,60 @@
 	<div class="container">
     <div class="row">
         <div class="col-sm-12">
-        	<span><img src="/dfcusa-web/app/webroot/img/img_not_sure_art.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
+        	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h2>Wondering where to begin?</h2>
           <p>Contact us and we'll help you get started.</p>
           <a href="/contact">CONTACT US</a>
           <div class="not-sure-img">
-          	<img src="/dfcusa-web/app/webroot/img/img_superkids.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+          	<img src="/dfcusa-web/app/webroot/pics/15276226498_56d159e927_k.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
           </div>
         </div>
     </div>
+  </div>
+</section>
+
+<section class="reviews-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2>What do educators think?</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="review-block">
+          <p class="review-text">I love that my students learned to listen to each other better. They learned to share ideas, carefully critique each other and move forward. It was incredible and I hope they retain these communication and respect qualities for a lifetime.</p>
+          <span><img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
+          <h3>Charlene Hitchcock</h3>
+          <div class="review-foot">
+            <h5>2nd Gr. Teacher</h5>
+            <p>Washington Elementary School, Sandpoint, ID</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="review-block">
+          <p class="review-text">At the end of this project, my students were saying things like, "I feel like I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I did it and it feels so great!"... things I never imagined I would hear."</p>
+          <span><img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
+          <h3>Dana Kinel</h3>
+          <div class="review-foot">
+            <h5>Teacher</h5>
+            <p>Sunset Ridge Middle School, Hartford, CT</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="review-block">
+          <p class="review-text">They never wanted to miss a day from the project. They gave up their free time to do more than they had to. They were thinking critically and problem solving. They made a difference in our school community.</p>
+          <span><img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
+          <h3>Patti Andreoles</h3>
+          <div class="review-foot">
+            <h5>5th Grade Teacher</h5>
+            <p>P.S.135Q The Bellaire School, Queens, NY</p>
+          </div>
+        </div>
+      </div>
+    </div>  
   </div>
 </section>
 
@@ -246,8 +290,6 @@
   </div>
 </section>
 
-
-
 <section class="awards-area">
 	<div class="container">
     <div class="row">
@@ -272,54 +314,7 @@
   </div>
 </section>
 
-
-<section class="reviews-area">
-	<div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>What do educators think?</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="review-block">
-        	<p class="review-text">I love that my students learned to listen to each other better.  Before this process, they were too self absorbed, yet this allowed them to all have a common goal. They learned to share ideas, carefully critique each other and move forward.  It was incredible and I hope they retain these communication and respect qualities for a lifetime.</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Charlene Hitchcock</h3>
-          <div class="review-foot">
-          	<h5>2nd Gr. Teacher</h5>
-          	<p>Washington Elementary School, Sandpoint, ID</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="review-block">
-        	<p class="review-text">At the end of this project, my students were saying things like, "I feel like I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I did it and it feels so great!"... things I never imagined I would hear from sometimes apathetic students when we started this process last year.</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Dana Kinel</h3>
-          <div class="review-foot">
-          	<h5>Teacher</h5>
-          	<p>Sunset Ridge Middle School, Hartford, CT</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="review-block">
-        	<p class="review-text">They never wanted to miss a day from the project. They gave up their free time to do more than they had to. They were very dedicated, and eager to spread awareness. They were thinking critically and problem solving. They had so much fun doing it. They made a difference in our school community.</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Patti Andreoles</h3>
-          <div class="review-foot">
-          	<h5>5th Grade Teacher</h5>
-          	<p>P.S.135Q The Bellaire School, Queens, NY</p>
-          </div>
-        </div>
-      </div>
-    </div>  
-  </div>
-</section>
-
-
-<section class="latest-news">
+<section class="latest-news hide">
 	<div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -385,22 +380,4 @@
   </div>
 </section>
 
-<section class="newsletter">
-	<div class="container">    
-    <div class="newsletter-inner">
-    	<div class="row">
-        <div class="col-sm-4">
-            <div class="newsletter-globe"><img src="/dfcusa-web/app/webroot/img/ico_bigearth.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-        </div>
-        <div class="col-sm-8">
-          <h2>Change Starts with You</h2>
-          <p>Sign up to receive our <strong>newsletter</strong> and other free resources.</p>
-          <div class="newsletter-form">
-          	<input type="text" placeholder="Enter your e-mail address">
-              <button>Send</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<?php echo $this->element('newsletter'); ?>

@@ -54,7 +54,7 @@
           <p class="copyright-info">©2014-2018 Design for Change USA. All Rights Reserved.</p>
         </div>
         <div class="col-sm-6 col-lg-4">
-        	<p class="legal-links">
+        	<p class="legal-links hide">
             <a href="#">Terms & Conditions</a>
             <a href="#">Privacy Policy</a>
           </p>
