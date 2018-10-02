@@ -26,7 +26,7 @@
           <div class="footer-links">
             <h4>PROGRAMS</h4>
             <a href="/pages/program">Our Programs</a>
-            <a href="/pages/activities">Activities</a>
+            <a href="/dfcusa-pm/activities">Activities</a>
             <a href="https://www.dfcworld.com/SITE/Research" target="_new">Research</a>            
           </div>
         </div>
