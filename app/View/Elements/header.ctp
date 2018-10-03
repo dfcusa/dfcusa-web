@@ -34,7 +34,7 @@
           <div class="dropdown-content">
             <a href="/dfcusa-pm/projects">My Projects</a>
             <a href="/dfcusa-pm/activities">Activities</a>
-            <a href="/dfcusa-pm/invite">Invite Team Member</a>
+            <!-- <a href="/dfcusa-pm/invite">Invite Team Member</a> -->
             <a href="/dfcusa-pm/logout">Logout</a>
           </div>
         </div>
