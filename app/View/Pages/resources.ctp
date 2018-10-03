@@ -73,7 +73,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa/app/webroot/images/curriculum_cover_new.png" height="150">
+              <img src="/dfcusa-web/app/webroot/images/curriculum_cover_new.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Student Guide</h3>
@@ -86,7 +86,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa/app/webroot/images/curriculum_cover.png" height="150">
+              <img src="/dfcusa-web/app/webroot/images/curriculum_cover.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Global Story Book</h3>
@@ -99,7 +99,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa/app/webroot/images/teachersguide_small.png" height="150">
+              <img src="/dfcusa-web/app/webroot/images/teachersguide_small.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Teacher's Guide</h3>
