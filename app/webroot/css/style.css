@@ -1930,4 +1930,27 @@ footer {
   .donate-button:hover {
     color: #FFF; }
 
+.my-projects-nav .dropdown {
+  position: relative;
+  display: inline-block; }
+.my-projects-nav .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f7f7f7;
+  width: 210px;
+  border-radius: 15px;
+  top: 65px;
+  right: 0px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  z-index: 1; }
+.my-projects-nav .dropdown-content a {
+  color: #999;
+  font-weight: 600;
+  text-decoration: none;
+  display: block; }
+  .my-projects-nav .dropdown-content a:hover {
+    color: #666; }
+.my-projects-nav:hover .dropdown-content {
+  display: block; }
+
 /*# sourceMappingURL=style.css.map */

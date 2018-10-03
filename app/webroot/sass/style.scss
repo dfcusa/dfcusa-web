@@ -2199,3 +2199,35 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
     color: #FFF;
   }
 }
+
+.my-projects-nav {
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f7f7f7;
+    width: 210px;
+    border-radius: 15px;
+    top: 65px;
+    right: 0px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: #999;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    &:hover {
+      color: #666;
+    }
+  }
+  &:hover {
+    .dropdown-content {
+      display: block;
+    }
+  }
+}

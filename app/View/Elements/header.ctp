@@ -30,7 +30,13 @@
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
-          <a href="/dfcusa-pm/projects" class="active">My Projects</a>
+          <a href="/dfcusa-pm/projects" class="active web-portal">Web Portal</a>
+          <div class="dropdown-content">
+            <a href="/dfcusa-pm/projects">My Projects</a>
+            <a href="/dfcusa-pm/activities">Activities</a>
+            <a href="/dfcusa-pm/invite">Invite Team Member</a>
+            <a href="/dfcusa-pm/logout">Logout</a>
+          </div>
         </div>
         <div class="account-menu login-nav hide">
           <a href="/dfcusa-pm/login#register" class="active">Sign Up</a>
