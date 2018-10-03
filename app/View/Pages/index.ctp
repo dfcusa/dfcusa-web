@@ -110,7 +110,7 @@
       <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson Plan</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="http://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
+        <p class="inverse">DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="http://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
       </div>
     </div>
   </div>

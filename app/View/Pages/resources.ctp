@@ -21,7 +21,7 @@
                 <td width="25%"><b><a href="#store">Texts:</a></b></td><td>Checkout the DFC Store to purchase the offline, print version of the curriculum, including a Teacher's Guide.</td>
               </tr>
               <tr>
-                <td width="25%"><b><a href="#toolkits">Toolkits:</a></b></td><td>If you're a university / college student looking to do work in your community with young people, start your own chapter.</td>
+                <td width="25%"><b><a href="#toolkits">Toolkits:</a></b></td><td>Download free toolkits that provide guidance and support resources for getting started with Design for Change.</td>
               </tr>
               <tr>
                 <td width="25%"><b><a href="/pages/get-started/professional-development">Partnership:</a></b></td><td>We can help you every step of the way - check out our professional development workshops to bring DFC to your organization.</td>
