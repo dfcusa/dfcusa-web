@@ -19,7 +19,7 @@
 
         <p></p><p></p>
         <h4>A framework for addressing the UN Global Goals</h4>
-        <p>DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson Plan</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each stage of the 4 step DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked to address the UN Global Goals, designing new and innovative solutions for the world's most pressing challenges.</p>
+        <p>DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each stage of the 4 step DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked to address the UN Global Goals, designing new and innovative solutions for the world's most pressing challenges.</p>
         <div class="content-image">
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>
@@ -141,8 +141,8 @@
                 <div class="member-det">
                   <div class="member-name">Marilyn Price-Mitchell PhD</div>
                   <span>
-                    Psychologist, Researcher, Author, Speaker<br>
-                    <a href="https://www.linkedin.com/in/kathy-saulitis-2408314/" target="_new">Self-Employed Psychologist/Researcher<br> (Seattle, WA)</a>
+                    Psychologist, Researcher, Author<br>
+                    <a href="https://www.linkedin.com/in/mpricemitchell/" target="_new">Fellow, Institute for Social Innovation, Fielding Graduate University<br> (Seattle, WA)</a>
                   </span>
                 </div>
               </div>
