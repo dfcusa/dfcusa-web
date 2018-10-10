@@ -503,13 +503,15 @@ header {
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.16);
   color: #666;
   margin-bottom: 95px; }
+  .generic-block.no-bottom {
+    margin-bottom: 10px; }
   .generic-block .generic-inner {
     text-align: left; }
     .generic-block .generic-inner .list {
       list-style-type: disc;
       display: inline-block;
       padding-bottom: 0px; }
-      .generic-block .generic-inner .list li, .generic-block .generic-inner .list ol {
+      .generic-block .generic-inner .list ol {
         float: left;
         width: 100%;
         font-size: 21px;
@@ -517,6 +519,15 @@ header {
         color: #575757;
         line-height: 30px;
         margin-left: -10px;
+        margin-bottom: 25px; }
+      .generic-block .generic-inner .list li {
+        float: left;
+        width: 100%;
+        font-size: 21px;
+        font-weight: 400;
+        color: #575757;
+        line-height: 30px;
+        margin-left: 25px;
         margin-bottom: 25px; }
 
 .workshop-block {
@@ -1952,5 +1963,8 @@ footer {
     color: #666; }
 .my-projects-nav:hover .dropdown-content {
   display: block; }
+
+.normal-list {
+  font-size: 15pt; }
 
 /*# sourceMappingURL=style.css.map */

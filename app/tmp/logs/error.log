@@ -15024,3 +15024,16 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 2018-10-02 20:21:20 Error: [MissingControllerException] Controller class NewsletterController could not be found.
 #0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2018-10-10 03:46:19 Error: [MissingControllerException] Controller class ApiController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-10-10 14:51:04 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/program/judging.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('program/judging')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('program/judging', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('program/judging')
+#3 [internal function]: PagesController->display('program', 'judging')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
