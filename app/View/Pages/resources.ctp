@@ -49,7 +49,7 @@
               <li>Submit projects for the Design for Change Challenge.</li>
             </ul>
           </p>
-          <a href="http://www.designforchange.us/dfcusa-pm/login#register">CREATE YOUR ACCOUNT</a>
+          <a href="https://www.designforchange.us/dfcusa-pm/login#register">CREATE YOUR ACCOUNT</a>
           <p></p>
         </div>
     </div>
@@ -78,7 +78,7 @@
             <div class="pathway-det">
               <h3>Design for Change Student Guide</h3>
               <p>Design for Change offers a 30 hour middle school workbook jointly designed by the DFC Global Team, Stanford Design School and IDEO. We encourage each student to have a copy so they can follow along the Design for Change process.</p>
-              <a href="http://www.blurb.com/bookstore/invited/7065396/a03efacb2a7bf93d22db65df0f561b3e57de4646">Buy Now for $30</a>
+              <a href="https://www.blurb.com/bookstore/invited/7065396/a03efacb2a7bf93d22db65df0f561b3e57de4646">Buy Now for $30</a>
             </div>
           </div>
         </div>
@@ -104,7 +104,7 @@
             <div class="pathway-det">
               <h3>Design for Change Teacher's Guide</h3>
               <p>The teacher's guide is the ultimate companion to the Design for Change Curriculum. This guide walks you through how to effectively use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
-              <a href="http://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now for $36</a>
+              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now for $36</a>
             </div>
           </div>
         </div>

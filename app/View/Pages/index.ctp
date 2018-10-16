@@ -20,12 +20,12 @@
         <h3>Endorsed by</h3>
       <div class="endorsed-logos">
           <a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_hasbro.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ashokachange_v@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_dschool@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://www.cityyear.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_city_year.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ashokachange_v@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_dschool@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://www.cityyear.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_city_year.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
         </div>
       </div>
     </div>
@@ -42,7 +42,7 @@
         <div class="design-change-video">
           <!-- <img src="/dfcusa-web/app/webroot/img/IMG_9044.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"> -->
           <iframe width="995" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          <!-- <img width="955" height="560" src="http://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
+          <!-- <img width="955" height="560" src="https://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
           <a href="//www.youtube.com/watch?v=MkVYu-ZvDR8" data-lity class="watch-video-btn youtube-link"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a> -->
         </div>
       </div>
@@ -110,7 +110,7 @@
       <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="http://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
+        <p class="inverse">DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="https://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
       </div>
     </div>
   </div>
@@ -298,10 +298,10 @@
         <h2>Awards & Recognition</h2>
         <div class="awards-logos">
       	  <a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="http://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
         </div>
         <div class="awards-logos">
         	<a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>

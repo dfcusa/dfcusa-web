@@ -21,7 +21,7 @@
         <h3 class="extra-margin">The Story of the 2018 DFC USA Ambassador Team</h3>
         <h4>“SUDS4SOCIETY” By The BellaireSchool (P.S. 135Q), Queens, New York, NY</h4>
         <div class="content-video">
-        	<img src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
+        	<img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
           <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
         </div>
         <p>During the month of October 2017, there were many students going home with flu. Students researched the causes of the disease and ways to prevent it from spreading.</p>        
@@ -87,7 +87,7 @@
     <div class="row">
       <div class="col-sm-4">
 				<div class="story-block">
-        	<div class="story-media"><img src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="L_q-K3mLhPQ"></div>
+        	<div class="story-media"><img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="L_q-K3mLhPQ"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2018 Ambassador Team</h4>
@@ -101,7 +101,7 @@
 
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="http://img.youtube.com/vi/IUPiuurowds/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="IUPiuurowds"></div>
+          <div class="story-media"><img src="https://img.youtube.com/vi/IUPiuurowds/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="IUPiuurowds"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=IUPiuurowds"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2017 Ambassador Team</h4>
@@ -115,7 +115,7 @@
 
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="http://img.youtube.com/vi/70YnAcqvq3E/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="70YnAcqvq3E"></div>
+          <div class="story-media"><img src="https://img.youtube.com/vi/70YnAcqvq3E/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="70YnAcqvq3E"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=70YnAcqvq3E"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2016 Ambassador Team</h4>
@@ -130,7 +130,7 @@
     <div class="row">
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="http://img.youtube.com/vi/QbrHVZ7yJ4w/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="QbrHVZ7yJ4w"></div>
+          <div class="story-media"><img src="https://img.youtube.com/vi/QbrHVZ7yJ4w/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="QbrHVZ7yJ4w"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=QbrHVZ7yJ4w"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2015 Ambassador Team</h4>
@@ -144,7 +144,7 @@
 
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="http://img.youtube.com/vi/jyEuqLSVMH0/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="jyEuqLSVMH0"></div>
+          <div class="story-media"><img src="https://img.youtube.com/vi/jyEuqLSVMH0/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="jyEuqLSVMH0"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=jyEuqLSVMH0"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2014 Ambassador Team</h4>
@@ -158,7 +158,7 @@
 
       <div class="col-sm-4">
         <div class="story-block">
-          <div class="story-media"><img src="http://img.youtube.com/vi/m4v4TTXwmTA/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="m4v4TTXwmTA"></div>
+          <div class="story-media"><img src="https://img.youtube.com/vi/m4v4TTXwmTA/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="m4v4TTXwmTA"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=m4v4TTXwmTA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
               <h4>2016 Ambassador Team</h4>

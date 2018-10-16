@@ -32,7 +32,7 @@
         <h3 class="extra-margin">The Story of the 2018 DFC USA Ambassador Team</h3>
         <h4>“SUDS4SOCIETY” By The BellaireSchool (P.S. 135Q), Queens, New York, NY</h4>
         <div class="content-video">
-          <img style="width: 800px" src="http://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
+          <img style="width: 800px" src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
           <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
         </div>
 
@@ -45,7 +45,7 @@
         </p>
         
         <div class="video-box">
-          <img width="500" height="385" src="http://img.youtube.com/vi/fFlwRXpzaGA/hqdefault.jpg"/>
+          <img width="500" height="385" src="https://img.youtube.com/vi/fFlwRXpzaGA/hqdefault.jpg"/>
           <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=fFlwRXpzaGA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
         </div>
       </div>

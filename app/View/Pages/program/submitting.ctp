@@ -87,12 +87,12 @@
     <div class="get-started-inner">
       <div class="row">
         <div class="video-box">
-          <img width="525" height="310" src="http://img.youtube.com/vi/XZaCEkTHhDA/hqdefault.jpg"/>
+          <img width="525" height="310" src="https://img.youtube.com/vi/XZaCEkTHhDA/hqdefault.jpg"/>
           <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=XZaCEkTHhDA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <br/>The Design for Change trip to Madrid, Spain in 2017.
         </div>
         <div class="video-box">
-          <img width="525" height="310" src="http://img.youtube.com/vi/shfF0BrXq4E/hqdefault.jpg"/>
+          <img width="525" height="310" src="https://img.youtube.com/vi/shfF0BrXq4E/hqdefault.jpg"/>
           <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=shfF0BrXq4E"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <br/>The Design for Change trip to Ahmedabad, India in 2013.
         </div>

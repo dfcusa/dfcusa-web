@@ -10,7 +10,7 @@
   	<div class="row">
     	<div class="col-sm-12">
         <h2>A Global Organization With Local Impact</h2>
-        <p>Design for Change USA is the national chapter of <a href="http://www.dfcworld.com" target="_new">Design for Change World</a>, a global movement of young people creating positive impact in their community. We use a simple design thinking framework (Feel, Imagine, Do, Share) to empower students to design and implement social change projects in their community, fostering an I CAN mindset.<br/><br/>When students participate in DFC, they join a coalition of young people around the world saying, I CAN!</p>
+        <p>Design for Change USA is the national chapter of <a href="https://www.dfcworld.com" target="_new">Design for Change World</a>, a global movement of young people creating positive impact in their community. We use a simple design thinking framework (Feel, Imagine, Do, Share) to empower students to design and implement social change projects in their community, fostering an I CAN mindset.<br/><br/>When students participate in DFC, they join a coalition of young people around the world saying, I CAN!</p>
 
         <p></p>
         <p class="big">Children are not helpless, change is possible and they can drive it.</p>
@@ -19,7 +19,7 @@
 
         <p></p><p></p>
         <h4>A framework for addressing the UN Global Goals</h4>
-        <p>DFC has partnered with the <a href="http://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each stage of the 4 step DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked to address the UN Global Goals, designing new and innovative solutions for the world's most pressing challenges.</p>
+        <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each stage of the 4 step DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked to address the UN Global Goals, designing new and innovative solutions for the world's most pressing challenges.</p>
         <div class="content-image">
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>

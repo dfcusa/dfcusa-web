@@ -19,7 +19,7 @@
           <div class="footer-links">
             <h4>STORIES</h4>
             <a href="/pages/stories">Stories of Change</a>
-            <a href="https://www.dfcworld.com/VIDEO/ViewAllVideo" target="_new">DFC Global Stories</a>
+            <a href="http://www.dfcworld.com/VIDEO/ViewAllVideo" target="_new">DFC Global Stories</a>
           </div>
         </div>
         <div class="col-md-2 col-lg-2">
@@ -27,7 +27,7 @@
             <h4>PROGRAMS</h4>
             <a href="/pages/program">Our Programs</a>
             <a href="/dfcusa-pm/activities">Activities</a>
-            <a href="https://www.dfcworld.com/SITE/Research" target="_new">Research</a>            
+            <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>            
           </div>
         </div>
         <div class="col-md-3 col-lg-2">
@@ -62,8 +62,8 @@
         <div class="col-sm-3 col-lg-3">
           <p class="footer-social">
             <a href="https://www.youtube.com/channel/UCA18h_Zj-pCR_hpwVFAULgQ" target="_new"><i class="fab fa-youtube"></i></a>
-            <a href="http://www.twitter.com/dfcusa" target="_new"><i class="fab fa-twitter"></i></a>
-            <a href="http://www.facebook.com/dfcusa" target="_new"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.twitter.com/dfcusa" target="_new"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.facebook.com/dfcusa" target="_new"><i class="fab fa-facebook-f"></i></a>
           </p>
         </div>
       </div>
