@@ -246,7 +246,7 @@
     font-size: 16px;
     margin: 0;
     padding: 5px 0;
-    text-align: right; }
+    text-align: center; }
   .navbar .navbar-toggler {
     font-size: 25px;
     padding: 0px;
@@ -256,7 +256,9 @@
     border-bottom: 3px solid #fff; }
 
   .account-menu {
-    margin: 20px 0 0 0; }
+    margin: 20px 0 0 0;
+  padding-left: 25%;
+}
     .account-menu a {
       font-size: 16px; }
       .account-menu a.active {
@@ -282,9 +284,21 @@
     font-size: 20px;
     padding: 10px 40px; }
 
-  .endorsed-logos a {
-    width: 11.5%;
-    padding: 0 10px; }
+/**************** Faran Changes for Tablet *****************/
+    .endorsed-logos a {
+      width: 24.5%;
+      padding: 0 10px;
+    }
+    .design-change-video iframe{
+      height: 495px;
+      width: 100%;
+    }
+    .world-map img {
+        width: 100%;
+    }
+    footer {
+      padding: 5px 0 !important;
+    }
 
   .design-change h2 {
     font-size: 25px; }
@@ -416,7 +430,7 @@
       padding: 7px 30px; }
 
   .footer-top {
-    margin: 0 0 60px 0; }
+    margin: 0 0 10px 0; }
 
   .footer-logo {
     float: left;
@@ -599,7 +613,7 @@
     font-size: 16px;
     margin: 0;
     padding: 5px 0;
-    text-align: right; }
+    text-align: center; }
   .navbar .navbar-toggler {
     font-size: 25px;
     padding: 0px;
@@ -609,7 +623,9 @@
     border-bottom: 3px solid #fff; }
 
   .account-menu {
-    margin: 20px 0 0 0; }
+    margin: 20px 0 0 0;
+  padding-left: 25%;
+ }
     .account-menu a {
       font-size: 16px; }
       .account-menu a.active {
@@ -818,7 +834,7 @@
       font-size: 14px; }
 
   .footer-top {
-    margin: 0 0 60px 0; }
+    margin: 0 0 10px 0; }
 
   .footer-logo {
     float: left;
@@ -1058,7 +1074,39 @@
 
   .about-us .half-page {
     float: left;
-    width: 50%; } }
+    width: 50%; }
+/*********Faran Responsive changes************/
+.design-change-video iframe{
+  height: 295px;
+  width: 100%;
+}
+.world-map img {
+    width: 100%;
+}
+footer {
+  padding: 5px 0 !important;
+}
+.get-started-inner .video-box{
+  width: 95%;
+}
+.video-box img {
+    width: 345px;
+    padding: 10px;
+}
+.page-content.about-us .col-sm-12 iframe{
+    padding-left: 80px;
+}
+.not-sure .highlight-image{
+  width: 100% !important;
+}
+.get-started-head .sub-graphic{
+  width: 248px !important;
+  margin-left:0px !important;
+  margin-bottom:0px !important;
+  margin-top: 0px !important;
+}
+
+}
 /*MEDIUM MOBILES*/
 /*SMALL MOBILES*/
 
