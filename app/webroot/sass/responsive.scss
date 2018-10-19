@@ -792,23 +792,30 @@
     margin: 0 0 20px 0;
   }
   .hero {
+    height: 360px;
     p {
       font-size: 15px;
       font-weight: 400;
       line-height: 24px;
       margin: 0 0 20px 0;
-      padding: 0 5%;
+      padding: 0 22%;
     }
     a {
       font-size: 17px;
       padding: 10px 40px;
     }
   }
+  .endorsed-logos {
+    margin-left: 0px;
+  }
   .endorsed-logos a {
-    width: 47%;
+    width: 22%;
     padding: 0 30px;
     height: 70px;
     border: none;
+    img {
+      width: 78px;
+    }
   }
   .design-change {
     padding: 40px 0;
@@ -1058,6 +1065,10 @@
       border-bottom: 4px solid #fff;
     }
   }
+  .inner-hero h4 {
+    font-size: 36px;
+    top: 25%;
+  }
   .page-content {
     margin: 40px 0;
     h2 {
@@ -1287,6 +1298,13 @@
     a {
       width: 100%;
       margin: 0 0 20px 0;
+    }
+  }
+
+  .about-us {
+    .half-page {
+      float: left;
+      width: 50%;
     }
   }
 }

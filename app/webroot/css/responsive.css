@@ -625,21 +625,28 @@
     padding: 0 5%;
     margin: 0 0 20px 0; }
 
-  .hero p {
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 24px;
-    margin: 0 0 20px 0;
-    padding: 0 5%; }
-  .hero a {
-    font-size: 17px;
-    padding: 10px 40px; }
+  .hero {
+    height: 360px; }
+    .hero p {
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 24px;
+      margin: 0 0 20px 0;
+      padding: 0 22%; }
+    .hero a {
+      font-size: 17px;
+      padding: 10px 40px; }
+
+  .endorsed-logos {
+    margin-left: 0px; }
 
   .endorsed-logos a {
-    width: 47%;
+    width: 22%;
     padding: 0 30px;
     height: 70px;
     border: none; }
+    .endorsed-logos a img {
+      width: 78px; }
 
   .design-change {
     padding: 40px 0; }
@@ -851,6 +858,10 @@
       padding: 0 0 5px 0;
       border-bottom: 4px solid #fff; }
 
+  .inner-hero h4 {
+    font-size: 36px;
+    top: 25%; }
+
   .page-content {
     margin: 40px 0; }
     .page-content h2 {
@@ -1043,7 +1054,11 @@
     padding: 50px 20px 0; }
     .login-social a {
       width: 100%;
-      margin: 0 0 20px 0; } }
+      margin: 0 0 20px 0; }
+
+  .about-us .half-page {
+    float: left;
+    width: 50%; } }
 /*MEDIUM MOBILES*/
 /*SMALL MOBILES*/
 

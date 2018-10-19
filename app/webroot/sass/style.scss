@@ -1972,8 +1972,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
 
 /*About Us*/
 
-.about-us h3 {
-  color: #ED1651;
+.about-us {
+  h3 {
+    color: #ED1651;
+  }
+  .half-page {
+    float: left;
+    width: 50%;
+  }
 }
 
 .team-area {

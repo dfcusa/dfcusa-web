@@ -1742,6 +1742,9 @@ footer {
 /*About Us*/
 .about-us h3 {
   color: #ED1651; }
+.about-us .half-page {
+  float: left;
+  width: 50%; }
 
 .team-area {
   float: left;

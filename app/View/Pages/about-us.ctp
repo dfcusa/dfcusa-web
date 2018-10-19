@@ -26,7 +26,7 @@
 
         <p></p><p></p>
         <h4>The story of our founder Kiran Bir Sethi</h4>
-        <p style="float: left; width: 50%">
+        <p class="half-page">
           The Design for Change global movement was founded in 2009, by world renowned educator and design thinker, Kiran Bir Sethi. She started the movement with a conviction that if young were made to feel empowered, they could design a better world. Kiran partnered with leading experts from Stanford Design School and IDEO to launch the very first design-thinking guide for young people across India. This guide served to introduce young people to the FIDS Framework. Today, the DFC movement can be felt worldwide, spanning 65+ countries and over 2 million children.
         </p>
         <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="500" height="385" style="float: right; margin: 10px;"></iframe>
