@@ -624,7 +624,8 @@
 
   .account-menu {
     margin: 20px 0 0 0;
-  padding-left: 25%;
+  padding-left: 10%;
+  float: left !important;
  }
     .account-menu a {
       font-size: 16px; }
@@ -728,7 +729,7 @@
       padding: 0; }
 
   .pathway-block {
-    margin: 0 0 40px 0 !important; }
+    margin: 0 0 20px 0 !important; }
 
   .pathway-det h3 {
     font-size: 22px; }
@@ -887,6 +888,7 @@
     .page-content h2 {
       font-size: 22px;
       font-weight: 700;
+      text-align: center;
       margin: 0 0 20px 0; }
     .page-content h3 {
       font-size: 19px;
@@ -896,7 +898,9 @@
       margin: 0 0 20px 0; }
     .page-content p {
       font-size: 14px;
-      line-height: 30px; }
+      line-height: 30px;
+      margin: 0 0 8px 0;
+     }
     .page-content hr {
       margin: 20px 0 40px; }
 
@@ -943,7 +947,9 @@
 
   /*Get Started*/
   .page-content .pathway-det p {
-    min-height: 160px; }
+    min-height: 160px;
+    font-size: 20px;
+   }
 
   .educator-block {
     padding: 20px 40px; }
@@ -955,9 +961,9 @@
       width: 100%;
       text-align: center; }
       .educator-block .pathway-det h3 {
-        font-size: 20px; }
+        font-size: 21px; }
       .educator-block .pathway-det p {
-        font-size: 14px;
+        font-size: 20px;
         line-height: 20px;
         min-height: inherit; }
       .educator-block .pathway-det a {
@@ -990,7 +996,9 @@
 
   /*Stories*/
   .interested-dfc {
-    padding: 50px 0; }
+    padding: 50px 0;
+  margin: -7px 0 0 0 !important;
+}
     .interested-dfc ul {
       padding: 0 5%;
       margin: -90px 0 0 0; }
@@ -1076,10 +1084,18 @@
       width: 100%;
       margin: 0 0 20px 0; }
 
-  .about-us .half-page {
-    float: left;
-    width: 50%; }
+
 /*********Faran Responsive changes************/
+.about-us .half-page {
+  float: left;
+  width: 90%; }
+
+.about-us .page-content p{
+    margin: 0 0 5px 0;
+}
+.about-us .content-video, .about-us .content-image {
+  margin: 5px 0 !important; }
+
 .design-change-video iframe{
   height: 295px;
   width: 100%;
@@ -1087,18 +1103,26 @@
 .world-map img {
     width: 100%;
 }
+.team-area {
+    margin: 5px 0 0;
+}
+
 footer {
   padding: 5px 0 !important;
 }
 .get-started-inner .video-box{
   width: 95%;
+  margin-right: 10px;
 }
 .video-box img {
     width: 345px;
     padding: 10px;
 }
+.page-content.about-us{
+  margin: 20px 0;
+}
 .page-content.about-us .col-sm-12 iframe{
-    padding-left: 80px;
+    width: 100%;
 }
 .not-sure .highlight-image{
   width: 100% !important;
@@ -1125,6 +1149,19 @@ footer {
     font-size: 14px;
     padding: 15px 0 0;
 }
+.page-content .table td {
+    font-size: 15px;
+}
+.page-content .table {
+    padding-bottom: 20px;
+}
+.generic-block{
+  margin-bottom: 10px;
+}
+.generic-block .generic-inner .list ol {
+    font-size: 16px;
+}
+
 
 }
 /*MEDIUM MOBILES*/
