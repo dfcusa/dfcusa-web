@@ -961,10 +961,12 @@
       width: 100%;
       text-align: center; }
       .educator-block .pathway-det h3 {
-        font-size: 21px; }
+        font-size: 21px;
+      line-height: 30px;
+     }
       .educator-block .pathway-det p {
         font-size: 20px;
-        line-height: 20px;
+        line-height: 30px;
         min-height: inherit; }
       .educator-block .pathway-det a {
         font-size: 14px;
@@ -1112,7 +1114,7 @@ footer {
 }
 .get-started-inner .video-box{
   width: 95%;
-  margin-right: 10px;
+  margin-right: 10px !important;
 }
 .video-box img {
     width: 345px;
@@ -1161,7 +1163,37 @@ footer {
 .generic-block .generic-inner .list ol {
     font-size: 16px;
 }
-
+.inner-hero.inside {
+    height: 255px !important;
+}
+.page-content p.big {
+    font-size: 20px;
+  }
+.apply-icons p{
+  font-size: 19px !important;
+}
+.newsletter-globe{
+  padding: 3px 100px !important;
+}
+.newsletter-globe img{
+  width: 115px !important;
+}
+.page-content h3.big{
+  font-size: 29px;
+}
+.about-us .team-area .col-sm-4 {
+    float: left;
+    width: 50%;
+}
+.about-us .team-area .member-img img {
+    height: 90px !important;
+}
+.get-started .get-started-Inner .pathway-det p {
+    font-size: 15px;
+}
+.get-started .get-started-Inner .pathway-det h3 {
+    font-size: 17px;
+}
 
 }
 /*MEDIUM MOBILES*/
