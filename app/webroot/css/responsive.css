@@ -1150,7 +1150,7 @@ footer {
     padding: 15px 0 0;
 }
 .page-content .table td {
-    font-size: 15px;
+    font-size: 15px !important;
 }
 .page-content .table {
     padding-bottom: 20px;
