@@ -27,7 +27,7 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/style.css" rel="stylesheet">
-<link href="/dfcusa-web/app/webroot/css/responsive.css" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/css/responsive.css?version=1234" rel="stylesheet">
 </head>
 
 <body>
