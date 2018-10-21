@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png');">
+<section class="inner-hero inside stories" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png');">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
   	<h4><span>Seeing is believing,<br/>hearing their story is inspiring.</span></h4>

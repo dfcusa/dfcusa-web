@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
+<section class="inner-hero inside program" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
   	<h4><span>Young people</br>changing the world.</span></h4>

@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
+<section class="inner-hero inside design-sprints" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
     <h1><span>Design Sprints</span></h1>

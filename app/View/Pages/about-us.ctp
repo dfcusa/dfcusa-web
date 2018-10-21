@@ -1,4 +1,4 @@
-<section class="inner-hero inside" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
+<section class="inner-hero inside about-us" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
     <h4><span>Empowering young people to become<br/>agents of change in their own community.</span></h4>

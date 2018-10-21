@@ -1,4 +1,4 @@
-<section class="hero">
+<section class="hero index">
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
