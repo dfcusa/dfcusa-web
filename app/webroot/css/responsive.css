@@ -897,8 +897,8 @@
       font-size: 16px;
       margin: 0 0 20px 0; }
     .page-content p {
-      font-size: 14px;
-      line-height: 30px;
+      font-size: 16px;
+      line-height: 26px;
       margin: 0 0 8px 0;
      }
     .page-content hr {
@@ -1168,7 +1168,11 @@ footer {
 }
 .page-content p.big {
     font-size: 20px;
-  }
+}
+.page-content p {
+    font-size: 16px;
+    line-height: 26px;
+}
 .apply-icons p{
   font-size: 19px !important;
 }
@@ -1193,6 +1197,13 @@ footer {
 }
 .get-started .get-started-Inner .pathway-det h3 {
     font-size: 17px;
+}
+.inner-hero.inside.about-us {
+    height: 422px !important;
+}
+.not-sure .highlights li {
+    font-size: 19px;
+    margin-bottom: 25px;
 }
 
 }
