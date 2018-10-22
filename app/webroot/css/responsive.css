@@ -724,17 +724,17 @@
       margin: 0 0 20px 0;
       padding: 0 5%; }
     .get-started-head p {
-      font-size: 14px;
-      line-height: 20px;
+      font-size: 20px;
+      line-height: 31px;
       padding: 0; }
 
   .pathway-block {
-    margin: 0 0 20px 0 !important; }
+    margin: 0 0 30px 0 !important; }
 
   .pathway-det h3 {
     font-size: 22px; }
   .pathway-det p {
-    font-size: 21px;
+    font-size: 20px;
     padding: 15px 0 0; }
 
   .not-sure {
@@ -884,12 +884,20 @@
     top: 25%; }
 
   .page-content {
-    margin: 40px 0; }
-    .page-content h2 {
+    margin: 20px 0; }
+    .page-content h2:first-child {
       font-size: 22px;
       font-weight: 700;
       text-align: center;
       margin: 0 0 20px 0; }
+
+      .page-content h2 {
+        font-size: 22px;
+        font-weight: 700;
+        text-align: center;
+        margin: 20px 0 20px 0; }
+
+
     .page-content h3 {
       font-size: 19px;
       margin: 0 0 20px 0; }
@@ -986,7 +994,7 @@
       .design-block .pathway-det h3 {
         font-size: 20px; }
       .design-block .pathway-det p {
-        font-size: 14px;
+        font-size: 20px;
         line-height: 20px;
         min-height: inherit; }
       .design-block .pathway-det a {
@@ -1145,14 +1153,15 @@ footer {
     text-align: center;
 }
 .home-block .block-det h3 {
-    font-size: 18px;
+    font-size: 20px;
 }
 .home-block .block-det p {
     font-size: 14px;
     padding: 15px 0 0;
 }
 .page-content .table td {
-    font-size: 15px !important;
+    font-size: 20px !important;
+    line-height: 25px;
 }
 .page-content .table {
     padding-bottom: 20px;
@@ -1166,11 +1175,15 @@ footer {
 .inner-hero.inside {
     height: 255px !important;
 }
+.inner-hero.inside.program {
+    height: 245px !important;
+}
 .page-content p.big {
+    padding-top: 15px;
     font-size: 20px;
 }
 .page-content p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 26px;
 }
 .apply-icons p{
@@ -1193,13 +1206,13 @@ footer {
     height: 90px !important;
 }
 .get-started .get-started-Inner .pathway-det p {
-    font-size: 15px;
+    font-size: 20px;
 }
 .get-started .get-started-Inner .pathway-det h3 {
     font-size: 17px;
 }
 .inner-hero.inside.about-us {
-    height: 422px !important;
+    height: 450px !important;
 }
 .not-sure .highlights li {
     font-size: 19px;
