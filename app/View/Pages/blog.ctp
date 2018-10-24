@@ -1,1 +1,1 @@
-<embed style="width: 100%; height: 6400px" src="https://design-for-change-usa.ghost.io/"></embed>
+<embed style="width: 100%; height: 800px" src="https://design-for-change-usa.ghost.io/" id="blog"></embed>
