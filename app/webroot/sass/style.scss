@@ -1340,6 +1340,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
   &.inside {
     height: 350px;
   }
+  &.just-title {
+    height: 200px;
+  }
   img {
     width: 100%;
   }

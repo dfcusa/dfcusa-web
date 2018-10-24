@@ -1212,6 +1212,8 @@ footer {
   height: 25px; }
 .inner-hero.inside {
   height: 350px; }
+.inner-hero.just-title {
+  height: 200px; }
 .inner-hero img {
   width: 100%; }
 .inner-hero h1 {
