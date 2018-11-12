@@ -161,7 +161,7 @@
           <div class="story-media"><img src="https://img.youtube.com/vi/m4v4TTXwmTA/hqdefault.jpg" alt="/dfcusa-web/app/webroot/img" class="img-fluid youtube-link" source="m4v4TTXwmTA"></div>
             <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=m4v4TTXwmTA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
             <div class="story-det">
-              <h4>2016 Ambassador Team</h4>
+              <h4>2013 Ambassador Team</h4>
               <a data-lity href="//www.youtube.com/watch?v=m4v4TTXwmTA">"Crazy Horse School"</a>
               <p>By The Crazy Horse School (TFA)</p>
               <span>Pine Ridge, SD</span>
