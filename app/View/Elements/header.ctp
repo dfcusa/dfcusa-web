@@ -25,7 +25,7 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/contact-us">Contact</a>
           </li>
-          <li class="nav-item hide <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/blog">Blog</a>
           </li>
         </ul>

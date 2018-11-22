@@ -25,7 +25,7 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="https://designforchange.us/pages/contact-us" target="_parent">Contact</a>
           </li>
-          <li class="nav-item hide <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="https://designforchange.us/blog" target="_parent">Blog</a>
           </li>
         </ul>
@@ -54,6 +54,6 @@
 <section class="inner-hero just-title" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h4><span>Our Blog</span></h4>
+    <h4><span><?php echo $_GET['title'] ?></span></h4>
   </div>
 </section>

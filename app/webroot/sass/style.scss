@@ -41,6 +41,10 @@ select { -webkit-appearance: none; border-radius: 0;}
 section { float:left; width:100%;}
 
 
+.container {
+  max-width: 1170px !important;
+}
+
 header {
   float: left;
   width: 100%;
