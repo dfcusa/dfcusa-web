@@ -26,7 +26,7 @@
             <a class="nav-link" href="/pages/contact-us">Contact</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/blog">Blog</a>
+            <a class="nav-link" href="https://blog.designforchange.us">Blog</a>
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
