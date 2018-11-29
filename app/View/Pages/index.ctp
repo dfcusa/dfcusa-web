@@ -17,9 +17,9 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h3>Endorsed by</h3>
+        <h3>Key Supporters</h3>
       <div class="endorsed-logos">
-          <a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_hasbro.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_befearlessbekind.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
