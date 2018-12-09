@@ -55,7 +55,7 @@
               <div class="apply-block feel-block">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
-                <p>They engage in collaborative brainstorming to identify possible solutions.</p>
+                <p>They gather information about a community challenge through research and interviews.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
