@@ -176,7 +176,7 @@
 
         <hr>
 
-        <h4>Our Education Advisor Board</h4>
+        <h4>Our Education Advisory Board</h4>
         <div class="team-area">
           <div class="row">
             <div class="col-sm-4">
