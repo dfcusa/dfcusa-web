@@ -2,7 +2,7 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h1>Change Starts With You</h1>
+      	<h1>Turn Empathy Into Action</h1>
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
