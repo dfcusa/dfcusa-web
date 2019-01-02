@@ -240,11 +240,11 @@ header {
   color: #fff;
   background: #1a81c4;
   /* Old browsers */
-  background: -moz-linear-gradient(top, #1a81c4 0%, #0bcdf8 53%, #ffffff 100%);
+  background: -moz-linear-gradient(top, #1a81c4 0%, #0bcdf8 3%, #ffffff 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #1a81c4 0%, #0bcdf8 53%, #ffffff 100%);
+  background: -webkit-linear-gradient(top, #1a81c4 0%, #0bcdf8 3%, #ffffff 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #1a81c4 0%, #0bcdf8 53%, #ffffff 100%);
+  background: linear-gradient(to bottom, #1a81c4 0%, #0bcdf8 3%, #ffffff 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
   /* IE6-9 */ }
@@ -536,11 +536,12 @@ header {
 .workshop-block {
   background: #e23ea9;
   border-color: #B20977;
-  margin: 50px 0 0 0; }
+  margin: 0px 0 0 0; }
   .workshop-block h3 {
     border-color: #B20977; }
   .workshop-block a:hover {
-    color: #e23ea9; }
+    color: #e23ea9;
+    margin-top: 20px; }
 
 .store-block {
   background: #f1f1f1;
@@ -563,7 +564,7 @@ header {
   background: #ff5e17;
   border-color: #EF3934; }
   .sprint-block .pathway-img {
-    margin: 40px 0 20px 0; }
+    margin: 20px 0 20px 0; }
   .sprint-block h3 {
     border-color: #EF3934; }
   .sprint-block a:hover {
@@ -572,7 +573,7 @@ header {
 .projects-block {
   background: #02C2ED;
   border-color: #04A8CC;
-  margin: 50px 0 0 0; }
+  margin: 0px 0 0 0; }
   .projects-block h3 {
     border-color: #04A8CC; }
   .projects-block a:hover {

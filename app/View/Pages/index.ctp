@@ -6,7 +6,7 @@
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
-        <p>Join a global movement of young people and educators using<br/>design thinking for social impact.</p>
+        <p>Join educators who are engaging over <i>1 million young people worldwide</i> make an impact in their communities.</p>
         </div>
       </div>
     </div>
@@ -38,20 +38,51 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>What is Design for Change?</h2>
-        <p>Design for Change is a global movement of educators and young people using a simple design thinking framework to create social impact.</p>
-        <div class="design-change-video">
-          <!-- <img src="/dfcusa-web/app/webroot/img/IMG_9044.jpg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"> -->
-          <iframe width="995" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          <!-- <img width="955" height="560" src="https://img.youtube.com/vi/MkVYu-ZvDR8/hqdefault.jpg"/>
-          <a href="//www.youtube.com/watch?v=MkVYu-ZvDR8" data-lity class="watch-video-btn youtube-link"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a> -->
+        <p>Design for Change is a simple program that uses design thinking to engage students to create social change in their community.</p>
+      </div>
+
+      <div class="apply-icons">
+        <div class="row">
+          <div class="col-md-3 col-lg-3">
+            <div class="apply-block feel-block">
+              <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+              <h4>Feel</h4>
+              <h5>Empathize</h5>
+            </div>
+          </div>
+          <div class="col-md-3 col-lg-3">
+            <div class="apply-block imagine-block">
+              <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+              <h4>IMAGINE</h4>
+              <h5>Brainstorm</h5>
+            </div>
+          </div>
+          <div class="col-md-3 col-lg-3">
+            <div class="apply-block do-block">
+              <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+              <h4>DO</h4>
+              <h5>Prototype</h5>
+            </div>
+          </div>
+          <div class="col-md-3 col-lg-3">
+            <div class="apply-block share-block">
+              <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+              <h4>SHARE</h4>
+              <h5>Inspire</h5>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
+<!--         <div class="design-change-video">
+          <iframe width="995" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+ -->
 
-<section class="apply-dfc">
+<!-- <section class="apply-dfc">
 	<div class="container">
   	<div class="apply-dfc-head">
       <div class="row">
@@ -60,57 +91,16 @@
         </div>
       </div>
     </div>
-      
-    <div class="apply-icons">
-      <div class="row">
-        <div class="col-md-3 col-lg-3">
-          <div class="apply-block feel-block">
-            <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            <h4>Feel</h4>
-            <h5>Empathize</h5>
-          </div>
-        </div>
-        <div class="col-md-3 col-lg-3">
-          <div class="apply-block imagine-block">
-            <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            <h4>IMAGINE</h4>
-            <h5>Brainstorm</h5>
-          </div>
-        </div>
-        <div class="col-md-3 col-lg-3">
-          <div class="apply-block do-block">
-            <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            <h4>DO</h4>
-            <h5>Prototype</h5>
-          </div>
-        </div>
-        <div class="col-md-3 col-lg-3">
-          <div class="apply-block share-block">
-            <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            <h4>SHARE</h4>
-            <h5>Inspire</h5>
-          </div>
-        </div>
-      </div>
-    </div>
-      
-    <!-- <div class="design-change-learn">
-        <div class="row">
-            <div class="col-sm-12">
-                <p>Click on the icons to learn more about each step of the DFC method or <a href="#">CLICK HERE</a> to Get Started today.</p>
-            </div>
-        </div>
-    </div>     -->
   </div>
 </section>
-
+ -->
 <section class="apply-dfc">
   <div class="container">
     <div class="pathway-block home-block inverse">
       <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. To learn more, click <a href="https://worldslargestlesson.globalgoals.org/take-action/" target="_new">here.</a></p>
+        <p class="inverse">Young people use the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to guide their projects and focus on high impact issues in their community.</p>
       </div>
     </div>
   </div>
@@ -122,7 +112,7 @@
     <div class="get-started-head">
       <div class="row">
         <div class="col-sm-12">
-          <h2>Get Started</h2>
+          <h2>What We Do</h2>
           <p>Select one of the pathways below and join the DFC global movement</p>
         </div>
       </div>
@@ -136,29 +126,30 @@
               <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
             </div>
             <div class="pathway-det">
-            	<h3>PROFESSIONAL DEVELOPMENT</h3>
-              <p>Organize an experiential workshop for educators in your community to introduce the Design for Change methodology.</p>
+            	<h3>WORKSHOPS</h3>
+              <p>We offer experiential workshops for educators to introduce design thinking and our methodology.</p>
               <p>
                 <strong>Time Commitment:</strong><br>
-                1/2 Day | Full Day
+                2 hours | 1/2 Day | Full Day
               </p>
+              <br/>
               <a href="/pages/get-started/professional-development">Learn more</a>
             </div>
           </div>
         </div>
         <div class="col-lg-4">
         	<div class="pathway-block sprint-block">
-          	<h4>RECOMMENDED</h4>
           	<div class="pathway-img">
               <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
             </div>
             <div class="pathway-det">
-              <h3>DESIGN<br/>SPRINTS</h3>
-              <p>Implement quick, challenge-based activities that offer a fun, fresh and exciting way to introduce the Design for Change methodology.</p>
+              <h3>DESIGN SPRINTS</h3>
+              <p>Quick in-classroom activities that build empathy of a specific social issue and introduce design thinking concepts.</p>
               <p>
                 <strong>Time Commitment:</strong><br>
                 4 hours
               </p>
+              <br/>
               <a href="/pages/get-started/design-sprints">Learn more</a>
             </div>
           </div>
@@ -170,11 +161,12 @@
             </div>
             <div class="pathway-det">
               <h3>COMMUNITY PROJECTS</h3>
-              <p>Using expert-designed lesson plans and activities, build a customized learning experience for your students.</p>
+              <p>Expert-designed lesson plans and activities to build a custom and immersive design thinking experience.</p>
               <p>
                   <strong>Time Commitment:</strong><br>
                   8-10 weeks
               </p>
+              <br/>
               <a href="/pages/get-started/community-projects">Learn more</a>
             </div>
           </div>
