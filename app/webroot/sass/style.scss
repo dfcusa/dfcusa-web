@@ -42,7 +42,7 @@ section { float:left; width:100%;}
 
 
 .container {
-  max-width: 1200px !important;
+  max-width: 1250px !important;
 }
 
 header {
@@ -58,7 +58,7 @@ header {
   }
   .nav-item {
     .nav-link {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 700;
       color: #575757;
       text-transform: uppercase;
@@ -213,9 +213,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
 
 .design-change { padding:80px 0; text-align:center; color:#fff;
 background: #1a81c4; /* Old browsers */
-background: -moz-linear-gradient(top, #1a81c4 0%, #0bcdf8 3%, #ffffff 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #1a81c4 0%,#0bcdf8 3%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #1a81c4 0%,#0bcdf8 3%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: -moz-linear-gradient(top, #1a81c4 0%, #22bfe2 44%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #1a81c4 0%,#22bfe2 44%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #1a81c4 0%, #22bfe2 44%, #ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */	
 }
 .design-change {
@@ -324,7 +324,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', end
     color: #333;
   }
   p {
-    font-size: 15px !important;
+    font-size: 18px !important;
     font-weight: 100;
     line-height: 25px !important;
   }
@@ -338,13 +338,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', end
 
 .imagine-block {
   h4, h5 {
-    color: #F8DC00;
+    color: #b7a40e;
   }
 }
 
 .do-block {
   h4, h5 {
-    color: #9ECD51;
+    color: #6ca213;
   }
 }
 
@@ -373,7 +373,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', end
 
 .get-started { padding:80px 0; text-align:center;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8ccc1e+0,c0e825+35,b3ef32+61,a1db42+100 */
-background: #8ccc1e; /* Old browsers */
+background: #679020; /* Old browsers */
 /*background: -moz-linear-gradient(top, #8ccc1e 0%, #c0e825 55%, #b3ef32 61%, #a1db42 100%);
 background: -webkit-linear-gradient(top, #8ccc1e 0%,#c0e825 75%,#b3ef32 61%,#a1db42 100%); 
 background: linear-gradient(to bottom, #8ccc1e 0%,#c0e825 75%,#b3ef32 61%,#a1db42 100%); */
@@ -381,7 +381,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
 .get-started-head {
   float: left;
   width: 100%;
-  margin: 0 0 60px 0;
+  margin: 0 0 20px 0;
   h2 {
     float: left;
     width: 100%;
@@ -395,7 +395,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     width: 100%;
     font-size: 21px;
     font-weight: 400;
-    line-height: 40px;
+    line-height: 35px;
     color: #fff;
     padding: 0 5%;
     &.left {
@@ -419,14 +419,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     position: relative;
     float: left; 
     color: #FFF;
-    &:first-child {
-      margin-right: 80px;
+    margin-right: 40px;
+    img {
+      padding-bottom: 10px;
     }
     .watch-video-btn {
       img {
         width: 100px;
         height: 100px;
-        margin-top: -20px;
+        margin-top: -30px;
       }
     }
   }
@@ -1343,7 +1344,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
     height: 25px;
   }
   &.inside {
-    height: 350px;
+    height: 270px;
   }
   &.just-title {
     height: 200px;
@@ -1429,7 +1430,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
     font-size: 21px;
     font-weight: 400;
     color: #575757;
-    line-height: 40px;
+    line-height: 30px;
     margin: 0 0 30px 0;
     &.big {
       font-size: 25px;
@@ -1562,12 +1563,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
     font-size: 21px;
     font-weight: 400;
     color: #fff;
-    margin: 0 0 30px 0;
+    margin: 0 0 50px 0;
     padding: 0 10%;
+    line-height: 30px;
   }
   a {
-    margin: auto;
-    display: table;
+    margin-left: 25px;
     font-size: 18px;
     font-weight: 700;
     padding: 12px 40px;
@@ -1654,14 +1655,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
     width: 100%;
     font-size: 14px;
     font-weight: 400;
-    color: #ccc;
+    color: #666;
   }
   span {
     float: left;
     width: 100%;
     font-size: 14px;
     font-weight: 400;
-    color: #0BCDF8;
+    color: #666;
   }
 }
 

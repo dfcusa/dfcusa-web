@@ -11,8 +11,9 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>Getting Started With Design for Change</h2>
-        <p>Students are often told they must wait until some unknown time to start making changes in the world. Yet with the right tools and resources, students can and are already leading lasting change in their communities. DFC fosters fosters student agency by recognizing the potential in each child, to be a designer of change. Find out how you can start your DFC journey today!</p>
-        <p></p><p></p>
+        <p>Students are often told they must wait until some unknown time to start making changes in the world. Yet with the right tools and resources, students can and are already leading lasting change in their communities. 
+        DFC fosters student agency by recognizing the potential in each child, to be a designer of change.</p>
+        <p>As an educator, here's how you get started:</p>
         <h3>STEP 1</h3>
         <h4>Download Our Free Educator’s Toolkit Poster</h4>
         <div class="pathway-block educator-block">
@@ -22,12 +23,12 @@
           <div class="pathway-det">
             <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
             <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework.</p>
-            <a href="/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf">DOWNLOAD</a>
+            <a href="/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf" target="_new">DOWNLOAD</a>
           </div>
         </div>
               
         <h3>STEP 2</h3>
-        <h4>Engage students using Design Sprints or Community Projects.</h4>
+        <h4>Engage your students using Design Sprints or Community Projects.</h4>
       </div>
     </div>
     <div class="row">
@@ -61,7 +62,7 @@
     <div class="row">
     	<div class="col-sm-12">
         <h3>STEP 3</h3>
-        <h4>Champion the Design for Change methodology in your community.</h4>
+        <h4>Champion the Design for Change methodology in your organization.</h4>
       </div>
     </div>
     <div class="row">
@@ -71,9 +72,9 @@
             <img src="/dfcusa-web/app/webroot/img/ico_c_workshops.png" alt="img" class="img-fluid">
           </div>
           <div class="pathway-det">
-            <h3>PROFESSIONAL DEVELOPMENT</h3>
-            <p>Organize an experiential workshop for educators in your community to introduce the Design for Change methodology.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>1/2 Day | Full Day</span></p>
+            <h3>WORKSHOPS</h3>
+            <p>Learn about design thinking principles and get trained on the Design for Change methdology
+            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>2 Hours | 1/2 Day | Full Day</span></p>
             <a href="/dfcusa-web/pages/get-started/professional-development">Learn more</a>
           </div>
         </div>
@@ -85,7 +86,7 @@
           </div>
           <div class="pathway-det">
             <h3>COACHING</h3>
-            <p>Schedule customized coaching sessions for guidance on your implementation of the Design for Change methodology.
+            <p>Get customized coaching sessions on adopting Design for Change across your organization.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>Flexible</span></p>
             <a href="/dfcusa-web/pages/get-started/coaching">Learn more</a>
           </div>

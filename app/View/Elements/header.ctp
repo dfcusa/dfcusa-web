@@ -7,20 +7,20 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/stories">Stories</a>
-          </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/program">Program</a>
+            <a class="nav-link" href="/pages/program">How It Works</a>
+          </li>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
+            <a class="nav-link" href="/pages/stories">Our Impact</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/get-started">Get Started</a>
           </li>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'resources') > -1) { ?>active<?php } ?> hide">
+            <a class="nav-link" href="/pages/resources">Resources</a>
+          </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/about-us">About Us</a>
-          </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'resources') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/resources">Resources</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/contact-us">Contact</a>

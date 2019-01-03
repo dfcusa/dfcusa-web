@@ -36,21 +36,21 @@
               <div class="apply-block imagine-block">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
-                <h5>Collaborative brainstorming</h5>
+                <h5>Collaborative brainstorming using quick activities</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
-                <h5>Rapid prototyping</h5>
+                <h5>Develop action plans and storyboards</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
-                <h5>Collective presentations</h5>
+                <h5>Collective presentations and critiquing</h5>
               </div>
             </div>
           </div>

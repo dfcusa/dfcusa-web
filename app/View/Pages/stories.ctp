@@ -10,7 +10,7 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h2>Stories of Change from DFC USA</h2>
+      	<h2>Stories of Change from Design for Change USA</h2>
         <p>What if you witnessed third graders shut down a drug house? What if we told you about fifth graders to creating a pipeline between farmers and those living in food deserts? What if you saw high schoolers increase the number of mental health professionals at their school? Would you believe these stories of change?</p>
         <p class="big">At DFC, we not only believe, we have seen what is possible when students are given the tools to drive social change in their community. </p>
         <div class="content-image">
@@ -67,8 +67,9 @@
             <li><img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
           </ul> -->
           <h3>Interested in starting Design for Change?</h3>
-          <p>If you are interested in bringing Design for Change to your school or organization, we invite you to become a DFC Champion in your area.</p>
+          <p>If you are interested in bringing Design for Change to your school or organization, contact us to get started or create an account now.</p>
           <a href="/pages/contact-us?ref=champion">CONTACT US</a>
+          <a href="/dfcusa-pm/login#register">SIGN-UP</a>
         </div>
       </div>
     </div>
@@ -80,9 +81,10 @@
 	<div class="container">    
   	<div class="row">
     	<div class="col-sm-12">
-        <h2>See more of our stories of change in the gallery below</h2>
+        <h2>More Stories of Change...</h2>
       </div>
     </div>
+    <br/>
         
     <div class="row">
       <div class="col-sm-4">

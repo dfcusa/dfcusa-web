@@ -6,7 +6,7 @@
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
-        <p>Join educators who are engaging over <i>1 million young people worldwide</i> make an impact in their communities.</p>
+        <p>Join educators who are engaging over <i>1 million young people worldwide</i><br/> to make an impact in their communities.</p>
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>What is Design for Change?</h2>
-        <p>Design for Change is a simple program that uses design thinking to engage students to create social change in their community.</p>
+        <p>Our program equips young people to transform empathy into social action through innovative collaborative experiences using a simple four step process:</p>
       </div>
 
       <div class="apply-icons">
