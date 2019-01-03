@@ -1,7 +1,7 @@
 <section class="inner-hero inside professional-development" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h1><span>Professional Development</span></h1>
+    <h1><span>WORKSHOPS</span></h1>
   </div>
 </section>
 
@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Customized Skill-Building Workshops</h2>
-        <p>Professional Development offers groups of educators an experiential learning experience that is co-created to best meet the needs of the organization. Through the Professional Development workshops, educators experience the Design for Change methodology and then work to create plans for rolling out Design for Change in their context.</p>
+        <p>Our workshops offer groups of educators an experiential learning experience that is co-created to best meet the needs of the organization. Educators experience the Design for Change methodology and then work to create plans for rolling out Design for Change in their context.</p>
 
         <div class="pathway-block educator-block">
           <div class="pathway-img">
@@ -65,7 +65,7 @@
       <div class="col-sm-12">
         <table class="table">
           <tr>
-            <td width="25%"><b>Time Required:</b></td><td>½ Day or Full Day in-person workshop</td>
+            <td width="25%"><b>Time Required:</b></td><td>2 Hours, ½ Day or Full Day in-person sessions</td>
           </tr>
           <tr>
             <td width="25%"><b>Feature:</b></td><td>Introduces educators to the Design for Change methodology</td>
@@ -80,7 +80,7 @@
             <td width="25%"><b>Outcome:</b></td><td>Results in a plan for implementing the Design for Change methodology into various contexts</td>
           </tr>
           <tr>
-            <td width="25%"><b>Price:</b></td><td>$3,000 for full day | $2,500 for half day (travel not included)</td>
+            <td width="25%"><b>Price:</b></td><td>$500 for 2 Hours (online) | $2,500 for half day on-site* | $3,000 for full day on-site*</td>
           </tr>
         </table>
       </div>
@@ -103,7 +103,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2>Schedule a training</h2>
+        <h2>Schedule a workshop</h2>
         <p>We can do it remotely or on-site</p>
         <a href="/pages/contact-us?ref=coaching">CONTACT US</a>
       </div>
