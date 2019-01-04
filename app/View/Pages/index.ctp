@@ -2,11 +2,11 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h1>Turn Empathy Into Action</h1>
+      	<h1>Turn Empathy into Action</h1>
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
-        <p>Join educators who are engaging over <i>1 million young people worldwide</i><br/> to make an impact in their communities.</p>
+        <p>Join the educators helping over <i>1 million young people worldwide</i> to positively impact their communities.
         </div>
       </div>
     </div>
@@ -113,7 +113,7 @@
       <div class="row">
         <div class="col-sm-12">
           <h2>What We Do</h2>
-          <p>Select one of the pathways below and join the DFC global movement</p>
+          <p>Select a pathway to join the DFC movement:</p>
         </div>
       </div>
     </div>
@@ -127,7 +127,7 @@
             </div>
             <div class="pathway-det">
             	<h3>WORKSHOPS</h3>
-              <p>We offer experiential workshops for educators to introduce design thinking and our methodology.</p>
+              <p>Experiential workshops introducing educators to design thinking and the DFC methodology.</p>
               <p>
                 <strong>Time Commitment:</strong><br>
                 2 hours | 1/2 Day | Full Day
@@ -144,7 +144,7 @@
             </div>
             <div class="pathway-det">
               <h3>DESIGN SPRINTS</h3>
-              <p>Quick in-classroom activities that build empathy of a specific social issue and introduce design thinking concepts.</p>
+              <p>Brief classroom activities to build empathy around a social issue and introduce design thinking concepts.</p>
               <p>
                 <strong>Time Commitment:</strong><br>
                 4 hours
@@ -185,7 +185,7 @@
         	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h2>Wondering where to begin?</h2>
           <p>Contact us and we'll help you get started.</p>
-          <a href="/pages/contact-us">CONTACT US</a>
+          <a href="/pages/contact-us">CONTACT US TO GET STARTED</a>
           <div class="not-sure-img">
           	<img src="/dfcusa-web/app/webroot/pics/15276226498_56d159e927_k.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
           </div>
@@ -244,7 +244,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Our Global Impact</h2>
-        <p>Design for Change has a global footprint spanning 6 continents.</p>
+        <p>Design for Change spans 6 continents.</p>
       </div>
     </div>
         

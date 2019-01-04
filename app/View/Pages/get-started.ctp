@@ -10,9 +10,8 @@
 	<div class="container">
   	<div class="row">
       <div class="col-sm-12">
-        <h2>Getting Started With Design for Change</h2>
-        <p>Students are often told they must wait until some unknown time to start making changes in the world. Yet with the right tools and resources, students can and are already leading lasting change in their communities. 
-        DFC fosters student agency by recognizing the potential in each child, to be a designer of change.</p>
+        <h2>Getting Started with Design for Change</h2>
+        <p>Students don’t have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes the potential designer for change in every child and provides those tools and resources.</p>
         <p>As an educator, here's how you get started:</p>
         <h3>STEP 1</h3>
         <h4>Download Our Free Educator’s Toolkit Poster</h4>
@@ -23,7 +22,8 @@
           <div class="pathway-det">
             <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
             <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework.</p>
-            <a href="/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf" target="_new">DOWNLOAD</a>
+            <a href="javascript:showMailingPopUp()" target="_new">DOWNLOAD</a>
+            <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
           </div>
         </div>
               
@@ -39,7 +39,7 @@
           </div>
           <div class="pathway-det">
             <h3>DESIGN SPRINTS</h3>
-            <p>Implement quick, challenge-based activities that offer a fun, fresh and exciting way to introduce Design for Change.
+            <p>Implement quick, challenge-based activities that offer a fun, fresh, and exciting way to introduce Design for Change.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>4 hours</span></p>
             <a href="/dfcusa-web/pages/get-started/design-sprints">Learn more</a>
           </div>
@@ -52,7 +52,7 @@
           </div>
           <div class="pathway-det">
             <h3>COMMUNITY PROJECTS</h3>
-            <p>Using expert-designed lesson plans and activities, build a customized learning experience for your students.
+            <p>Build a customized learning experience for your students, using expert-designed lesson plans and activities.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>8-10 weeks</span></p>
             <a href="/dfcusa-web/pages/get-started/community-projects">Learn more</a>
           </div>
@@ -73,7 +73,7 @@
           </div>
           <div class="pathway-det">
             <h3>WORKSHOPS</h3>
-            <p>Learn about design thinking principles and get trained on the Design for Change methdology
+            <p>Master the principles of design thinking and get trained on the Design for Change methodology.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>2 Hours | 1/2 Day | Full Day</span></p>
             <a href="/dfcusa-web/pages/get-started/professional-development">Learn more</a>
           </div>
@@ -86,7 +86,7 @@
           </div>
           <div class="pathway-det">
             <h3>COACHING</h3>
-            <p>Get customized coaching sessions on adopting Design for Change across your organization.
+            <p>Receive customized coaching sessions on adopting Design for Change across your organization.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>Flexible</span></p>
             <a href="/dfcusa-web/pages/get-started/coaching">Learn more</a>
           </div>
@@ -109,5 +109,14 @@
     </div>
   </div>
 </section>
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+
+<script type="text/javascript">
+  function showMailingPopUp() {
+    window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"e163a23026","uniqueMethods":true}) });
+    document.cookie = "MCEvilPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+  }
+</script>
 
 <?php echo $this->element('newsletter'); ?>

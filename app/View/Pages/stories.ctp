@@ -1,7 +1,7 @@
 <section class="inner-hero inside stories" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png');">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
-  	<h4><span>Seeing is believing,<br/>hearing their story is inspiring.</span></h4>
+  	<h4><span>Seeing is believing.<br/>Stories are inspiring.</span></h4>
   </div>
 </section>
 
@@ -10,8 +10,8 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h2>Stories of Change from Design for Change USA</h2>
-        <p>What if you witnessed third graders shut down a drug house? What if we told you about fifth graders to creating a pipeline between farmers and those living in food deserts? What if you saw high schoolers increase the number of mental health professionals at their school? Would you believe these stories of change?</p>
+      	<h2>Stories of Change from Around the Country</h2>
+        <p>Do you believe that... 3rd graders can shut down a drug house? 5th graders can create a pipeline between farmers and food deserts? High school students can increase support for mental health at their school? We do.</p>
         <p class="big">At DFC, we not only believe, we have seen what is possible when students are given the tools to drive social change in their community. </p>
         <div class="content-image">
         	<img src="/dfcusa-web/app/webroot/img/img_stories_tirepainting@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid">
@@ -24,7 +24,7 @@
         	<img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
           <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
         </div>
-        <p>During the month of October 2017, there were many students going home with flu. Students researched the causes of the disease and ways to prevent it from spreading.</p>        
+        <p>In October 2017, the flu was spreading rapidly. Students researched its causes and ways to prevent the flu from spreading.</p>        
 
         <div class="apply-icons">
           <div class="row">
@@ -39,21 +39,21 @@
               <div class="apply-block imagine-block">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
-                <p>Students researched and brainstormed various ideas including the use of surgical masks and promoting hand sanitizers. Ultimately, they developed the campaign to #STOPTHESPREAD through proper hand washing.</p>
+                <p>Students brainstormed ideas, including the use of surgical masks and hand sanitizer. Ultimately, they developed a campaign to #STOPTHESPREAD through proper hand washing.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
-                <p>Students surveyed their peers to gain insight. They, then, moved forward making and selling soap and further educating their community about healthy hygiene.</p>
+                <p>Students surveyed their peers to gain insight before moving forward with making and selling soap, as well as educating their community on healthy hygiene.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
-                <p>Students created posters and music videos to present at a school-wide assembly. They also shared their story of change at WEday in New York in front of 15,000 students and were interviewed by CBS.</p>
+                <p>Students created posters and music videos to present at a school-wide assembly. They also shared their story with 15,000 other students at WEday in New York and were interviewed by CBS.</p>
               </div>
             </div>
           </div>
@@ -67,9 +67,9 @@
             <li><img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
           </ul> -->
           <h3>Interested in starting Design for Change?</h3>
-          <p>If you are interested in bringing Design for Change to your school or organization, contact us to get started or create an account now.</p>
+          <p>Contact us for more info or sign up for an account now.</p>
           <a href="/pages/contact-us?ref=champion">CONTACT US</a>
-          <a href="/dfcusa-pm/login#register">SIGN-UP</a>
+          <a href="/dfcusa-pm/login#register">SIGN UP</a>
         </div>
       </div>
     </div>

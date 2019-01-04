@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Customized Skill-Building Workshops</h2>
-        <p>Our workshops offer groups of educators an experiential learning experience that is co-created to best meet the needs of the organization. Educators experience the Design for Change methodology and then work to create plans for rolling out Design for Change in their context.</p>
+        <p>Our workshops offer groups of educators a learning experience co-created to meet the needs of their organization. Educators master the Design for Change methodology, while creating plans to implement Design for Change in their context.</p>
 
         <div class="pathway-block educator-block">
           <div class="pathway-img">
@@ -19,7 +19,7 @@
           </div>
           <div class="pathway-det">
             <h3>CUSTOM RESOURCES</h3>
-            <p>Customized resources and training on the Design for Change methodology and support in creating plans for rolling out Design for Change with students.</p>
+            <p>Receive customized resources and Design for Change methodology training, plus support in creating plans to begin DFC with students.</p>
           </div>
         </div>
 
@@ -29,28 +29,28 @@
               <div class="apply-block feel-block">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
-                <p>Alongside a DFC Certified coach, develop the outcomes for the training workshop based on the needs of the organization</p>
+                <p>Develop outcomes for the training workshop based on the organization’s needs and with the support of a DFC Certified coach.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block imagine-block">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
-                <p>Collaboratively design a learning experience that will meet the desired outcomes of the organization</p>
+                <p>Work collaboratively to design a learning experience that will meet the desired outcomes of the organization.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
-                <p>A DFC Certified coach provides virtual or in-person training on the DFC methodology and its implementation</p>
+                <p>Receive virtual or in-person training from a DFC Certified coach on the DFC methodology and its implementation.</p>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
-                <p>Trainees continue to collaborate as they integrate the DFC methodology into their unique contexts</p>
+                <p>Continue collaboration while integrating the DFC methodology into the organization’s unique context.</p>
               </div>
             </div>
           </div>
@@ -90,9 +90,9 @@
       <div class="col-sm-12">
         <h2>Perfect for the organization...</h2>
         <ul class="list">
-          <li>Looking for a quick way to introduce educators to the Design for Change methodology, design thinking for social impact and the UN Global Goals</li>
+          <li>Looking for a quick way to introduce educators to the Design for Change methodology, design thinking for social impact, and the UN Global Goals</li>
           <li>Searching for a meaningful learning experience for educators</li>
-          <li>Interested in expanding, refining or diversifying their use of design thinking</li>
+          <li>Interested in expanding, refining, or diversifying their use of design thinking</li>
         </ul>
       </div>
     </div>
@@ -104,7 +104,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Schedule a workshop</h2>
-        <p>We can do it remotely or on-site</p>
+        <p>Choose to learn remotely or on-site.</p>
         <a href="/pages/contact-us?ref=coaching">CONTACT US</a>
       </div>
     </div>

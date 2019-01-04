@@ -11,18 +11,19 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>An Innovative and Collaborative Experience</h2>
-        <p>Design for Change is a program that equips young people with abilities to transform empathy into social action. It is based upon a simple 4 step methodology - <b>Feel, Imagine, Do, Share</b>. 
+        <p>Design for Change equips young people to transform empathy into social action using 4 steps: <b>Feel, Imagine, Do, Share.</b>
         <br/><br>
-        Educators use the program to facilitate a design process in which students <b>brainstorm</b>, <b>plan</b> and <b>execute</b> community change projects, fostering empathy and student agency.</p>
+        Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
+        Students <b>brainstorm, plan,</b> and <b>execute</b> community change projects.</p>
         <table class="table">
           <tr valign="middle">
-            <td width="15%"><b>Who:</b></td><td>Middle school aged children with an adult educator (teacher, parent, youth leader, coach, etc.)</td>
+            <td width="15%"><b>Who:</b></td><td>Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)</td>
           </tr>
           <tr valign="middle">
-            <td width="15%"><b>What:</b></td><td>Children work as a team to investigate social issues, brainstorm solutions, develop action plans and implement their projects, all while developing important skills such as empathy and grit.</td>
+            <td width="15%"><b>What:</b></td><td>Students work in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. In the process, they develop empathy, persistence, and resilience.</td>
           </tr>
           <tr valign="middle">
-            <td width="15%"><b>How:</b></td><td>Educators guide young people using the DFC methodology and dozens of free activities and tools. Projects can take as little as 4 hours to 8-10 weeks.</td>
+            <td width="15%"><b>How:</b></td><td>Educators guide students using the DFC methodology and dozens of free activities and skills. Projects range from 4 hours to weeks long.</td>
           </tr>
           <tr valign="middle">
             <td width="15%"><b>When:</b></td><td>Teams submit their projects to DFC by May 15, 2019. They could be selected to represent the United States at the annual Design for Change Global Conference, held in a different country each year.</td>
@@ -38,8 +39,8 @@
               <div class="generic-inner">
                 <h3 class="dark-text">Our Approach&nbsp;</h3>
                 <ul class="list">
-                  <ol><b>1. We elevate the work of educators:</b> Founded on the belief that educators are designers, Design for Change is created for all educators (K-12). Design for Change equips and trains leaders in the design thinking process, building on their experience and expertise. Educators can access tools, resources, training and coaching to integrate the Design for Change methodology.</ol>
-                  <ol><b>2. We support student-driven social impact:</b> Educators facilitate each stage of Feel, Imagine, Do, Share process, enabling students to respond and take action on a local issue they are passionate about. </ol>
+                  <ol><b>1. We elevate the work of educators:</b> Because we believe educators are designers, Design for Change equips all K-12 educators to be leaders in the design thinking process and provides them with tools, resources, training, and coaching in the DFC methodology.</ol>
+                  <ol><b>2. We support student-driven social impact:</b> Educators facilitate each stage of the Feel, Imagine, Do, Share process, enabling students to respond and take action on a local issue they are passionate about.</ol>
                   <ol><b>3. We connect to a global network:</b> By participating in Design for Change, students join a coalition of young people creating social change around the world by designing solutions to address the <a href="https://globalgoals.org" target="_new">UN Global Goals.</a></ol>
                 </ul>
               </div>
@@ -96,7 +97,7 @@
           <h2>The Global Connection</h2>
           <p class="left">
             <img class="sub-graphic" src="/dfcusa-web/app/webroot/img/btc-gandhi.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            Every year, student teams from around the world submit their projects to Design for Change. An Ambassador Team is selected from each country to attend the DFC Global Conference. This conference brings together student teams from across the world to share and celebrate their solutions for the world!<br/><br/>The conference has been held in India, China, Mexico and Spain. In 2018, the conference was held in Taipei, Taiwan. Hear and see the experiences of our student at the global conference. 
+            Every year, student teams from around the world submit their projects to Design for Change. An Ambassador Team is selected from each country to attend the DFC Global Conference. This conference brings together student teams from across the world to share and celebrate their solutions for the world!<br/><br/>The conference has been held in India, China, Mexico, and Spain. In 2018, the conference was in Taipei, Taiwan. Explore the experiences of our students at the global conference in the videos below: 
           </p>
         </div>
       </div>

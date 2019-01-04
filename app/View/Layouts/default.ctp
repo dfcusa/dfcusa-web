@@ -51,6 +51,7 @@
 <script src="/dfcusa-web/app/webroot/js/aos.js"></script>
 <script src="/dfcusa-web/app/webroot/js/lity.js"></script>
 <script src="/dfcusa-web/app/webroot/js/jquery.cookie.js"></script>
+<script src="/dfcusa-web/app/webroot/js/require.js"></script>
 <script>
   AOS.init();
 

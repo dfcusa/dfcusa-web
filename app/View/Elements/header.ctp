@@ -11,18 +11,18 @@
             <a class="nav-link" href="/pages/program">How It Works</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/stories">Our Impact</a>
+            <a class="nav-link" href="/pages/stories">Real Stories</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/get-started">Get Started</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'resources') > -1) { ?>active<?php } ?> hide">
-            <a class="nav-link" href="/pages/resources">Resources</a>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
+            <a class="nav-link" href="/dfcusa-pm/sprints">Project Ideas</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/about-us">About Us</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?>">
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?> hide">
             <a class="nav-link" href="/pages/contact-us">Contact</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
@@ -30,7 +30,7 @@
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
-          <a href="/dfcusa-pm/projects" class="active web-portal">Web Portal</a>
+          <a href="/dfcusa-pm/projects" class="web-portal">Your Account</a>
           <div class="dropdown-content">
             <a href="/dfcusa-pm/projects">My Projects</a>
             <a href="/dfcusa-pm/activities">Activities</a>
@@ -39,9 +39,9 @@
           </div>
         </div>
         <div class="account-menu login-nav hide">
-          <a href="/dfcusa-pm/login#register" class="active">Sign Up</a>
-          <a href="/dfcusa-pm/login">Login</a>
-        </div>
+            <a href="/dfcusa-pm/login#register">Sign Up</a>
+            <a href="/dfcusa-pm/login">Login</a>
+          </div>
       </div>
     </nav>  	
   </div>

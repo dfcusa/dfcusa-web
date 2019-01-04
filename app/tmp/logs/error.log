@@ -15188,3 +15188,61 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 2018-12-17 21:56:29 Error: [MissingControllerException] Controller class Docs-assetsController could not be found.
 #0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2019-01-03 22:54:30 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/design-sprints.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('design-sprints')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('design-sprints', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('design-sprints')
+#3 [internal function]: PagesController->display('design-sprints')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-01-04 19:04:45 Error: [MissingControllerException] Controller class Docs-assetsController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-01-04 20:44:27 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-01-04 22:38:34 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/mojo/signup-forms/Loader.js.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('mojo/signup-for...')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('mojo/signup-for...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('mojo/signup-for...')
+#3 [internal function]: PagesController->display('mojo', 'signup-forms', 'Loader.js')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-01-04 22:38:38 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/mojo/signup-forms/Loader.js.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('mojo/signup-for...')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('mojo/signup-for...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('mojo/signup-for...')
+#3 [internal function]: PagesController->display('mojo', 'signup-forms', 'Loader.js')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-01-04 22:39:42 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/mojo/signup-forms/Loader.js.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('mojo/signup-for...')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('mojo/signup-for...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('mojo/signup-for...')
+#3 [internal function]: PagesController->display('mojo', 'signup-forms', 'Loader.js')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-01-04 22:43:11 Error: [MissingViewException] View file "/Users/vinay/Documents/htdocs/dfcusa-web/app/View/Pages/mojo/signup-forms/Loader.js.ctp" is missing.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/View/View.php(472): View->_getViewFileName('mojo/signup-for...')
+#1 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(957): View->render('mojo/signup-for...', NULL)
+#2 /Users/vinay/Documents/htdocs/dfcusa-web/app/Controller/PagesController.php(76): Controller->render('mojo/signup-for...')
+#3 [internal function]: PagesController->display('mojo', 'signup-forms', 'Loader.js')
+#4 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinay/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

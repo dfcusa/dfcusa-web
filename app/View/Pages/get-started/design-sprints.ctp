@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>An Easy Way to Get Started</h2>
-        <p>Design Sprints offer a 4-hour Design for Change experience for students, introducing them to design thinking for social impact. With the Design Sprints resources, educators have access to fully designed lesson plans for each of the stages of the Design for Change framework: Feel, Imagine, Do, Share. Design Sprints have the potential to launch students into Community Projects.</p>
+        <p>Design Sprints introduce students to design thinking for social impact with a 4-hour experience that can launch them in Community Projects. The Design Sprint resources provide educators with complete lesson plans for each stage of the Design for Change framework: Feel, Imagine, Do, Share.</p>
 
         <div class="pathway-block educator-block">
           <div class="pathway-img">
@@ -19,7 +19,7 @@
           </div>
           <div class="pathway-det">
             <h3>EMPATHY MATERIALS</h3>
-            <p>Using a podcast and accompanying visuals that captures community interviews, introduce students to the Design for Change methodology and the UN Global Goals.</p>
+            <p>Introduce students to the Design for Change methodology and the UN Global Goals, using a podcast and accompanying visuals that capture community interviews.</p>
           </div>
         </div>
 
@@ -29,14 +29,14 @@
               <div class="apply-block feel-block">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
-                <h5>Specially designed podcast highlighting a community challenge</h5>
+                <h5>Listen to a specially-designed podcast highlighting a community challenge</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
               <div class="apply-block imagine-block">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
-                <h5>Collaborative brainstorming using quick activities</h5>
+                <h5>Brainstorm collaboratively, using quick activities</h5>
               </div>
             </div>
             <div class="col-md-3 col-lg-3">
@@ -50,7 +50,7 @@
               <div class="apply-block share-block">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
-                <h5>Collective presentations and critiquing</h5>
+                <h5>Present and critique ideas as a group</h5>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
         <h2>Perfect for the educator...</h2>
         <ul class="list">
           <li>Looking for a quick way to introduce students to the Design for Change methodology</li>
-          <li>Searching for ready-made lesson plans that guide through the design cycle</li>
+          <li>Searching for ready-made lesson plans that guide students through the design cycle</li>
           <li>Interested in promoting the UN Global Goals</li>
           <li>Passionate about connecting students to relevant issues in their community</li>
         </ul>
@@ -101,9 +101,9 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2>Browse our Design Sprints</h2>
-        <p>Get started with your class in minutes.</p>
-        <a href="/dfcusa-pm/sprints">SEE SPRINT CATALOG</a>
+        <h2>Kickstart Your Project</h2>
+        <p>Get your class started in minutes.</p>
+        <a href="/dfcusa-pm/sprints">SEE DESIGN SPRINT IDEAS</a>
       </div>
     </div>
   </div>
