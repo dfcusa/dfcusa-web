@@ -66,8 +66,8 @@
             <li><img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
             <li><img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
           </ul> -->
-          <h3>Interested in starting Design for Change?</h3>
-          <p>Contact us for more info or sign up for an account now.</p>
+          <h3>Interested in getting started with Design for Change?</h3>
+          <p>Contact us for more info or sign up for your free account now.</p>
           <a href="/pages/contact-us?ref=champion">CONTACT US</a>
           <a href="/dfcusa-pm/login#register">SIGN UP</a>
         </div>

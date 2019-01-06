@@ -1,7 +1,7 @@
 <section class="inner-hero inside about-us" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
-    <h4><span>Empowering students to become agents of change.</span></h4>
+    <h4 class="one-line"><span>Empowering young people to become agents of change.</span></h4>
   </div>
 </section>
 
@@ -10,16 +10,16 @@
   	<div class="row">
     	<div class="col-sm-12">
         <h2>A Global Organization with Local Impact</h2>
-        <p>Design for Change USA is the national chapter of <a href="https://www.dfcworld.com" target="_new">Design for Change World</a>, When students participate in DFC, they are joining a powerful coalition of young people around the world in saying, I CAN!<br/><br/>When students participate in DFC, they are joining a powerful coalition of young people around the world in saying, I CAN!</p>
+        <p>Design for Change USA is the national affiliate of <a href="https://www.dfcworld.com" target="_new">Design for Change World</a>, When young people participate in DFC, they are joining a powerful coalition of others around the world in saying, I CAN!</p>
 
         <p></p>
-        <p class="big">Young people are not helpless. Change is possible, and they can drive it!</p>
+        <p class="big">Young people are not helpless. Change is possible. They can drive it!</p>
         
         <hr>
 
         <p></p><p></p>
         <h4>A framework for addressing the UN Global Goals</h4>
-        <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World’s Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the 4 steps in the DFC process. Students are encouraged to think globally while acting locally. Using this framework, students are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.</p>
+        <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.</p>
         <div class="content-image">
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>

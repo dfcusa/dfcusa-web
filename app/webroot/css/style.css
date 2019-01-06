@@ -437,7 +437,8 @@ header {
     position: relative;
     float: left;
     color: #FFF;
-    margin-right: 40px; }
+    margin-right: 50px;
+    margin-bottom: 40px; }
     .get-started-inner .video-box img {
       padding-bottom: 10px; }
     .get-started-inner .video-box .watch-video-btn img {
@@ -1239,7 +1240,7 @@ footer {
 .inner-hero.short {
   height: 25px; }
 .inner-hero.inside {
-  height: 270px; }
+  height: 225px; }
 .inner-hero.just-title {
   height: 200px; }
 .inner-hero img {
@@ -1264,10 +1265,12 @@ footer {
   position: absolute;
   left: 10%;
   z-index: 99;
-  top: 32%;
+  top: 28%;
   margin-left: auto;
   margin-right: auto;
   width: 80%; }
+  .inner-hero h4.one-line {
+    top: 36%; }
 
 .page-content {
   margin: 50px 0; }
@@ -2001,5 +2004,8 @@ footer {
 
 .normal-list {
   font-size: 15pt; }
+
+.mc-modal {
+  zoom: 1.25 !important; }
 
 /*# sourceMappingURL=style.css.map */

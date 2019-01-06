@@ -6,7 +6,7 @@
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
-        <p>Join the educators helping over <i>1 million young people worldwide</i> to positively impact their communities.
+        <p>Join other educators helping over <i>1 million young people worldwide</i> to positively impact their communities.
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>What is Design for Change?</h2>
-        <p>Our program equips young people to transform empathy into social action through innovative collaborative experiences using a simple four step process:</p>
+        <p>Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
       </div>
 
       <div class="apply-icons">
@@ -113,7 +113,7 @@
       <div class="row">
         <div class="col-sm-12">
           <h2>What We Do</h2>
-          <p>Select a pathway to join the DFC movement:</p>
+          <p>Choose a pathway to join the DFC movement:</p>
         </div>
       </div>
     </div>
@@ -144,7 +144,7 @@
             </div>
             <div class="pathway-det">
               <h3>DESIGN SPRINTS</h3>
-              <p>Brief classroom activities to build empathy around a social issue and introduce design thinking concepts.</p>
+              <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
               <p>
                 <strong>Time Commitment:</strong><br>
                 4 hours
@@ -161,7 +161,7 @@
             </div>
             <div class="pathway-det">
               <h3>COMMUNITY PROJECTS</h3>
-              <p>Expert-designed lesson plans and activities to build a custom and immersive design thinking experience.</p>
+              <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
               <p>
                   <strong>Time Commitment:</strong><br>
                   8-10 weeks

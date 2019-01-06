@@ -1,7 +1,7 @@
 <section class="inner-hero inside get-started" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-  	<h4><span>Change starts<br>with you.</span></h4>
+  	<h4 class="one-line"><span>Change starts with you.</span></h4>
   </div>
 </section>
 
@@ -11,7 +11,7 @@
   	<div class="row">
       <div class="col-sm-12">
         <h2>Getting Started with Design for Change</h2>
-        <p>Students don’t have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes the potential designer for change in every child and provides those tools and resources.</p>
+        <p>Students don't have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes that every child can be a designer for change provided the right  tools, resources, and support.</p>
         <p>As an educator, here's how you get started:</p>
         <h3>STEP 1</h3>
         <h4>Download Our Free Educator’s Toolkit Poster</h4>
@@ -114,8 +114,12 @@
 
 <script type="text/javascript">
   function showMailingPopUp() {
-    window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"e163a23026","uniqueMethods":true}) });
-    document.cookie = "MCEvilPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+    if ($.cookie('MCPopupSubscribed')) {
+      window.open('http://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf');
+    } else {
+      $.removeCookie('MCPopupClosed', { path: '/' });
+      window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"e163a23026","uniqueMethods":true}) });      
+    }
   }
 </script>
 

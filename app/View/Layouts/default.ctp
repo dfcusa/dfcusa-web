@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dfc">
 <head>
 
 <!-- start Omniconvert.com code -->
@@ -51,7 +51,6 @@
 <script src="/dfcusa-web/app/webroot/js/aos.js"></script>
 <script src="/dfcusa-web/app/webroot/js/lity.js"></script>
 <script src="/dfcusa-web/app/webroot/js/jquery.cookie.js"></script>
-<script src="/dfcusa-web/app/webroot/js/require.js"></script>
 <script>
   AOS.init();
 
