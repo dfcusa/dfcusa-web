@@ -4,6 +4,7 @@
     	<div class="row">
         <div class="col-sm-12 col-lg-2">
           <div class="footer-logo"><img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="img" class="img-fluid"></div>
+          <div class="footer-logo"><a href="http://www.dfcworld.com" target="_new"><img src="/dfcusa-web/app/webroot/img/global_logo.jpg" alt="img" class="img-fluid" style="width: 200px; margin-top: 20px;"></a></div>
         </div>
         <div class="col-md-2 col-lg-2">
           <div class="footer-links">
@@ -41,8 +42,8 @@
           <div class="footer-links">
             <h4>CONTACT</h4>
             <a target="_parent" href="mailto:info@designforchange.us">info@designforchange.us</a>
-            <a target="_parent" href="#">6 Liberty Square #2339</a>
-            <a target="_parent" href="#">Boston, MA 02109 USA</a>
+            <a target="_parent" href="mailto:info@designforchange.us">6 Liberty Square #2339</a>
+            <a target="_parent" href="mailto:info@designforchange.us">Boston, MA 02109 USA</a>
           </div>
         </div>
       </div>
