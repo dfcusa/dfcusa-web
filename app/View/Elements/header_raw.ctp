@@ -9,39 +9,39 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://designforchange.us/pages/program">How It Works</a>
+            <a class="nav-link" href="https://designforchange.us/pages/program" target="_parent">How It Works</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://designforchange.us/pages/stories">Real Stories</a>
+            <a class="nav-link" href="https://designforchange.us/pages/stories" target="_parent">Real Stories</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://designforchange.us/pages/get-started">Get Started</a>
+            <a class="nav-link" href="https://designforchange.us/pages/get-started" target="_parent">Get Started</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://designforchange.us/dfcusa-pm/sprints">Project Ideas</a>
+            <a class="nav-link" href="https://designforchange.us/dfcusa-pm/sprints" target="_parent">Project Ideas</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://designforchange.us/pages/about-us">About Us</a>
+            <a class="nav-link" href="https://designforchange.us/pages/about-us" target="_parent">About Us</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?> hide">
-            <a class="nav-link" href="https://designforchange.us/pages/contact-us">Contact</a>
+            <a class="nav-link" href="https://designforchange.us/pages/contact-us" target="_parent">Contact</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://blog.designforchange.us">Blog</a>
+            <a class="nav-link" href="https://blog.designforchange.us" target="_parent">Blog</a>
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
-          <a href="https://designforchange.us/dfcusa-pm/projects" class="web-portal">Your Account</a>
+          <a href="https://designforchange.us/dfcusa-pm/projects" class="web-portal" target="_parent">Your Account</a>
           <div class="dropdown-content">
-            <a href="https://designforchange.us/dfcusa-pm/projects">My Projects</a>
-            <a href="https://designforchange.us/dfcusa-pm/activities">Activities</a>
+            <a href="https://designforchange.us/dfcusa-pm/projects" target="_parent">My Projects</a>
+            <a href="https://designforchange.us/dfcusa-pm/activities" target="_parent">Activities</a>
             <!-- <a href="/dfcusa-pm/invite">Invite Team Member</a> -->
             <a href="https://designforchange.us/dfcusa-pm/logout">Logout</a>
           </div>
         </div>
         <div class="account-menu login-nav hide">
-            <a href="https://designforchange.us/dfcusa-pm/login#register">Sign Up</a>
-            <a href="https://designforchange.us/dfcusa-pm/login">Login</a>
+            <a href="https://designforchange.us/dfcusa-pm/login#register" target="_parent">Sign Up</a>
+            <a href="https://designforchange.us/dfcusa-pm/login" target="_parent">Login</a>
           </div>
       </div>
     </nav>  	
