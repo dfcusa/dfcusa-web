@@ -4,7 +4,6 @@
     	<div class="row">
         <div class="col-sm-12 col-lg-2">
           <div class="footer-logo"><img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="img" class="img-fluid"></div>
-          <div class="footer-logo"><a href="http://www.dfcworld.com" target="_new"><img src="/dfcusa-web/app/webroot/img/dfc_global.png" alt="img" class="img-fluid" style="width: 200px; margin-top: 20px;"></a></div>
         </div>
         <div class="col-md-2 col-lg-2">
           <div class="footer-links">
@@ -36,6 +35,7 @@
             <h4>ABOUT US</h4>
             <a href="/pages/about-us">Design for Change USA</a>
             <a href="http://www.dfcworld.com" target="_new">Design for Change Global</a>
+            <div class="footer-logo"><a href="http://www.dfcworld.com" target="_new"><img src="/dfcusa-web/app/webroot/img/dfc_global.png" alt="img" class="img-fluid" style="width: 150px; margin-top: 10px;"></a></div>
           </div>
         </div>
         <div class="col-md-2 col-lg-2">
