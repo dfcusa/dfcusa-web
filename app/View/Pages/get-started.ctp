@@ -116,7 +116,7 @@
     <div class="get-started-head">
       <div class="row">
         <div class="col-sm-12">
-          <h2>Curriculum Books and Teachers Guides</h2>
+          <h2>Curriculum Books and Teacher's Manual</h2>
           <p>Our text is also available in print form. You can purchase it below.</p>
         </div>
       </div>
@@ -156,8 +156,8 @@
               <img src="/dfcusa-web/app/webroot/images/teachersguide_small.png" height="150">
             </div>
             <div class="pathway-det">
-              <h3>Design for Change Teacher's Guide</h3>
-              <p>The teacher's guide is the ultimate companion to the Design for Change Curriculum. This guide walks you through how to effectively use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
+              <h3>Design for Change Teacher's Manual</h3>
+              <p>The teacher's manual is the ultimate companion to the Design for Change Curriculum. This guide walks you through how to effectively use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
               <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now for $36</a>
             </div>
           </div>
