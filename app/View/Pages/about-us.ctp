@@ -95,6 +95,67 @@
         </div>
 
         <hr>
+
+        <h4>Our Champions</h4>
+        <p>DFC USA Champions are all experienced educators who work with organizations and schools in their area to adopt and flourish with Design for Change. <a href="/pages/contact-us">Contact them.</a></p>
+        <div class="team-area">
+          <div class="row">
+            <div class="col-sm-3">
+              <div class="member-block">
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/monicaarmendariz.png" alt="img" class="img-fluid"></div>
+                <div class="member-det">
+                  <div class="member-name">Monica Armendariz</div>
+                  <span>
+                    Education and Leadership Consultant<br>
+                    <i>Dallas, TX</i>
+                    <a href="https://www.linkedin.com/in/marmendariz/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                  </span>
+                </div>
+              </div>
+            </div>            
+            <div class="col-sm-3">
+              <div class="member-block">
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/jessiefrancese.png" alt="img" class="img-fluid"></div>
+                <div class="member-det">
+                  <div class="member-name">Jessie Francese</div>
+                  <span>
+                    Teacher<br/>The Exploris School<br>
+                    <i>Raleigh, NC</i>
+                    <a href="https://www.exploris.org/about/faculty/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="member-block">
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/shannonhardy.png" alt="img" class="img-fluid"></div>
+                <div class="member-det">
+                  <div class="member-name">Shannon Hardy</div>
+                  <span>
+                    Teacher<br/>The Exploris School<br>
+                    <i>Raleigh, NC</i>
+                    <a href="https://www.linkedin.com/in/shannon-russell-hardy-a5145220/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                  </span>
+                </div>
+              </div>
+            </div>            
+            <div class="col-sm-3">
+              <div class="member-block">
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/orlandosharpe.png" alt="img" class="img-fluid"></div>
+                <div class="member-det">
+                  <div class="member-name">Orlando Sharpe</div>
+                  <span>
+                    STEM Catalyst<br/>YMCA Community Development<br/>
+                    <i>St. Louis, MO</i>
+                    <a href="https://about.me/sosharpe" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr>
         
         <h4>Our Board of Directors</h4>
         <div class="team-area">

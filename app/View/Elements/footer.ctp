@@ -41,6 +41,7 @@
         <div class="col-md-2 col-lg-2">
           <div class="footer-links">
             <h4>CONTACT</h4>
+            <a href="/pages/contact-us">Contact Us</a>
             <a href="mailto:info@designforchange.us">info@designforchange.us</a>
             <a href="#">6 Liberty Square #2339</a>
             <a href="#">Boston, MA 02109 USA</a>
