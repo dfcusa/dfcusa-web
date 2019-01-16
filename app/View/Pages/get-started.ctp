@@ -52,8 +52,8 @@
           </div>
           <div class="pathway-det">
             <h3>COMMUNITY PROJECTS</h3>
-            <p>Build a customized learning experience for your students, using expert-designed lesson plans and activities.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>8-10 weeks</span></p>
+            <p>Build a customized learning experience for your students, using expert-designed<br/>lesson plans and activities.
+            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>6-8 weeks</span></p>
             <a href="/dfcusa-web/pages/get-started/community-projects">Learn more</a>
           </div>
         </div>
