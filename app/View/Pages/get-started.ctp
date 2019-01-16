@@ -39,7 +39,7 @@
           </div>
           <div class="pathway-det">
             <h3>DESIGN SPRINTS</h3>
-            <p>Implement quick, challenge-based activities that offer a fun, fresh, and exciting way to introduce Design for Change.
+            <p>Implement quick and simple activities that offer a fun, fresh, and exciting way to introduce Design for Change.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>4 hours</span></p>
             <a href="/dfcusa-web/pages/get-started/design-sprints">Learn more</a>
           </div>
