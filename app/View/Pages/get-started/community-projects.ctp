@@ -65,7 +65,7 @@
       <div class="col-sm-12">
         <table class="table">
           <tr>
-            <td width="25%"><b>Time Required:</b></td><td>8-10 weeks</td>
+            <td width="25%"><b>Time Required:</b></td><td>Around 20 hours over 4-8 weeks</td>
           </tr>
           <tr>
             <td width="25%"><b>Feature:</b></td><td>Dives deeply into the Design for Change methodology</td>
