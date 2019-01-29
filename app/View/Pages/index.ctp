@@ -164,7 +164,7 @@
               <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
               <p>
                   <strong>Time Commitment:</strong><br>
-                  8-10 weeks
+                  Around 20 hours
               </p>
               <br/>
               <a href="/pages/get-started/community-projects">Learn more</a>
