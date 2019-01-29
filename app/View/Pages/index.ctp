@@ -259,14 +259,14 @@
       <div class="col-sm-4">
           <div class="impact-block storybook-block">
               <span><img src="/dfcusa-web/app/webroot/img/ico_storybook.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-              <h3>28,550</h3>
+              <h3>30,000+</h3>
               <p>Student Stories of Change</p>
           </div>
       </div>
       <div class="col-sm-4">
           <div class="impact-block teacher-block">
               <span><img src="/dfcusa-web/app/webroot/img/ico_teacher.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-              <h3>67,000</h3>
+              <h3>10,000+</h3>
               <p>Teachers</p>
           </div>
       </div>
