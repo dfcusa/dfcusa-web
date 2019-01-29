@@ -253,7 +253,7 @@
         <div class="impact-block globe-block">
           <span><img src="/dfcusa-web/app/webroot/img/ico_globe.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h3>70</h3>
-          <p>Countries</p>
+          <p>Countries Participating</p>
         </div>
       </div>
       <div class="col-sm-4">
@@ -267,7 +267,7 @@
           <div class="impact-block teacher-block">
               <span><img src="/dfcusa-web/app/webroot/img/ico_teacher.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
               <h3>10,000+</h3>
-              <p>Teachers</p>
+              <p>Teachers Trained</p>
           </div>
       </div>
     </div>
