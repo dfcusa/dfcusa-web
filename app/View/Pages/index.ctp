@@ -2,11 +2,11 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h1>Turn Empathy into Action</h1>
+      	<h1 class="h1-big">We Turn Empathy Into Action</h1>
         <div class="hero-art">
         	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
         </div>
-        <p>Join other educators helping over <i>1 million young people worldwide</i> to positively impact their communities.
+        <p class="join">Join other educators helping over <i>1 million young people worldwide</i> positively impact their communities.
         </div>
       </div>
     </div>

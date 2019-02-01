@@ -179,7 +179,7 @@ header {
   padding: 60px 0;
   text-align: center;
   color: #fff;
-  height: 520px;
+  height: 540px;
   background: #cc0139;
   /* Old browsers */
   background: -moz-linear-gradient(top, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
@@ -208,7 +208,7 @@ header {
   float: left;
   width: 100%;
   margin: 0 0 50px 0;
-  font-size: 27px;
+  font-size: 32px;
   font-weight: 600;
   line-height: 40px;
   padding: 0 10%; }
@@ -226,6 +226,9 @@ header {
   .hero a:hover {
     background: #ED1651;
     color: #fff; }
+
+.h1-big {
+  font-size: 65px !important; }
 
 .endorsed-by {
   float: left;

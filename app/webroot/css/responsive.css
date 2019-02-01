@@ -246,7 +246,7 @@
     font-size: 16px;
     margin: 0;
     padding: 5px 0;
-    text-align: center; }
+    text-align: right; }
   .navbar .navbar-toggler {
     font-size: 25px;
     padding: 0px;
@@ -256,9 +256,7 @@
     border-bottom: 3px solid #fff; }
 
   .account-menu {
-    margin: 20px 0 0 0;
-  padding-left: 25%;
-}
+    margin: 20px 0 0 0; }
     .account-menu a {
       font-size: 16px; }
       .account-menu a.active {
@@ -284,21 +282,9 @@
     font-size: 20px;
     padding: 10px 40px; }
 
-/**************** Faran Changes for Tablet *****************/
-    .endorsed-logos a {
-      width: 24.5%;
-      padding: 0 10px;
-    }
-    .design-change-video iframe{
-      height: 495px;
-      width: 100%;
-    }
-    .world-map img {
-        width: 100%;
-    }
-    footer {
-      padding: 5px 0 !important;
-    }
+  .endorsed-logos a {
+    width: 11.5%;
+    padding: 0 10px; }
 
   .design-change h2 {
     font-size: 25px; }
@@ -353,7 +339,7 @@
   .pathway-det h3 {
     font-size: 22px; }
   .pathway-det p {
-    font-size: 21px;
+    font-size: 14px;
     padding: 15px 0 0; }
 
   .not-sure h2 {
@@ -399,7 +385,7 @@
     .review-block .review-text {
       font-size: 17px;
       min-height: inherit;
-      margin: 0 0 -80px 0; }
+      margin: 0 0 20px 0; }
 
   .latest-news {
     padding: 60px 0; }
@@ -430,7 +416,7 @@
       padding: 7px 30px; }
 
   .footer-top {
-    margin: 0 0 10px 0; }
+    margin: 0 0 60px 0; }
 
   .footer-logo {
     float: left;
@@ -613,7 +599,7 @@
     font-size: 16px;
     margin: 0;
     padding: 5px 0;
-    text-align: center; }
+    text-align: right; }
   .navbar .navbar-toggler {
     font-size: 25px;
     padding: 0px;
@@ -623,10 +609,7 @@
     border-bottom: 3px solid #fff; }
 
   .account-menu {
-    margin: 20px 0 0 0;
-  padding-left: 10%;
-  float: left !important;
- }
+    margin: 20px 0 0 0; }
     .account-menu a {
       font-size: 16px; }
       .account-menu a.active {
@@ -677,6 +660,9 @@
       margin: 0 0 20px 0;
       padding: 0; }
 
+  .design-change-video iframe {
+    width: 430px; }
+
   .watch-video-btn {
     top: 30%; }
     .watch-video-btn img {
@@ -724,17 +710,17 @@
       margin: 0 0 20px 0;
       padding: 0 5%; }
     .get-started-head p {
-      font-size: 20px;
-      line-height: 31px;
+      font-size: 14px;
+      line-height: 20px;
       padding: 0; }
 
   .pathway-block {
-    margin: 0 0 30px 0 !important; }
+    margin: 0 0 40px 0 !important; }
 
   .pathway-det h3 {
     font-size: 22px; }
   .pathway-det p {
-    font-size: 20px;
+    font-size: 14px;
     padding: 15px 0 0; }
 
   .not-sure {
@@ -782,12 +768,8 @@
     border: none; }
     .awards-logos a {
       float: left;
-      width: 50%;
-      padding: 5px 10px;
-      min-height: 90px;
-      }
-      .awards-logos a img{
-        width: 95%; }
+      width: 100%;
+      padding: 5px 80px; }
 
   .reviews-area {
     padding: 40px 0; }
@@ -801,7 +783,7 @@
     .review-block .review-text {
       font-size: 17px;
       min-height: inherit;
-      margin: 0 0 -58px 0; }
+      margin: 0 0 40px 0; }
 
   .latest-news {
     padding: 60px 0; }
@@ -839,7 +821,7 @@
       font-size: 14px; }
 
   .footer-top {
-    margin: 0 0 10px 0; }
+    margin: 0 0 60px 0; }
 
   .footer-logo {
     float: left;
@@ -884,20 +866,11 @@
     top: 25%; }
 
   .page-content {
-    margin: 20px 0; }
-    .page-content h2:first-child {
+    margin: 40px 0; }
+    .page-content h2 {
       font-size: 22px;
       font-weight: 700;
-      text-align: center;
       margin: 0 0 20px 0; }
-
-      .page-content h2 {
-        font-size: 22px;
-        font-weight: 700;
-        text-align: center;
-        margin: 20px 0 20px 0; }
-
-
     .page-content h3 {
       font-size: 19px;
       margin: 0 0 20px 0; }
@@ -905,10 +878,8 @@
       font-size: 16px;
       margin: 0 0 20px 0; }
     .page-content p {
-      font-size: 16px;
-      line-height: 26px;
-      margin: 0 0 8px 0;
-     }
+      font-size: 14px;
+      line-height: 30px; }
     .page-content hr {
       margin: 20px 0 40px; }
 
@@ -955,9 +926,7 @@
 
   /*Get Started*/
   .page-content .pathway-det p {
-    min-height: 160px;
-    font-size: 20px;
-   }
+    min-height: 160px; }
 
   .educator-block {
     padding: 20px 40px; }
@@ -969,12 +938,10 @@
       width: 100%;
       text-align: center; }
       .educator-block .pathway-det h3 {
-        font-size: 21px;
-      line-height: 30px;
-     }
+        font-size: 20px; }
       .educator-block .pathway-det p {
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 14px;
+        line-height: 20px;
         min-height: inherit; }
       .educator-block .pathway-det a {
         font-size: 14px;
@@ -994,7 +961,7 @@
       .design-block .pathway-det h3 {
         font-size: 20px; }
       .design-block .pathway-det p {
-        font-size: 20px;
+        font-size: 14px;
         line-height: 20px;
         min-height: inherit; }
       .design-block .pathway-det a {
@@ -1006,9 +973,7 @@
 
   /*Stories*/
   .interested-dfc {
-    padding: 50px 0;
-  margin: -7px 0 0 0 !important;
-}
+    padding: 50px 0; }
     .interested-dfc ul {
       padding: 0 5%;
       margin: -90px 0 0 0; }
@@ -1094,132 +1059,9 @@
       width: 100%;
       margin: 0 0 20px 0; }
 
-
-/*********Faran Responsive changes************/
-.about-us .half-page {
-  float: left;
-  width: 90%; }
-
-.about-us .page-content p{
-    margin: 0 0 5px 0;
-}
-.about-us .content-video, .about-us .content-image {
-  margin: 5px 0 !important; }
-
-.design-change-video iframe{
-  height: 295px;
-  width: 100%;
-}
-.world-map img {
-    width: 100%;
-}
-.team-area {
-    margin: 5px 0 0;
-}
-
-footer {
-  padding: 5px 0 !important;
-}
-.get-started-inner .video-box{
-  width: 95%;
-  margin-right: 10px !important;
-}
-.video-box img {
-    width: 345px;
-    padding: 10px;
-}
-.page-content.about-us{
-  margin: 20px 0;
-}
-.page-content.about-us .col-sm-12 iframe{
-    width: 100%;
-}
-.not-sure .highlight-image{
-  width: 100% !important;
-}
-.get-started-head .sub-graphic{
-  width: 248px !important;
-  margin-left:0px !important;
-  margin-bottom:0px !important;
-  margin-top: 0px !important;
-}
-.home-block .pathway-img img {
-    max-width: 98%;
-    margin-left: 5px;
-}
-.home-block .pathway-img {
-    float: right;
-    width: 40%;
-    text-align: center;
-}
-.home-block .block-det h3 {
-    font-size: 20px;
-}
-.home-block .block-det p {
-    font-size: 14px;
-    padding: 15px 0 0;
-}
-.page-content .table td {
-    font-size: 20px !important;
-    line-height: 25px;
-}
-.page-content .table {
-    padding-bottom: 20px;
-}
-.generic-block{
-  margin-bottom: 10px;
-}
-.generic-block .generic-inner .list ol {
-    font-size: 16px;
-}
-.inner-hero.inside {
-    height: 255px !important;
-}
-.inner-hero.inside.program {
-    height: 245px !important;
-}
-.page-content p.big {
-    padding-top: 15px;
-    font-size: 20px;
-}
-.page-content p {
-    font-size: 20px;
-    line-height: 26px;
-}
-.apply-icons p{
-  font-size: 19px !important;
-}
-.newsletter-globe{
-  padding: 3px 32% !important;
-}
-.newsletter-globe img{
-  width: 115px !important;
-}
-.page-content h3.big{
-  font-size: 29px;
-}
-.about-us .team-area .col-sm-4 {
+  .about-us .half-page {
     float: left;
-    width: 50%;
-}
-.about-us .team-area .member-img img {
-    height: 90px !important;
-}
-.get-started .get-started-Inner .pathway-det p {
-    font-size: 20px;
-}
-.get-started .get-started-Inner .pathway-det h3 {
-    font-size: 17px;
-}
-.inner-hero.inside.about-us {
-    height: 450px !important;
-}
-.not-sure .highlights li {
-    font-size: 19px;
-    margin-bottom: 25px;
-}
-
-}
+    width: 50%; } }
 /*MEDIUM MOBILES*/
 /*SMALL MOBILES*/
 
