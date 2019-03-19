@@ -11,7 +11,7 @@
           <div class="newsletter-form">
             <form id="newsletter" action="https://designforchange.us2.list-manage.com/subscribe/post?u=233ebb0aa3989a447582c85a1&amp;id=e163a23026" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="" _lpchecked="1">
               <input class="field" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Enter your e-mail address">
-              <input class="submit send-newsletter" type="submit"/>
+              <input class="submit send-newsletter" type="submit" onclick="javascript:gaEvent('newsletter')"/>
             </form>
           </div>
         </div>
