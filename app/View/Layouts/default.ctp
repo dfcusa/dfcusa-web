@@ -12,6 +12,7 @@
     gtag('config', 'UA-128220370-1');
 
     function gaEvent(eventStr) {
+      console.log('ga: ' + eventStr);
       gtag('event', eventStr);
     }
   </script>
