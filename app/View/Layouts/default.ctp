@@ -2,19 +2,26 @@
 <html lang="en" class="dfc">
 <head>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128220370-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128220370-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'UA-128220370-1');
+    gtag('config', 'UA-128220370-1');
 
-  function gaEvent(eventStr) {
-    console.log('ga-event:' + eventStr);
-    gtag('event', eventStr);
-  }
-</script>
+    function gaEvent(eventStr) {
+      gtag('event', eventStr);
+    }
+  </script>
+<?php } else { ?>
+  <script>
+    function gaEvent(eventStr) {
+
+    }
+  </script>
+<?php } ?>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
