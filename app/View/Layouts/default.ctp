@@ -15,7 +15,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  gtag('create', 'UA-128220370-1', 'auto');
+  ga('create', 'UA-128220370-1', 'auto');
 
   function gaEvent(eventStr) {
     console.log(eventStr);
