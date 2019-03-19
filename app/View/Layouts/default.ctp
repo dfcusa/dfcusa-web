@@ -2,14 +2,6 @@
 <html lang="en" class="dfc">
 <head>
 
-<!-- start Omniconvert.com code -->
-<link rel="dns-prefetch" href="//app.omniconvert.com" />
-<script type="text/javascript">window._mktz=window._mktz||[];</script>
-<script src="//cdn.omniconvert.com/js/q7c0100.js"></script>
-<!-- end Omniconvert.com code -->              
-  
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128220370-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -19,7 +11,7 @@
   gtag('config', 'UA-128220370-1');
 
   function gaEvent(eventStr) {
-    console.log(eventStr);
+    console.log('ga-event:' + eventStr);
     gtag('event', eventStr);
   }
 </script>
