@@ -17,6 +17,8 @@
 
   ga('create', 'UA-128220370-1', 'auto');
 
+  ga('send', '<?php echo $page ?>');
+
   function gaEvent(eventStr) {
     console.log(eventStr);
     ga('send', eventStr);
