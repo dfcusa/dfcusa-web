@@ -1987,7 +1987,7 @@ footer {
   display: none;
   position: absolute;
   background-color: #f7f7f7;
-  width: 175px;
+  width: 230px;
   border-radius: 15px;
   padding: 10px 10px 0px 10px;
   top: 65px;
@@ -1999,7 +1999,8 @@ footer {
   font-weight: 600;
   text-decoration: none;
   border: 0px;
-  display: block; }
+  display: block;
+  width: 100%; }
   .my-projects-nav .dropdown-content a:hover {
     color: #666; }
 .my-projects-nav:hover .dropdown-content {

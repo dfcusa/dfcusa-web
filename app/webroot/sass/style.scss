@@ -2270,7 +2270,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
     display: none;
     position: absolute;
     background-color: #f7f7f7;
-    width: 175px;
+    width: 230px;
     border-radius: 15px;
     padding: 10px 10px 0px 10px;
     top: 65px;
@@ -2284,6 +2284,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
     text-decoration: none;
     border: 0px;
     display: block;
+    width: 100%;
     &:hover {
       color: #666;
     }
