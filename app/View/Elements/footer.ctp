@@ -2,9 +2,6 @@
   <div class="container">
     <div class="footer-top">
     	<div class="row">
-        <div class="col-sm-12 col-lg-2">
-          <div class="footer-logo"><img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="img" class="img-fluid"></div>
-        </div>
         <div class="col-md-2 col-lg-2">
           <div class="footer-links">
             <h4>GET STARTED</h4>

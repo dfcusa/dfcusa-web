@@ -16,7 +16,7 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/get-started">Get Started</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
+          <li class="nav-item hide-mobile <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/dfcusa-pm/sprints">Project Ideas</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">

@@ -1,4 +1,4 @@
-<section class="inner-hero inside about-us" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
+<section class="inner-hero inside about-us hide-mobile" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
   <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
   <div class="container">
     <h4 class="one-line"><span>Empowering young people to become agents of change.</span></h4>
@@ -17,7 +17,7 @@
         
         <hr>
 
-        <p></p><p></p>
+        <p class="hide-mobile"></p><p class="hide-mobile"></p>
         <h4>A framework for addressing the UN Global Goals</h4>
         <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.</p>
         <div class="content-image">
@@ -29,26 +29,27 @@
         <p class="half-page">
           The Design for Change global movement was founded in 2009 by world-renowned educator and design thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were empowered, they could design a better world. Kiran partnered with leading experts from Stanford Design School and IDEO to launch the very first design thinking guide for young people across India, which introduced them to the FIDS Framework. Today, the DFC movement includes over 2 million young people in 65+ countries.
         </p>
-        <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="500" height="385" style="float: right; margin: 10px;"></iframe>
+        <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="500" height="385" style="float: right; margin: 0px 20px 10px 10px"></iframe>
         
-        <hr>
-        
-        <h3 class="center big">DESIGN FOR CHANGE USA</h3>
-        <p>We are Design for Change USA, a nonprofit organization based in Boston, MA -- the U.S. partner of the worldwide Design for Change network.</p>
-        <div class="content-image">
-        	<img src="/dfcusa-web/app/webroot/img/Lynn.jpg" alt="img" class="img-fluid">
+        <div class="hide-mobile">        
+          <hr>
+          <h3 class="center big">DESIGN FOR CHANGE USA</h3>
+          <p>We are Design for Change USA, a nonprofit organization based in Boston, MA -- the U.S. partner of the worldwide Design for Change network.</p>
+          <div class="content-image">
+          	<img src="/dfcusa-web/app/webroot/img/Lynn.jpg" alt="img" class="img-fluid">
+          </div>
         </div>
         
-        <hr>
-        
-        <h3>Designing for Humanity</h3>
-        <p>Empathy is at the heart of the DFC experience. We encourage students and educators to understand another perspective by using the Feel, Imagine, Do, Share methodology. By transforming their communities, young people transform themselves, realizing their own power to create lasting change.</p>
-        <p></p>
-        <h3>We Are Your Partner</h3>
-        <p>The DFC team supports educators/mentors in their own design thinking journey, through a combination of training and tools. Our goal is to equip educators/mentors with the knowledge they need to implement the DFC methodology with their students. We hope to remind all educators that they are making a meaningful difference in their community each and every day.</p>
-        <p></p>
-        <h3>We Give Time Back</h3>
-        <p>We recognize that teachers and mentors are always doing more with less (less time, less resources, less everything). Our goal isn’t to add more things for them to do—rather to find new and simpler ways of doing them. Our focus on easy-to-adopt frameworks and integrating design thinking principles into existing curriculum will increase the value of what educators are already doing.</p>
+          <hr>
+          
+          <h3>Designing for Humanity</h3>
+          <p>Empathy is at the heart of the DFC experience. We encourage students and educators to understand another perspective by using the Feel, Imagine, Do, Share methodology. By transforming their communities, young people transform themselves, realizing their own power to create lasting change.</p>
+          <p></p>
+          <h3>We Are Your Partner</h3>
+          <p>The DFC team supports educators/mentors in their own design thinking journey, through a combination of training and tools. Our goal is to equip educators/mentors with the knowledge they need to implement the DFC methodology with their students. We hope to remind all educators that they are making a meaningful difference in their community each and every day.</p>
+          <p></p>
+          <h3>We Give Time Back</h3>
+          <p>We recognize that teachers and mentors are always doing more with less (less time, less resources, less everything). Our goal isn’t to add more things for them to do—rather to find new and simpler ways of doing them. Our focus on easy-to-adopt frameworks and integrating design thinking principles into existing curriculum will increase the value of what educators are already doing.</p>
         
         <hr>
 
