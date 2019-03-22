@@ -383,6 +383,20 @@
     hr {
       margin: 20px 0 40px;
     }
+    .table {
+      td {
+        font-size: 18px;
+        font-weight: 400;
+        color: #575757;
+        line-height: 26px;
+        margin-left: 25px;
+        margin-bottom: 25px;
+        border: 0px;
+        height: 100px;
+        vertical-align: middle;
+        padding: 17px;
+      }
+    }
   }
   .content-video, .content-image {
     margin: 20px 0;

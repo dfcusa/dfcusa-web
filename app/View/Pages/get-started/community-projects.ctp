@@ -97,7 +97,7 @@
   </div>
 </section>
 
-<section class="not-sure inverse">
+<section class="not-sure inverse hide-mobile">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
