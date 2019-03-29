@@ -13,7 +13,7 @@
 </section>
 
 
-<section class="endorsed-by">
+<section class="endorsed-by hide-mobile">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
