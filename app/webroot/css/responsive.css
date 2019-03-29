@@ -39,6 +39,7 @@
     padding-top: 116px; }
 
   .hero {
+    height: 590px !important;
     padding: 50px 0; }
     .hero h1 {
       font-size: 25px;
@@ -48,17 +49,15 @@
     padding: 0 5%;
     margin: 0 0 20px 0; }
 
-  .hero {
-    height: 590px !important; }
-    .hero p {
-      font-size: 15px;
-      font-weight: 400;
-      line-height: 24px;
-      margin: 0 0 20px 0;
-      padding: 0 0%; }
-    .hero a {
-      font-size: 17px;
-      padding: 10px 40px; }
+  .hero p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 20px 0;
+    padding: 0 0%; }
+  .hero a {
+    font-size: 17px;
+    padding: 10px 40px; }
 
   .endorsed-logos {
     margin-left: 0px; }
