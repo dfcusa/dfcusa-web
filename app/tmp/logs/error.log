@@ -15416,3 +15416,6 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 2019-03-19 16:23:21 Error: [MissingControllerException] Controller class Docs-assetsController could not be found.
 #0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2019-03-25 13:15:50 Error: [MissingControllerException] Controller class Docs-assetsController could not be found.
+#0 /Users/vinay/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
