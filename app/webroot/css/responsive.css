@@ -324,8 +324,8 @@
       font-size: 19px;
       margin: 0 0 20px 0; }
     .page-content p {
-      font-size: 17px;
-      line-height: 26px; }
+      font-size: 17px !important;
+      line-height: 26px !important; }
     .page-content hr {
       margin: 20px 0 40px; }
     .page-content .table {
