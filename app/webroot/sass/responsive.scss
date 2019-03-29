@@ -398,6 +398,8 @@
       margin: 20px 0 40px;
     }
     .table {
+      background-color: #f1f1f1;
+      padding: 18px;
       td {
         font-size: 18px;
         font-weight: 400;
@@ -411,6 +413,10 @@
         padding: 17px;
       }
     }
+  }
+  .generic-block .generic-inner .list ol {
+    font-size: 16px;
+    line-height: 25px;
   }
   .content-video, .content-image {
     margin: 20px 0;
