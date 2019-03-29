@@ -7,7 +7,7 @@
     display: none; }
 
   .inner-hero {
-    height: 165px !important;
+    height: 120px !important;
     margin: 0px; }
     .inner-hero h4 {
       font-size: 18pt !important; }
@@ -148,8 +148,10 @@
   .pathway-block {
     margin: 0 0 40px 0 !important; }
 
+  .generic-block
   .pathway-det h3 {
     font-size: 22px; }
+  .generic-block
   .pathway-det p {
     font-size: 14px;
     padding: 15px 0 0; }
@@ -506,6 +508,9 @@
 
   .about-us .half-page {
     float: left;
-    width: 100%; } }
+    width: 100%; }
+
+  .page-content p .big {
+    line-height: 35px !important; } }
 
 /*# sourceMappingURL=responsive.css.map */

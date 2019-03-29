@@ -1,6 +1,6 @@
 <footer>
   <div class="container">
-    <div class="footer-top">
+    <div class="footer-top hide-mobile">
     	<div class="row">
         <div class="col-md-2 col-lg-2">
           <div class="footer-links">

@@ -8,7 +8,7 @@
     display: none;
   }
   .inner-hero {
-    height: 165px !important;
+    height: 120px !important;
     margin: 0px;
     h4 {
       font-size: 18pt !important;
@@ -180,6 +180,7 @@
   .pathway-block {
     margin: 0 0 40px 0 !important;
   }
+  .generic-block 
   .pathway-det {
     h3 {
       font-size: 22px;
@@ -613,4 +614,13 @@
       width: 100%;
     }
   }
+
+  .page-content {
+    p {
+      .big {
+        line-height: 35px !important;
+      }
+    }
+  }
 }
+

@@ -1322,6 +1322,7 @@ footer {
     .page-content p.big {
       font-size: 25px;
       font-weight: 700;
+      line-height: 45px;
       text-align: center; }
   .page-content hr {
     float: left;
