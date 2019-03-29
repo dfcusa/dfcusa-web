@@ -78,6 +78,15 @@
       padding: 10px 40px;
     }
   }
+  .home-block {
+    position: relative;
+    .pathway-img {
+      width: 200px;
+      position: absolute;
+      top: 35px;
+      right: 0px;
+    }
+  }
   .endorsed-logos {
     margin-left: 0px;
   }
