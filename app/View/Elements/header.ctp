@@ -1,3 +1,5 @@
+<div style="width: 100%; background-color: #4dc310; color: #fff; font-size: 15pt; font-weight: bold; position: relative; text-align: center; padding: 15px">The project submission deadline is May 15, 2019. Ready to submit your project?&nbsp;&nbsp;&nbsp;<a href="/dfcusa-pm/projects#project/new/submit" class="btn btn-primary">Submit Now</a></div>
+
 <header>
   <div class="container">
     <nav class="navbar navbar-expand-lg">
