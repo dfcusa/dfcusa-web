@@ -15,17 +15,17 @@
         <br/><br>
         Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
         Students <b>brainstorm, plan,</b> and <b>execute</b> community change projects.</p>
-        <table class="table">
-          <tr valign="middle">
+        <table class="table program-list">
+          <tr valign="top">
             <td width="15%"><b>Who:</b></td><td>Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)</td>
           </tr>
-          <tr valign="middle">
+          <tr valign="top">
             <td width="15%"><b>What:</b></td><td>Students work in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. “Through” this process, they develop empathy, persistence, and resilience.</td>
           </tr>
-          <tr valign="middle">
+          <tr valign="top">
             <td width="15%"><b>How:</b></td><td>Educators guide students using the DFC methodology and dozens of free activities. Projects can range from 4 hours to weeks long.</td>
           </tr>
-          <tr valign="middle">
+          <tr valign="top">
             <td width="15%"><b>When:</b></td><td>Teams submit their projects to DFC by May 15, 2019. Each team has the opportunity to be selected to represent the United States at the annual Design for Change Global Conference, held in a different country each year.</td>
           </tr>
         </table>

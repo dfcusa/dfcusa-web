@@ -203,7 +203,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
   font-size: 63px !important;
 }
 
-
 .endorsed-by {
   float: left;
   width: 100%;
@@ -1494,14 +1493,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', end
       margin-bottom: 25px;
     }
   }
+  .program-list {
+    padding: 20px;
+    border: 3px solid #f1f1f1;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    background-color: #fdfdfd;
+  }
   .table {
-    padding-bottom: 55px;
+    padding-bottom: 25px;
     display: inline-block;
     &.tight {
       padding-bottom: 0px;
     }
     td {
-      font-size: 21px;
+      font-size: 20px;
       font-weight: 400;
       color: #575757;
       line-height: 30px;

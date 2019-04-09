@@ -1343,13 +1343,20 @@ footer {
       line-height: 30px;
       margin-left: 25px;
       margin-bottom: 25px; }
+  .page-content .program-list {
+    padding: 20px;
+    border: 3px solid #f1f1f1;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    background-color: #fdfdfd; }
   .page-content .table {
-    padding-bottom: 55px;
+    padding-bottom: 25px;
     display: inline-block; }
     .page-content .table.tight {
       padding-bottom: 0px; }
     .page-content .table td {
-      font-size: 21px;
+      font-size: 20px;
       font-weight: 400;
       color: #575757;
       line-height: 30px;
