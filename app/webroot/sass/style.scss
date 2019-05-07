@@ -2312,3 +2312,91 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
 .mc-modal {
   zoom: 1.25 !important;
 }
+
+.design-thinking-classroom {
+  .number-list {
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 12pt;
+    font-weight: bold;
+    border-radius: 50px;
+    float: left;
+  }
+  .number-text{
+    float: left;
+    height: 35px;
+    font-size: 15pt;
+    padding-top: 8px;
+    padding-left: 16px;
+  }
+}
+
+.design-thinking-box {
+  margin-top: 55px;
+  border-top: 1px solid #f1f1f1;
+  padding-top: 25px;
+
+  .number-box {
+    font-size: 20pt;
+    font-weight: bold;
+    line-height: 65px;
+    .number-list{
+      padding: 5px;
+      width: 55px;
+      height: 55px;
+      margin: 5px;
+      line-height: 45px;
+      margin-right: 25px;
+      text-align: center;
+      background-color: black;
+      color: white;
+      font-size: 20pt;
+      font-weight: bold;
+      border-radius: 50px;
+      float: left;
+    }
+  }
+
+  img {
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    width: 400px;
+    height: 400px;
+    margin: 35px 0px 35px 25px;
+    float: right;
+    &.left {
+      float: left;
+      margin: 10px 35px 0px 0px;
+    }
+  }
+
+  .text-block {
+    font-size: 12pt;
+    margin: 20px;
+  }
+
+  p {
+
+  }
+
+  button {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 40px;
+    color: #575757;
+    text-transform: none;
+    background: #fff;
+    border-radius: 30px;
+    margin-top: 25px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    background-color: #ffeded;
+    &:hover {
+      background: #ED1651;
+      color: #fff;
+    }
+  }
+}

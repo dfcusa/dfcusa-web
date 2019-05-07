@@ -6,6 +6,7 @@
           <div class="footer-links">
             <h4>GET STARTED</h4>
             <a href="/pages/get-started">Next Steps</a>
+            <a href="/pages/get-started/design-thinking-classroom">Design Thinking In Your Classroom</a>
             <a href="/pages/get-started/design-sprints">Design Sprints</a>
             <a href="/pages/get-started/community-projects">Community Projects</a>
             <a href="/pages/get-started/professional-development">Professional Development</a>
