@@ -10,18 +10,18 @@
 	<div class="container">
   	<div class="row">
     	<div class="col-sm-12">
-      	<h2>Stories of Change from Around the Country</h2>
+        <h2>Stories of Change from Around the Country</h2>
         <p>Do you believe that... 3rd graders can shut down a drug house? 5th graders can create a pipeline between farmers and food deserts? High school students can increase support for mental health at their school? We do.</p>
         <p class="big">At DFC, we not only believe, we have seen what is possible when students are given the tools to drive social change in their community. </p>
         <div class="content-image">
-        	<img src="/dfcusa-web/app/webroot/img/img_stories_tirepainting@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid">
+          <img src="/dfcusa-web/app/webroot/img/img_stories_tirepainting@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid">
         </div>
-        <h2>Stories of Change from Design for Change USA</h2>
+        <!-- <h2>Stories of Change from Design for Change USA</h2>
         <p>In 2018, DFC USA received over 200 projects of change. Each student team identified an issue in their community and used the Feel, Imagine, Do, Share  framework to design and implement a solution.</p>
         <h3 class="extra-margin">The Story of the 2018 DFC USA Ambassador Team</h3>
         <h4>“SUDS4SOCIETY” By The BellaireSchool (P.S. 135Q), Queens, New York, NY</h4>
         <div class="content-video">
-        	<img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
+          <img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
           <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
         </div>
         <p>In October 2017, the flu was spreading rapidly. Students researched its causes and ways to prevent the flu from spreading.</p>        
@@ -56,20 +56,14 @@
                 <p>Students created posters and music videos to present at a school-wide assembly. They also shared their story with 15,000 other students at WEday in New York and were interviewed by CBS.</p>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
+      </div>
 
         <div class="interested-dfc">
-<!--           <ul>
-            <li><img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
-            <li><img src="/dfcusa-web/app/webroot/img/ico_large_imagine.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
-            <li><img src="/dfcusa-web/app/webroot/img/ico_big_do.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
-            <li><img src="/dfcusa-web/app/webroot/img/ico_large_feel.svg" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></li>
-          </ul> -->
-          <h3>Interested in getting started with Design for Change?</h3>
-          <p>Contact us for more info or sign up for your free account now.</p>
-          <a href="/pages/contact-us?ref=champion">CONTACT US</a>
-          <a href="/dfcusa-pm/login#register">SIGN UP</a>
+          <h3>Our 2019 Ambassador Teams Have Been Announced!</h3>
+          <p>Learn more about their projects and their upcoming trip to Rome, Italy!</p>
+          <a href="/pages/2019-stories">VIEW 2019 PROJECTS</a>
         </div>
       </div>
     </div>
