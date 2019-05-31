@@ -221,6 +221,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Also invited to the I CAN Children's Global Summit</h2>
+        <br/><br/>
         <p>
           <ul style="list-style: disc; margin-left: 25px">
             <li><a data-lity href="https://www.youtube.com/watch?v=L_q-K3mLhPQ">Bellaire Academy - SUDS4SOCIETY (Queens, NY) - 2018</a></li>
