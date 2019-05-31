@@ -11,9 +11,9 @@
   	<div class="row">
     	<div class="col-sm-12">
       	<h2>Announcing the 2019 DFC USA Ambassadors Teams</h2>
-        <p>A big CAN-gratulations to all teams who completed a DFC Design Sprint or Community Project, transforming their schools and communities in big ways! We were thrilled to receive SO many amazing projects from across the country addressing a variety of UN Global Goals.</p>
-        <p>Our Jury Panel has selected 15+ Ambassador teams from 2019 and past years, to represent DFC USA at our annual global conference: 
-        <br/><br/>Ambassador Teams will have have a once in a lifetime opportunity to share their project on a global stage, meet 4000 DFC Ambassadors from around the world, and have a live audience with Pope Francis!</p>
+        <p>A big CAN-gratulations to all teams who completed a DFC Design Sprint or Community Project. You have transformed your school and community in a big way! We were thrilled to have received SO many amazing projects from across the country addressing a variety of Global Goals.</p>
+        <p>Our Jury Panel has selected 15 Ambassador teams to represent the USA at our annual global conference I CAN Global Children’s Summit in Rome, Italy (Nov 27-30).  
+        <br/><br/>Ambassador Teams will have have a once in a lifetime opportunity to share their project on a global stage, meet 4,000 children from around the world, and have a live audience with Pope Francis! </p>
       </div>
     </div>
   </div>
