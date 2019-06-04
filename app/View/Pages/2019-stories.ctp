@@ -14,6 +14,7 @@
         <p>A big CAN-gratulations to all teams who completed a DFC Design Sprint or Community Project. You have transformed your school and community in a big way! We were thrilled to have received SO many amazing projects from across the country addressing a variety of Global Goals.</p>
         <p>Our Jury Panel has selected 15 Ambassador teams to represent the USA at our annual global conference I CAN Global Children’s Summit in Rome, Italy (Nov 27-30).  
         <br/><br/>Ambassador Teams will have have a once in a lifetime opportunity to share their project on a global stage, meet 4,000 children from around the world, and have a live audience with Pope Francis! </p>
+        <br/><br/><i>Please note: Ambassador Teams who did a project this summer will be announced in August.</i>
       </div>
     </div>
   </div>
