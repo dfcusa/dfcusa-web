@@ -55,6 +55,6 @@
 <section class="inner-hero just-title" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h4 class="one-line"><span>Our Blog</span></h4>
+    <h4 class="one-line"><span><?php if ($_GET['title'] == '') { echo 'Our Blog'; } else { echo $_GET['title']; } ?></span></h4>
   </div>
 </section>

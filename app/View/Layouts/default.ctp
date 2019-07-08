@@ -41,6 +41,7 @@
 <link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/style.css?version=1.7" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/responsive.css?version=1.98" rel="stylesheet">
+<link href="/dfcusa-web/app/webroot/spotlight/css/spotlight.css" rel="stylesheet">
 </head>
 
 <body>
