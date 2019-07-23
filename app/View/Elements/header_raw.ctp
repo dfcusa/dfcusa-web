@@ -52,9 +52,9 @@
   <a href="https://designforchange.us/pages/donate" target="_parent">Donate</a>
 </div>
 
-<section class="inner-hero just-title" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%; height: 260px">
+<section class="inner-hero just-title" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%; height: 175px; margin-bottom: 0px">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h4 class="one-line" style="top: 30%"><span><?php if ($_GET['title'] == '') { echo 'Our Blog'; } else { echo $_GET['title']; } ?></span></h4>
+    <h4 class="one-line" style="top: 35%"><span><?php if ($_GET['title'] == '') { echo 'Our Blog'; } else { echo $_GET['title']; } ?></span></h4>
   </div>
 </section>
