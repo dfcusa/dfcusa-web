@@ -48,6 +48,6 @@
   </div>
 </header>
 
-<div class="donate-nav hide-mobile">
+<div class="donate-nav hide-mobile hide">
   <a href="/pages/donate">Donate</a>
 </div>
