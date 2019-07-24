@@ -48,7 +48,7 @@
   </div>
 </header>
 
-<div class="donate-nav">
+<div class="donate-nav hide-mobile hide">
   <a href="https://designforchange.us/pages/donate" target="_parent">Donate</a>
 </div>
 
