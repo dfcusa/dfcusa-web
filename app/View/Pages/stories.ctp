@@ -63,7 +63,7 @@
         <div class="interested-dfc">
           <h3>Our 2019 Ambassador Teams Have Been Announced!</h3>
           <p>Learn more about their projects and their upcoming trip to Rome, Italy!</p>
-          <a href="/pages/2019-stories">VIEW 2019 PROJECTS</a>
+          <a href="https://blog.designforchange.us/tag/2019-spotlights/">VIEW 2019 PROJECTS</a>
         </div>
       </div>
     </div>
