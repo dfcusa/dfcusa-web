@@ -1,7 +1,7 @@
 <header>
   <div class="container">
     <nav class="navbar navbar-expand-lg">
-      <a class="navbar-brand" href="/"><img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="img" class="img-fluid"></a>
+      <a class="navbar-brand" href="/" target="_parent"><img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="img" class="img-fluid"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars"></i>
       </button>
@@ -36,7 +36,7 @@
             <a href="https://designforchange.us/dfcusa-pm/projects" target="_parent">My Projects</a>
             <a href="https://designforchange.us/dfcusa-pm/activities" target="_parent">Activities</a>
             <!-- <a href="/dfcusa-pm/invite">Invite Team Member</a> -->
-            <a href="https://designforchange.us/dfcusa-pm/logout">Logout</a>
+            <a href="https://designforchange.us/dfcusa-pm/logout" target="_parent">Logout</a>
           </div>
         </div>
         <div class="account-menu login-nav hide">
