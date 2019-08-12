@@ -124,7 +124,7 @@
         
     <div class="get-started-inner">
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="pathway-block store-block">
             <div class="pathway-img">
               <img src="/dfcusa-web/app/webroot/images/curriculum_cover_new.png" height="150">
@@ -137,7 +137,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+      <!--   <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
               <img src="/dfcusa-web/app/webroot/images/curriculum_cover.png" height="150">
@@ -149,8 +149,8 @@
             </div>
           </div>
         </div>
-
-        <div class="col-lg-4">
+ -->
+        <div class="col-lg-6">
           <div class="pathway-block store-block">
             <div class="pathway-img">
               <img src="/dfcusa-web/app/webroot/images/teachersguide_small.png" height="150">
