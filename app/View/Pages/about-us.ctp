@@ -24,6 +24,12 @@
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>
 
+        <div class="interested-dfc">
+          <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
+          <p>Learn about our impact in the 2018 / 2019 school year</p>
+          <a href="/dfcusa-web/app/webroot/files/Design for Change - Infographic - 2019.pdf" target="_new">OUR 2018-2019 IMPACT</a>
+        </div>
+
         <p></p><p></p>
         <h4>The story of our founder, Kiran Bir Sethi</h4>
         <p class="half-page">
