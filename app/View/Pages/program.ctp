@@ -111,8 +111,8 @@
           <br/>2018 Ambassador Team from Queens, NY<br>traveled to Taipei, Taiwan.
         </div>
         <div class="video-box">
-          <img width="370" height="300" src="https://img.youtube.com/vi/XZaCEkTHhDA/hqdefault.jpg"/>
-          <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=XZaCEkTHhDA"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <img width="370" height="300" src="https://img.youtube.com/vi/ol8ZhvX0AJ8/hqdefault.jpg"/>
+          <a class="watch-video-btn" data-lity href="//www.youtube.com/watch?v=ol8ZhvX0AJ8"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
           <br/>2017 Ambassador Team from Sandpoint, ID<br>traveled to Madrid, Spain.
         </div>
         <div class="video-box">
