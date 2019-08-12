@@ -239,6 +239,12 @@
   </div>
 </section>
 
+<div class="interested-dfc" style="margin-top: 10px">
+  <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
+  <p>Learn about our impact in the 2018 / 2019 school year</p>
+  <a href="https://docs.google.com/gview?url=https://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20-%20Infographic%20-%202019.pdf" target="_new">OUR 2018-2019 IMPACT</a>
+</div>
+
 <section class="global-impact">
   <div class="container">
     <div class="row">
