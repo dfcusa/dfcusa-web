@@ -62,7 +62,7 @@
         <h4>Our Team</h4>
         <div class="team-area">
           <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <div class="member-block">
                 <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/sanjligidwaney.png" alt="img" class="img-fluid"></div>
                 <div class="member-det">
@@ -74,7 +74,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <div class="member-block">
                 <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/taraharrington.png" alt="img" class="img-fluid"></div>
                 <div class="member-det">
@@ -86,7 +86,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <div class="member-block">
                 <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/courtneytee.png" alt="img" class="img-fluid"></div>
                 <div class="member-det">
@@ -94,6 +94,18 @@
                   <span>
                     Impact Evaluator<br>
                     <a href="https://www.linkedin.com/in/courtney-tee-bb444b6a/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="member-block">
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/ryancowden.png" alt="img" class="img-fluid"></div>
+                <div class="member-det">
+                  <div class="member-name">Ryan Cowden</div>
+                  <span>
+                    Design Sprints Producer<br>
+                    <a href="https://www.linkedin.com/in/ryan-cowden-b6b23615/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
                   </span>
                 </div>
               </div>
