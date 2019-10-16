@@ -2089,4 +2089,7 @@ footer {
       background: #ED1651;
       color: #fff; }
 
+.show-only-mobile {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */

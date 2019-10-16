@@ -9,6 +9,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
+          <li class="nav-item show-only-mobile">
+            <a class="nav-link" href="/">Home</a>
+          </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/program">How It Works</a>
           </li>
