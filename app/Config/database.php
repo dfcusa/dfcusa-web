@@ -60,24 +60,50 @@
  * For Sql Server : http://msdn.microsoft.com/en-us/library/ms190356.aspx
  */
 class DATABASE_CONFIG {
+
 	public $default = array(
-		'datasource' => 'DummySource',
-		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
-		'prefix' => '',
+		'datasource' 	=> 'Database/Mysql',
+		'persistent' 	=> false,
+		'host' 			=> 'localhost',
+		'login'	 		=> 'root',
+		'password' 		=> 'root',
+		'database' 		=> 'dfcusa_sprints',
+		'prefix' 		=> '',
 		//'encoding' => 'utf8',
 	);
-	public $test = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'test_database_name',
-		'prefix' => '',
+
+	public $live = array(
+		'datasource' 	=> 'Database/Mysql',
+		'persistent' 	=> false,
+		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
+		'login'	 		=> 'root',
+		'password' 		=> 'designforchange',
+		'database' 		=> 'dfcusa_sprints',
+		'prefix' 		=> '',
 		//'encoding' => 'utf8',
 	);
+
+	public $beta = array(
+		'datasource' 	=> 'Database/Mysql',
+		'persistent' 	=> false,
+		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
+		'login'	 		=> 'root',
+		'password' 		=> 'designforchange',
+		'database' 		=> 'dfcusa_sprints_beta',
+		'prefix' 		=> '',
+		//'encoding' => 'utf8',
+	);	
+	
+	public function __construct() {
+	  if (dbConfig == 'live') {
+	  	$this->default = $this->live;
+	  } else if (dbConfig == 'local') {
+	  	$this->default = $this->default;
+	  } else if (dbConfig == 'beta') {
+	  	 $this->default = $this->beta;
+	  } else {
+	  	$this->default = $this->default;
+	  }
+	}
+
 }

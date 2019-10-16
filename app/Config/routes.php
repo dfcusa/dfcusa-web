@@ -26,6 +26,17 @@
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
 
+ 	if (strrpos($_SERVER['REQUEST_URI'], '/') == 0) {
+ 		Controller::loadModel('Organization');
+ 		if (str_replace('/', '', $_SERVER['REQUEST_URI']) != '') {
+	 		$oOrganization = $this->Organization->find('first', array('conditions' => array('Organization.short_name' => str_replace('/', '', $_SERVER['REQUEST_URI']))));
+	 		if ($oOrganization) {
+				header("Location: /dfcusa-pm/login#register/" . str_replace('/', '', $_SERVER['REQUEST_URI']));
+				die();
+	 		}
+	 	}
+ 	}
+
 	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'index'));
 //	Router::connect('/stories', array('controller' => 'pages', 'action' => 'display', 'stories'));
 
