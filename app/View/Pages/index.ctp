@@ -33,7 +33,7 @@
 </section>
 
 
-<section class="design-change hide-mobile">
+<section class="design-change">
 	<div class="container">
   	<div class="row">
       <div class="col-sm-12">
@@ -41,7 +41,7 @@
         <p>Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
       </div>
 
-      <div class="apply-icons">
+      <div class="apply-icons hide-mobile">
         <div class="row">
           <div class="col-md-3 col-lg-3">
             <div class="apply-block feel-block">
