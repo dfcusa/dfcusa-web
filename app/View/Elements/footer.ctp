@@ -51,7 +51,7 @@
     <div class="footer-btm">
     	<div class="row">
       	<div class="col-sm-6 col-lg-5">
-          <p class="copyright-info">©2014-2018 Design for Change USA. All Rights Reserved.</p>
+          <p class="copyright-info">©2014 - 2019 Design for Change USA. All Rights Reserved.</p>
         </div>
         <div class="col-sm-6 col-lg-4">
         	<p class="legal-links hide">
