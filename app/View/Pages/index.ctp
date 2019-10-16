@@ -41,9 +41,9 @@
         <p>Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
       </div>
 
-      <div class="apply-icons hide-mobile">
+      <div class="apply-icons">
         <div class="row">
-          <div class="col-md-3 col-lg-3">
+          <div class="col-md-3 col-lg-3 hid-mobile">
             <div class="apply-block feel-block">
               <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>Feel</h4>
