@@ -43,7 +43,7 @@
 
       <div class="apply-icons">
         <div class="row">
-          <div class="col-md-3 col-lg-3 hide-mobile">
+          <div class="col-md-3 col-lg-3">
             <div class="apply-block feel-block">
               <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>Feel</h4>
