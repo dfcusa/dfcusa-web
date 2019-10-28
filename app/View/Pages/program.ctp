@@ -26,7 +26,7 @@
             <td width="15%"><b>How:</b></td><td>Educators guide students using the DFC methodology and dozens of free activities. Projects can range from 4 hours to weeks long.</td>
           </tr>
           <tr valign="top">
-            <td width="15%"><b>When:</b></td><td>Teams submit their projects to DFC by May 15, 2019. Each team has the opportunity to be selected to represent the United States at the annual Design for Change Global Conference, held in a different country each year.</td>
+            <td width="15%"><b>When:</b></td><td>Teams submit their projects to DFC by May 15, 2020. Each team has the opportunity to be selected to represent the United States at the annual Design for Change Global Conference, held in a different country each year.</td>
           </tr>
         </table>
       </div>
