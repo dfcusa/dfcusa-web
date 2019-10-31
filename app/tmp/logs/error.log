@@ -19200,3 +19200,90 @@ CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
 Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
 [main] - APP/webroot/index.php, line 92
 
+2019-10-31 01:26:19 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-10-31 01:31:24 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-10-31 01:31:30 Warning: Warning (512): _cake_model_ cache was unable to write 'default_dfcusa_sprints_list' to File cache in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DataSource::listSources() - CORE/Cake/Model/Datasource/DataSource.php, line 108
+Mysql::listSources() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 176
+Model::setSource() - CORE/Cake/Model/Model.php, line 1097
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3180
+Model::find() - CORE/Cake/Model/Model.php, line 2631
+include - APP/Config/routes.php, line 32
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2019-10-31 01:31:30 Warning: Warning (512): _cake_model_ cache was unable to write 'default_dfcusa_sprints_list' to File cache in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DataSource::listSources() - CORE/Cake/Model/Datasource/DataSource.php, line 108
+Mysql::listSources() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 193
+Model::setSource() - CORE/Cake/Model/Model.php, line 1097
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3180
+Model::find() - CORE/Cake/Model/Model.php, line 2631
+include - APP/Config/routes.php, line 32
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2019-10-31 01:31:30 Warning: Warning (512): _cake_model_ cache was unable to write 'default_dfcusa_sprints_organizations' to File cache in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DataSource::_cacheDescription() - CORE/Cake/Model/Datasource/DataSource.php, line 306
+DataSource::describe() - CORE/Cake/Model/Datasource/DataSource.php, line 133
+Mysql::describe() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 281
+Model::schema() - CORE/Cake/Model/Model.php, line 1304
+Model::getColumnType() - CORE/Cake/Model/Model.php, line 1344
+DboSource::_parseKey() - CORE/Cake/Model/Datasource/DboSource.php, line 2563
+DboSource::conditionKeysToString() - CORE/Cake/Model/Datasource/DboSource.php, line 2518
+DboSource::conditions() - CORE/Cake/Model/Datasource/DboSource.php, line 2405
+DboSource::buildStatement() - CORE/Cake/Model/Datasource/DboSource.php, line 1721
+DboSource::generateAssociationQuery() - CORE/Cake/Model/Datasource/DboSource.php, line 1517
+DboSource::read() - CORE/Cake/Model/Datasource/DboSource.php, line 1080
+Model::find() - CORE/Cake/Model/Model.php, line 2631
+include - APP/Config/routes.php, line 32
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2019-10-31 01:31:30 Warning: Warning (512): _cake_model_ cache was unable to write 'default_dfcusa_sprints_organizations' to File cache in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DataSource::_cacheDescription() - CORE/Cake/Model/Datasource/DataSource.php, line 306
+Mysql::describe() - CORE/Cake/Model/Datasource/Database/Mysql.php, line 315
+Model::schema() - CORE/Cake/Model/Model.php, line 1304
+Model::getColumnType() - CORE/Cake/Model/Model.php, line 1344
+DboSource::_parseKey() - CORE/Cake/Model/Datasource/DboSource.php, line 2563
+DboSource::conditionKeysToString() - CORE/Cake/Model/Datasource/DboSource.php, line 2518
+DboSource::conditions() - CORE/Cake/Model/Datasource/DboSource.php, line 2405
+DboSource::buildStatement() - CORE/Cake/Model/Datasource/DboSource.php, line 1721
+DboSource::generateAssociationQuery() - CORE/Cake/Model/Datasource/DboSource.php, line 1517
+DboSource::read() - CORE/Cake/Model/Datasource/DboSource.php, line 1080
+Model::find() - CORE/Cake/Model/Model.php, line 2631
+include - APP/Config/routes.php, line 32
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+

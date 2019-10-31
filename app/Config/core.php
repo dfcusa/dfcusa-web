@@ -32,7 +32,19 @@
  * In production mode, flash messages redirect after a time interval.
  * In development mode, you need to click the flash message to continue.
  */
-	Configure::write('debug', 0);
+	if (( $_SERVER['SERVER_NAME'] == 'localhost' )) {
+		define('debug_level', 0);
+		define('cookieBase', '');
+		define('dbConfig', 'local');
+		define('envAws', 'dev');
+		define('ignoreProsper', false);
+	} else {
+		define('debug_level', 0);
+		define('cookieBase', 'designforchange.us');
+		define('dbConfig', 'live');
+		define('envAws', 'dev');
+		define('ignoreProsper', false);
+	}
 
 /**
  * Configure the Error handler used to handle errors for your application.  By default
