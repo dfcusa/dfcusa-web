@@ -22,7 +22,7 @@
           <div class="pathway-det">
             <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
             <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework.</p>
-            <a href="javascript:showMailingPopUp()" target="_new">DOWNLOAD</a>
+            <a href="javascript:showMailingPopUp()">DOWNLOAD</a>
             <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
           </div>
         </div>
