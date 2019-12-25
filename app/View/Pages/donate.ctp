@@ -13,7 +13,7 @@
         <h2>Support Design for Chagne USA</h2>
         <p>Design for Change USA is a registered 501(c)(3) non-profit organization. All of our work is only possible with support from generous funders and volunteer hours. 
         <br/><br/>Please read our case for your support below. Every dollar counts directly towards support educators and students become changemakers in their community.
-        <br/><br/><a href="https://donorbox.org/support-design-for-change-2018-ambassador-team?amount=undefined" class="donate-button">Donate Now!</a></p>
+        <br/><br/><a href="https://donorbox.org/support-design-for-change-usa" class="donate-button">Donate Now!</a></p>
       </div>
     </div>
     <div class="row">
