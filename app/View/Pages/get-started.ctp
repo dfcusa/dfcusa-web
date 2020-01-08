@@ -39,7 +39,7 @@
           </div>
           <div class="pathway-det">
             <h3>DESIGN SPRINTS</h3>
-            <p>Implement quick and simple activities that offer a fun, fresh, and exciting way to introduce<br/>Design for Change and the methodology.
+            <p>Implement quick and simple activities that offer a fun, fresh, and exciting way to get started with design thinking and service.
             <br/><br/><span class="small"><strong>Time Commitment:</strong></br>As little as 4 hours</span></p>
             <a href="/dfcusa-web/pages/get-started/design-sprints">Learn more</a>
           </div>

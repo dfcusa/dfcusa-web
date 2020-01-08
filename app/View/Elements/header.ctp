@@ -22,7 +22,7 @@
             <a class="nav-link" href="/pages/get-started">Get Started</a>
           </li>
           <li class="nav-item hide-mobile <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/dfcusa-pm/sprints">Project Ideas</a>
+            <a class="nav-link" href="/dfcusa-pm/dashboard#catalog">Project Ideas</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/about-us">About Us</a>
@@ -35,9 +35,9 @@
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
-          <a href="/dfcusa-pm/projects" class="web-portal">Your Dashboard</a>
+          <a href="/dfcusa-pm/dashboard" class="web-portal">Your Dashboard</a>
           <div class="dropdown-content">
-            <a href="/dfcusa-pm/projects">Sprints and Projects</a>
+            <a href="/dfcusa-pm/dashboard">Sprints and Projects</a>
             <a href="/dfcusa-pm/activities">Activities</a>
             <a href="/dfcusa-pm/logout">Logout</a>
           </div>
