@@ -28,7 +28,7 @@
           <div class="number-box"><div class="number-list">1</div>Design Thinking Definitions</div>
           <div class="text-block">
             <p>
-              <img src="/dfcusa-web/app/webroot/images/design-thinking/education-12.png">
+              <img src="/dfcusa-web/app/webroot/img/design-thinking/education-12.png">
               <b>What is Design Thinking?</b>
               <br>Design thinking is a solutions-based, creative process used to address challenges. Design thinking is rooted in empathy and driven by ongoing feedback, reflection and iteration.
               <br><br><b>What is the Design Thinking process?</b>
@@ -49,7 +49,7 @@
           <div class="number-box"><div class="number-list">2</div>Why Design Thinking?</div>
           <div class="text-block">
             <p>
-              <img src="/dfcusa-web/app/webroot/images/design-thinking/education-6.png" class="left">
+              <img src="/dfcusa-web/app/webroot/img/design-thinking/education-6.png" class="left">
               <b>You are a designer.</b> Educators design classroom space and activities, lessons, and learning experiences for their students daily.  
               <br><br><b>Your students are designers.</b> Students have the same capacity for critical thinking, collaboration and creation.
               <br><br><b>Design thinking fosters changemaking.</b> Through design thinking, educators and students have the tools to investigate social challenges and create meaningful change in their local community.
@@ -66,7 +66,7 @@
           <div class="number-box"><div class="number-list">3</div>How Can I Get Set Up?</div>
           <div class="text-block">
             <p>
-              <img src="/dfcusa-web/app/webroot/images/design-thinking/education-9.png" style="margin-bottom: 300px; margin-top: 0px; margin-left: 40px">
+              <img src="/dfcusa-web/app/webroot/img/design-thinking/education-9.png" style="margin-bottom: 300px; margin-top: 0px; margin-left: 40px">
               <b>Select a social challenge.</b> Consider the social challenges that are most relevant in your local community.
               <br><br><b>Engage community members.</b> Connect with and involve the individuals who are impacted by the challenge, inviting them into the process to share their perspective.
               <br><br><b>Immerse students.</b> Provide students the opportunity to research the challenge and potential solutions, investigate statistics and conduct community interviews.
@@ -89,7 +89,7 @@
           <div class="number-box"><div class="number-list">4</div>What Is Required Of Me?</div>
           <div class="text-block">
             <p>
-              <img src="/dfcusa-web/app/webroot/images/design-thinking/education-15.png" style="margin-bottom: 300px; margin-top: 10px;" class="left">
+              <img src="/dfcusa-web/app/webroot/img/design-thinking/education-15.png" style="margin-bottom: 300px; margin-top: 10px;" class="left">
               <b>Be optimistic.</b> Design thinking requires an optimistic and solutions-driven orientation as students tackle challenges and face setbacks.
               <br><br><b>Seek feedback.</b> The ongoing feedback of community members encourages students to adjust their approach and continuously increase the effectiveness of their solution.
               <br><br><b>Reflect regularly.</b> Critical reflection allows students to make meaning of every step of the design process. 

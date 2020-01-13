@@ -1,10 +1,8 @@
-<section class="inner-hero inside program" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
-    <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
+<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
-  	<h4><span>Young people</br>changing the world.</span></h4>
+    <h4 class="one-line"><span>Young people changing the world.</span></h4>
   </div>
 </section>
-
 
 <section class="page-content">
 	<div class="container">
@@ -12,9 +10,60 @@
       <div class="col-sm-12">
         <h2>An Innovative and Collaborative Experience</h2>
         <p>Design for Change equips young people to transform empathy into social action using 4 steps: <b>Feel, Imagine, Do, Share.</b>
-        <br/><br>
-        Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
+          <br/><br/>Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
         Students <b>brainstorm, plan,</b> and <b>execute</b> community change projects.</p>
+
+        <div class="program-icons">
+          <div class="row">
+            <div class="col-md-6 col-lg-6">
+              <div class="apply-block feel-block">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>Feel</h4>
+                <p>Students gather information about a community challenge through research and interviews.</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-6 photo-container">
+              <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="photo">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-lg-6">
+              <div class="apply-block imagine-block">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>IMAGINE</h4>
+                <p>Students work with community members to brainstorm points of possible solutions.</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-6 photo-container">
+              <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="photo">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-lg-6">
+              <div class="apply-block do-block">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>DO</h4>
+                <p>Teams develop and implement an action plan that results in lasting change.</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-6 photo-container">
+              <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="photo">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-lg-6">
+              <div class="apply-block share-block">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                <h4>SHARE</h4>
+                <p>Teams share their story to generate awareness and inspire others to act.</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-6 photo-container">
+              <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="photo">
+            </div>
+          </div>
+        </div>
+
         <table class="table program-list">
           <tr valign="top">
             <td width="15%"><b>Who:</b></td><td>Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)</td>
@@ -47,43 +96,6 @@
             </div>
           </div>
         </section>
-      </div>
-    </div>
-    <div class="row">
-    	<div class="col-sm-12">
-        <h2>The Methodology</h2>
-        <div class="apply-icons">
-          <div class="row">
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>Feel</h4>
-                <p>Teams gather information about a community challenge through research and interviews.</p>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>IMAGINE</h4>
-                <p>Teams work with community members to brainstorm points of possible solutions.</p>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>DO</h4>
-                <p>Teams develop and implement an action plan that results in lasting change.</p>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>SHARE</h4>
-                <p>Teams share their story to generate awareness and inspire others to act.</p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

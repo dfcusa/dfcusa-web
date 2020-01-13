@@ -104,7 +104,7 @@ header {
     font-weight: 700;
     color: #575757;
     text-transform: uppercase;
-    margin: 0 0 0 27px;
+    margin: 0 0 0 40px;
     line-height: 24px;
     border-bottom: 3px solid #fff;
     padding: 0; }
@@ -248,17 +248,21 @@ header {
     margin: 0 0 20px 0; }
 
 .endorsed-logos {
-  margin-left: 60px; }
-  .endorsed-logos a {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  text-align: center;
+  padding-top: 55px; }
+  .endorsed-logos .logo {
     display: inline-block;
     width: 13%;
     height: 100%;
     padding: 0 20px;
     border-right: 1px solid #ddd; }
-    .endorsed-logos a:last-child {
+    .endorsed-logos .logo:last-child {
       border-right: none; }
-  .endorsed-logos img {
-    width: 100px; }
+    .endorsed-logos .logo img {
+      width: 100px; }
 
 .design-change {
   padding: 80px 0;
@@ -336,36 +340,59 @@ header {
     color: #575757;
     padding: 0 5%; }
 
-.apply-icons {
+.home-icons {
   float: left;
   width: 100%;
-  margin: 0 0 0px 0; }
+  margin: 10px 0 0px 0; }
+  .home-icons .apply-block {
+    float: left;
+    width: 100%;
+    text-align: center; }
+    .home-icons .apply-block img {
+      padding-bottom: 30px;
+      width: 70%; }
 
-.apply-block {
+.program-icons {
   float: left;
   width: 100%;
-  text-align: center; }
-  .apply-block img {
-    padding: 20px 40px;
-    width: 100%; }
-  .apply-block h4 {
+  margin: 80px 0 0px 0; }
+  .program-icons .row {
+    margin-bottom: 50px !important; }
+    .program-icons .row .photo-container {
+      text-align: center; }
+      .program-icons .row .photo-container .photo {
+        border-radius: 100px;
+        width: 350px;
+        border: 4px solid #c1c1c1; }
+  .program-icons .apply-block {
     float: left;
     width: 100%;
-    font-size: 36px;
-    font-weight: 800;
-    color: #333;
-    margin: 0 0 10px 0;
-    text-transform: uppercase; }
-  .apply-block h5 {
-    float: left;
-    width: 100%;
-    font-size: 18px;
-    font-weight: 400;
-    color: #333; }
-  .apply-block p {
-    font-size: 18px !important;
-    font-weight: 100;
-    line-height: 25px !important; }
+    text-align: center; }
+    .program-icons .apply-block img {
+      padding: 20px 40px;
+      width: 45%; }
+    .program-icons .apply-block h4 {
+      float: left;
+      width: 100%;
+      font-size: 36px;
+      font-weight: 800;
+      color: #333;
+      margin: 0 0 10px 0;
+      text-transform: uppercase; }
+    .program-icons .apply-block h5 {
+      float: left;
+      width: 100%;
+      font-size: 18px;
+      font-weight: 400;
+      color: #333; }
+    .program-icons .apply-block p {
+      font-size: 18px !important;
+      font-weight: 100;
+      line-height: 25px !important;
+      width: 100%;
+      padding-left: 60px;
+      text-align: center;
+      padding-right: 60px; }
 
 .feel-block h4, .feel-block h5 {
   color: #EF3934; }
@@ -534,7 +561,7 @@ header {
   border-radius: 3px;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.16);
   color: #666;
-  margin-bottom: 95px; }
+  margin-bottom: 15px; }
   .generic-block.no-bottom {
     margin-bottom: 10px; }
   .generic-block .generic-inner {
@@ -618,9 +645,8 @@ header {
     color: #118FEB; }
 
 .not-sure {
-  padding: 80px 0 0 0;
+  padding: 50px 0 50px 0;
   text-align: center;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ebf5fd+52,e4f1fc+100 */
   background: #ffffff;
   /* Old browsers */
   background: -moz-linear-gradient(top, #ffffff 0%, #ebf5fd 52%, #e4f1fc 100%);
@@ -639,48 +665,45 @@ header {
     /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom, #ffffff 0%, #ebf5fd 100%, #e4f1fc 52%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ }
-  .not-sure.tight {
-    padding-top: 0px; }
-
-.not-sure span {
-  float: left;
-  width: 100%;
-  text-align: center;
-  margin: 0 0 30px 0; }
-.not-sure h2 {
-  float: left;
-  width: 100%;
-  margin: 0 0 20px 0;
-  font-size: 38px;
-  font-weight: 800;
-  color: #ED1651; }
-.not-sure p {
-  float: left;
-  width: 100%;
-  font-size: 21px;
-  font-weight: 400;
-  line-height: 40px;
-  color: #575757;
-  margin: 0 0 50px 0; }
-.not-sure a {
-  margin: auto;
-  display: table;
-  font-size: 23px;
-  font-weight: 700;
-  padding: 15px 40px;
-  color: #ED1651;
-  text-transform: uppercase;
-  background: #fff;
-  border-radius: 30px;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3); }
-  .not-sure a:hover {
-    background: #ED1651;
-    color: #fff; }
-.not-sure .highlight-image {
-  width: 500px; }
-.not-sure .highlights li {
-  font-size: 20px;
-  margin-bottom: 5px; }
+  .not-sure span {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 0 0 30px 0; }
+  .not-sure h2 {
+    float: left;
+    width: 100%;
+    margin: 0 0 20px 0;
+    font-size: 38px;
+    font-weight: 800;
+    color: #ED1651; }
+  .not-sure p {
+    float: left;
+    width: 100%;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #575757;
+    margin: 0 0 50px 0; }
+  .not-sure a {
+    margin: auto;
+    display: table;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 15px 40px;
+    color: #ED1651;
+    text-transform: uppercase;
+    background: #fff;
+    border-radius: 30px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3); }
+    .not-sure a:hover {
+      background: #ED1651;
+      color: #fff; }
+  .not-sure .highlight-image {
+    width: 500px; }
+  .not-sure .highlights li {
+    font-size: 20px;
+    margin-bottom: 5px; }
 
 .not-sure-img {
   float: left;
@@ -1245,6 +1268,8 @@ footer {
   height: 25px; }
 .inner-hero.inside {
   height: 225px; }
+.inner-hero.one-line {
+  height: 150px; }
 .inner-hero.just-title {
   height: 200px; }
 .inner-hero img {
@@ -1277,7 +1302,7 @@ footer {
     top: 36%; }
 
 .page-content {
-  margin: 50px 0; }
+  margin: 20px 0; }
   .page-content h2 {
     float: left;
     width: 100%;
@@ -1766,7 +1791,7 @@ footer {
     width: 35%;
     text-align: center; }
     .home-block .pathway-img img {
-      max-width: 50%;
+      max-width: 40%;
       margin-left: 30px; }
   .home-block .block-det {
     width: 65%;
@@ -1776,7 +1801,7 @@ footer {
       margin: 10px 0 0 0;
       border-color: #76B117; }
     .home-block .block-det p {
-      font-size: 25px;
+      font-size: 20px;
       padding: 15px 0 0;
       margin: 0 0 30px 0;
       min-height: inherit; }

@@ -1,5 +1,4 @@
-<section class="inner-hero inside get-started" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
-    <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
+<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
   	<h4 class="one-line"><span>Change starts with you.</span></h4>
   </div>
@@ -127,7 +126,7 @@
         <div class="col-lg-6">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/curriculum_cover_new.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/curriculum_cover_new.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Student Guide</h3>
@@ -140,7 +139,7 @@
       <!--   <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/curriculum_cover.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/curriculum_cover.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Global Story Book</h3>
@@ -153,7 +152,7 @@
         <div class="col-lg-6">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/teachersguide_small.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/teachersguide_small.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Teacher's Manual</h3>
