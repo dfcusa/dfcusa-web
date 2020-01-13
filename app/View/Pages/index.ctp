@@ -95,7 +95,6 @@
       <div class="row">
         <div class="col-sm-12">
           <h2>What We Do</h2>
-          <p>Choose a pathway to join the DFC movement:</p>
         </div>
       </div>
     </div>

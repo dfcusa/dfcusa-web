@@ -577,11 +577,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     background: transparent;
     border-radius: 30px;
     border: 2px solid #fff;
-    &:hover {
-      opacity: 0.8;
-      box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.75);
-      color: #000;
-    }
     &.inverse {
       color: #666;
     }
@@ -642,7 +637,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     border-color: #B20977;
   }
   a:hover {
-    color: #e23ea9;
+    color: #000;
     margin-top: 20px;
   }
 }
@@ -661,7 +656,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     border-color: #666;
   }
   a:hover {
-    color: #e23ea9;
+    color: #000;
   }
   p {
     font-size: 15px;
@@ -679,7 +674,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     border-color: #EF3934;
   }
   a:hover {
-    color: #ff5e17;
+    color: #000;
   }
 }
 
@@ -691,7 +686,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     border-color: #04A8CC;
   }
   a:hover {
-    color: #02C2ED;
+    color: #000;
   }
 }
 
@@ -703,7 +698,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
     border-color: #04A8CC;
   }
   a:hover {
-    color: #118FEB;
+    color: #000;
   }
 }
 
@@ -1078,7 +1073,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ccc1e', end
 
 
 
-.newsletter { padding:50px 0;}
+.newsletter { padding: 0px 0;}
 .newsletter-inner {  box-shadow:0 3px 6px rgba(0,0,0,0.3); border-radius:5px; padding:20px;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#19d0f4+0,a0ebf7+50,69e2ff+100 */
 background: #19d0f4; /* Old browsers */
@@ -2424,16 +2419,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
     font-size: 16px;
     font-weight: 700;
     padding: 10px 40px;
-    color: #575757;
-    text-transform: none;
-    background: #fff;
+    color: #FFF;
+    text-transform: uppercase;
+    background-color: #e3003e;
     border-radius: 30px;
     margin-top: 25px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
-    background-color: #ffeded;
     &:hover {
       background: #ED1651;
       color: #fff;
+    }
+    a {
+      color: #FFF;
+      text-decoration: none;
     }
   }
 }
