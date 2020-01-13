@@ -1,7 +1,7 @@
 <section class="inner-hero inside resources" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h4><span>Resources designed</br>for all educators.</span></h4>
+    <h4 class="one-line"><span>Resources designed</br>for all educators.</span></h4>
   </div>
 </section>
 
@@ -41,7 +41,7 @@
         <div class="col-sm-12">
           <h2>Start Your Project</h2>
           <p>Use our web portal to get started with your project and learn about the Design for Change process.</p>
-          <img src="/dfcusa-web/app/webroot/images/portal.png" class="highlight-image">
+          <img src="/dfcusa-web/app/webroot/img/portal.png" class="highlight-image">
           <p>
             <ul class="highlights">
               <li>Create and manage projects through each step in the process.</li>
@@ -73,7 +73,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/curriculum_cover_new.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/curriculum_cover_new.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Student Guide</h3>
@@ -86,7 +86,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/curriculum_cover.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/curriculum_cover.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Global Story Book</h3>
@@ -99,7 +99,7 @@
         <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/images/teachersguide_small.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/teachersguide_small.png" height="150">
             </div>
             <div class="pathway-det">
               <h3>Design for Change Teacher's Guide</h3>

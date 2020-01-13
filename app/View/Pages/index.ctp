@@ -19,13 +19,12 @@
       <div class="col-sm-12">
         <h3>Supporters of Design for Change Global and DFC USA...</h3>
       <div class="endorsed-logos">
-          <a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_befearlessbekind.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ashokachange_v@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_dschool@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.cityyear.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_city_year.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_befearlessbekind.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ashokachange_v@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_dschool@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
         </div>
       </div>
     </div>
@@ -41,7 +40,7 @@
         <p>Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
       </div>
 
-      <div class="apply-icons">
+      <div class="home-icons">
         <div class="row">
           <div class="col-md-3 col-lg-3">
             <div class="apply-block feel-block">
@@ -77,30 +76,13 @@
   </div>
 </section>
 
-<!--         <div class="design-change-video">
-          <iframe width="995" height="560" src="https://www.youtube.com/embed/MkVYu-ZvDR8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
- -->
-
-<!-- <section class="apply-dfc">
-	<div class="container">
-  	<div class="apply-dfc-head">
-      <div class="row">
-        <div class="col-sm-12">
-          <h2>The Design for Change Framework</h2>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
- -->
 <section class="apply-dfc">
   <div class="container">
     <div class="pathway-block home-block inverse">
       <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">Young people use the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to guide their projects and focus on high impact issues in their community.</p>
+        <p class="inverse">Design for Change is aligned with the UN Sustainable Global Goals. Young people use the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to guide their projects and focus on high impact issues in their community.</p>
       </div>
     </div>
   </div>
@@ -184,11 +166,8 @@
         <div class="col-sm-12">
         	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h2>Wondering where to begin?</h2>
-          <p>Contact us and we'll help you get started.</p>
-          <a href="/pages/contact-us">CONTACT US TO GET STARTED</a>
-          <div class="not-sure-img">
-          	<img src="/dfcusa-web/app/webroot/pics/15276226498_56d159e927_k.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-          </div>
+          <p>Check out some inspiring stories to get a feel for how it works.</p>
+          <a href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
         </div>
     </div>
   </div>
@@ -278,7 +257,7 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid">
+  <div class="container-fluid hide">
     <div class="row">
       <div class="col-sm-12">
         <div class="world-map">
@@ -289,7 +268,7 @@
   </div>
 </section>
 
-<section class="awards-area">
+<section class="awards-area hide">
 	<div class="container">
     <div class="row">
       <div class="col-sm-12">

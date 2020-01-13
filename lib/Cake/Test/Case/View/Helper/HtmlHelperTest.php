@@ -294,7 +294,7 @@ class HtmlHelperTest extends CakeTestCase {
 			'controller' => 'images', 'action' => 'view', 3, '?' => array('height' => 100, 'width' => 200)
 		));
 		$expected = array(
-			'a' => array('href' => '/images/view/3?height=100&amp;width=200'),
+			'a' => array('href' => '/img/view/3?height=100&amp;width=200'),
 			'Original size',
 			'/a'
 		);

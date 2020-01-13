@@ -23,7 +23,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <title>Design for Change - USA</title>
-<link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/images/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>

@@ -1,5 +1,4 @@
-<section class="inner-hero inside about-us hide-mobile" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_kids.png'); background-size: 100%">
-  <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"> -->
+<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
     <h4 class="one-line"><span>Empowering young people to become agents of change.</span></h4>
   </div>
@@ -15,8 +14,13 @@
         <p></p>
         <p class="big">Young people are not helpless. Change is possible. They can drive it!</p>
         
-        <hr>
+        <div class="interested-dfc" style="margin-top: 20px">
+          <h3 style="color: #fff">What is the Design for Change?</h3>
+          <p>DFC equips young people to transform empathy into social action using a simple framework. <br/><br/> Educators use DFC to facilitate a design process that fosters empathy and student agency. <br/><br/> Students brainstorm, plan, and execute community change projects..</p>
+          <a href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
+        </div>
 
+        <hr>
         <p class="hide-mobile"></p><p class="hide-mobile"></p>
         <h4>A framework for addressing the UN Global Goals</h4>
         <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.</p>
@@ -160,13 +164,13 @@
             </div>            
             <div class="col-sm-3">
               <div class="member-block">
-                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/orlandosharpe.png" alt="img" class="img-fluid"></div>
+                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/champions/carolinemitchell.png" alt="img" class="img-fluid"></div>
                 <div class="member-det">
-                  <div class="member-name">Orlando Sharpe</div>
+                  <div class="member-name">Caroline Mitchell</div>
                   <span>
-                    STEM Catalyst<br/>YMCA Community Development<br/>
+                    Executive Director of the Community Development<br/>YMCA, Gateway Region<br/>
                     <i>St. Louis, MO</i>
-                    <a href="https://about.me/sosharpe" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
+                    <a href="https://www.linkedin.com/in/caroline-mitchell-55715658/" target="_new"><i class="fab fa-linkedin"></i>&nbsp;More Info</a>
                   </span>
                 </div>
               </div>
@@ -179,18 +183,6 @@
         <h4>Our Board of Directors</h4>
         <div class="team-area">
           <div class="row">
-            <div class="col-sm-4">
-              <div class="member-block">
-                <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/christianlong.png" alt="img" class="img-fluid"></div>
-                <div class="member-det">
-                  <div class="member-name">Christian Long</div>
-                  <span>
-                    Co-Founder <br>
-                    <a href="https://www.linkedin.com/in/christianadamslong" target="_new">Wonder: A Learning and Design Expedition <br/> (Columbus, OH)</a>
-                  </span>
-                </div>
-              </div>
-            </div>
             <div class="col-sm-4">
               <div class="member-block">
                 <div class="member-img"><img src="/dfcusa-web/app/webroot/img/team/adampisoni.png" alt="img" class="img-fluid"></div>

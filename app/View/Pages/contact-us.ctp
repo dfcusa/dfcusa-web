@@ -1,7 +1,6 @@
-<section class="inner-hero inside contact-us" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
-    <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
+<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
-    <h4><span>Say "Hello",</br>we would love to hear from you.</span></h4>
+    <h4 class="one-line"><span>Reach out, we're here to help.</span></h4>
   </div>
 </section>
 

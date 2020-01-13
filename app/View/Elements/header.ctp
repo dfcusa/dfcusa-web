@@ -15,23 +15,17 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/program">How It Works</a>
           </li>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
+            <a class="nav-link" href="/pages/get-started">Getting Started</a>
+          </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/stories">Real Stories</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/get-started">Get Started</a>
-          </li>
-          <li class="nav-item hide-mobile <?php if (strpos($_SERVER['REQUEST_URI'], 'dfcusa-pm') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/dfcusa-pm/dashboard#catalog">Project Ideas</a>
+          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
+            <a class="nav-link" href="https://blog.designforchange.us/tag/blog/">What's New</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/about-us">About Us</a>
-          </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'contact') > -1) { ?>active<?php } ?> hide">
-            <a class="nav-link" href="/pages/contact-us">Contact</a>
-          </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://blog.designforchange.us/tag/blog/">Our Blog</a>
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
