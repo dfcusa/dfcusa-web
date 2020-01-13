@@ -105,7 +105,7 @@
       <div class="col-sm-12">
         <h2>Schedule a workshop</h2>
         <p>Choose to learn remotely or on-site.</p>
-        <a href="/pages/contact-us?ref=coaching">CONTACT US</a>
+        <a class="button" href="/pages/contact-us?ref=coaching">CONTACT US</a>
       </div>
     </div>
   </div>

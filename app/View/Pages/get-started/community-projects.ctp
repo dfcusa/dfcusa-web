@@ -103,7 +103,7 @@
       <div class="col-sm-12">
         <h2>Start your project</h2>
         <p>Browse the activities we offer.</p>
-        <a href="/dfcusa-pm/activities">SEE ACTIVITIES</a>
+        <a class="button" href="/dfcusa-pm/activities">SEE ACTIVITIES</a>
       </div>
     </div>
   </div>
