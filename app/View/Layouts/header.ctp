@@ -42,7 +42,6 @@
 <?php echo $this->element('header_raw') ?>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="/dfcusa-web/app/webroot/js/aos.js"></script>
 <script src="/dfcusa-web/app/webroot/js/lity.js"></script>

@@ -21,6 +21,9 @@
         gtag('event', eventStr);
       }
     </script>
+
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0091/8382.js" async="async"></script>
+
   <?php } else { ?>
     <script>
       function gaEvent(eventStr) {
@@ -33,8 +36,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <meta name="description" content="">
   <meta name="author" content="">
-
-  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0091/8382.js" async="async"></script>
 
   <title>Design for Change - USA</title>
   <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
@@ -66,7 +67,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php echo $this->element('footer'); ?>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="/dfcusa-web/app/webroot/js/aos.js"></script>
 <script src="/dfcusa-web/app/webroot/js/lity.js"></script>
