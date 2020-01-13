@@ -33,6 +33,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <meta name="description" content="">
   <meta name="author" content="">
+
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0091/8382.js" async="async"></script>
+
   <title>Design for Change - USA</title>
   <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
