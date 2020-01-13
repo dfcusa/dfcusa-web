@@ -22,7 +22,6 @@
       }
     </script>
 
-    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0091/8382.js" async="async"></script>
 
   <?php } else { ?>
     <script>
