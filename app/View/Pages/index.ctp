@@ -166,7 +166,7 @@
         	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
           <h2>Wondering where to begin?</h2>
           <p>Check out some inspiring stories to get a feel for how it works.</p>
-          <a href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
+          <a class="button" href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
         </div>
     </div>
   </div>
@@ -220,14 +220,14 @@
 <div class="interested-dfc" style="margin-top: 10px">
   <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
   <p>Learn about our impact in the 2018 / 2019 school year</p>
-  <a href="https://docs.google.com/gview?url=https://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20-%20Infographic%20-%202019.pdf" target="_new">VIEW OUR 2018-2019 IMPACT INFOGRAPHIC</a>
+  <a href="/dfcusa-pm/pages/impact">OUR IMPACT ANALYSIS</a>
 </div>
 
 <section class="global-impact">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2>Our Global Impact</h2>
+        <h2>We Are Global</h2>
         <p>Design for Change spans 6 continents.</p>
       </div>
     </div>
@@ -353,6 +353,19 @@
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="not-sure inverse" style="height: 300px">
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+          <h2>Best of All, Our Resources Are Free!</h2>
+          <a href="/pages/get-started" class="button inverse">CHECK OUT NEXT STEPS</a>
+          <br/><br/>
+          <p>Design for Change USA is a 501(c)(3) non-profit organization. <a class="normal" href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
+        </div>
     </div>
   </div>
 </section>

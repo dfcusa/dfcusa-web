@@ -103,7 +103,7 @@
       <div class="col-sm-12">
         <h2>Kickstart Your Project</h2>
         <p>Get your class started in minutes.</p>
-        <a href="/dfcusa-pm/dashboard#catalog">SEE DESIGN SPRINT IDEAS</a>
+        <a class="button" href="/dfcusa-pm/dashboard#catalog">SEE DESIGN SPRINT IDEAS</a>
       </div>
     </div>
   </div>

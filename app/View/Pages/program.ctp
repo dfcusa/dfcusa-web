@@ -1,6 +1,6 @@
 <section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
-    <h4 class="one-line"><span>Young people changing the world.</span></h4>
+    <h4 class="one-line"><span>A framework for changing the world.</span></h4>
   </div>
 </section>
 
@@ -142,4 +142,14 @@
   </div>
 </section>
 
-<?php echo $this->element('newsletter'); ?>
+<section class="not-sure inverse">
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+          <span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
+          <h2>Ready to move forward? It's free...</h2>
+          <a href="/pages/get-started" class="button inverse">CHECK OUT NEXT STEPS</a>
+        </div>
+    </div>
+  </div>
+</section>

@@ -1,7 +1,7 @@
 <section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-  	<h4 class="one-line"><span>Design Thinking in the Classroom</span></h4>
+  	<h4 class="one-line"><span>Design thinking in your classroom.</span></h4>
   </div>
 </section>
 

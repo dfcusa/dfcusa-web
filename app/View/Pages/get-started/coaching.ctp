@@ -106,7 +106,7 @@
       <div class="col-sm-12">
         <h2>Let's get started</h2>
         <p>Contact us about our coaching services.</p>
-        <a href="/pages/contact-us?ref=coaching">CONTACT US</a>
+        <a class="button" href="/pages/contact-us?ref=coaching">CONTACT US</a>
       </div>
     </div>
   </div>
