@@ -543,10 +543,6 @@ header {
     background: transparent;
     border-radius: 30px;
     border: 2px solid #fff; }
-    .pathway-det a:hover {
-      opacity: 0.8;
-      box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.75);
-      color: #000; }
     .pathway-det a.inverse {
       color: #666; }
     .pathway-det a.big {
@@ -596,7 +592,7 @@ header {
   .workshop-block h3 {
     border-color: #B20977; }
   .workshop-block a:hover {
-    color: #e23ea9;
+    color: #000;
     margin-top: 20px; }
 
 .store-block {
@@ -611,7 +607,7 @@ header {
     color: #666;
     border-color: #666; }
   .store-block a:hover {
-    color: #e23ea9; }
+    color: #000; }
   .store-block p {
     font-size: 15px;
     color: #666; }
@@ -624,7 +620,7 @@ header {
   .sprint-block h3 {
     border-color: #EF3934; }
   .sprint-block a:hover {
-    color: #ff5e17; }
+    color: #000; }
 
 .projects-block {
   background: #02C2ED;
@@ -633,7 +629,7 @@ header {
   .projects-block h3 {
     border-color: #04A8CC; }
   .projects-block a:hover {
-    color: #02C2ED; }
+    color: #000; }
 
 .coaching-block {
   background: #118FEB;
@@ -642,7 +638,7 @@ header {
   .coaching-block h3 {
     border-color: #04A8CC; }
   .coaching-block a:hover {
-    color: #118FEB; }
+    color: #000; }
 
 .not-sure {
   padding: 50px 0 50px 0;
@@ -966,7 +962,7 @@ header {
   background: #0ccdf8; }
 
 .newsletter {
-  padding: 50px 0; }
+  padding: 0px 0; }
 
 .newsletter-inner {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
@@ -2103,16 +2099,18 @@ footer {
     font-size: 16px;
     font-weight: 700;
     padding: 10px 40px;
-    color: #575757;
-    text-transform: none;
-    background: #fff;
+    color: #FFF;
+    text-transform: uppercase;
+    background-color: #e3003e;
     border-radius: 30px;
     margin-top: 25px;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
-    background-color: #ffeded; }
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3); }
     .design-thinking-box button:hover {
       background: #ED1651;
       color: #fff; }
+    .design-thinking-box button a {
+      color: #FFF;
+      text-decoration: none; }
 
 .show-only-mobile {
   display: none; }
