@@ -89,6 +89,20 @@
 </section>
 
 
+<section class="latest-news">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+          <h2>Latest News & Updates</h2>
+      </div>
+    </div>    
+    <div class="row news-posts">
+      
+    </div>
+  </div>
+</section>
+
+
 <section class="get-started">
 	<div class="container">
     <div class="get-started-head">
@@ -158,7 +172,6 @@
   </div>
 </section>
 
-
 <section class="not-sure">
 	<div class="container">
     <div class="row">
@@ -214,19 +227,6 @@
         </div>
       </div>
     </div>  
-  </div>
-</section>
-
-<section class="latest-news">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-          <h2>Latest News & Updates</h2>
-      </div>
-    </div>    
-    <div class="row news-posts">
-      
-    </div>
   </div>
 </section>
 
