@@ -1,7 +1,6 @@
-<section class="inner-hero inside professional-development" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
-    <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
+<section class="inner-hero inside professional-development one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%">
   <div class="container">
-    <h1><span>WORKSHOPS</span></h1>
+    <h4 class="one-line"><span>Workshops</span></h4>
   </div>
 </section>
 
@@ -23,7 +22,7 @@
           </div>
         </div>
 
-        <div class="apply-icons">
+        <div class="home-icons">
           <div class="row">
             <div class="col-md-3 col-lg-3">
               <div class="apply-block feel-block">
