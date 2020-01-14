@@ -7,46 +7,43 @@
 </section>
 
 <section class="page-content" style="padding: 0px; margin: 0px; text-align: center;">
-  <canvas id="the-canvas" style="margin-left: auto; margin-right: auto; width: 50%;"></canvas>
+  <div id="the-canvas" style="margin-left: auto; margin-right: auto; width: 100%; height: 2800px;">
+    
+  </div>
 </section>
 
 <script>
-  var url = '/dfcusa-web/app/webroot/files/Design%20for%20Change%20-%20Infographic%20-%202019.pdf';
-  var pdfjsLib = window['pdfjs-dist/build/pdf'];
-  pdfjsLib.GlobalWorkerOptions.workerSrc = '/dfcusa-web/app/webroot/js/pdf/pdf.worker.js';
-
-  var loadingTask = pdfjsLib.getDocument(url);
-  loadingTask.promise.then(function(pdf) {
-    console.log('PDF loaded');
-    
-    // Fetch the first page
-    var pageNumber = 1;
-    pdf.getPage(pageNumber).then(function(page) {
-      console.log('Page loaded');
+  function renderPDF(url, canvasContainer, options) {
+    var options = options || { scale: 2 };
+        
+    function renderPage(page) {
+      var viewport = page.getViewport(options.scale);
+      var canvas = document.createElement('canvas');
+      var ctx = canvas.getContext('2d');
+      var renderContext = {
+        canvasContext: ctx,
+        viewport: viewport
+      };
       
-      var scale = 0.5;
-      var viewport = page.getViewport({scale: scale});
-
-      // Prepare canvas using PDF page dimensions
-      var canvas = document.getElementById('the-canvas');
-      var context = canvas.getContext('2d');
       canvas.height = viewport.height;
       canvas.width = viewport.width;
 
-      // Render PDF page into canvas context
-      var renderContext = {
-        canvasContext: context,
-        viewport: viewport
-      };
-      var renderTask = page.render(renderContext);
-      renderTask.promise.then(function () {
-        console.log('Page rendered');
-      });
-    });
-  }, function (reason) {
-    // PDF loading error
-    console.error(reason);
-  });
-</script>
+      canvasContainer.appendChild(canvas);
+      
+      page.render(renderContext);
+    }
+    
+    function renderPages(pdfDoc) {
+      for(var num = 1; num <= pdfDoc.numPages; num++)
+        pdfDoc.getPage(num).then(renderPage);
+    }
 
-<?php echo $this->element('newsletter'); ?>
+    var PDFJS = window['pdfjs-dist/build/pdf'];
+    PDFJS.GlobalWorkerOptions.workerSrc = '/dfcusa-web/app/webroot/js/pdf/pdf.worker.js';
+
+    PDFJS.disableWorker = true;
+    PDFJS.getDocument(url).then(renderPages);
+  }
+
+  renderPDF('/dfcusa-web/app/webroot/files/Design for Change USA - Impact Analysis (for web).pdf', document.getElementById('the-canvas'));
+</script>

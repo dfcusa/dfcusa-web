@@ -37,6 +37,8 @@
 	 	}
  	}
 
+
+	Router::connect('/api/posts', array('controller' => 'pages', 'action' => 'getPosts'));
 	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'index'));
 //	Router::connect('/stories', array('controller' => 'pages', 'action' => 'display', 'stories'));
 

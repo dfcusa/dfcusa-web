@@ -49,6 +49,17 @@
   <link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
   <link href="/dfcusa-web/app/webroot/css/style.css?version=1.7" rel="stylesheet">
   <link href="/dfcusa-web/app/webroot/css/responsive.css?version=1.98" rel="stylesheet">
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" type="text/javascript"></script>
+  
+  <script src="/dfcusa-web/app/webroot/js/moment.js" type="text/javascript"></script>  
+  <script src="/dfcusa-web/app/webroot/js/underscore-min.js" type="text/javascript"></script>
+  <script src="/dfcusa-web/app/webroot/js/aos.js" type="text/javascript"></script>
+  <script src="/dfcusa-web/app/webroot/js/lity.js" type="text/javascript"></script>
+  <script src="/dfcusa-web/app/webroot/js/jquery.cookie.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -64,11 +75,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <?php echo $this->element('footer'); ?>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="/dfcusa-web/app/webroot/js/aos.js"></script>
-<script src="/dfcusa-web/app/webroot/js/lity.js"></script>
-<script src="/dfcusa-web/app/webroot/js/jquery.cookie.js"></script>
 <script>
   AOS.init();
 

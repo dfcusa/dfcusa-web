@@ -85,4 +85,28 @@ class PagesController extends AppController {
 		$this->layout = 'footer';
 		$this->render('blank');
 	}
+
+	public function getPosts() {
+		$this->autoRender = false;
+		$this->response->type('application/json');
+
+		$curl = curl_init();
+
+		curl_setopt_array($curl, array(
+		  CURLOPT_URL => 'https://design-for-change-usa.ghost.io/ghost/api/v3/content/posts/?key=cb10cbffebdbaa132be9d68acc&limit=3',
+		  CURLOPT_RETURNTRANSFER => true,
+		  CURLOPT_ENCODING => "",
+		  CURLOPT_MAXREDIRS => 10,
+		  CURLOPT_TIMEOUT => 30,
+		  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+		  CURLOPT_CUSTOMREQUEST => "GET",
+		  CURLOPT_HTTPHEADER => array(
+		    "content-type: application/json"
+		  ),
+		));
+
+		$response = curl_exec($curl);
+		curl_close($curl);
+		echo json_encode(json_decode($response, true));
+	}
 }
