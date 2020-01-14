@@ -217,6 +217,19 @@
   </div>
 </section>
 
+<section class="latest-news">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+          <h2>Latest News & Updates</h2>
+      </div>
+    </div>    
+    <div class="row news-posts">
+      
+    </div>
+  </div>
+</section>
+
 <div class="interested-dfc" style="margin-top: 10px">
   <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
   <p>Learn about our impact in the 2018 / 2019 school year</p>
@@ -291,72 +304,6 @@
   </div>
 </section>
 
-<section class="latest-news hide">
-	<div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-          <h2>Latest News & Updates</h2>
-      </div>
-    </div>    
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="post-block post-pink">
-          <div class="post-img"><img src="/dfcusa-web/app/webroot/img/img_blogpost_thumb_1.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-            <div class="post-brief">
-            	<span>30 AUGUST, 2018</span>
-              <a href="#" class="post-title">Teacher Training Workshop in the heart of the East Chicago</a>
-              <div class="post-counts">
-              	<div class="counts-left">
-                  	<a href="#"><i class="fas fa-heart"></i> 609</a>
-                      <a href="#"><i class="fas fa-comments"></i> 120</a>
-                  </div>
-                  <div class="counts-right">
-                  	<a href="#" class="post-share">Share</a>
-                  </div>
-              </div>
-            </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="post-block post-yellow">
-          <div class="post-img"><img src="/dfcusa-web/app/webroot/img/img_blogpost_thumb_2.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-            <div class="post-brief">
-            	<span>30 AUGUST, 2018</span>
-              <a href="#" class="post-title">Preparing your classroom space for Design for Change</a>
-              <div class="post-counts">
-              <div class="counts-left">
-              	<a href="#"><i class="fas fa-heart"></i> 609</a>
-                  <a href="#"><i class="fas fa-comments"></i> 120</a>
-              </div>
-              <div class="counts-right">
-              	<a href="#" class="post-share">Share</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="post-block post-blue">
-          <div class="post-img"><img src="/dfcusa-web/app/webroot/img/img_blogpost_thumb_3.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></div>
-          <div class="post-brief">
-          	<span>16 AUGUST, 2018</span>
-              <a href="#" class="post-title">How 4 easy steps have changed thousands of lives.</a>
-              <div class="post-counts">
-              	<div class="counts-left">
-                  <a href="#"><i class="fas fa-heart"></i> 609</a>
-                  <a href="#"><i class="fas fa-comments"></i> 120</a>
-                </div>
-                <div class="counts-right">
-                	<a href="#" class="post-share">Share</a>
-                </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="not-sure inverse" style="height: 300px">
   <div class="container">
     <div class="row">
@@ -371,3 +318,38 @@
 </section>
 
 <?php echo $this->element('newsletter'); ?>
+
+<script type="text/javascript">
+  $(function() {
+    $.get("/dfcusa-web/api/posts", function(data) {
+      data = JSON.parse(data);
+      var i = 0;
+      _.each(data.posts, function(post) {
+        i++;
+        if (i == 1) post.color = 'post-pink';
+        if (i == 2) post.color = 'post-yellow';
+        if (i == 3) post.color = 'post-blue';
+        post.date = moment(post.published_at).format('MMMM Do YYYY');
+        var template = Handlebars.compile($('#postTemplate').html());
+        var html = template(post);
+        console.log(post);
+        $('.news-posts').append(html);
+      });
+    });
+  });
+</script>
+
+<script type="text/x-handlebars-template" id="postTemplate">
+  <div class="col-lg-4">
+    <div class="post-block {{color}}">
+      <div class="post-img" style="background-image: url('{{feature_image}}'); background-size: 100%; background-repeat: no-repeat"></div>
+        <div class="post-brief">
+          <span>{{post}}</span>
+          <a href="{{url}}" target="_new" class="post-title">{{title}}</a>
+          <p class="description">{{custom_excerpt}}</p>
+          <div class="read-more"><a href="{{url}}" target="_new" class="read-more">Read more...</a></div>
+          <div class="date">{{date}}</date>
+        </div>
+    </div>
+  </div>
+</script>
