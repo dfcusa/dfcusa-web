@@ -80,7 +80,7 @@
 <section class="apply-dfc">
   <div class="container">
     <div class="pathway-block home-block inverse">
-      <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
+      <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
       <div class="block-det inverse">
         <h3 class="inverse">Global Goals&nbsp;</h3>
         <p class="inverse">Design for Change is aligned with the UN Sustainable Global Goals. Young people use the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to guide their projects and focus on high impact issues in their community.</p>
@@ -333,7 +333,6 @@
         post.date = moment(post.published_at).format('MMMM Do YYYY');
         var template = Handlebars.compile($('#postTemplate').html());
         var html = template(post);
-        console.log(post);
         $('.news-posts').append(html);
       });
     });
