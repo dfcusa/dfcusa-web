@@ -10,7 +10,7 @@
     height: 70px !important;
     margin: 0px; }
     .inner-hero h4 {
-      font-size: 18pt !important; }
+      font-size: 16pt !important; }
 
   .navbar .navbar-brand {
     width: 100px; }
@@ -39,7 +39,7 @@
     padding-top: 116px; }
 
   .hero {
-    height: 432px !important;
+    height: 370px !important;
     padding: 25px 0; }
     .hero h1 {
       font-size: 35px;
@@ -94,7 +94,7 @@
       padding: 0; }
 
   .home-block .block-det p {
-    font-size: 16px; }
+    font-size: 12px; }
 
   .design-change-video iframe {
     width: 430px; }
@@ -123,10 +123,10 @@
     margin: 0; }
 
   .apply-block {
-    margin: 0 0 0px 0; }
+    margin: 0 0 35px 0; }
     .apply-block img {
       padding: none;
-      width: 40%; }
+      width: 150px !important; }
     .apply-block h4 {
       font-size: 25px; }
     .apply-block h5 {
@@ -437,7 +437,7 @@
 
   /*Stories*/
   .interested-dfc {
-    padding: 50px 0; }
+    padding: 50px; }
     .interested-dfc ul {
       padding: 0 5%;
       margin: -90px 0 0 0; }
