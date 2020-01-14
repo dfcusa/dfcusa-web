@@ -19,12 +19,13 @@
       <div class="col-sm-12">
         <h3>Supporters of Design for Change Global and DFC USA...</h3>
       <div class="endorsed-logos">
-          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_befearlessbekind.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
-          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_globalgoals.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
-          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ideo_h.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
-          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_teach4america.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
-          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_ashokachange_v@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
-          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/logo_dschool@2x.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a></div>
+          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png" class="img-fluid"></a></div>
+          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png" class="img-fluid"></a></div>
         </div>
       </div>
     </div>
