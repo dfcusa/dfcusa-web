@@ -10550,3 +10550,25 @@ CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
 Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
 [main] - APP/webroot/index.php, line 92
 
+2020-01-14 22:38:03 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-14 22:42:28 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+

@@ -1,7 +1,7 @@
-<section class="inner-hero inside community-projects" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
+<section class="inner-hero inside community-projects one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
     <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
   <div class="container">
-    <h1><span>Community Projects</span></h1>
+    <h4 class="one-line""><span>Community Projects</span></h4>
   </div>
 </section>
 
@@ -23,7 +23,7 @@
           </div>
         </div>
 
-        <div class="apply-icons">
+        <div class="home-icons">
           <div class="row">
             <div class="col-md-3 col-lg-3">
               <div class="apply-block feel-block">
