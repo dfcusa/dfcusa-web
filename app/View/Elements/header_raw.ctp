@@ -9,35 +9,35 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item show-only-mobile">
-            <a class="nav-link" href="/" target="_self">Home</a>
+            <a class="nav-link" href="/" target="_parent">Home</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/program" target="_self">How It Works</a>
+            <a class="nav-link" href="/pages/program" target="_parent">How It Works</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/get-started" target="_self">Getting Started</a>
+            <a class="nav-link" href="/pages/get-started" target="_parent">Getting Started</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/stories" target="_self">Real Stories</a>
+            <a class="nav-link" href="/pages/stories" target="_parent">Real Stories</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="https://blog.designforchange.us/tag/blog/" target="_self">What's New</a>
+            <a class="nav-link" href="https://blog.designforchange.us/tag/blog/" target="_parent">What's New</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
-            <a class="nav-link" href="/pages/about-us" target="_self">About Us</a>
+            <a class="nav-link" href="/pages/about-us" target="_parent">About Us</a>
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
           <a href="/dfcusa-pm/dashboard" class="web-portal">Your Dashboard</a>
           <div class="dropdown-content">
-            <a href="/dfcusa-pm/dashboard" target="_self">Sprints and Projects</a>
-            <a href="/dfcusa-pm/activities" target="_self">Activities</a>
-            <a href="/dfcusa-pm/logout" target="_self">Logout</a>
+            <a href="/dfcusa-pm/dashboard" target="_parent">Sprints and Projects</a>
+            <a href="/dfcusa-pm/activities" target="_parent">Activities</a>
+            <a href="/dfcusa-pm/logout" target="_parent">Logout</a>
           </div>
         </div>
         <div class="account-menu login-nav hide">
-            <a href="/dfcusa-pm/login#register" target="_self">Sign Up</a>
-            <a href="/dfcusa-pm/login" target="_self">Login</a>
+            <a href="/dfcusa-pm/login#register" target="_parent">Sign Up</a>
+            <a href="/dfcusa-pm/login" target="_parent">Login</a>
           </div>
       </div>
     </nav>  	
