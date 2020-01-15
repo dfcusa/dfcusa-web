@@ -15,51 +15,41 @@
 
         <div class="program-icons">
           <div class="row">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-3">
               <div class="apply-block feel-block">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>Feel</h4>
                 <p>Students gather information about a community challenge through research and interviews.</p>
+                <br/>
+                <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="photo">
               </div>
             </div>
-            <div class="col-md-6 col-lg-6 photo-container">
-              <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="photo">
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-3">
               <div class="apply-block imagine-block">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>IMAGINE</h4>
                 <p>Students work with community members to brainstorm points of possible solutions.</p>
+                <br/>
+                <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="photo">
               </div>
             </div>
-            <div class="col-md-6 col-lg-6 photo-container">
-              <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="photo">
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-3 col-lg-3">
               <div class="apply-block do-block">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>DO</h4>
                 <p>Teams develop and implement an action plan that results in lasting change.</p>
+                <br/>
+                <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="photo">
               </div>
             </div>
-            <div class="col-md-6 col-lg-6 photo-container">
-              <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="photo">
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-3 col-lg-3">
               <div class="apply-block share-block">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
                 <h4>SHARE</h4>
                 <p>Teams share their story to generate awareness and inspire others to act.</p>
+                <br/>
+                <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="photo">
               </div>
-            </div>
-            <div class="col-md-6 col-lg-6 photo-container">
-              <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="photo">
             </div>
           </div>
         </div>
