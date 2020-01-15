@@ -28,7 +28,7 @@
           <img src="/dfcusa-web/app/webroot/img/img_globalgoals@2x.png" alt="img" class="img-fluid">
         </div>
 
-        <div class="interested-dfc">
+        <div class="interested-dfc hide">
           <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
           <p>Learn more about the organization, our work and the impact we make across the country every day.</p>
           <a href="https://docs.google.com/gview?url=https://www.designforchange.us/dfcusa-web/app/webroot/files/Design for Change USA - Case for Support - 2019.pdf" target="_new">OUR CASE FOR SUPPORTING DESIGN FOR CHANGE</a>
