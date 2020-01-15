@@ -351,8 +351,16 @@ header {
     .home-icons .apply-block img {
       padding-bottom: 30px;
       width: 70%; }
+    .home-icons .apply-block h4 {
+      float: left;
+      width: 100%;
+      font-size: 36px;
+      font-weight: 800;
+      color: #333;
+      margin: 20px 0 10px 0;
+      text-transform: uppercase; }
     .home-icons .apply-block h5 {
-      font-weight: 300; }
+      font-weight: 600; }
 
 .program-icons {
   float: left;

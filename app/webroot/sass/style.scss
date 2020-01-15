@@ -338,8 +338,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', end
       padding-bottom: 30px;
       width: 70%;
     }
+    h4 {
+      float: left;
+      width: 100%;
+      font-size: 36px;
+      font-weight: 800;
+      color: #333;
+      margin: 20px 0 10px 0;
+      text-transform: uppercase;
+    }
     h5 {
-      font-weight: 300;
+      font-weight: 600;
     }
   }
 }
