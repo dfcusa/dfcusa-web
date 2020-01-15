@@ -47,28 +47,28 @@
             <div class="apply-block feel-block">
               <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>Feel</h4>
-              <h5>Empathize</h5>
+              <h5 class="bold">Empathize</h5>
             </div>
           </div>
           <div class="col-md-3 col-lg-3">
             <div class="apply-block imagine-block">
               <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>IMAGINE</h4>
-              <h5>Brainstorm</h5>
+              <h5 class="bold">Brainstorm</h5>
             </div>
           </div>
           <div class="col-md-3 col-lg-3">
             <div class="apply-block do-block">
               <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>DO</h4>
-              <h5>Prototype</h5>
+              <h5 class="bold">Prototype</h5>
             </div>
           </div>
           <div class="col-md-3 col-lg-3">
             <div class="apply-block share-block">
               <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
               <h4>SHARE</h4>
-              <h5>Inspire</h5>
+              <h5 class="bold">Inspire</h5>
             </div>
           </div>
         </div>

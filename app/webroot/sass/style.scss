@@ -348,7 +348,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', end
       text-transform: uppercase;
     }
     h5 {
-      font-weight: 600;
+      font-weight: 200;
+      &.bold {
+        font-weight: 600;
+      }
     }
   }
 }

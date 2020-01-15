@@ -360,7 +360,9 @@ header {
       margin: 20px 0 10px 0;
       text-transform: uppercase; }
     .home-icons .apply-block h5 {
-      font-weight: 600; }
+      font-weight: 200; }
+      .home-icons .apply-block h5.bold {
+        font-weight: 600; }
 
 .program-icons {
   float: left;
