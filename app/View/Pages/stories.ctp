@@ -13,62 +13,52 @@
         <p>Do you believe that... 3rd graders can shut down a drug house? 5th graders can create a pipeline between farmers and food deserts? High school students can increase support for mental health at their school? We do.</p>
         <p class="big">At DFC, we not only believe, we have seen what is possible when students are given the tools to drive social change in their community. </p>
         <div class="content-image">
-          <img src="/dfcusa-web/app/webroot/img/img_stories_tirepainting@2x.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid">
-        </div>
-        <!-- <h2>Stories of Change from Design for Change USA</h2>
-        <p>In 2018, DFC USA received over 200 projects of change. Each student team identified an issue in their community and used the Feel, Imagine, Do, Share  framework to design and implement a solution.</p>
-        <h3 class="extra-margin">The Story of the 2018 DFC USA Ambassador Team</h3>
-        <h4>“SUDS4SOCIETY” By The BellaireSchool (P.S. 135Q), Queens, New York, NY</h4>
-        <div class="content-video">
-          <img src="https://img.youtube.com/vi/L_q-K3mLhPQ/hqdefault.jpg" style="width: 700px" alt="/dfcusa-web/app/webroot/img" class="img-fluid image">
-          <a data-lity href="//www.youtube.com/watch?v=L_q-K3mLhPQ" class="watch-video-btn"><img src="/dfcusa-web/app/webroot/img/img_watch_video.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid"></a>
-        </div>
-        <p>In October 2017, the flu was spreading rapidly. Students researched its causes and ways to prevent the flu from spreading.</p>        
-
-        <div class="apply-icons">
           <div class="row">
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>Feel</h4>
-                <p>The flu is both a local and global problem. As such, students chose to address Global Goal #3 - Good Health and Well Being.</p>
+            <div class="col-sm-6">
+              <img src="/dfcusa-web/app/webroot/img/photos/maleah.png" alt="/dfcusa-web/app/webroot/img" class="img-fluid highlight-pic">
+            </div>
+            <div class="col-sm-6">
+              <div class="stat sprint-block">
+                <div class="number tight">10,000<span class="tiny">+</span></div>
+                <div class="description">students in the USA have changed their community in a positive way through Design for Change</div>
+              </div>
+
+              <div class="stat projects-block">
+                <div class="number">91%</div>
+                <div class="description">of teachers surveyed report that DFC increased students' self-motivation to complete tasks and persist through obstacles</div>
+              </div>
+              <div class="stat workshop-block">
+                <div class="number">91%</div>
+                <div class="description">surveyed report that DFC increased students' empathy for the experiences of others</div>
+              </div>
+              <div class="stat coaching-block">
+                <div class="number">89%</div>
+                <div class="description">surveyed report that DFC increased students' engagement with problem-solving for their schools or communities*</div>
               </div>
             </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>IMAGINE</h4>
-                <p>Students brainstormed ideas, including the use of surgical masks and hand sanitizer. Ultimately, they developed a campaign to #STOPTHESPREAD through proper hand washing.</p>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>DO</h4>
-                <p>Students surveyed their peers to gain insight before moving forward with making and selling soap, as well as educating their community on healthy hygiene.</p>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>SHARE</h4>
-                <p>Students created posters and music videos to present at a school-wide assembly. They also shared their story with 15,000 other students at WEday in New York and were interviewed by CBS.</p>
-              </div>
-            </div>
-          </div> -->
+          </div>
         </div>
       </div>
 
-        <div class="interested-dfc">
-          <h3>Our 2019 Ambassador Teams Have Been Announced!</h3>
-          <p>Learn more about their projects and their upcoming trip to Rome, Italy!</p>
-          <a href="https://blog.designforchange.us/tag/2019-spotlights/">VIEW 2019 PROJECTS</a>
-        </div>
+      <div class="interested-dfc hide">
+        <h3>Our 2019 Ambassador Teams Have Been Announced!</h3>
+        <p>Learn more about their projects and their upcoming trip to Rome, Italy!</p>
+        <a href="https://blog.designforchange.us/tag/2019-spotlights/">VIEW THE TOP 2019 PROJECTS</a>
       </div>
     </div>
   </div>
 </section>
 
+<section class="page-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2>Top Stories From 2019</h2>
+        <iframe src="https://blog.designforchange.us/spotlights/" style="border: 0px; width: 100%; height: 2800px; margin-top: -10px" scrolling="no"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="stories-area">
 	<div class="container">    

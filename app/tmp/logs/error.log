@@ -23923,3 +23923,43 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
 #1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
 #2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2020-01-15 16:11:51 Error: Fatal Error (64): Cannot use 'Object' as class name as it is reserved in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/Object.php, line 26]
+2020-01-15 16:11:51 Error: [InternalErrorException] Internal Server Error
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26)
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(926): ErrorHandler::handleError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26, Array)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-01-15 16:12:41 Error: Fatal Error (64): Cannot use 'Object' as class name as it is reserved in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/Object.php, line 26]
+2020-01-15 16:12:41 Error: [InternalErrorException] Internal Server Error
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26)
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(926): ErrorHandler::handleError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26, Array)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-01-15 16:12:48 Error: Fatal Error (64): Cannot use 'Object' as class name as it is reserved in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/Object.php, line 26]
+2020-01-15 16:12:48 Error: [InternalErrorException] Internal Server Error
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26)
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(926): ErrorHandler::handleError(64, 'Cannot use 'Obj...', '/Users/vinaygid...', 26, Array)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-01-16 12:08:55 Error: [MissingControllerException] Controller class GhostController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-01-16 14:48:46 Error: Fatal Error (4): syntax error, unexpected '?' in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/View/Elements/header_raw.ctp, line 51]
+2020-01-16 14:48:46 Error: [InternalErrorException] Internal Server Error
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/vinaygid...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/vinaygid...', 51, Array)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/vinaygid...', 51, Array)
+#3 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-01-16 14:48:47 Error: Fatal Error (4): syntax error, unexpected '?' in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/View/Elements/header_raw.ctp, line 51]
+2020-01-16 14:48:47 Error: [InternalErrorException] Internal Server Error
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/vinaygid...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/vinaygid...', 51, Array)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/vinaygid...', 51, Array)
+#3 /Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

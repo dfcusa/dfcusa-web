@@ -1,0 +1,20 @@
+Use CakePHP.
+
+Set up root .htaccess:
+  
+<IfModule mod_rewrite.c>
+        RewriteEngine On
+        RewriteRule ^whatisdfc$ /dfcusa/pages/whatisdfc [NE,R=301,L]
+        RewriteRule ^getstarted$ /dfcusa/pages/getstarted [NE,R=301,L]
+        RewriteRule ^documents$ /dfcusa/pages/documents [NE,R=301,L]
+        RewriteRule ^projects$ /dfcusa/pages/projects [NE,R=301,L]
+        RewriteRule ^faq$ /dfcusa/pages/faq [NE,R=301,L]
+        RewriteRule ^aboutus$ /dfcusa/pages/aboutus [NE,R=301,L]
+        RewriteRule ^volunteer$ /dfcusa/pages/volunteer [NE,R=301,L]
+        RewriteRule ^press$ /dfcusa/pages/press [NE,R=301,L]
+        RewriteRule ^partners$ /dfcusa/pages/partners [NE,R=301,L]
+        RewriteRule ^contactus$ /dfcusa/pages/contactus [NE,R=301,L]
+        RewriteRule ^judging$ /dfcusa/pages/judging [NE,R=301,L]
+        RewriteRule ^submit$ /dfcusa/pages/submit [NE,R=301,L]
+        RewriteRule ^(.*)$ /dfcusa/$1 [NC]
+</IfModule>

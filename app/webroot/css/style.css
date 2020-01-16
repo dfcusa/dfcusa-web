@@ -1324,6 +1324,14 @@ footer {
   width: 80%; }
   .inner-hero h4.one-line {
     top: 36%; }
+.inner-hero .sub-line {
+  margin-top: 20px;
+  font-size: 15pt;
+  color: #fff;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  left: 0px; }
 
 .page-content {
   margin: 20px 0; }
@@ -1372,7 +1380,7 @@ footer {
     .page-content p.big {
       font-size: 25px;
       font-weight: 700;
-      line-height: 45px;
+      line-height: 35px;
       text-align: center; }
   .page-content hr {
     float: left;
@@ -1420,6 +1428,8 @@ footer {
       border-bottom: 1px dashed #c5c5c5; }
       .page-content .table tr:last-child {
         border: 0px; }
+  .page-content .highlight-pic {
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.16); }
 
 .content-image, .content-video {
   float: left;
@@ -1758,11 +1768,12 @@ footer {
   .educator-block.chapter {
     background-color: #ff5e17; }
   .educator-block .pathway-img {
-    width: 35%;
+    width: 25%;
     text-align: center; }
   .educator-block .pathway-det {
-    width: 65%;
-    text-align: left; }
+    width: 70%;
+    text-align: left;
+    margin: 0px 0px 0px 50px; }
     .educator-block .pathway-det h3 {
       font-size: 32px;
       margin: 10px 0 0 0;
@@ -1779,7 +1790,7 @@ footer {
 
 .design-block {
   padding: 40px 60px;
-  background: #7ECB00; }
+  background: #08925f; }
   .design-block.inverse {
     background-color: #FFF;
     color: #666; }
@@ -2142,5 +2153,33 @@ footer {
 
 .show-only-mobile {
   display: none; }
+
+.stat {
+  width: 250px;
+  padding: 10px 20px 20px 20px;
+  border: 1px solid #f1f1f1;
+  border-radius: 10px;
+  margin: 0px 20px 20px 20px;
+  float: left; }
+  .stat .number {
+    text-align: left;
+    font-weight: bold;
+    font-size: 75px;
+    min-height: 110px;
+    color: #fff; }
+    .stat .number.tight {
+      font-size: 65px;
+      letter-spacing: -4px;
+      position: relative; }
+      .stat .number.tight .tiny {
+        font-size: 24pt;
+        position: absolute;
+        top: 27px;
+        right: 5px; }
+  .stat .description {
+    color: #fff;
+    text-align: left;
+    font-size: 13pt;
+    min-height: 135px; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,3 +1,5 @@
+<div class="hide-mobile" style="width: 100%; background-color: #4dc310; color: #fff; font-size: 15pt; font-weight: bold; position: relative; text-align: center; padding: 15px">The 2019 Ambassador Teams Have Been Announced!&nbsp;&nbsp;&nbsp;<a href="https://blog.designforchange.us/tag/2019-spotlights/" class="btn btn-primary">View Projects</a></div>
+
 <header>
   <div class="container">
     <nav class="navbar navbar-expand-lg">
@@ -44,13 +46,10 @@
   </div>
 </header>
 
-<div class="donate-nav hide-mobile hide">
-  <a href="https://designforchange.us/pages/donate" target="_parent">Donate</a>
-</div>
-
-<section class="inner-hero just-title" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_workshops.png'); background-size: 100%; height: 175px; margin-bottom: 0px">
-    <!-- <img src="/dfcusa-web/app/webroot/img/img_hedr_stories@2x.png" alt="img" class="img-fluid"> -->
+<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
-    <h4 class="one-line" style="top: 35%"><span><?php if ($_GET['title'] == '') { echo 'What\'s new'; } else { echo $_GET['title']; } ?></span></h4>
+    <h4 class="one-line" <?php if ($_GET['subline'] != '') {?> style="margin-top: -20px"<?php } ?>><span><?php if ($_GET['title'] == '') { echo 'What\'s new'; } else { echo $_GET['title']; } ?></span></h4>
+    <?php if ($_GET['subline'] != '') {?><div class="sub-line"><?php echo $_GET['subline']; ?></div><?php } ?>
   </div>
 </section>
+
