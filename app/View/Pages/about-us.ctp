@@ -20,7 +20,6 @@
           <a href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
         </div>
 
-        <hr>
         <p class="hide-mobile"></p><p class="hide-mobile"></p>
         <h4>A framework for addressing the UN Global Goals</h4>
         <p>DFC has partnered with the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.</p>
