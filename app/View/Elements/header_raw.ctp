@@ -30,7 +30,7 @@
           </li>
         </ul>
         <div class="account-menu my-projects-nav hide">
-          <a href="/dfcusa-pm/dashboard" class="web-portal">Your Dashboard</a>
+          <a href="/dfcusa-pm/dashboard" class="web-portal" target="_parent">Your Dashboard</a>
           <div class="dropdown-content">
             <a href="/dfcusa-pm/dashboard" target="_parent">Sprints and Projects</a>
             <a href="/dfcusa-pm/activities" target="_parent">Activities</a>
