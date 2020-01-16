@@ -1,4 +1,6 @@
-<div class="hide-mobile" style="width: 100%; background-color: #4dc310; color: #fff; font-size: 15pt; font-weight: bold; position: relative; text-align: center; padding: 15px">The 2019 Ambassador Teams Have Been Announced!&nbsp;&nbsp;&nbsp;<a href="https://blog.designforchange.us/tag/2019-spotlights/" class="btn btn-primary">View Projects</a></div>
+<div class="hide-mobile" style="width: 100%; background-color: #4dc310; color: #fff; font-size: 15pt; font-weight: bold; position: relative; text-align: center; padding: 15px">
+  Register your projects to be considered for the 2020 Be The Change Conference in São Paulo, Brazil!&nbsp;&nbsp;&nbsp;<a href="/dfcusa-pm/projects#project/new/submit" class="btn btn-primary">Register My Projects</a>
+</div>
 
 <header>
   <div class="container">

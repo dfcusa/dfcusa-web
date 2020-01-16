@@ -13,15 +13,15 @@
         <p>Students don't have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes that every child can be a designer for change provided the right  tools, resources, and support.</p>
         <p>As an educator, here's how you get started:</p>
         <h3>STEP 1</h3>
-        <h4>Download Our Free Educator’s Toolkit Poster</h4>
+        <h4>Download Our Free Educator’s Design Thinking Poster</h4>
         <div class="pathway-block educator-block">
           <div class="pathway-img">
             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="img" class="img-fluid">
           </div>
           <div class="pathway-det">
-            <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
+            <h3>DESIGN THINKING POSTER</h3>
             <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework. It's an easy way to learn how it all works on one page.</p>
-            <a href="javascript:showMailingPopUp()">DOWNLOAD</a>
+            <a href="javascript:showMailingPopUp()">GET THE POSTER</a>
             <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
           </div>
         </div>
