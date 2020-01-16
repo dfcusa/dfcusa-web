@@ -20,14 +20,14 @@
           </div>
           <div class="pathway-det">
             <h3>DFC EDUCATOR'S TOOLKIT POSTER</h3>
-            <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework.</p>
+            <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework. It's an easy way to learn how it all works on one page.</p>
             <a href="javascript:showMailingPopUp()">DOWNLOAD</a>
             <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
           </div>
         </div>
               
         <h3>STEP 2</h3>
-        <h4>Engage your students using Design Sprints or Community Projects.</h4>
+        <h4>Start with a Design Sprint or Community Project.</h4>
       </div>
     </div>
     <div class="row">
@@ -61,7 +61,7 @@
     <div class="row">
     	<div class="col-sm-12">
         <h3>STEP 3</h3>
-        <h4>Champion the Design for Change methodology in your organization.</h4>
+        <h4>Get additional support rolling out Design for Change in your school or community.</h4>
       </div>
     </div>
     <div class="row">
@@ -92,7 +92,7 @@
         </div>
       </div>
     </div>
-    <div class="row hide">
+    <div class="row">
     	<div class="col-sm-12">
         <div class="pathway-block design-block">
         	<div class="pathway-img">
