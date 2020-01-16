@@ -22,7 +22,7 @@
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
             <a class="nav-link" href="/pages/stories" target="_parent">Real Stories</a>
           </li>
-          <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'blog') > -1) { ?>active<?php } ?>">
+          <li class="nav-item active">
             <a class="nav-link" href="https://blog.designforchange.us/tag/blog/" target="_parent">What's New</a>
           </li>
           <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) { ?>active<?php } ?>">
