@@ -11272,3 +11272,843 @@ CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
 Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
 [main] - APP/webroot/index.php, line 92
 
+2020-01-16 21:33:06 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 21:33:06 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 21:33:13 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 21:33:13 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:48:16 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:48:16 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:48:17 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:48:17 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:49:46 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-16 22:49:46 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 08:57:46 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 08:57:46 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:14:45 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:14:45 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:15:46 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:15:46 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:10 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:10 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:36 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:36 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:57 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:16:57 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:17:59 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:17:59 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:18:06 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:18:06 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:18:58 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:18:58 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:10 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:10 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:11 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:11 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:36 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:36 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:46 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:19:46 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:20:12 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:20:12 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:27:01 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:27:01 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:27:58 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:27:58 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:00 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:00 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:49 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:49 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:52 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:28:52 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:34:43 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:34:43 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:34:55 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:34:55 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:35:48 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 11:35:48 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:23:45 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:23:45 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:24:23 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:24:23 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:24:52 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:24:52 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:25:01 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:25:01 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:25:44 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:25:44 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:26:22 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:26:22 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:27:01 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:27:01 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:27:42 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:27:42 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:28:05 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:28:05 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:29:54 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:29:54 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:56:33 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 16:56:33 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 17:05:46 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 17:05:46 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 17:13:26 Notice: Strict (2048): Non-static method Controller::loadModel() should not be called statically, assuming $this from incompatible context in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/app/Config/routes.php, line 30]
+Trace:
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+
+2020-01-17 17:13:26 Notice: Notice (8): Undefined property: Dispatcher::$uses in [/Users/vinaygidwaney/Documents/htdocs/dfcusa-web/lib/Cake/Controller/Controller.php, line 725]
+Trace:
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 725
+include - APP/Config/routes.php, line 30
+Dispatcher::_loadRoutes() - CORE/Cake/Routing/Dispatcher.php, line 278
+Dispatcher::parseParams() - CORE/Cake/Routing/Dispatcher.php, line 215
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 246
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 141
+[main] - APP/webroot/index.php, line 92
+

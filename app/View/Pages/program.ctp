@@ -62,7 +62,7 @@
             <td width="15%"><b>What:</b></td><td>Students work in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. “Through” this process, they develop empathy, persistence, and resilience.</td>
           </tr>
           <tr valign="top">
-            <td width="15%"><b>How:</b></td><td>Educators guide students using the DFC methodology and dozens of free activities. Projects can range from 4 hours to weeks long.</td>
+            <td width="15%"><b>How:</b></td><td>Educators guide students using the DFC methodology and dozens of free activities. Projects can range from 4 hours to weeks long. Projects are managed using our Online Educator Platform.</td>
           </tr>
           <tr valign="top">
             <td width="15%"><b>When:</b></td><td>Teams submit their projects to DFC by May 15, 2020. Each team has the opportunity to be selected to represent the United States at the annual Design for Change Global Conference, held in a different country each year.</td>

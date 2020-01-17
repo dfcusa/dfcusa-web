@@ -94,6 +94,10 @@ header {
   width: 100%;
   padding: 30px 0; }
 
+.link {
+  text-decoration: underline !important;
+  color: blue !important; }
+
 .navbar {
   padding: 0; }
   .navbar .navbar-brand {
@@ -445,7 +449,7 @@ header {
 .get-started-head {
   float: left;
   width: 100%;
-  margin: 0 0 20px 0; }
+  margin: 0 0 0px 0; }
   .get-started-head h2 {
     float: left;
     width: 100%;
@@ -473,7 +477,8 @@ header {
 
 .get-started-inner {
   float: left;
-  width: 100%; }
+  width: 100%;
+  margin-top: 30px; }
   .get-started-inner .video-box {
     position: relative;
     float: left;
@@ -499,6 +504,10 @@ header {
   text-align: center; }
   .pathway-block.inverse {
     color: #666; }
+
+.pathway-price {
+  font-size: 15pt !important;
+  font-weight: bold !important; }
 
 .pathway-img {
   float: left;
@@ -567,7 +576,7 @@ header {
   border-radius: 3px;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.16);
   color: #666;
-  margin-bottom: 15px; }
+  margin-bottom: 40px; }
   .generic-block.no-bottom {
     margin-bottom: 10px; }
   .generic-block .generic-inner {
@@ -608,7 +617,7 @@ header {
 .store-block {
   background: #f1f1f1;
   border-color: #666;
-  margin: 50px 0 0 0; }
+  margin: 10px 0 0 0; }
   .store-block h3 {
     border-color: #B20977;
     font-size: 25px;
@@ -1755,10 +1764,11 @@ footer {
 .page-content .pathway-det p {
   color: #fff;
   padding: 15px 20px 0;
-  min-height: 200px; }
+  min-height: 170px; }
 .page-content .pathway-det a {
   color: #fff;
-  border-color: #fff; }
+  border-color: #fff;
+  font-size: 13pt; }
 .page-content .pathway-det .small {
   font-size: 13pt; }
 
@@ -2181,5 +2191,71 @@ footer {
     text-align: left;
     font-size: 13pt;
     min-height: 135px; }
+
+.web-portal {
+  padding-top: 40px; }
+  .web-portal .screenshot {
+    width: 500px; }
+  .web-portal .features-list {
+    margin-left: 30px; }
+    .web-portal .features-list li {
+      width: 90%;
+      height: 55px;
+      color: #fff;
+      text-align: left;
+      font-size: 15pt;
+      position: relative; }
+    .web-portal .features-list .checkmark {
+      position: absolute;
+      left: -50px;
+      width: 35px;
+      height: 35px; }
+  .web-portal .button {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 20px;
+    color: #fff;
+    background: #e3003e;
+    text-transform: uppercase;
+    border-radius: 30px;
+    border: 2px solid #fff;
+    left: 0px;
+    bottom: 0px;
+    position: absolute; }
+
+.enterprise-block {
+  margin-top: 60px;
+  width: 90%;
+  padding: 40px 60px;
+  background: #081992;
+  margin-left: auto;
+  margin-right: auto; }
+  .enterprise-block.inverse {
+    background-color: #FFF;
+    color: #666; }
+  .enterprise-block .pathway-img {
+    float: right;
+    width: 35%;
+    text-align: center; }
+  .enterprise-block .pathway-det {
+    width: 65%;
+    text-align: left; }
+    .enterprise-block .pathway-det h3 {
+      font-size: 32px;
+      margin: 10px 0 0 0;
+      border-color: #76B117; }
+    .enterprise-block .pathway-det p {
+      font-size: 21px;
+      padding: 15px 0 0;
+      margin: 0 0 30px 0;
+      min-height: inherit; }
+    .enterprise-block .pathway-det a {
+      float: left;
+      font-size: 16px;
+      margin-top: 20px;
+      padding: 10px 30px; }
+  .enterprise-block .features-list {
+    margin-left: 45px;
+    margin-top: 95px; }
 
 /*# sourceMappingURL=style.css.map */
