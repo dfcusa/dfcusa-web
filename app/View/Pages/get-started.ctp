@@ -110,7 +110,7 @@
   </div>
 </section>
 
-<section class="get-started">
+<section class="get-started hide-mobile">
   <div class="container">
     <div class="get-started-head">
       <div class="row">
