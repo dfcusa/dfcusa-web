@@ -109,30 +109,14 @@
     <div class="get-started-head">
       <div class="row">
         <div class="col-sm-12">
-          <h2>What We Do</h2>
+          <h2>Our Programs for Educators</h2>
+          <p>Several ways for you to engage your students or develop your own skills.</p>
         </div>
       </div>
     </div>
         
     <div class="get-started-inner">
     	<div class="row">
-        <div class="col-lg-4">
-        	<div class="pathway-block workshop-block">
-            <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            </div>
-            <div class="pathway-det">
-            	<h3>WORKSHOPS</h3>
-              <p>Experiential workshops introducing educators to design thinking and the DFC methodology.</p>
-              <p>
-                <strong>Time Commitment:</strong><br>
-                2 hours | 1/2 Day | Full Day
-              </p>
-              <br/>
-              <a href="/pages/get-started/professional-development">Learn more</a>
-            </div>
-          </div>
-        </div>
         <div class="col-lg-4">
         	<div class="pathway-block sprint-block">
           	<div class="pathway-img">
@@ -164,6 +148,23 @@
               </p>
               <br/>
               <a href="/pages/get-started/community-projects">Learn more</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="pathway-block workshop-block">
+            <div class="pathway-img">
+              <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+            </div>
+            <div class="pathway-det">
+              <h3>WORKSHOPS</h3>
+              <p>Experiential PD workshops introducing educators to design thinking and the DFC methodology.</p>
+              <p>
+                <strong>Time Commitment:</strong><br>
+                2 hours | 1/2 Day | Full Day
+              </p>
+              <br/>
+              <a href="/pages/get-started/professional-development">Learn more</a>
             </div>
           </div>
         </div>

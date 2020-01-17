@@ -68,19 +68,19 @@
             <td width="25%"><b>Time Required:</b></td><td style="width: 850px">4 hours</td>
           </tr>
           <tr>
-            <td width="25%"><b>Feature:</b></td><td>Introduces the Design for Change methodology</td>
+            <td width="25%"><b>Where:</b></td><td>Using the guided lesson plans on the <a href="/dfcusa-pm/login#register" class="link">Design for Change web portal</a></td>
           </tr>
           <tr>
-            <td width="25%"><b>Effort:</b></td><td>Provides concise and scripted experience for students</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Alignment:</b></td><td>Aligns to a UN Global Goal</td>
+            <td width="25%"><b>How:</b></td><td>Provides concise and scripted experience for students</td>
           </tr>
           <tr>
             <td width="25%"><b>Context:</b></td><td>Connects to relevant, local community challenges</td>
           </tr>
           <tr>
-            <td width="25%"><b>Feedback:</b></td><td>Design for Change experts will provide feedback and guidance on your experience</td>
+            <td width="25%"><b>Alignment:</b></td><td>Aligns to a UN Global Goal</td>
+          </tr>
+          <tr>
+            <td width="25%"><b>For You:</b></td><td>Design for Change experts will provide feedback and guidance on how to make the experience amazing for your students</td>
           </tr>
         </table>
       </div>

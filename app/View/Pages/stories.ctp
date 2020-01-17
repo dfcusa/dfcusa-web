@@ -54,7 +54,7 @@
     <div class="row">
       <div class="col-sm-12">
         <h2>Top Stories From 2019</h2>
-        <iframe src="https://blog.designforchange.us/spotlights/" style="border: 0px; width: 100%; height: 2800px; margin-top: -10px" scrolling="no"></iframe>
+        <iframe src="https://blog.designforchange.us/spotlights/" style="border: 0px; width: 100%; height: 3180px; margin-top: -10px" scrolling="no"></iframe>
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@
 	<div class="container">    
   	<div class="row">
     	<div class="col-sm-12">
-        <h2>More Stories of Change...</h2>
+        <h2>Previous Years' Ambassador Teams</h2>
       </div>
     </div>
     <br/>

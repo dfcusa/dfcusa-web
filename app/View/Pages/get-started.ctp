@@ -25,12 +25,13 @@
             <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
           </div>
         </div>
-              
-        <h3>STEP 2</h3>
-        <h4>Start with a Design Sprint or Community Project.</h4>
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12">              
+        <h3>STEP 2</h3>
+        <h4>Start a Design Sprint or Community Project with our <a href="#platform">Online Educator Platform.</a></h4>
+      </div>
     	<div class="col-sm-6">
         <div class="pathway-block sprint-block">
           <div class="pathway-img">
@@ -109,55 +110,89 @@
   </div>
 </section>
 
-<a name="store"></a>
 <section class="get-started">
   <div class="container">
     <div class="get-started-head">
       <div class="row">
         <div class="col-sm-12">
-          <h2>Curriculum Books and Teacher's Manual</h2>
-          <p>Our text is also available in print form. You can purchase it below.</p>
+          <h2 id="platform">Our Online Educator Platform</h2>
+          <p>Designed to help you bring Design for Change to your classroom.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row web-portal">
+      <div class="col-lg-6">
+        <img class="screenshot" src="/dfcusa-web/app/webroot/img/screenshot.png">
+      </div>
+      <div class="col-lg-6">
+        <ul class="features-list">
+          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Free activities across all stages</li>
+          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Free Design Sprint podcast episodes</li>
+          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Guided lesson plans and step by step instructions</li>
+          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Upload project worksheets, pictures and videos</li>
+          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Submit your project to be elible as an Ambassador Team to attend the annual Be The Change conference</li>
+        </ul>
+        <a href="/dfcusa-pm/login#register" class="button big">REGISTER NOW</a>
+      </div>
+      <div class="pathway-block enterprise-block">
+        <div class="pathway-img">
+          <img src="/dfcusa-web/app/webroot/img/ico_c_school.png" alt="img" class="img-fluid">
+        </div>
+        <div class="pathway-det">
+          <h3>OUR SCHOOL / DISTRICT VERSION</h3>
+          <ul class="features-list">
+            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Manage multiple projects across different sites / schools</li>
+            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Track progress of projects</li>
+            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Invite students and support staff to projects</li>
+            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Get expert assistance from Design for Change staff</li>
+          </ul>
+          <a href="/pages/contact-us">Contact us</a>
         </div>
       </div>
     </div>
         
-    <div class="get-started-inner">
+    <div class="get-started-inner hide">
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/curriculum_cover_new.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/activities_product.png" height="150">
             </div>
             <div class="pathway-det">
-              <h3>Design for Change Student Guide</h3>
-              <p>Design for Change offers a 30 hour middle school workbook jointly designed by the DFC Global Team, Stanford Design School and IDEO. We encourage each student to have a copy so they can follow along the Design for Change process.</p>
-              <a href="https://www.blurb.com/bookstore/invited/7065396/a03efacb2a7bf93d22db65df0f561b3e57de4646">Buy Now for $30</a>
+              <h3>Activities</h3>
+              <p>We have dozens of activities for each stage of the Design for Change process. You can use them individually or develop your own scope and sequence.</p>
+              <p class="pathway-price">FREE</p>
+              <br/>
+              <a href="/dfcusa-pm/activities">Browse Activities</a>
             </div>
           </div>
         </div>
 
-      <!--   <div class="col-lg-4">
+        <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/curriculum_cover.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/teachersguide_product.png" height="150">
             </div>
             <div class="pathway-det">
-              <h3>Design for Change Global Story Book</h3>
-              <p>Read short stories of DFC projects from around the globe and inspire your students to join the movement and be the change.</p>
-              <a href="javascript:void(0)">COMING SOON!</a>
+              <h3>Web Portal</h3>
+              <p>This guide walks you through how to use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
+              <p class="pathway-price">$36</p>
+              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Sign Up</a>
             </div>
           </div>
         </div>
- -->
-        <div class="col-lg-6">
+
+        <div class="col-lg-4">
           <div class="pathway-block store-block">
             <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/teachersguide_small.png" height="150">
+              <img src="/dfcusa-web/app/webroot/img/teachersguide_product.png" height="150">
             </div>
             <div class="pathway-det">
-              <h3>Design for Change Teacher's Manual</h3>
-              <p>The teacher's manual is the ultimate companion to the Design for Change Curriculum. This guide walks you through how to effectively use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
-              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now for $36</a>
+              <h3>Teacher's Manual</h3>
+              <p>This guide walks you through how to use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
+              <p class="pathway-price">$36</p>
+              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now</a>
             </div>
           </div>
         </div>
