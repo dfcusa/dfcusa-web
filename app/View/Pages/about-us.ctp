@@ -1,6 +1,6 @@
 <section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
   <div class="container">
-    <h4 class="one-line"><span>Young people are not helpless. Change is possible. They can drive it!</span></h4>
+    <h4 class="one-line"><span>Change is possible. Young people can drive it!</span></h4>
   </div>
 </section>
 
