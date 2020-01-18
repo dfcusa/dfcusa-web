@@ -2609,3 +2609,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f76c92', end
     margin-top: 95px;
   }
 }
+
+.global_goals {
+  padding: 50px;
+  background-color: #fcf9f9;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  img {
+    width: 500px;
+  }
+  p {
+    font-size: 15pt;
+  }
+}
+
+.case-block {
+  img {
+    width: 230px;
+    margin-right: -10px;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(204,198,204,1);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(204,198,204,1);
+    box-shadow: 3px 3px 5px 0px rgba(204,198,204,1);
+  }
+}
