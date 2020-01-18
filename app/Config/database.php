@@ -72,28 +72,6 @@ class DATABASE_CONFIG {
 		//'encoding' => 'utf8',
 	);
 
-	public $live = array(
-		'datasource' 	=> 'Database/Mysql',
-		'persistent' 	=> false,
-		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
-		'login'	 		=> 'root',
-		'password' 		=> 'designforchange',
-		'database' 		=> 'dfcusa_sprints',
-		'prefix' 		=> '',
-		//'encoding' => 'utf8',
-	);
-
-	public $beta = array(
-		'datasource' 	=> 'Database/Mysql',
-		'persistent' 	=> false,
-		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
-		'login'	 		=> 'root',
-		'password' 		=> 'designforchange',
-		'database' 		=> 'dfcusa_sprints_beta',
-		'prefix' 		=> '',
-		//'encoding' => 'utf8',
-	);	
-	
 	public function __construct() {
 	  if (dbConfig == 'live') {
 	  	$this->default = $this->live;
