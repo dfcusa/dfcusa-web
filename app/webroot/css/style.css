@@ -2258,4 +2258,22 @@ footer {
     margin-left: 45px;
     margin-top: 95px; }
 
+.global_goals {
+  padding: 50px;
+  background-color: #fcf9f9;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  .global_goals img {
+    width: 500px; }
+  .global_goals p {
+    font-size: 15pt; }
+
+.case-block img {
+  width: 230px;
+  margin-right: -10px;
+  -webkit-box-shadow: 3px 3px 5px 0px #ccc6cc;
+  -moz-box-shadow: 3px 3px 5px 0px #ccc6cc;
+  box-shadow: 3px 3px 5px 0px #ccc6cc; }
+
 /*# sourceMappingURL=style.css.map */
