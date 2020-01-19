@@ -1,3 +1,4 @@
+node_modules/
 .idea/
 app/webroot/router.php
 app/webroot/.sass-cache

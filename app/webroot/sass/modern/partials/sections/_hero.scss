@@ -1,0 +1,48 @@
+.hero {
+  padding: 60px 0;
+  text-align: center;
+  color: $white;
+  height: 550px;
+  background: #cc0139; /* Old browsers */
+  //background: -moz-linear-gradient(top, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%); /* FF3.6-15 */
+  //background: -webkit-linear-gradient(top, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc0139', endColorstr='#fa5e0e', GradientType=0); /* IE6-9 */
+
+  h1 {
+    @extend .h1-big;
+    margin: 0 0 60px 0;
+    font-weight: $font-weight-bolder;
+  }
+
+  p {
+    margin: 0 0 55px 0;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 40px;
+    padding: 0 10%;
+  }
+
+  a {
+    margin: auto;
+    display: table;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 15px 40px;
+    color: $pink;
+    text-transform: uppercase;
+    background: $white;
+    border-radius: 30px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+
+    &:hover {
+      background: $pink;
+      color: $white;
+    }
+  }
+}
+
+.hero-art {
+  padding: 0 30%;
+  margin: 0 0 50px 0;
+}
