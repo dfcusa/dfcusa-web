@@ -1,113 +1,126 @@
-<section class="inner-hero inside design-sprints one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png'); background-size: 100%">
-  <div class="container">
-    <h4 class="one-line"><span>Design Sprints</span></h4>
-  </div>
+<section class="hero with-background-image"
+         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+    <div class="hero-container">
+        <h4 class="heading">Design Sprints</h4>
+    </div>
 </section>
 
 
 <section class="page-content">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>An Easy Way to Get Started With Design for Change</h2>
-        <p>Design Sprints introduce students to <b>design thinking for social impact</b> with a 4-hour experience that can launch them in Community Projects. The Design Sprint resources provide educators with complete lesson plans for each stage of the Design for Change framework: Feel, Imagine, Do, Share.</p>
 
-        <div class="pathway-block educator-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png" alt="img" class="img-fluid">
+      <h2 class="heading-secondary">An Easy Way to Get Started With Design for Change</h2>
+
+      <p>Design Sprints introduce students to <strong>design thinking for social impact</strong>
+          with a 4-hour experience that can launch them in Community Projects.
+          The Design Sprint resources provide educators with complete lesson plans for each
+          stage of the Design for Change framework: Feel, Imagine, Do, Share.
+      </p>
+
+
+      <div class="lead-box lead-danger img-left my-4">
+          <div class="lead-image">
+              <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png">
           </div>
-          <div class="pathway-det">
-            <h3>SOCIAL ISSUE PODCASTS</h3>
-            <p>Help your students become empathic about a specific social issue, while learning the Design for Change methodology.<br/><br/>Each podcast is aligned with a UN Global Goal and includes real interviews with people affected by that issue and changemakers making a difference.</p>
-            <a class="button" href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
+          <div class="lead-content">
+              <h4 class="heading mb-1">SOCIAL ISSUE PODCASTS</h4>
+              <hr>
+              <p>
+                  Help your students become empathic about a specific social issue,
+                  while learning the Design for Change methodology.
+              </p>
+              <p>
+                  Each podcast is aligned with a UN Global Goal and includes real interviews
+                  with people affected by that issue and changemakers making a difference.
+              </p>
+              <a class="btn btn-outline-light"
+                 href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
           </div>
-        </div>
+      </div>
 
-        <div class="home-icons">
-          <div class="row">
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block feel-block">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>Feel</h4>
-                <h5>Listen to a specially-designed podcast highlighting a community challenge</h5>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block imagine-block">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>IMAGINE</h4>
-                <h5>Brainstorm collaboratively using quick and easy activities in the classroom</h5>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block do-block">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>DO</h4>
-                <h5>Develop action plans and storyboards to address the social issue</h5>
-              </div>
-            </div>
-            <div class="col-md-3 col-lg-3">
-              <div class="apply-block share-block">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-                <h4>SHARE</h4>
-                <h5>Present ideas, solutions and action plans and critique them as a group</h5>
-              </div>
-            </div>
+
+      <div class="program-icons program-icons-light mt-5">
+          <div class="program-icon">
+              <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
+              <h4>Feel</h4>
+              <p>Listen to a specially-designed podcast highlighting a community challenge</p>
           </div>
-        </div>
+          <div class="program-icon">
+              <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
+              <h4>Imagine</h4>
+              <p>Brainstorm collaboratively using quick and easy activities in the classroom</p>
+          </div>
+          <div class="program-icon">
+              <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
+              <h4>Do</h4>
+              <p>Develop action plans and storyboards to address the social issue</p>
+          </div>
+          <div class="program-icon">
+              <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
+              <h4>SHARE</h4>
+              <p>Present ideas, solutions and action plans and critique them as a group</p>
+          </div>
       </div>
-    </div> 
 
-    <br/>
-    <br/>
 
-    <div class="row">
-      <div class="col-sm-12">
-        <table class="table" style="width: 100%">
-          <tr>
-            <td width="25%"><b>Time Required:</b></td><td style="width: 850px">4 hours</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Where:</b></td><td>Using the guided lesson plans on the <a href="/dfcusa-pm/login#register" class="link">Design for Change web portal</a></td>
-          </tr>
-          <tr>
-            <td width="25%"><b>How:</b></td><td>Provides concise and scripted experience for students</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Context:</b></td><td>Connects to relevant, local community challenges</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>Alignment:</b></td><td>Aligns to a UN Global Goal</td>
-          </tr>
-          <tr>
-            <td width="25%"><b>For You:</b></td><td>Design for Change experts will provide feedback and guidance on how to make the experience amazing for your students</td>
-          </tr>
-        </table>
+
+      <div class="program-list mb-5">
+          <table class="table">
+              <tbody>
+              <tr>
+                  <th width="200">Time Required:</th>
+                  <td>4 hours</td>
+              </tr>
+              <tr>
+                  <th>Where:</th>
+                  <td>
+                      Using the guided lesson plans on the
+                      <a href="/dfcusa-pm/login#register" class="link">Design for Change web portal</a>
+                  </td>
+              </tr>
+              <tr>
+                  <th>How:</th>
+                  <td>Provides concise and scripted experience for students</td>
+              </tr>
+              <tr>
+                  <th>Context:</th>
+                  <td>Connects to relevant, local community challenges</td>
+              </tr>
+              <tr>
+                  <th>Alignment:</th>
+                  <td>Aligns to a UN Global Goal</td>
+              </tr>
+              <tr>
+                  <th>For You:</th>
+                  <td>
+                      Design for Change experts will provide feedback and guidance on how
+                      to make the experience amazing for your students
+                  </td>
+              </tr>
+              </tbody>
+          </table>
       </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>Perfect for the educator...</h2>
-        <ul class="list">
-          <li>Looking for a quick way to introduce students to the Design for Change methodology</li>
-          <li>Searching for ready-made lesson plans that guide students through the design cycle</li>
-          <li>Interested in promoting the UN Global Goals</li>
-          <li>Passionate about connecting students to relevant issues in their community</li>
-        </ul>
-      </div>
-    </div>
+
+
+      <h2 class="heading-secondary">Perfect for the educator...</h2>
+      <ul class="pl-3 pb-4 mb-5">
+          <li class="my-3">Looking for a quick way to introduce students to the Design for Change methodology</li>
+          <li class="my-3">Searching for ready-made lesson plans that guide students through the design cycle</li>
+          <li class="my-3">Interested in promoting the UN Global Goals</li>
+          <li class="my-3">Passionate about connecting students to relevant issues in their community</li>
+      </ul>
+
   </div>
 </section>
 
-<section class="not-sure inverse">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>Kickstart Your Project</h2>
-        <p>Get your class started in minutes.</p>
-        <a class="button" href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
-      </div>
+
+<section class="cta py-5 cta-ending">
+    <div class="container my-3">
+        <div class="mb-5">
+            <h2 class="heading text-secondary">Kickstart Your Project</h2>
+            <p>Get your class started in minutes.</p>
+        </div>
+        <a class="btn btn-inverse-secondary btn-lg"
+           href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
     </div>
-  </div>
 </section>
