@@ -49,7 +49,7 @@
                 <div class="lead-box lead-orange img-center text-center h-100">
                     <div class="lead-image">
                         <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png"
-                             class="img-fluid w-50"
+                             class="img-fluid"
                              alt="img">
                     </div>
                     <div class="lead-content">
@@ -72,7 +72,7 @@
                 <div class="lead-box lead-light-blue img-center text-center h-100">
                     <div class="lead-image">
                         <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png"
-                             class="img-fluid w-50"
+                             class="img-fluid"
                              alt="img">
                     </div>
                     <div class="lead-content">
@@ -105,7 +105,7 @@
                 <div class="lead-box lead-magenta img-center text-center h-100">
                     <div class="lead-image">
                         <img src="/dfcusa-web/app/webroot/img/ico_c_workshops.png"
-                             class="img-fluid w-50"
+                             class="img-fluid"
                              alt="img">
                     </div>
                     <div class="lead-content">
@@ -128,7 +128,7 @@
                 <div class="lead-box lead-primary img-center text-center h-100">
                     <div class="lead-image">
                         <img src="/dfcusa-web/app/webroot/img/ico_coaching.png"
-                             class="img-fluid w-50"
+                             class="img-fluid"
                              alt="img">
                     </div>
                     <div class="lead-content">
@@ -152,7 +152,7 @@
 
         <div class="lead-box lead-dark-green img-right h-100 mb-4">
             <div class="lead-image">
-                <img src="/dfcusa-web/app/webroot/img/ico_coaching.png"
+                <img src="/dfcusa-web/app/webroot/img/ico_c_custom.png"
                      class="img-fluid"
                      alt="img">
             </div>
