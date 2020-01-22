@@ -1,4 +1,4 @@
-.endorsed-by{
+.logo-list{
   padding: 1.3rem 0;
   text-align: center;
 
@@ -8,7 +8,7 @@
     color: $gray-700;
   }
 
-  .endorsed-logos{
+  .logos{
     margin: 1.2rem 0 1rem;
     display: flex;
     align-items: stretch;
@@ -16,11 +16,31 @@
 
     @include media-breakpoint-up(lg){
       justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    &.logo-large{
+      .logo{
+
+        @include media-breakpoint-up(lg){
+          border-bottom: $gray-300 solid 1px;
+        }
+
+        img{
+          width: 120px;
+        }
+
+        &:nth-child(5){
+          @include media-breakpoint-up(lg){
+            border-right: none;
+          }
+        }
+      }
     }
 
     .logo{
-      padding: 0.4rem 1.5rem;
-      border-right: $gray-400 solid 1px;
+      padding: 0.6rem 1.5rem;
+      border-right: $gray-300 solid 1px;
 
       &:last-child{
         border-right: none;

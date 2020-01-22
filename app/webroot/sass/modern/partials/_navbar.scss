@@ -1,7 +1,15 @@
 .navbar{
-  padding: 1.5rem 0;
+  padding: 0.6rem 0;
   text-transform: uppercase;
   font-size: 0.9rem;
+
+  @include media-breakpoint-up(lg){
+    padding: 1.5rem 0;
+  }
+
+  .navbar-toggler{
+    border: none;
+  }
 }
 
 
@@ -41,7 +49,11 @@
 
 
   .navbar-brand{
-    width: 128px;
+    width: 80px;
+
+    @include media-breakpoint-up(lg){
+      width: 128px;
+    }
   }
 
 

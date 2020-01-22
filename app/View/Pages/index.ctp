@@ -9,10 +9,10 @@
 </section>
 
 
-<section class="endorsed-by">
+<section class="logo-list">
   <div class="container">
       <h3 class="heading">Supporters of Design for Change Global and DFC USA...</h3>
-      <div class="endorsed-logos">
+      <div class="logos">
           <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png"></a></div>
           <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg"></a></div>
           <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg"></a></div>
@@ -30,7 +30,6 @@
 
         <h2 class="heading">What is Design for Change?</h2>
         <p class="lead">Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
-
 
         <div class="pathway">
 
@@ -92,7 +91,7 @@
 
 	<div class="container">
 
-        <div class="get-started-head mb-4">
+        <div class="get-started-head mb-5">
             <h2>Our Programs for Educators</h2>
             <p>Several ways for you to engage your students or develop your own skills.</p>
         </div>
@@ -102,7 +101,7 @@
                 <div class="col-lg-4">
                     <div class="lead-box lead-orange img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">DESIGN SPRINTS</h4>
@@ -179,13 +178,13 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <div class="review-item">
+                <div class="review-item mb-3">
                     <p class="review-text">I love that my students learned to listen to each other better. They learned
                         to share ideas, carefully critique each other and move forward. It was incredible and I hope
                         they retain these communication and respect qualities for a lifetime.</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png"
-                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                             class="author-image">
                         <h3 class="author-name">Charlene Hitchcock</h3>
                         <div class="author-details">
                             <div class="text-secondary">2nd Gr. Teacher</div>
@@ -196,13 +195,13 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="review-item">
+                <div class="review-item mb-3">
                     <p class="review-text">At the end of this project, my students were saying things like, "I feel like
                         I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I
                         did it and it feels so great!"... things I never imagined I would hear."</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png"
-                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                             class="author-image">
                         <h3 class="author-name">Dana Kinel</h3>
                         <div class="author-details">
                             <div class="text-secondary">Design Technology Teacher</div>
@@ -213,13 +212,13 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="review-item">
+                <div class="review-item mb-3">
                     <p class="review-text">They never wanted to miss a day from the project. They gave up their free
                         time to do more than they had to. They were thinking critically and problem solving. They made a
                         difference in our school community.</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png"
-                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                             class="author-image">
                         <h3 class="author-name">Patti Andreoles</h3>
                         <div class="author-details">
                             <div class="text-secondary">5th Grade Teacher</div>
@@ -232,90 +231,75 @@
     </div>
 </section>
 
-<div class="cta cta-interested my-3">
-  <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
-  <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>
-  <a class="btn" href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
+<div class="cta cta-interested mt-3">
+  <div class="container">
+      <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
+      <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>
+      <a class="btn" href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
+  </div>
 </div>
 
-<section class="global-impact">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>We Are Global</h2>
-        <p>Design for Change spans 6 continents.</p>
-      </div>
-    </div>
-        
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="impact-block globe-block">
-          <span><img src="/dfcusa-web/app/webroot/img/ico_globe.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>70</h3>
-          <p>Countries Participating</p>
+<section class="global-impact text-center">
+    <div class="container">
+
+        <div class="heading">
+            <h2 class="text-secondary font-weight-bolder">We Are Global</h2>
+            <p>Design for Change spans 6 continents.</p>
         </div>
-      </div>
-      <div class="col-sm-4">
-          <div class="impact-block storybook-block">
-              <span><img src="/dfcusa-web/app/webroot/img/ico_storybook.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-              <h3>30,000+</h3>
-              <p>Student Stories of Change</p>
-          </div>
-      </div>
-      <div class="col-sm-4">
-          <div class="impact-block teacher-block">
-              <span><img src="/dfcusa-web/app/webroot/img/ico_teacher.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-              <h3>10,000+</h3>
-              <p>Teachers Trained</p>
-          </div>
-      </div>
-    </div>
-  </div>
-  <div class="container-fluid d-none">
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="world-map">
-          <img src="/dfcusa-web/app/webroot/img/img_worlddfcmap.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+
+        <div class="row">
+            <div class="col-sm-4 mb-4">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_globe.svg">
+                <h3 class="text-secondary">70</h3>
+                <p>Countries Participating</p>
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_storybook.svg">
+                <h3 class="text-warning">30,000+</h3>
+                <p>Student Stories of Change</p>
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_teacher.svg">
+                <h3 class="text-primary">10,000+</h3>
+                <p>Teachers Trained</p>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
+    <div class="container-fluid d-none">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="world-map">
+                    <img src="/dfcusa-web/app/webroot/img/img_worlddfcmap.png">
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
-<section class="awards-area hide">
+<section class="logo-list my-5 py-4">
 	<div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>Awards & Recognition</h2>
-        <div class="awards-logos">
-      	  <a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
+        <h2 class="h4 text-secondary">Awards & Recognition</h2>
+        <p class="mb-5 text-muted">We're proud to be awarded on multiple platforms.</p>
+        <div class="logos logo-large">
+            <div class="logo"><a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png"></a></div>
+            <div class="logo"><a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png"></a></div>
+            <div class="logo"><a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png"></a></div>
+            <div class="logo"><a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png"></a></div>
+            <div class="logo"><a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.thecommonwealth-educationhub.net/goodpractice/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_commonwealth.png"></a></div>
+            <div class="logo border-bottom-0"><a href="https://asiasociety.org/education/events/globaledchat-design-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_asia.png"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.ashoka.org/en/fellow/kiran-bir-sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ashoka.png"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ted.png"></a></div>
         </div>
-        <div class="awards-logos">
-        	<a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.thecommonwealth-educationhub.net/goodpractice/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_commonwealth.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://asiasociety.org/education/events/globaledchat-design-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_asia.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.ashoka.org/en/fellow/kiran-bir-sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ashoka.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-          <a href="https://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ted.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></a>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
-<section class="not-sure inverse" style="height: 300px">
-  <div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-          <h2>Best of All, Our Resources Are Free!</h2>
-          <a href="/pages/get-started" class="button inverse">CHECK OUT NEXT STEPS</a>
-          <br/><br/>
-          <p>Design for Change USA is a 501(c)(3) non-profit organization. <a class="normal" href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
-        </div>
-    </div>
+<section class="cta cta-next-steps py-5">
+  <div class="container mt-3">
+      <h2 class="heading text-secondary">Best of All, Our Resources Are Free!</h2>
+      <a class="btn btn-secondary btn-lg" href="/pages/get-started">CHECK OUT NEXT STEPS</a>
+      <p class="mt-4 mb-3">Design for Change USA is a 501(c)(3) non-profit organization. <a href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
   </div>
 </section>
 
