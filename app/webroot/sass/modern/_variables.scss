@@ -1,6 +1,7 @@
 // Theme Colors ------------------------
 
 $theme-pink: #ed1651;
+$theme-red: #e3003e;
 $theme-green: #88c51f;
 $theme-yellow: #fac90e;
 $theme-blue: #0096db;
@@ -9,6 +10,7 @@ $theme-magenta: #e23ea9;
 
 
 $theme-light-blue: #02c2ed;
+$theme-dark-green: #08925f;
 
 
 // Colors ------------------------------
@@ -41,7 +43,7 @@ $blue:    $theme-blue !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    $theme-pink !default;
-$red:     #dc3545 !default;
+$red:     $theme-red !default;
 $orange:  #fd7e14 !default;
 $yellow:  $theme-yellow !default;
 $green:   $theme-green !default;
@@ -81,6 +83,7 @@ $theme-colors: (
   "magenta": $theme-magenta,
   "orange": $theme-orange,
   "light-blue": $theme-light-blue,
+  "dark-green": $theme-dark-green,
 );
 
 
@@ -145,6 +148,8 @@ $btn-padding-y-lg: 0.6rem;
 
 $btn-font-weight: $font-weight-bold;
 
+$btn-font-size: 0.9rem;
+$btn-font-size-sm: 0.8rem;
 $btn-font-size-lg: 1.19rem;
 
 //$input-btn-padding-y:         .375rem !default;

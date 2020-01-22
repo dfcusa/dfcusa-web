@@ -118,7 +118,7 @@
                     <img class="img-fluid" src="/dfcusa-web/app/webroot/img/btc-gandhi.png">
                 </div>
                 <div class="col-sm-9 mb-4">
-                    <p class="left">
+                    <p>
                         Every year, student teams from around the world submit their projects to Design for Change. An
                         Ambassador Team is selected from each country to attend the DFC Global Conference. This
                         conference brings together student teams from across the world to share and celebrate their
