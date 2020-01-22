@@ -1,0 +1,22 @@
+.cta-interested{
+  color: $light;
+  text-align: center;
+  background-color: $secondary;
+  padding: 3.3rem 0;
+
+  .heading{
+    font-weight: $font-weight-bold;
+  }
+
+  .btn{
+    background: rgba(darken($purple, 10%), 0.8);
+    border: $light solid 2px;
+    color: $light;
+    padding: 0.35rem 1.5rem;
+
+    &:hover{
+      background: $light;
+      color: $dark;
+    }
+  }
+}

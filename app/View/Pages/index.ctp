@@ -161,68 +161,81 @@
     </div>
 </section>
 
-<section class="not-sure">
-	<div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-        	<span><img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h2>Wondering where to begin?</h2>
-          <p>Check out some inspiring stories to get a feel for how it works.</p>
-          <a class="button" href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
+<section class="cta py-5 cta-begin">
+    <div class="container my-3">
+        <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
+        <div class="mb-4">
+            <h2 class="heading text-secondary">Wondering where to begin?</h2>
+            <p>Check out some inspiring stories to get a feel for how it works.</p>
         </div>
+        <a class="btn btn-inverse-secondary btn-lg" href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
     </div>
-  </div>
 </section>
 
-<section class="reviews-area">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2>What do educators think?</h2>
-      </div>
+<section class="reviews">
+    <div class="container">
+
+        <h2 class="text-secondary text-center mb-5 font-weight-bolder">What do educators think?</h2>
+
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="review-item">
+                    <p class="review-text">I love that my students learned to listen to each other better. They learned
+                        to share ideas, carefully critique each other and move forward. It was incredible and I hope
+                        they retain these communication and respect qualities for a lifetime.</p>
+                    <div class="review-author">
+                        <img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png"
+                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                        <h3 class="author-name">Charlene Hitchcock</h3>
+                        <div class="author-details">
+                            <div class="text-secondary">2nd Gr. Teacher</div>
+                            <div class="text-muted">Washington Elementary School, Sandpoint, ID</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="review-item">
+                    <p class="review-text">At the end of this project, my students were saying things like, "I feel like
+                        I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I
+                        did it and it feels so great!"... things I never imagined I would hear."</p>
+                    <div class="review-author">
+                        <img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png"
+                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                        <h3 class="author-name">Dana Kinel</h3>
+                        <div class="author-details">
+                            <div class="text-secondary">Design Technology Teacher</div>
+                            <div class="text-muted">Sunset Ridge Middle School, Hartford, CT</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="review-item">
+                    <p class="review-text">They never wanted to miss a day from the project. They gave up their free
+                        time to do more than they had to. They were thinking critically and problem solving. They made a
+                        difference in our school community.</p>
+                    <div class="review-author">
+                        <img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png"
+                             alt="/dfcusa-web/app/webroot/img" class="author-image">
+                        <h3 class="author-name">Patti Andreoles</h3>
+                        <div class="author-details">
+                            <div class="text-secondary">5th Grade Teacher</div>
+                            <div class="text-muted">P.S.135Q The Bellaire School, Queens, NY</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="review-block">
-          <p class="review-text">I love that my students learned to listen to each other better. They learned to share ideas, carefully critique each other and move forward. It was incredible and I hope they retain these communication and respect qualities for a lifetime.</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Charlene Hitchcock</h3>
-          <div class="review-foot">
-            <h5>2nd Gr. Teacher</h5>
-            <p>Washington Elementary School, Sandpoint, ID</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="review-block">
-          <p class="review-text">At the end of this project, my students were saying things like, "I feel like I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I did it and it feels so great!"... things I never imagined I would hear."</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Dana Kinel</h3>
-          <div class="review-foot">
-            <h5>Design Technology Teacher</h5>
-            <p>Sunset Ridge Middle School, Hartford, CT</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="review-block">
-          <p class="review-text">They never wanted to miss a day from the project. They gave up their free time to do more than they had to. They were thinking critically and problem solving. They made a difference in our school community.</p>
-          <span><img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid"></span>
-          <h3>Patti Andreoles</h3>
-          <div class="review-foot">
-            <h5>5th Grade Teacher</h5>
-            <p>P.S.135Q The Bellaire School, Queens, NY</p>
-          </div>
-        </div>
-      </div>
-    </div>  
-  </div>
 </section>
 
-<div class="interested-dfc" style="margin-top: 10px">
-  <h3 style="color: #fff">We have reached over 10,000 young people in the USA</h3>
-  <p>Learn about our impact in the 2018 / 2019 school year</p>
-  <a href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
+<div class="cta cta-interested my-3">
+  <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
+  <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>
+  <a class="btn" href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
 </div>
 
 <section class="global-impact">

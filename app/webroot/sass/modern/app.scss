@@ -1,16 +1,23 @@
-@import "./variables";
-@import "./mixins";
+@import "variables";
+@import "mixins";
+
 
 @import "~bootstrap/scss/bootstrap";
 
 
-@import "./partials/lead-box";
+@import "buttons";
+@import "lead-box";
+@import "cta";
 
-@import "./partials/navbar";
-@import "./partials/top-bar";
-@import "./partials/hero";
-@import "./partials/endorsed-by";
-@import "./partials/design-change";
-@import "./partials/apply-dfc";
+
+@import "partials/navbar";
+@import "partials/top-bar";
+@import "partials/hero";
+@import "partials/endorsed-by";
+@import "partials/design-change";
+@import "partials/apply-dfc";
 @import "partials/latest-news";
+@import "partials/cta-begin";
+@import "partials/reviews";
+@import "partials/cta-interested";
 

@@ -7,6 +7,42 @@
   }
 }
 
-@function get-contrast-fore-color($color) {
+@function get-contrast-color($color) {
   @return get-value-for-contrast($color, $white, $black, 60);
+}
+
+@mixin button-inverse-variant($color, $color-hover: $color, $background: get-contrast-color($color)) {
+  color: $color;
+  background-color: $background;
+  border-color: $background;
+  box-shadow: rgba(get-contrast-color($background), .3) 0 3px 5px;
+
+  @include hover() {
+    color: $background;
+    background-color: $color-hover;
+    border-color: $color-hover;
+    box-shadow: rgba(get-contrast-color($background), .4) 0 4px 7px;
+  }
+
+  &:focus,
+  &.focus {
+    box-shadow: rgba(get-contrast-color($background), .4) 0 3px 8px;
+  }
+
+  &.disabled,
+  &:disabled {
+    color: color-yiq($color);
+    background-color: transparent;
+  }
+
+  &:not(:disabled):not(.disabled):active,
+  &:not(:disabled):not(.disabled).active,
+  .show > &.dropdown-toggle {
+    color: $background;
+    background-color: $color;
+    border-color: $color;
+
+    //&:focus {
+    //}
+  }
 }

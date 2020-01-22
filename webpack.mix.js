@@ -15,7 +15,7 @@ mix
     .setPublicPath('app/webroot/')
     .options({
         fileLoaderDirs:{
-            images: 'img',
+            images: 'images',
             fonts: 'fonts',
         }
     })

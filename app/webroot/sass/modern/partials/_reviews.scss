@@ -1,0 +1,45 @@
+.reviews{
+  padding: 3.5rem 0 2.8rem;
+
+  .review-item{
+    @extend .rounded, .border;
+    padding: 1rem;
+    box-shadow: rgba($dark, 0.2) 0 3px 5px;
+  }
+
+  .review-text{
+    color: $theme-light-blue;
+    font-size: 0.89rem;
+    line-height: 1.7;
+    margin-bottom: 2.6rem;
+
+    &:before{
+      display: block;
+      content: url("../../../img/img_qoute_icon.jpg");
+    }
+  }
+
+  .review-author{
+    color: $gray-700;
+    text-align: center;
+    font-size: 0.7rem;
+  }
+
+  .author-image{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+  }
+
+  .author-details{
+    border-top: $gray-300 solid 1px;
+    padding-top: 0.8rem;
+    line-height: 1.7;
+  }
+
+  .author-name{
+    font-size: 0.8rem;
+    margin-bottom: 0.8rem;
+  }
+}

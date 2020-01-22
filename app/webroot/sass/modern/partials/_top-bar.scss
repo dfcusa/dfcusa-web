@@ -1,6 +1,6 @@
 .top-bar{
   background: $topbar-background;
-  color: get-contrast-fore-color($topbar-background);
+  color: get-contrast-color($topbar-background);
   text-align: center;
   font-weight: $font-weight-bold;
   padding: 0.7rem 1.5rem;
