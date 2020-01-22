@@ -1,0 +1,67 @@
+.program-icons{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+
+  &.program-icons-light{
+
+    .icon{
+      max-width: 100px;
+      margin-bottom: 1.2rem;
+    }
+
+    p{
+      font-weight: $font-weight-light;
+      font-size: 0.9rem;
+    }
+
+  }
+}
+
+.program-icon{
+  padding: 0 1rem;
+  margin-bottom: 2rem;
+  width: 100%;
+
+  @include media-breakpoint-up(sm){
+    width: 50%;
+  }
+
+  @include media-breakpoint-up(lg){
+    width: 25%;
+  }
+
+  .icon{
+    width: 90%;
+    height: auto;
+    max-width: 150px;
+    margin-bottom: 2rem;
+  }
+
+  h4{
+    font-size: 1.8rem;
+    font-weight: $font-weight-bolder;
+    text-transform: uppercase;
+  }
+
+  p{
+    font-weight: $font-weight-bold;
+  }
+
+  &.item-pink p{
+    color: $theme-pink;
+  }
+
+  &.item-yellow p{
+    color: $theme-yellow;
+  }
+
+  &.item-green p{
+    color: $theme-green;
+  }
+
+  &.item-blue p{
+    color: $theme-blue;
+  }
+}

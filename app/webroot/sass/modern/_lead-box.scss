@@ -5,6 +5,7 @@
   padding: 2.5rem 1rem;
   display: flex;
   margin-bottom: 1.3rem;
+  flex-direction: column;
 
   .heading{
     margin-bottom: 1.5rem;
@@ -23,7 +24,6 @@
   }
 
   &.img-center{
-    flex-direction: column;
 
     .lead-image{
       margin-bottom: 1.5rem;

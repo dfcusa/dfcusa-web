@@ -5,11 +5,54 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', endColorstr='#fa5e0e',GradientType=0 ); // Old IEs
   text-align: center;
 
+  &.with-background-image{
+    margin-bottom: 2rem;
+    position: relative;
+
+    &:before{
+      content: '';
+      background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%) center no-repeat;
+      background-size: cover;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0.87;
+      z-index: 1;
+    }
+
+    .hero-container{
+      padding: 3rem 15px;
+
+      @include media-breakpoint-down(md){
+        padding: 1.4rem 15px;
+      }
+    }
+
+    .heading{
+      position: relative;
+      z-index: 2;
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: $font-weight-semi-bold;
+
+      @include media-breakpoint-up(md){
+        font-size: 1.5rem;
+      }
+
+      @include media-breakpoint-up(lg){
+        font-size: 2rem;
+      }
+    }
+
+  }
+
   .hero-container{
     width: 90%;
     max-width: 768px;
     margin: auto;
-    padding: 3rem 0 2rem;
+    padding: 3rem 15px 2rem;
   }
 
   .heading{

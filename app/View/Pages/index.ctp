@@ -31,31 +31,32 @@
         <h2 class="heading">What is Design for Change?</h2>
         <p class="lead">Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
 
-        <div class="pathway">
+        <div class="program-icons">
 
-            <div class="pathway-item item-pink">
+            <div class="program-icon item-pink">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                 <h4>Feel</h4>
                 <p>Empathize</p>
             </div>
 
-            <div class="pathway-item item-yellow">
+            <div class="program-icon item-yellow">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                 <h4>Imagine</h4>
                 <p>Brainstorm</p>
             </div>
 
-            <div class="pathway-item item-green">
+            <div class="program-icon item-green">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                 <h4>Do</h4>
                 <p>Prototype</p>
             </div>
 
-            <div class="pathway-item item-blue">
+            <div class="program-icon item-blue">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
                 <h4>SHARE</h4>
                 <p>Inspire</p>
             </div>
+
         </div>
 
     </div>
