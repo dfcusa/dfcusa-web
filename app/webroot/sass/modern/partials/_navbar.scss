@@ -1,0 +1,80 @@
+.navbar{
+  padding: 1.5rem 0;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+
+.navbar-expand-lg{
+
+  .navbar-nav{
+
+    .nav-item{
+      margin-left: 0;
+      text-align: right;
+
+      @include media-breakpoint-up(lg) {
+        margin-left: 1.5rem;
+      }
+
+      &:first-child{
+        margin-left: 0;
+      }
+
+      &:hover, &.active{
+        > .nav-link{
+          color: $theme-pink;
+          border-bottom-color: $theme-pink;
+        }
+      }
+    }
+
+    .nav-link{
+      font-weight: $font-weight-bold;
+      border-bottom: transparent solid 2px;
+
+      @include media-breakpoint-up(lg) {
+        padding: 0.1rem 0;
+      }
+    }
+  }
+
+
+  .navbar-brand{
+    width: 128px;
+  }
+
+
+  .my-projects-nav{
+    display: none;
+  }
+
+  .login-nav{
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: rgba($dark, 0.3) solid 1px;
+
+    @include media-breakpoint-up(lg){
+      margin-left: 2rem;
+      margin-top: 0;
+      padding-top: 0;
+      border: none;
+    }
+
+    .nav-link{
+      font-size: 0.8rem;
+      font-weight: $font-weight-regular;
+
+      @include media-breakpoint-up(lg){
+        border-color: $dark;
+        border-bottom-width: 1px;
+      }
+    }
+
+  }
+
+  .account-nav{
+    display: none;
+  }
+
+}

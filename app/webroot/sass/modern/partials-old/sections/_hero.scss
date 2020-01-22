@@ -29,14 +29,14 @@
     font-size: 23px;
     font-weight: 700;
     padding: 15px 40px;
-    color: $pink;
+    color: $theme-pink;
     text-transform: uppercase;
     background: $white;
     border-radius: 30px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
 
     &:hover {
-      background: $pink;
+      background: $theme-pink;
       color: $white;
     }
   }

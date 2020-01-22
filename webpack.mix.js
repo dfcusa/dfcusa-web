@@ -11,5 +11,14 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.sass('app/webroot/sass/modern/app.scss', 'app/webroot/css/modern')
-    .sourceMaps();
+mix
+    .setPublicPath('app/webroot/')
+    .options({
+        fileLoaderDirs:{
+            images: 'img',
+            fonts: 'fonts',
+        }
+    })
+    .sourceMaps(true, 'source-map', 'source-map')
+
+    .sass('app/webroot/sass/modern/app.scss', 'app/webroot/css/modern');

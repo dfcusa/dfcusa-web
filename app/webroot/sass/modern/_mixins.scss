@@ -1,0 +1,12 @@
+@function get-value-for-contrast($color, $light: $light, $dark: $dark, $lightness: 50) {
+  @if (lightness( $color ) < $lightness) {
+    @return $light;
+  }
+  @else {
+    @return $dark;
+  }
+}
+
+@function get-contrast-fore-color($color) {
+  @return get-value-for-contrast($color, $white, $black, 60);
+}

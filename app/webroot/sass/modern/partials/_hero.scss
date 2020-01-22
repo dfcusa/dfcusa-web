@@ -1,0 +1,40 @@
+.hero{
+  color: $white;
+  background: $theme-pink;
+  background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', endColorstr='#fa5e0e',GradientType=0 ); // Old IEs
+  text-align: center;
+
+  .hero-container{
+    width: 90%;
+    max-width: 768px;
+    margin: auto;
+    padding: 3rem 0 2rem;
+  }
+
+  .heading{
+    font-size: 1.8rem;
+    font-weight: $font-weight-bolder;
+
+    @include media-breakpoint-up(sm){
+      font-size: 2rem;
+    }
+
+    @include media-breakpoint-up(md){
+      font-size: 2.9rem;
+    }
+
+    @include media-breakpoint-up(lg){
+      font-size: 3.15rem;
+    }
+  }
+
+  .hero-art{
+    max-width: 400px;
+    margin: 3rem auto 2.7rem;
+  }
+
+  .lead{
+    font-weight: $font-weight-semi-bold;
+  }
+}

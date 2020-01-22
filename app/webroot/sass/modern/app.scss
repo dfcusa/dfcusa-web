@@ -1,21 +1,16 @@
-@import "./partials/variables";
+@import "./variables";
+@import "./mixins";
+
 @import "~bootstrap/scss/bootstrap";
 
 
-@import "./partials/base";
-@import "./partials/typography";
-@import "./partials/forms";
-@import "./partials/utilities";
+@import "./partials/lead-box";
 
+@import "./partials/navbar";
+@import "./partials/top-bar";
+@import "./partials/hero";
+@import "./partials/endorsed-by";
+@import "./partials/design-change";
+@import "./partials/apply-dfc";
+@import "partials/latest-news";
 
-// Blocks --------------------------------
-@import "partials/blocks/pathway-block";
-@import "partials/blocks/home-block";
-
-
-// Section-based styles -------------------
-@import "partials/sections/header";
-@import "partials/sections/hero";
-@import "partials/sections/endorsed-by";
-@import "partials/sections/design-change";
-@import "partials/sections/apply-dfc";

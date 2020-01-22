@@ -1,0 +1,43 @@
+.endorsed-by{
+  padding: 1.3rem 0;
+  text-align: center;
+
+  .heading{
+    font-size: 0.9rem;
+    font-weight: $font-weight-base;
+    color: $gray-700;
+  }
+
+  .endorsed-logos{
+    margin: 1.2rem 0 1rem;
+    display: flex;
+    align-items: stretch;
+    overflow-x: auto;
+
+    @include media-breakpoint-up(lg){
+      justify-content: center;
+    }
+
+    .logo{
+      padding: 0.4rem 1.5rem;
+      border-right: $gray-400 solid 1px;
+
+      &:last-child{
+        border-right: none;
+      }
+
+      a{
+        display: flex;
+        align-items: center;
+        height: 100%;
+      }
+
+      img{
+        display: block;
+        width: 75px;
+        height: auto;
+      }
+    }
+  }
+
+}

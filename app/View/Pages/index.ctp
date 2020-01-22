@@ -1,177 +1,164 @@
-<section class="hero index">
-	<div class="container">
-  	<div class="row">
-    	<div class="col-sm-12">
-      	<h1 class="h1-big">We Turn Empathy Into Action</h1>
+<section class="hero">
+	<div class="hero-container">
+        <h1 class="heading">We Turn Empathy Into Action</h1>
         <div class="hero-art">
-        	<img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+            <img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="" class="img-fluid">
         </div>
-        <p class="join">Join other educators helping over <i>1 million young people worldwide</i> positively impact their communities.
-        </div>
-      </div>
+        <p class="lead">Join other educators helping over <em>1 million young people worldwide</em> positively impact their communities.
     </div>
 </section>
 
 
-<section class="endorsed-by hide-mobile">
+<section class="endorsed-by">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3>Supporters of Design for Change Global and DFC USA...</h3>
+      <h3 class="heading">Supporters of Design for Change Global and DFC USA...</h3>
       <div class="endorsed-logos">
-          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png" class="img-fluid"></a></div>
-          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png" class="img-fluid"></a></div>
-        </div>
+          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png"></a></div>
+          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg"></a></div>
+          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg"></a></div>
+          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg"></a></div>
+          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png"></a></div>
+          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png"></a></div>
+          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png"></a></div>
       </div>
-    </div>
   </div>
 </section>
 
 
 <section class="design-change">
 	<div class="container">
-  	<div class="row">
-      <div class="col-sm-12">
-        <h2>What is Design for Change?</h2>
-        <p>Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
-      </div>
 
-      <div class="home-icons">
-        <div class="row">
-          <div class="col-md-3 col-lg-3">
-            <div class="apply-block feel-block">
-              <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-              <h4>Feel</h4>
-              <h5 class="bold">Empathize</h5>
+        <h2 class="heading">What is Design for Change?</h2>
+        <p class="lead">Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
+
+
+        <div class="pathway">
+
+            <div class="pathway-item item-pink">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
+                <h4>Feel</h4>
+                <p>Empathize</p>
             </div>
-          </div>
-          <div class="col-md-3 col-lg-3">
-            <div class="apply-block imagine-block">
-              <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-              <h4>IMAGINE</h4>
-              <h5 class="bold">Brainstorm</h5>
+
+            <div class="pathway-item item-yellow">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
+                <h4>Imagine</h4>
+                <p>Brainstorm</p>
             </div>
-          </div>
-          <div class="col-md-3 col-lg-3">
-            <div class="apply-block do-block">
-              <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-              <h4>DO</h4>
-              <h5 class="bold">Prototype</h5>
+
+            <div class="pathway-item item-green">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
+                <h4>Do</h4>
+                <p>Prototype</p>
             </div>
-          </div>
-          <div class="col-md-3 col-lg-3">
-            <div class="apply-block share-block">
-              <img src="/dfcusa-web/app/webroot/img/share_arrow.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-              <h4>SHARE</h4>
-              <h5 class="bold">Inspire</h5>
+
+            <div class="pathway-item item-blue">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
+                <h4>SHARE</h4>
+                <p>Inspire</p>
             </div>
-          </div>
         </div>
-      </div>
+
     </div>
-  </div>
 </section>
 
-<section class="apply-dfc">
-  <div class="container">
-    <div class="pathway-block home-block inverse">
-      <div class="pathway-img"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="img" class="img-fluid"></div>
-      <div class="block-det inverse">
-        <h3 class="inverse">Global Goals&nbsp;</h3>
-        <p class="inverse">Design for Change is aligned with the UN Sustainable Global Goals. Young people use the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's Largest Lesson</a> to guide their projects and focus on high impact issues in their community.</p>
-      </div>
+<section class="apply-dfc mt-2 mb-5">
+    <div class="container">
+        <div class="lead-box lead-light img-right">
+            <div class="lead-image">
+                <img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="img" class="img-fluid">
+            </div>
+            <div class="lead-content">
+                <h3 class="heading">Global Goals&nbsp;</h3>
+                <p>Design for Change is aligned with the UN Sustainable Global Goals. Young people use
+                    the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's
+                        Largest Lesson</a> to guide their projects and focus on high impact issues in their community.
+                </p>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 
 <section class="latest-news">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-          <h2>Latest News & Updates</h2>
-      </div>
-    </div>    
-    <div class="row news-posts">
-      
-    </div>
+      <h2 class="heading">Latest News & Updates</h2>
+    <div class="row news-posts"></div>
   </div>
 </section>
 
 
-<section class="get-started">
+<section class="get-started text-white bg-success py-5 text-center">
+
 	<div class="container">
-    <div class="get-started-head">
-      <div class="row">
-        <div class="col-sm-12">
-          <h2>Our Programs for Educators</h2>
-          <p>Several ways for you to engage your students or develop your own skills.</p>
+
+        <div class="get-started-head mb-4">
+            <h2>Our Programs for Educators</h2>
+            <p>Several ways for you to engage your students or develop your own skills.</p>
         </div>
-      </div>
+
+        <div class="get-started-inner">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="lead-box lead-orange img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">DESIGN SPRINTS</h4>
+                            <div class="small">
+                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    4 hours
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-light-blue img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/img_projects_art.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">COMMUNITY PROJECTS</h4>
+                            <div class="small">
+                                <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    Around 20 hours
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-projects">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-magenta img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">WORKSHOPS</h4>
+                            <div class="small">
+                                <p>Experiential PD workshops introducing educators to design thinking and the DFC
+                                    methodology.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    2 hours | 1/2 Day | Full Day
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/professional-development">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-        
-    <div class="get-started-inner">
-    	<div class="row">
-        <div class="col-lg-4">
-        	<div class="pathway-block sprint-block">
-          	<div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            </div>
-            <div class="pathway-det">
-              <h3>DESIGN SPRINTS</h3>
-              <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
-              <p>
-                <strong>Time Commitment:</strong><br>
-                4 hours
-              </p>
-              <br/>
-              <a href="/pages/get-started/design-sprints">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-        	<div class="pathway-block projects-block">
-            <div class="pathway-img">
-          		<img src="/dfcusa-web/app/webroot/img/img_projects_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            </div>
-            <div class="pathway-det">
-              <h3>COMMUNITY PROJECTS</h3>
-              <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
-              <p>
-                  <strong>Time Commitment:</strong><br>
-                  Around 20 hours
-              </p>
-              <br/>
-              <a href="/pages/get-started/community-projects">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="pathway-block workshop-block">
-            <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="/dfcusa-web/app/webroot/img" class="/dfcusa-web/app/webroot/img-fluid">
-            </div>
-            <div class="pathway-det">
-              <h3>WORKSHOPS</h3>
-              <p>Experiential PD workshops introducing educators to design thinking and the DFC methodology.</p>
-              <p>
-                <strong>Time Commitment:</strong><br>
-                2 hours | 1/2 Day | Full Day
-              </p>
-              <br/>
-              <a href="/pages/get-started/professional-development">Learn more</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-        
-  </div>
 </section>
 
 <section class="not-sure">
@@ -271,7 +258,7 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid hide">
+  <div class="container-fluid d-none">
     <div class="row">
       <div class="col-sm-12">
         <div class="world-map">

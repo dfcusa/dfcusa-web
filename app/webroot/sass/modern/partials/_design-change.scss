@@ -1,0 +1,88 @@
+.pathway{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+
+  &-item{
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+    width: 100%;
+
+    @include media-breakpoint-up(sm){
+      width: 50%;
+    }
+
+    @include media-breakpoint-up(lg){
+      width: 25%;
+    }
+
+    .icon{
+      width: 90%;
+      height: auto;
+      max-width: 150px;
+      margin-bottom: 2rem;
+    }
+
+    h4{
+      font-size: 1.8rem;
+      font-weight: $font-weight-bolder;
+      text-transform: uppercase;
+    }
+
+    p{
+      font-weight: $font-weight-bold;
+    }
+
+    &.item-pink p{
+      color: $theme-pink;
+    }
+
+    &.item-yellow p{
+      color: $theme-yellow;
+    }
+
+    &.item-green p{
+      color: $theme-green;
+    }
+
+    &.item-blue p{
+      color: $theme-blue;
+    }
+  }
+}
+
+.design-change{
+  background: $theme-blue;
+  background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
+  padding: 4rem 0 3rem;
+  text-align: center;
+  color: $white;
+
+  .heading{
+    font-weight: $font-weight-bolder;
+    margin-bottom: 1.3rem;
+  }
+
+  .lead{
+    font-size: 1.4rem;
+    font-weight: $font-weight-base;
+  }
+
+  .pathway{
+    margin-top: 2.4rem;
+    color: $dark;
+
+    .pathway-item{
+
+      &.item-yellow p{
+        color: darken($theme-yellow, 10%);
+      }
+
+      &.item-green p{
+        color: darken($theme-green, 10%);
+      }
+    }
+  }
+}
