@@ -2,6 +2,7 @@ Use CakePHP.
 
 Set up root .htaccess:
   
+```apacheconfig
 <IfModule mod_rewrite.c>
         RewriteEngine On
         RewriteRule ^whatisdfc$ /dfcusa/pages/whatisdfc [NE,R=301,L]
@@ -18,6 +19,7 @@ Set up root .htaccess:
         RewriteRule ^submit$ /dfcusa/pages/submit [NE,R=301,L]
         RewriteRule ^(.*)$ /dfcusa/$1 [NC]
 </IfModule>
+```
 
 
 ---------------------------------
