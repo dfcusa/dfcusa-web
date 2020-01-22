@@ -12559,6 +12559,10 @@ a.text-light-blue:focus {
 }
 
 .top-bar {
+  padding: 0;
+}
+
+.top-bar .navbar-collapse {
   background: #4dc310;
   color: #fff;
   text-align: center;

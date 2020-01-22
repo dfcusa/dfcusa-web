@@ -1,9 +1,13 @@
 .top-bar{
-  background: $topbar-background;
-  color: get-contrast-color($topbar-background);
-  text-align: center;
-  font-weight: $font-weight-bold;
-  padding: 1rem 0;
+  padding: 0;
+
+  .navbar-collapse{
+    background: $topbar-background;
+    color: get-contrast-color($topbar-background);
+    text-align: center;
+    font-weight: $font-weight-bold;
+    padding: 1rem 0;
+  }
 
   .btn{
     margin-left: 1rem;
