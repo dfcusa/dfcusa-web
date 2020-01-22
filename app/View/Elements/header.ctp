@@ -6,7 +6,7 @@
                 <div class="content">
                     Register your projects to be considered for the 2020 Be The Change Conference in São Paulo, Brazil!
                     <a href="/dfcusa-pm/projects#project/new/submit"
-                       class="btn btn-primary btn-sm d-block d-lg-inline-block mt-2 mt-lg-0">
+                       class="btn btn-primary btn-sm d-block d-lg-inline-block mt-2 mt-lg-0 text-uppercase">
                         Register My Projects
                     </a>
                 </div>

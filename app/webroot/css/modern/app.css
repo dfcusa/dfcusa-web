@@ -12630,6 +12630,7 @@ a.text-light-blue:focus {
 
 .top-bar {
   padding: 0;
+  text-transform: none;
 }
 
 .top-bar .navbar-collapse {
