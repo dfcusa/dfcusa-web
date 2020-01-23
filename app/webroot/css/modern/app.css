@@ -390,7 +390,7 @@ h6,
 .h6 {
   margin-bottom: 0.5rem;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 h1,
@@ -431,25 +431,25 @@ h6,
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 .display-2 {
   font-size: 5.5rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 .display-3 {
   font-size: 4.5rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 .display-4 {
   font-size: 3.5rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 hr {
@@ -8239,7 +8239,8 @@ button.bg-dark-green:focus {
   border-radius: 0.3rem !important;
 }
 
-.rounded-circle {
+.rounded-circle,
+.member img {
   border-radius: 50% !important;
 }
 
@@ -13046,15 +13047,9 @@ a.text-dark-green:focus {
   display: flex;
   -webkit-box-align: stretch;
           align-items: stretch;
-  overflow-x: auto;
-}
-
-@media (min-width: 992px) {
-  .logo-list .logos {
-    -webkit-box-pack: center;
-            justify-content: center;
-    flex-wrap: wrap;
-  }
+  -webkit-box-pack: center;
+          justify-content: center;
+  flex-wrap: wrap;
 }
 
 @media (min-width: 992px) {
@@ -13486,6 +13481,32 @@ a.text-dark-green:focus {
   border-top: none;
 }
 
+@media (max-width: 991.98px) {
+  .program-list .table {
+    display: block;
+  }
+
+  .program-list .table tr {
+    display: block;
+  }
+
+  .program-list .table th {
+    margin-bottom: 0.6rem;
+    padding: 1rem 0 0;
+  }
+
+  .program-list .table td {
+    border-top: none;
+    margin-bottom: 1rem;
+    padding: 0;
+  }
+
+  .program-list .table th,
+  .program-list .table td {
+    display: block;
+  }
+}
+
 .video-box {
   position: relative;
   overflow: hidden;
@@ -13606,6 +13627,12 @@ a.text-dark-green:focus {
   .design-thinking-classroom img {
     margin: 0.3rem 0.3rem 1rem;
   }
+}
+
+.member img {
+  box-shadow: rgba(52, 58, 64, 0.4) 0 3px 5px;
+  max-width: 160px;
+  margin: 0 auto;
 }
 
 

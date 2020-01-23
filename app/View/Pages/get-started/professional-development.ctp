@@ -69,7 +69,7 @@
             </div>
         </div>
 
-        <div class="program-list border-0 mb-5">
+        <div class="program-list mb-5">
             <table class="table">
                 <tbody>
                 <tr>

@@ -19,7 +19,7 @@
         <p>As an educator, here's how you get started:</p>
 
 
-        <h3 class="my-4">STEP 1</h3>
+        <h3 class="h4 mt-5 mb-2">STEP 1</h3>
         <h4 class="h5 mb-4 font-weight-normal">Download Our Free Educator’s Design Thinking Poster</h4>
 
         <div class="lead-box lead-danger img-left mb-4">
@@ -38,7 +38,7 @@
         </div>
 
 
-        <h3 class="my-4">STEP 2</h3>
+        <h3 class="h4 mt-5 mb-2">STEP 2</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Start a Design Sprint or Community Project with our
             <a href="#platform">Online Educator Platform.</a>
@@ -94,7 +94,7 @@
         </div>
 
 
-        <h3 class="my-4">STEP 3</h3>
+        <h3 class="h4 mt-5 mb-2">STEP 3</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Get additional support rolling out Design for Change in your
             school or community.
