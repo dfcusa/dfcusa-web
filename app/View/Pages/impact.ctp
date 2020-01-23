@@ -1,17 +1,15 @@
-<script src="/dfcusa-web/app/webroot/js/pdf/pdf.js"></script>
-
-<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%; margin: 0px">
-  <div class="container">
-    <h4 class="one-line"><span>Our impact.</span></h4>
-  </div>
+<section class="hero with-background-image"
+         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+    <div class="hero-container">
+        <h4 class="heading">Our impact.</h4>
+    </div>
 </section>
 
 <section class="page-content" style="padding: 0px; margin: 0px; text-align: center;">
-  <div id="the-canvas" style="margin-left: auto; margin-right: auto; width: 100%; height: 2800px;">
-    
-  </div>
+  <div id="the-canvas" style="margin-left: auto; margin-right: auto; width: 100%; height: 2800px;"></div>
 </section>
 
+<script src="/dfcusa-web/app/webroot/js/pdf/pdf.js"></script>
 <script>
   function renderPDF(url, canvasContainer, options) {
     var options = options || { scale: 2 };
