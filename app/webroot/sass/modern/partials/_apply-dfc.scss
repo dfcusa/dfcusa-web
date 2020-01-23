@@ -1,0 +1,19 @@
+.apply-dfc{
+  .lead-box{
+    background:  white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+    .heading{
+      font-weight: $font-weight-base;
+      margin-bottom: 1.2rem;
+    }
+
+    .lead-image{
+      img{
+        max-width: 120px;
+      }
+    }
+
+  }
+}

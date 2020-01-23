@@ -29,12 +29,13 @@
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+<!--<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">-->
 <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
 <link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
-<link href="/dfcusa-web/app/webroot/css/style.css" rel="stylesheet">
-<link href="/dfcusa-web/app/webroot/css/responsive.css?version=1234" rel="stylesheet">
+<!--<link href="/dfcusa-web/app/webroot/css/style.css" rel="stylesheet">-->
+<!--<link href="/dfcusa-web/app/webroot/css/responsive.css?version=1234" rel="stylesheet">-->
+<link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
 </head>
 
 <body>

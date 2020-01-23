@@ -1,204 +1,259 @@
-<section class="inner-hero inside get-started one-line" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png'); background-size: 100%">
-  <div class="container">
-  	<h4 class="one-line"><span>Change starts with you.</span></h4>
-  </div>
+<section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+    <div class="hero-container">
+        <h4 class="heading">Change starts with you.</h4>
+    </div>
 </section>
-
 
 <section class="page-content">
-	<div class="container">
-  	<div class="row">
-      <div class="col-sm-12">
-        <h2>Getting Started with Design for Change</h2>
-        <p>Students don't have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes that every child can be a designer for change provided the right  tools, resources, and support.</p>
+    <div class="container">
+
+        <h2 class="heading-secondary">Getting Started with Design for Change</h2>
+
+        <p>
+            Students don't have to wait to change the world. They can drive lasting
+            change in their communities, given the right tools and resources.
+            DFC recognizes that every child can be a designer for change provided
+            the right tools, resources, and support.
+        </p>
+
         <p>As an educator, here's how you get started:</p>
-        <h3>STEP 1</h3>
-        <h4>Download Our Free Educator’s Design Thinking Poster</h4>
-        <div class="pathway-block educator-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>DESIGN THINKING POSTER</h3>
-            <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework. It's an easy way to learn how it all works on one page.</p>
-            <a href="javascript:showMailingPopUp()">GET THE POSTER</a>
-            <!-- /dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf -->
-          </div>
+
+
+        <h3 class="h4 mt-5 mb-2">STEP 1</h3>
+        <h4 class="h5 mb-4 font-weight-normal">Download Our Free Educator’s Design Thinking Poster</h4>
+
+        <div class="lead-box lead-danger img-left mb-4">
+            <div class="lead-image">
+                <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png"
+                     class="img-fluid w-75"
+                     alt="img">
+            </div>
+            <div class="lead-content">
+                <h3 class="h4 mb-1">DESIGN THINKING POSTER</h3>
+                <hr>
+                <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework. It's an easy way
+                    to learn how it all works on one page.</p>
+                <a class="btn btn-outline-light" href="javascript:showMailingPopUp()">GET THE POSTER</a>
+            </div>
         </div>
-      </div>
+
+
+        <h3 class="h4 mt-5 mb-2">STEP 2</h3>
+        <h4 class="h5 mb-4 font-weight-normal">
+            Start a Design Sprint or Community Project with our
+            <a href="#platform">Online Educator Platform.</a>
+        </h4>
+
+        <div class="row align-items-stretch">
+            <div class="col-sm-6 mb-4">
+                <div class="lead-box lead-orange img-center text-center h-100">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content">
+                        <h3 class="h4 mb-1">DESIGN SPRINTS</h3>
+                        <hr>
+                        <p>
+                            Implement quick and simple activities that offer a fun, fresh, and
+                            exciting way to get started with design thinking and service.
+                        </p>
+                        <p class="small">
+                            <strong>Time Commitment:</strong><br>
+                            As little as 4 hours
+                        </p>
+                        <a href="/dfcusa-web/pages/get-started/design-sprints"
+                           class="btn btn-outline-light">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 mb-4">
+                <div class="lead-box lead-light-blue img-center text-center h-100">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content">
+                        <h3 class="h4 mb-1">COMMUNITY PROJECTS</h3>
+                        <hr>
+                        <p>
+                            Build a customized learning experience for your students, using
+                            expert-designed lesson plans and activities.
+                        </p>
+                        <p class="small">
+                            <strong>Time Commitment:</strong><br>
+                            Around 20 hours
+                        </p>
+                        <a href="/dfcusa-web/pages/get-started/community-projects"
+                           class="btn btn-outline-light">Learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <h3 class="h4 mt-5 mb-2">STEP 3</h3>
+        <h4 class="h5 mb-4 font-weight-normal">
+            Get additional support rolling out Design for Change in your
+            school or community.
+        </h4>
+
+        <div class="row align-items-stretch">
+            <div class="col-sm-6 mb-4">
+                <div class="lead-box lead-magenta img-center text-center h-100">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_workshops.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content">
+                        <h3 class="h4 mb-1">WORKSHOPS</h3>
+                        <hr>
+                        <p>
+                            Master the principles of design thinking and get trained
+                            on the Design for Change methodology.
+                        </p>
+                        <p class="small">
+                            <strong>Time Commitment:</strong><br>
+                            2 Hours | 1/2 Day | Full Day
+                        </p>
+                        <a href="/dfcusa-web/pages/get-started/professional-development"
+                           class="btn btn-outline-light">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 mb-4">
+                <div class="lead-box lead-primary img-center text-center h-100">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_coaching.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content">
+                        <h3 class="h4 mb-1">COACHING</h3>
+                        <hr>
+                        <p>
+                            Receive customized coaching sessions on adopting
+                            Design for Change across your organization.
+                        </p>
+                        <p class="small">
+                            <strong>Time Commitment:</strong><br>
+                            Flexible
+                        </p>
+                        <a href="/dfcusa-web/pages/get-started/coaching"
+                           class="btn btn-outline-light">Learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="lead-box lead-dark-green img-right h-100 mb-4">
+            <div class="lead-image">
+                <img src="/dfcusa-web/app/webroot/img/ico_c_custom.png"
+                     class="img-fluid"
+                     alt="img">
+            </div>
+            <div class="lead-content px-4">
+                <h3 class="h4 mb-1">NEED A CUSTOM DESIGNED PROGRAM?</h3>
+                <hr>
+                <p>
+                    In the spirit of design thinking, our DFC Certified Coaches
+                    will co-create a series of learning experiences that best
+                    align to the priorities of your organization.
+                </p>
+                <a href="/dfcusa-web/pages/contact-us"
+                   class="btn btn-outline-light">Contact us</a>
+            </div>
+        </div>
+
     </div>
-    <div class="row">
-      <div class="col-sm-12">              
-        <h3>STEP 2</h3>
-        <h4>Start a Design Sprint or Community Project with our <a href="#platform">Online Educator Platform.</a></h4>
-      </div>
-    	<div class="col-sm-6">
-        <div class="pathway-block sprint-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>DESIGN SPRINTS</h3>
-            <p>Implement quick and simple activities that offer a fun, fresh, and exciting way to get started with design thinking and service.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>As little as 4 hours</span></p>
-            <a href="/dfcusa-web/pages/get-started/design-sprints">Learn more</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="pathway-block projects-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>COMMUNITY PROJECTS</h3>
-            <p>Build a customized learning experience for your students, using expert-designed<br/>lesson plans and activities.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>Around 20 hours</span></p>
-            <a href="/dfcusa-web/pages/get-started/community-projects">Learn more</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-    	<div class="col-sm-12">
-        <h3>STEP 3</h3>
-        <h4>Get additional support rolling out Design for Change in your school or community.</h4>
-      </div>
-    </div>
-    <div class="row">
-    	<div class="col-sm-6">
-        <div class="pathway-block workshop-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_workshops.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>WORKSHOPS</h3>
-            <p>Master the principles of design thinking and get trained on the Design for Change methodology.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>2 Hours | 1/2 Day | Full Day</span></p>
-            <a href="/dfcusa-web/pages/get-started/professional-development">Learn more</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="pathway-block coaching-block">
-          <div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_coaching.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>COACHING</h3>
-            <p>Receive customized coaching sessions on adopting Design for Change across your organization.
-            <br/><br/><span class="small"><strong>Time Commitment:</strong></br>Flexible</span></p>
-            <a href="/dfcusa-web/pages/get-started/coaching">Learn more</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-    	<div class="col-sm-12">
-        <div class="pathway-block design-block">
-        	<div class="pathway-img">
-            <img src="/dfcusa-web/app/webroot/img/ico_c_custom.png" alt="img" class="img-fluid">
-          </div>
-          <div class="pathway-det">
-            <h3>NEED A CUSTOM DESIGNED PROGRAM?</h3>
-            <p>In the spirit of design thinking, our DFC Certified Coaches will co-create a series of learning experiences that best align to the priorities of your organization.</p>
-            <a href="/pages/contact-us">Contact us</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 
-<section class="get-started hide-mobile">
-  <div class="container">
-    <div class="get-started-head">
-      <div class="row">
-        <div class="col-sm-12">
-          <h2 id="platform">Our Online Educator Platform</h2>
-          <p>Designed to help you bring Design for Change to your classroom.</p>
+
+<section class="page-content my-5">
+
+    <div class="lead-box lead-success border-0 rounded-0 mb-0">
+        <div class="container py-4">
+            <div class="text-center">
+                <h2 id="platform" class="heading font-weight-bolder">Our Online Educator Platform</h2>
+                <p class="mb-4">Designed to help you bring Design for Change to your classroom.</p>
+            </div>
+            <div class="lead-content">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-sm-6 mb-4">
+                        <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png">
+                    </div>
+                    <div class="col-sm-6 mb-4">
+                        <ul class="list-unstyled h6 font-weight-normal">
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Free activities across all stages
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Free Design Sprint podcast episodes
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Guided lesson plans and step by step instructions
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Upload project worksheets, pictures and videos
+                            </li>
+                            <li class="mb-4 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Submit your project to be elible as an Ambassador Team to
+                                attend the annual Be The Change conference
+                            </li>
+                        </ul>
+
+                        <a href="/dfcusa-pm/login#register" class="btn btn-danger btn-lg">REGISTER NOW</a>
+
+                    </div>
+                </div>
+
+                <div class="lead-box lead-primary img-right mt-5">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_school.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content px-4">
+                        <h3 class="h4 mb-1">OUR SCHOOL / DISTRICT VERSION</h3>
+                        <hr>
+                        <ul class="list-unstyled h6 font-weight-normal">
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Manage multiple projects across different sites / schools
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Track progress of projects
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Invite students and support staff to projects
+                            </li>
+                            <li class="mb-4 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Get expert assistance from Design for Change staff
+                            </li>
+                        </ul>
+                        <a href="/dfcusa-web/pages/contact-us"
+                           class="btn btn-outline-light">Contact us</a>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
-      </div>
+
     </div>
 
-    <div class="row web-portal">
-      <div class="col-lg-6">
-        <img class="screenshot" src="/dfcusa-web/app/webroot/img/screenshot.png">
-      </div>
-      <div class="col-lg-6">
-        <ul class="features-list">
-          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Free activities across all stages</li>
-          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Free Design Sprint podcast episodes</li>
-          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Guided lesson plans and step by step instructions</li>
-          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Upload project worksheets, pictures and videos</li>
-          <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Submit your project to be elible as an Ambassador Team to attend the annual Be The Change conference</li>
-        </ul>
-        <a href="/dfcusa-pm/login#register" class="button big">REGISTER NOW</a>
-      </div>
-      <div class="pathway-block enterprise-block">
-        <div class="pathway-img">
-          <img src="/dfcusa-web/app/webroot/img/ico_c_school.png" alt="img" class="img-fluid">
-        </div>
-        <div class="pathway-det">
-          <h3>OUR SCHOOL / DISTRICT VERSION</h3>
-          <ul class="features-list">
-            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Manage multiple projects across different sites / schools</li>
-            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Track progress of projects</li>
-            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Invite students and support staff to projects</li>
-            <li><img src="/dfcusa-web/app/webroot/img/icon_checkmark.png" class="checkmark">Get expert assistance from Design for Change staff</li>
-          </ul>
-          <a href="/pages/contact-us">Contact us</a>
-        </div>
-      </div>
-    </div>
-        
-    <div class="get-started-inner hide">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="pathway-block store-block">
-            <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/activities_product.png" height="150">
-            </div>
-            <div class="pathway-det">
-              <h3>Activities</h3>
-              <p>We have dozens of activities for each stage of the Design for Change process. You can use them individually or develop your own scope and sequence.</p>
-              <p class="pathway-price">FREE</p>
-              <br/>
-              <a href="/dfcusa-pm/activities">Browse Activities</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="pathway-block store-block">
-            <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/teachersguide_product.png" height="150">
-            </div>
-            <div class="pathway-det">
-              <h3>Web Portal</h3>
-              <p>This guide walks you through how to use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
-              <p class="pathway-price">$36</p>
-              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Sign Up</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="pathway-block store-block">
-            <div class="pathway-img">
-              <img src="/dfcusa-web/app/webroot/img/teachersguide_product.png" height="150">
-            </div>
-            <div class="pathway-det">
-              <h3>Teacher's Manual</h3>
-              <p>This guide walks you through how to use the Design for Change curriculum with your students, while providing tips and additional supporting activities.</p>
-              <p class="pathway-price">$36</p>
-              <a href="https://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380">Buy Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>

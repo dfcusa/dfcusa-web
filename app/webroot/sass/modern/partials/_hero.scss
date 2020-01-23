@@ -1,0 +1,84 @@
+.hero{
+  color: $white;
+  background: $theme-pink;
+  background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0139', endColorstr='#fa5e0e',GradientType=0 ); // Old IEs
+  text-align: center;
+
+  &.with-background-image{
+    margin-bottom: 2rem;
+    position: relative;
+    background: transparent center no-repeat;
+    background-size: cover;
+
+    &:before{
+      content: '';
+      background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0.87;
+      z-index: 1;
+    }
+
+    .hero-container{
+      padding: 3rem 15px;
+
+      @include media-breakpoint-down(md){
+        padding: 1.4rem 15px;
+      }
+    }
+
+    .heading{
+      position: relative;
+      z-index: 2;
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: $font-weight-semi-bold;
+
+      @include media-breakpoint-up(md){
+        font-size: 1.5rem;
+      }
+
+      @include media-breakpoint-up(lg){
+        font-size: 2rem;
+      }
+    }
+
+  }
+
+  .hero-container{
+    width: 90%;
+    max-width: 810px;
+    margin: auto;
+    padding: 3rem 15px 2rem;
+  }
+
+  .heading{
+    font-size: 1.8rem;
+    font-weight: $font-weight-bolder;
+
+    @include media-breakpoint-up(sm){
+      font-size: 2rem;
+    }
+
+    @include media-breakpoint-up(md){
+      font-size: 2.9rem;
+    }
+
+    @include media-breakpoint-up(lg){
+      font-size: 3.15rem;
+    }
+  }
+
+  .hero-art{
+    max-width: 400px;
+    margin: 3rem auto 2.7rem;
+  }
+
+  .lead{
+    font-weight: $font-weight-semi-bold;
+  }
+}

@@ -1,0 +1,19 @@
+.cta-ending{
+  background: lighten($theme-light-blue, 50%);
+  background: linear-gradient(lighten($theme-light-blue, 45%) 0%, $white 100%);
+
+  .heading{
+    font-size: 1.4rem;
+
+    @include media-breakpoint-up(lg){
+      font-size: 1.8rem;
+    }
+  }
+
+  .btn{
+
+    @include media-breakpoint-down(sm){
+      font-size: 0.8rem;
+    }
+  }
+}

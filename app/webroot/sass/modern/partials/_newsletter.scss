@@ -1,0 +1,22 @@
+.newsletter{
+  margin-bottom: 4rem;
+}
+
+.newsletter-content{
+  @extend .rounded;
+  padding: 1rem;
+  background: lighten($theme-blue, 32%);
+  background: linear-gradient(to bottom, lighten($theme-blue, 25%) 0%, lighten($theme-blue, 36%) 40%, lighten($theme-blue, 30%) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#19d0f4', endColorstr='#69e2ff',GradientType=0 );
+  box-shadow: rgba($dark, 0.2) 0 3px 5px;
+}
+
+.newsletter-image{
+  display: block;
+  max-width: 250px;
+  margin: 1rem auto;
+}
+
+.newsletter-form{
+  max-width: 400px;
+}

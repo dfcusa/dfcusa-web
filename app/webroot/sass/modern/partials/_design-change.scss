@@ -1,0 +1,34 @@
+.design-change{
+  background: $theme-blue;
+  background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
+  padding: 4rem 0 3rem;
+  text-align: center;
+  color: $white;
+
+  .heading{
+    font-weight: $font-weight-bolder;
+    margin-bottom: 1.3rem;
+  }
+
+  .lead{
+    font-size: 1.4rem;
+    font-weight: $font-weight-base;
+  }
+
+  .program-icons{
+    margin-top: 2.4rem;
+    color: $dark;
+
+    .program-icon{
+
+      &.item-yellow p{
+        color: darken($theme-yellow, 10%);
+      }
+
+      &.item-green p{
+        color: darken($theme-green, 10%);
+      }
+    }
+  }
+}

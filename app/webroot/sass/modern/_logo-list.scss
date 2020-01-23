@@ -1,0 +1,59 @@
+.logo-list{
+  padding: 1.3rem 0;
+  text-align: center;
+
+  .heading{
+    font-size: 0.9rem;
+    font-weight: $font-weight-base;
+    color: $gray-700;
+  }
+
+  .logos{
+    margin: 1.2rem 0 1rem;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    &.logo-large{
+      .logo{
+
+        @include media-breakpoint-up(lg){
+          border-bottom: $gray-300 solid 1px;
+        }
+
+        img{
+          width: 120px;
+        }
+
+        &:nth-child(5){
+          @include media-breakpoint-up(lg){
+            border-right: none;
+          }
+        }
+      }
+    }
+
+    .logo{
+      padding: 0.6rem 1.5rem;
+      border-right: $gray-300 solid 1px;
+
+      &:last-child{
+        border-right: none;
+      }
+
+      a{
+        display: flex;
+        align-items: center;
+        height: 100%;
+      }
+
+      img{
+        display: block;
+        width: 75px;
+        height: auto;
+      }
+    }
+  }
+
+}

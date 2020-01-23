@@ -1,0 +1,20 @@
+.fsPage{
+  .fsRowBody{
+    .fsField{
+      @extend .form-control;
+    }
+  }
+
+  .fs1Col{
+    @extend .row;
+
+    .fsRow{
+      @extend .col-lg-6;
+
+      &:nth-child(7), &:nth-child(8){
+        @extend .col-lg-12;
+      }
+    }
+  }
+
+}

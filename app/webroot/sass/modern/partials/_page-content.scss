@@ -1,0 +1,208 @@
+.heading-secondary{
+  color: $secondary;
+  font-weight: $font-weight-bolder;
+  font-size: 1.2rem;
+  margin-bottom: 1.4rem;
+
+  @include media-breakpoint-up(md){
+    font-size: 1.5rem;
+    margin-bottom: 1.8rem;
+  }
+
+  @include media-breakpoint-up(lg){
+    font-size: 1.75rem;
+    margin-bottom: 2rem;
+  }
+}
+
+
+.program-list{
+  @extend .table-responsive;
+  padding: 1rem;
+  border: 3px solid $gray-200;
+  margin-bottom: 1.5rem;
+
+  .table{
+    margin-bottom: 0;
+
+    th, td {
+      border-top: 1px dashed $gray-400;
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
+    }
+
+    tr{
+      &:first-child{
+        th, td {
+          border-top: none;
+        }
+      }
+    }
+
+
+    @include media-breakpoint-down(md){
+      display: block;
+
+      tr{
+        display: block;
+      }
+
+      th{
+        margin-bottom: 0.6rem;
+        padding: 1rem 0 0;
+      }
+
+      td{
+        border-top: none;
+        margin-bottom: 1rem;
+        padding: 0;
+      }
+
+      th, td{
+        display: block;
+      }
+    }
+
+  }
+
+}
+
+
+.video-box{
+  @extend .rounded;
+  position: relative;
+  overflow: hidden;
+  transition: $transition-fade;
+
+  &:hover{
+    opacity: 0.8;
+  }
+
+  .watch-video-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    i{
+      font-size: 5rem;
+      color: $white;
+      text-shadow: rgba($dark, 0.4) 2px 2px 5px;
+    }
+  }
+
+  &-detail{
+    font-size: 0.7rem;
+    margin: 0.8rem 0 0.8rem;
+    text-align: center;
+
+    h4{
+      font-size: 0.75rem;
+      font-style: italic;
+      margin: 0;
+    }
+
+    a{
+      color: $dark;
+      font-weight: $font-weight-bold;
+      margin: 0.6rem 0;
+      display: inline-block;
+      font-size: 0.8rem;
+    }
+
+    p{
+      margin: 0;
+    }
+  }
+}
+
+
+
+
+.number-list{
+
+  th, td{
+    text-align: left;
+    padding: 0.3rem 0.5rem;
+    color: $black;
+  }
+
+  th{
+    span{
+      display: block;
+      padding: 0.25rem;
+      width: 1.75rem;
+      height: 1.75rem;
+      border-radius: 50%;
+      text-align: center;
+      color: $light;
+      background-color: $black;
+      font-weight: $font-weight-bold;
+      font-size: 0.9rem;
+      line-height: 1.4;
+      vertical-align: middle;
+    }
+  }
+}
+
+
+.number-heading{
+  font-size: 1.3rem;
+  color: $black;
+  vertical-align: middle;
+  margin-bottom: 1.4rem;
+  position: relative;
+  padding-left: 3.6rem;
+
+  span{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    vertical-align: middle;
+    width: 2.8rem;
+    height: 2.8rem;
+    line-height: 2.8rem;
+    color: $light;
+    background: $black;
+    text-align: center;
+    border-radius: 50%;
+  }
+}
+
+
+.design-thinking-classroom{
+
+  .text-block{
+    clear: both;
+
+    @include media-breakpoint-up(md){
+      text-align: justify;
+    }
+
+    b, strong{
+      font-weight: $font-weight-bold;
+    }
+  }
+
+  img{
+    @extend .rounded;
+    margin: 0 0 1rem;
+    box-shadow: rgba($dark, 0.3) 0 3px 5px;
+
+    @include media-breakpoint-up(md){
+      margin: 0.3rem 0.3rem 1rem;
+    }
+  }
+}
+
+
+
+.member{
+  img{
+    @extend .rounded-circle;
+    box-shadow: rgba($dark, 0.4) 0 3px 5px;
+    max-width: 160px;
+    margin: 0 auto;
+  }
+}
