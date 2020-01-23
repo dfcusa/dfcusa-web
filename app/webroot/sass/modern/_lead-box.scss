@@ -75,6 +75,25 @@
 
   }
 
+
+  &.lead-count{
+
+    .num{
+      font-size: 3.59rem;
+
+      .tiny{
+        display: inline-block;
+        font-size: 0.45em;
+        vertical-align: middle;
+      }
+
+      &-compressed{
+        font-size: 3.4rem;
+        letter-spacing: -0.2rem;
+      }
+    }
+  }
+
 }
 
 

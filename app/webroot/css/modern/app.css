@@ -12670,6 +12670,21 @@ a.text-dark-green:focus {
   }
 }
 
+.lead-box.lead-count .num {
+  font-size: 3.59rem;
+}
+
+.lead-box.lead-count .num .tiny {
+  display: inline-block;
+  font-size: 0.45em;
+  vertical-align: middle;
+}
+
+.lead-box.lead-count .num-compressed {
+  font-size: 3.4rem;
+  letter-spacing: -0.2rem;
+}
+
 .lead-primary {
   color: #f8f9fa;
   background: #0096db;
@@ -13494,6 +13509,30 @@ a.text-dark-green:focus {
   font-size: 5rem;
   color: #fff;
   text-shadow: rgba(52, 58, 64, 0.4) 2px 2px 5px;
+}
+
+.video-box-detail {
+  font-size: 0.7rem;
+  margin: 0.8rem 0 0.8rem;
+  text-align: center;
+}
+
+.video-box-detail h4 {
+  font-size: 0.75rem;
+  font-style: italic;
+  margin: 0;
+}
+
+.video-box-detail a {
+  color: #343a40;
+  font-weight: 700;
+  margin: 0.6rem 0;
+  display: inline-block;
+  font-size: 0.8rem;
+}
+
+.video-box-detail p {
+  margin: 0;
 }
 
 .number-list th,
