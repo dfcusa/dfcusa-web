@@ -659,7 +659,8 @@ pre code {
   }
 }
 
-.row {
+.row,
+.fsPage .fs1Col {
   display: -webkit-box;
   display: flex;
   flex-wrap: wrap;
@@ -695,12 +696,15 @@ pre code {
 .col-lg,
 .col-lg-auto,
 .col-lg-12,
+.fsPage .fs1Col .fsRow:nth-child(7),
+.fsPage .fs1Col .fsRow:nth-child(8),
 .col-lg-11,
 .col-lg-10,
 .col-lg-9,
 .col-lg-8,
 .col-lg-7,
 .col-lg-6,
+.fsPage .fs1Col .fsRow,
 .col-lg-5,
 .col-lg-4,
 .col-lg-3,
@@ -1570,7 +1574,8 @@ pre code {
     max-width: 41.6666666667%;
   }
 
-  .col-lg-6 {
+  .col-lg-6,
+  .fsPage .fs1Col .fsRow {
     -webkit-box-flex: 0;
             flex: 0 0 50%;
     max-width: 50%;
@@ -1606,7 +1611,9 @@ pre code {
     max-width: 91.6666666667%;
   }
 
-  .col-lg-12 {
+  .col-lg-12,
+  .fsPage .fs1Col .fsRow:nth-child(7),
+  .fsPage .fs1Col .fsRow:nth-child(8) {
     -webkit-box-flex: 0;
             flex: 0 0 100%;
     max-width: 100%;
@@ -2420,7 +2427,8 @@ pre code {
   border: 0;
 }
 
-.form-control {
+.form-control,
+.fsPage .fsRowBody .fsField {
   display: block;
   width: 100%;
   height: calc(1.5em + 0.75rem + 2px);
@@ -2438,23 +2446,27 @@ pre code {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .form-control {
+  .form-control,
+  .fsPage .fsRowBody .fsField {
     -webkit-transition: none;
     transition: none;
   }
 }
 
-.form-control::-ms-expand {
+.form-control::-ms-expand,
+.fsPage .fsRowBody .fsField::-ms-expand {
   background-color: transparent;
   border: 0;
 }
 
-.form-control:-moz-focusring {
+.form-control:-moz-focusring,
+.fsPage .fsRowBody .fsField:-moz-focusring {
   color: transparent;
   text-shadow: 0 0 0 #495057;
 }
 
-.form-control:focus {
+.form-control:focus,
+.fsPage .fsRowBody .fsField:focus {
   color: #495057;
   background-color: #fff;
   border-color: #5ccbff;
@@ -2462,38 +2474,42 @@ pre code {
   box-shadow: 0 0 0 0.2rem rgba(0, 150, 219, 0.25);
 }
 
-.form-control::-webkit-input-placeholder {
+.form-control::-webkit-input-placeholder, .fsPage .fsRowBody .fsField::-webkit-input-placeholder {
   color: #6c757d;
   opacity: 1;
 }
 
-.form-control::-moz-placeholder {
+.form-control::-moz-placeholder, .fsPage .fsRowBody .fsField::-moz-placeholder {
   color: #6c757d;
   opacity: 1;
 }
 
-.form-control:-ms-input-placeholder {
+.form-control:-ms-input-placeholder, .fsPage .fsRowBody .fsField:-ms-input-placeholder {
   color: #6c757d;
   opacity: 1;
 }
 
-.form-control::-ms-input-placeholder {
+.form-control::-ms-input-placeholder, .fsPage .fsRowBody .fsField::-ms-input-placeholder {
   color: #6c757d;
   opacity: 1;
 }
 
-.form-control::placeholder {
+.form-control::placeholder,
+.fsPage .fsRowBody .fsField::placeholder {
   color: #6c757d;
   opacity: 1;
 }
 
 .form-control:disabled,
-.form-control[readonly] {
+.fsPage .fsRowBody .fsField:disabled,
+.form-control[readonly],
+.fsPage .fsRowBody [readonly].fsField {
   background-color: #e9ecef;
   opacity: 1;
 }
 
-select.form-control:focus::-ms-value {
+select.form-control:focus::-ms-value,
+.fsPage .fsRowBody select.fsField:focus::-ms-value {
   color: #495057;
   background-color: #fff;
 }
@@ -2562,11 +2578,14 @@ select.form-control:focus::-ms-value {
 }
 
 select.form-control[size],
-select.form-control[multiple] {
+.fsPage .fsRowBody select[size].fsField,
+select.form-control[multiple],
+.fsPage .fsRowBody select[multiple].fsField {
   height: auto;
 }
 
-textarea.form-control {
+textarea.form-control,
+.fsPage .fsRowBody textarea.fsField {
   height: auto;
 }
 
@@ -2661,7 +2680,10 @@ textarea.form-control {
 }
 
 .was-validated .form-control:valid,
-.form-control.is-valid {
+.was-validated .fsPage .fsRowBody .fsField:valid,
+.fsPage .fsRowBody .was-validated .fsField:valid,
+.form-control.is-valid,
+.fsPage .fsRowBody .is-valid.fsField {
   border-color: #88c51f;
   padding-right: calc(1.5em + 0.75rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%2388c51f' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
@@ -2671,13 +2693,19 @@ textarea.form-control {
 }
 
 .was-validated .form-control:valid:focus,
-.form-control.is-valid:focus {
+.was-validated .fsPage .fsRowBody .fsField:valid:focus,
+.fsPage .fsRowBody .was-validated .fsField:valid:focus,
+.form-control.is-valid:focus,
+.fsPage .fsRowBody .is-valid.fsField:focus {
   border-color: #88c51f;
   box-shadow: 0 0 0 0.2rem rgba(136, 197, 31, 0.25);
 }
 
 .was-validated textarea.form-control:valid,
-textarea.form-control.is-valid {
+.was-validated .fsPage .fsRowBody textarea.fsField:valid,
+.fsPage .fsRowBody .was-validated textarea.fsField:valid,
+textarea.form-control.is-valid,
+.fsPage .fsRowBody textarea.is-valid.fsField {
   padding-right: calc(1.5em + 0.75rem);
   background-position: top calc(0.375em + 0.1875rem) right calc(0.375em + 0.1875rem);
 }
@@ -2775,7 +2803,10 @@ textarea.form-control.is-valid {
 }
 
 .was-validated .form-control:invalid,
-.form-control.is-invalid {
+.was-validated .fsPage .fsRowBody .fsField:invalid,
+.fsPage .fsRowBody .was-validated .fsField:invalid,
+.form-control.is-invalid,
+.fsPage .fsRowBody .is-invalid.fsField {
   border-color: #e3003e;
   padding-right: calc(1.5em + 0.75rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23e3003e' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23e3003e' stroke='none'/%3e%3c/svg%3e");
@@ -2785,13 +2816,19 @@ textarea.form-control.is-valid {
 }
 
 .was-validated .form-control:invalid:focus,
-.form-control.is-invalid:focus {
+.was-validated .fsPage .fsRowBody .fsField:invalid:focus,
+.fsPage .fsRowBody .was-validated .fsField:invalid:focus,
+.form-control.is-invalid:focus,
+.fsPage .fsRowBody .is-invalid.fsField:focus {
   border-color: #e3003e;
   box-shadow: 0 0 0 0.2rem rgba(227, 0, 62, 0.25);
 }
 
 .was-validated textarea.form-control:invalid,
-textarea.form-control.is-invalid {
+.was-validated .fsPage .fsRowBody textarea.fsField:invalid,
+.fsPage .fsRowBody .was-validated textarea.fsField:invalid,
+textarea.form-control.is-invalid,
+.fsPage .fsRowBody textarea.is-invalid.fsField {
   padding-right: calc(1.5em + 0.75rem);
   background-position: top calc(0.375em + 0.1875rem) right calc(0.375em + 0.1875rem);
 }
@@ -2896,7 +2933,9 @@ textarea.form-control.is-invalid {
     margin-bottom: 0;
   }
 
-  .form-inline .form-control {
+  .form-inline .form-control,
+  .form-inline .fsPage .fsRowBody .fsField,
+  .fsPage .fsRowBody .form-inline .fsField {
     display: inline-block;
     width: auto;
     vertical-align: middle;
@@ -4404,6 +4443,7 @@ input[type=button].btn-block {
 }
 
 .input-group > .form-control,
+.fsPage .fsRowBody .input-group > .fsField,
 .input-group > .form-control-plaintext,
 .input-group > .custom-select,
 .input-group > .custom-file {
@@ -4415,21 +4455,30 @@ input[type=button].btn-block {
 }
 
 .input-group > .form-control + .form-control,
+.fsPage .fsRowBody .input-group > .fsField + .form-control,
+.fsPage .fsRowBody .input-group > .form-control + .fsField,
+.fsPage .fsRowBody .input-group > .fsField + .fsField,
 .input-group > .form-control + .custom-select,
+.fsPage .fsRowBody .input-group > .fsField + .custom-select,
 .input-group > .form-control + .custom-file,
+.fsPage .fsRowBody .input-group > .fsField + .custom-file,
 .input-group > .form-control-plaintext + .form-control,
+.fsPage .fsRowBody .input-group > .form-control-plaintext + .fsField,
 .input-group > .form-control-plaintext + .custom-select,
 .input-group > .form-control-plaintext + .custom-file,
 .input-group > .custom-select + .form-control,
+.fsPage .fsRowBody .input-group > .custom-select + .fsField,
 .input-group > .custom-select + .custom-select,
 .input-group > .custom-select + .custom-file,
 .input-group > .custom-file + .form-control,
+.fsPage .fsRowBody .input-group > .custom-file + .fsField,
 .input-group > .custom-file + .custom-select,
 .input-group > .custom-file + .custom-file {
   margin-left: -1px;
 }
 
 .input-group > .form-control:focus,
+.fsPage .fsRowBody .input-group > .fsField:focus,
 .input-group > .custom-select:focus,
 .input-group > .custom-file .custom-file-input:focus ~ .custom-file-label {
   z-index: 3;
@@ -4440,12 +4489,14 @@ input[type=button].btn-block {
 }
 
 .input-group > .form-control:not(:last-child),
+.fsPage .fsRowBody .input-group > .fsField:not(:last-child),
 .input-group > .custom-select:not(:last-child) {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
 }
 
 .input-group > .form-control:not(:first-child),
+.fsPage .fsRowBody .input-group > .fsField:not(:first-child),
 .input-group > .custom-select:not(:first-child) {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
@@ -4529,11 +4580,13 @@ input[type=button].btn-block {
 }
 
 .input-group-lg > .form-control:not(textarea),
+.fsPage .fsRowBody .input-group-lg > .fsField:not(textarea),
 .input-group-lg > .custom-select {
   height: calc(1.5em + 1rem + 2px);
 }
 
 .input-group-lg > .form-control,
+.fsPage .fsRowBody .input-group-lg > .fsField,
 .input-group-lg > .custom-select,
 .input-group-lg > .input-group-prepend > .input-group-text,
 .input-group-lg > .input-group-append > .input-group-text,
@@ -4546,11 +4599,13 @@ input[type=button].btn-block {
 }
 
 .input-group-sm > .form-control:not(textarea),
+.fsPage .fsRowBody .input-group-sm > .fsField:not(textarea),
 .input-group-sm > .custom-select {
   height: calc(1.5em + 0.5rem + 2px);
 }
 
 .input-group-sm > .form-control,
+.fsPage .fsRowBody .input-group-sm > .fsField,
 .input-group-sm > .custom-select,
 .input-group-sm > .input-group-prepend > .input-group-text,
 .input-group-sm > .input-group-append > .input-group-text,
