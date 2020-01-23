@@ -78,3 +78,9 @@
 <div class="donate-nav d-none">
   <a href="https://designforchange.us/pages/donate" target="_parent">Donate</a>
 </div>
+
+<section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+    <div class="hero-container">
+        <h4 class="heading">What's New</h4>
+    </div>
+</section>
