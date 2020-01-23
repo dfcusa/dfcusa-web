@@ -81,6 +81,7 @@
                             <a class="btn btn-inverse-dark text-uppercase mr-sm-3"
                                href="/dfcusa-web/app/webroot/files/Design for Change USA - Case for Support - 2020.pdf"
                                target="_blank"><i class="fas fa-download mr-1"></i> Download Case for Support</a>
+                               <br/><br/>
                             <a class="btn btn-outline-light text-uppercase"
                                href="/dfcusa-web/pages/contact-us">Contact Us</a>
                         </div>
