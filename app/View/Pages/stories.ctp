@@ -74,7 +74,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2 class="mt-5 text-secondary font-weight-bolder">Top Stories From 2019</h2>
+        <h2 class="mt-5 heading-secondary">Top Stories From 2019</h2>
         <iframe src="https://blog.designforchange.us/spotlights/"
                 style="border: 0px; width: 100%; height: 2544px; margin-top: -10px" scrolling="no"></iframe>
       </div>
