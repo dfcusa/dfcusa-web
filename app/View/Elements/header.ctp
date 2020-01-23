@@ -62,7 +62,7 @@
                         <a href="/dfcusa-pm/logout">Logout</a>
                     </div>
                 </div>
-                <ul class="navbar-nav login-nav">
+                <ul class="navbar-nav login-nav hide-mobile">
                     <li class="nav-item">
                         <a class="nav-link" href="/dfcusa-pm/login#register">Sign Up</a>
                     </li>

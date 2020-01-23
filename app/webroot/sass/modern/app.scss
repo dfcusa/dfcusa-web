@@ -29,3 +29,10 @@
 
 @import "partials/page-content";
 @import "partials/contact-form";
+
+
+@media (max-width: 767px) {
+	.hide-mobile {
+		display: none !important;
+	}
+}

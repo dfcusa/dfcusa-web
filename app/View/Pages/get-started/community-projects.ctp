@@ -102,7 +102,7 @@
 </section>
 
 
-<section class="cta pt-5 cta-ending">
+<section class="cta pt-5 cta-ending hide-mobile">
     <div class="container my-3">
         <div class="mb-5">
             <h2 class="heading text-secondary">Kickstart Your Project</h2>

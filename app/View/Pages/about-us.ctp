@@ -95,7 +95,7 @@
 
         <div class="row">
             <div class="col-md-6 order-md-last">
-                <iframe class="w-100 mt-1" style="height: 310px" allowfullscreen="" frameborder="0"
+                <iframe class="w-100 mt-1" style="height: 310px; margin-bottom: 1.5em" allowfullscreen="" frameborder="0"
                         mozallowfullscreen=""
                         src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html"
                         webkitallowfullscreen="" width="400" height="385"></iframe>
