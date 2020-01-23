@@ -12872,13 +12872,14 @@ a.text-dark-green:focus {
 .hero.with-background-image {
   margin-bottom: 2rem;
   position: relative;
+  background: transparent center no-repeat;
+  background-size: cover;
 }
 
 .hero.with-background-image:before {
   content: "";
-  background: -webkit-gradient(linear, left top, left bottom, from(#cc0139), color-stop(38%, #ec1e50), color-stop(71%, #fa4e0e), to(#fa5e0e)) center no-repeat;
-  background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%) center no-repeat;
-  background-size: cover;
+  background: -webkit-gradient(linear, left top, left bottom, from(#cc0139), color-stop(38%, #ec1e50), color-stop(71%, #fa4e0e), to(#fa5e0e));
+  background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
   position: absolute;
   top: 0;
   right: 0;

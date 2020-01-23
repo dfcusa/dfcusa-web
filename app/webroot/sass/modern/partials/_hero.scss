@@ -8,11 +8,12 @@
   &.with-background-image{
     margin-bottom: 2rem;
     position: relative;
+    background: transparent center no-repeat;
+    background-size: cover;
 
     &:before{
       content: '';
-      background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%) center no-repeat;
-      background-size: cover;
+      background: linear-gradient(to bottom, #cc0139 0%, #ec1e50 38%, #fa4e0e 71%, #fa5e0e 100%);
       position: absolute;
       top: 0;
       right: 0;
