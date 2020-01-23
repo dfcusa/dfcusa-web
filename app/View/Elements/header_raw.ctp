@@ -81,6 +81,6 @@
 
 <section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
     <div class="hero-container">
-        <h4 class="heading">What's New</h4>
+        <h4 class="heading"><?php if ($_GET['title'] != '') { echo $_GET['title']; } else {?>What's New<?php } ?></h4>
     </div>
 </section>
