@@ -8206,6 +8206,7 @@ button.bg-dark-green:focus {
 }
 
 .rounded,
+.design-thinking-classroom img,
 .video-box,
 .newsletter-content,
 .reviews .review-item,
@@ -13493,6 +13494,79 @@ a.text-dark-green:focus {
   font-size: 5rem;
   color: #fff;
   text-shadow: rgba(52, 58, 64, 0.4) 2px 2px 5px;
+}
+
+.number-list th,
+.number-list td {
+  text-align: left;
+  padding: 0.3rem 0.5rem;
+  color: #000;
+}
+
+.number-list th span {
+  display: block;
+  padding: 0.25rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  text-align: center;
+  color: #f8f9fa;
+  background-color: #000;
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  vertical-align: middle;
+}
+
+.number-heading {
+  font-size: 1.3rem;
+  color: #000;
+  vertical-align: middle;
+  margin-bottom: 1.4rem;
+  position: relative;
+  padding-left: 3.6rem;
+}
+
+.number-heading span {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  vertical-align: middle;
+  width: 2.8rem;
+  height: 2.8rem;
+  line-height: 2.8rem;
+  color: #f8f9fa;
+  background: #000;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.design-thinking-classroom .text-block {
+  clear: both;
+}
+
+@media (min-width: 768px) {
+  .design-thinking-classroom .text-block {
+    text-align: justify;
+  }
+}
+
+.design-thinking-classroom .text-block b,
+.design-thinking-classroom .text-block strong {
+  font-weight: 700;
+}
+
+.design-thinking-classroom img {
+  margin: 0 0 1rem;
+  box-shadow: rgba(52, 58, 64, 0.3) 0 3px 5px;
+}
+
+@media (min-width: 768px) {
+  .design-thinking-classroom img {
+    margin: 0.3rem 0.3rem 1rem;
+  }
 }
 
 
