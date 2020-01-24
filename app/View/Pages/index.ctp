@@ -261,7 +261,7 @@
             </div>
             <div class="col-sm-4 mb-4">
                 <img class="icon" src="/dfcusa-web/app/webroot/img/ico_teacher.svg">
-                <h3 class="text-primary">10,000+</h3>
+                <h3 class="text-primary">70,000+</h3>
                 <p>Teachers Trained</p>
             </div>
         </div>
