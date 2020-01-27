@@ -220,12 +220,12 @@
 
                 <div class="col-sm-3">
                     <div class="member mb-5">
-                        <img src="/dfcusa-web/app/webroot/img/team/courtneytee.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Courtney Tee</h6>
+                        <img src="/dfcusa-web/app/webroot/img/team/elainaboyter.png" alt="">
+                        <h6 class="text-secondary mt-3 mb-1">Elaina Boyter</h6>
                         <div class="small">
                             <div class="text-muted mb-1">Impact Evaluator</div>
                             <a class="text-decoration-none"
-                               href="https://www.linkedin.com/in/courtney-tee-bb444b6a/"
+                               href="https://www.linkedin.com/in/eboytor/"
                                target="_blank">
                                 <i class="fab fa-linkedin mr-1"></i> More Info
                             </a>
@@ -268,30 +268,30 @@
 
                 <div class="col-sm-3">
                     <div class="member mb-5">
-                        <img src="/dfcusa-web/app/webroot/img/champions/monicaarmendariz.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Monica Armendariz</h6>
+                        <img src="/dfcusa-web/app/webroot/img/champions/taraschletz.png" alt="">
+                        <h6 class="text-secondary mt-3 mb-1">Tara Schletz</h6>
                         <div class="small">
-                            <div class="text-muted">Education and Leadership Consultant</div>
-                            <div class="text-muted font-italic mb-1">Dallas, TX</div>
+                            <div class="text-muted">Curriculum Enrichment Specialist <br> Visitation School</div>
+                            <div class="text-muted font-italic mb-1">Mendota Heights, MN</div>
                             <a class="text-decoration-none"
-                               href="https://www.linkedin.com/in/marmendariz/"
+                               href="https://vischool.learning.powerschool.com/tschletz/lowerschoolenrichment/cms_page/view/27780476"
                                target="_blank">
-                                <i class="fab fa-linkedin mr-1"></i> More Info
+                                <i class="fab fa-globe mr-1"></i> More Info
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="member mb-5">
-                        <img src="/dfcusa-web/app/webroot/img/champions/jessiefrancese.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Jessie Francese</h6>
+                        <img src="/dfcusa-web/app/webroot/img/champions/kristabrincheck.png" alt="">
+                        <h6 class="text-secondary mt-3 mb-1">Krista Brinchecke</h6>
                         <div class="small">
-                            <div class="text-muted">Teacher <br> The Exploris School</div>
+                            <div class="text-muted">Science Specialist <br> Wake County Public School System</div>
                             <div class="text-muted font-italic mb-1">Raleigh, NC</div>
                             <a class="text-decoration-none"
-                               href="https://www.exploris.org/about/faculty/"
+                               href="https://www.linkedin.com/in/krista-brinchek-p-g-m-a-t-229a6947/"
                                target="_blank">
-                                <i class="fas fa-globe mr-1"></i> More Info
+                                <i class="fas fa-linkedin mr-1"></i> More Info
                             </a>
                         </div>
                     </div>

@@ -29,32 +29,32 @@
 	<div class="container">
 
         <h2 class="heading">What is Design for Change?</h2>
-        <p class="lead">Our program equips young people to transform empathy into social action through innovative and collaborative experiences. We use a simple four step framework:</p>
+        <p class="lead">Our program engages young people about social causes that are relevant and meaningful to them. We use a simple four step framework:</p>
 
         <div class="program-icons">
 
             <div class="program-icon item-pink">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                 <h4>Feel</h4>
-                <p>Empathize</p>
+                <p>Build Empathy</p>
             </div>
 
             <div class="program-icon item-yellow">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                 <h4>Imagine</h4>
-                <p>Brainstorm</p>
+                <p>Brainstorm Ideas</p>
             </div>
 
             <div class="program-icon item-green">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                 <h4>Do</h4>
-                <p>Prototype</p>
+                <p>Implement Solutions</p>
             </div>
 
             <div class="program-icon item-blue">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
                 <h4>SHARE</h4>
-                <p>Inspire</p>
+                <p>Inspire Others</p>
             </div>
 
         </div>
@@ -99,10 +99,30 @@
 
         <div class="get-started-inner">
             <div class="row">
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-light-blue img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <div class="small">
+                                <p>A quick way to get engaged with a specific social cause and get your students to critically think about it.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    1 hour
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-projects">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-lg-4">
                     <div class="lead-box lead-orange img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">DESIGN SPRINTS</h4>
@@ -121,10 +141,10 @@
                 <div class="col-lg-4">
                     <div class="lead-box lead-light-blue img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/img_projects_art.png" alt="">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="">
                         </div>
                         <div class="lead-content">
-                            <h4 class="heading">COMMUNITY PROJECTS</h4>
+                            <h4 class="heading">COMMUNITY ACTION</h4>
                             <div class="small">
                                 <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
                                 <p>
@@ -137,25 +157,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
-                    <div class="lead-box lead-magenta img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/img_blub_art.png" alt="">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">WORKSHOPS</h4>
-                            <div class="small">
-                                <p>Experiential PD workshops introducing educators to design thinking and the DFC
-                                    methodology.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    2 hours | 1/2 Day | Full Day
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/professional-development">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+               
             </div>
         </div>
     </div>
