@@ -446,7 +446,7 @@
                 <div class="col-sm-4">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/team/johncollins.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Adam Pisoni</h6>
+                        <h6 class="text-secondary mt-3 mb-1">John Collins</h6>
                         <div class="small">
                             <div class="text-muted">Formerly Faculty Director, Special Studies</div>
                             <div class="text-muted">Harvard Graduate School of</div>
