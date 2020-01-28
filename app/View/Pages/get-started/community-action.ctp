@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png');">
     <div class="hero-container">
-        <h4 class="heading">Community Actions</h4>
+        <h4 class="heading">Community Action</h4>
     </div>
 </section>
 
@@ -12,7 +12,7 @@
         <h2 class="heading-secondary">A Robust Community Change-Making Experience</h2>
 
         <p>
-            Community Actions offer an authentic and responsive experience for students,
+            Community Action offer an authentic and responsive experience for students,
             guiding them through the design thinking process as they develop and implement
             a community change project. With the Community Project resources, educators can
             access 100+ lesson plans and activities to best serve their students according

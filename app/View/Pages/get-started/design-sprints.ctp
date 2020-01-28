@@ -108,7 +108,7 @@
           <li class="my-3">Searching for ready-made lesson plans that guide students through the design cycle</li>
           <li class="my-3">Interested in promoting the UN Global Goals</li>
           <li class="my-3">Passionate about connecting students to relevant issues in their community</li>
-          <li class="my-3">Looking for a way to faciliate your students to work with the community directly? Check out <a href="/pages/get-started/community-actions">the Community Actions</a> level.</li>
+          <li class="my-3">Looking for a way to faciliate your students to work with the community directly? Check out <a href="/pages/get-started/community-action">the Community Action</a> level.</li>
       </ul>
 
   </div>
