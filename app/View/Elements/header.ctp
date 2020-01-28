@@ -38,11 +38,11 @@
                     <li class="nav-item d-md-none">
                         <a class="nav-link" href="/">Home</a>
                     </li>
-                    <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'program') > -1) { ?>active<?php } ?>">
+                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'program') > -1) || (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/program">How It Works</a>
                     </li>
-                    <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) { ?>active<?php } ?>">
-                        <a class="nav-link" href="/pages/get-started">Getting Started</a>
+                    <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'dashboard') > -1) { ?>active<?php } ?>">
+                        <a class="nav-link" href="/dfcusa-pm/dashboard#catalog">Empathy Podcasts</a>
                     </li>
                     <li class="nav-item <?php if (strpos($_SERVER['REQUEST_URI'], 'stories') > -1) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/stories">Real Stories</a>

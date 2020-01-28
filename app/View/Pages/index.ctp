@@ -94,7 +94,7 @@
 
         <div class="get-started-head mb-5">
             <h2>Our Programs for Educators</h2>
-            <p>Several ways for you to engage your students or develop your own skills.</p>
+            <p>Your students learn about a social cause through our high quality podcasts. You can then engage them on 3 different levels:</p>
         </div>
 
         <div class="get-started-inner">
@@ -108,12 +108,12 @@
                         <div class="lead-content">
                             <h4 class="heading">EMPATHY WARMUP</h4>
                             <div class="small">
-                                <p>A quick way to get engaged with a specific social cause and get your students to critically think about it.</p>
+                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
                                     1 hour
                                 </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-projects">Learn more</a>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
                             </div>
                         </div>
                     </div>
@@ -139,19 +139,19 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <div class="lead-box lead-light-blue img-center text-center">
+                    <div class="lead-box lead-magenta img-center text-center">
                         <div class="lead-image">
                             <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">COMMUNITY ACTION</h4>
                             <div class="small">
-                                <p>Expert-designed lesson plans and activities that build a custom and immersive design thinking experience.</p>
+                                <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
                                     Around 20 hours
                                 </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-projects">Learn more</a>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
                             </div>
                         </div>
                     </div>
@@ -167,10 +167,10 @@
     <div class="container my-3">
         <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
         <div class="mb-4">
-            <h2 class="heading text-secondary">Wondering where to begin?</h2>
+            <h2 class="heading text-secondary">Need to see it in action?</h2>
             <p>Check out some inspiring stories to get a feel for how it works.</p>
         </div>
-        <a class="btn btn-inverse-secondary btn-lg" href="/pages/stories">REAL LIFE STORIES OF CHANGE</a>
+        <a class="btn btn-inverse-secondary btn-lg" href="/pages/stories">SEE REAL PROJECTS</a>
     </div>
 </section>
 
@@ -301,7 +301,7 @@
 <section class="cta cta-next-steps py-5">
   <div class="container mt-3">
       <h2 class="heading text-secondary">Best of All, Our Resources Are Free!</h2>
-      <a class="btn btn-secondary btn-lg" href="/pages/get-started">CHECK OUT NEXT STEPS</a>
+      <a class="btn btn-secondary btn-lg" href="/pages/get-started">CHECK OUT OUR PODCASTS</a>
       <p class="mt-4 mb-3">Design for Change USA is a 501(c)(3) non-profit organization. <a href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
   </div>
 </section>

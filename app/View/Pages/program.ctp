@@ -20,25 +20,25 @@
             <div class="program-icon">
                 <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                 <h4>Feel</h4>
-                <p>Students gather information about a community challenge through research and interviews.</p>
+                <p>Students listen to an Empathy Podcast about a social issue. They can also engage community members to go deeper.</p>
                 <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid my-4 rounded border">
             </div>
             <div class="program-icon">
                 <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                 <h4>Imagine</h4>
-                <p>Students work with community members to brainstorm points of possible solutions.</p>
+                <p>Students work as a team to brainstorm solutions. They do this in the classroom or engage the community to get feedback.</p>
                 <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid my-4 rounded border">
             </div>
             <div class="program-icon">
                 <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                 <h4>Do</h4>
-                <p>Teams develop and implement an action plan that results in lasting change.</p>
+                <p>Teams develop an action plan to be reviewed in the classroom or taken into the community to implement and interate on.</p>
                 <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid my-4 rounded border">
             </div>
             <div class="program-icon">
                 <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
                 <h4>SHARE</h4>
-                <p>Teams share their story to generate awareness and inspire others to act.</p>
+                <p>Teams share their story with their peers and the community to generate awareness and inspire others to act.</p>
                 <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="img-fluid my-4 rounded border">
             </div>
         </div>
@@ -108,7 +108,81 @@
   </div>
 </section>
 
-<section class="lead-box lead-success border-0 rounded-0 mb-0">
+<section class="get-started text-white bg-success py-5 text-center">
+
+    <div class="container">
+
+        <div class="get-started-head mb-5">
+            <h2>Multiple Ways to Engage Your Students</h2>
+        </div>
+
+        <div class="get-started-inner">
+            <div class="row">
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-light-blue img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <div class="small">
+                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    1 hour
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-orange img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">DESIGN SPRINTS</h4>
+                            <div class="small">
+                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    4 hours
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="lead-box lead-magenta img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">COMMUNITY ACTION</h4>
+                            <div class="small">
+                                <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    Around 20 hours
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+               
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="lead-box lead-primary border-0 rounded-0 mb-0">
     <div class="container py-4">
 
         <h2 class="heading text-center font-weight-bolder">The Global Connection</h2>
@@ -194,7 +268,7 @@
         <div class="mb-4">
             <h2 class="heading text-secondary">Ready to move forward? It's free...</h2>
         </div>
-        <a class="btn btn-secondary btn-lg" href="/pages/stories">CHECK OUT NEXT STEPS</a>
+        <a class="btn btn-secondary btn-lg" href="/pages/podcasts">CHECK OUT THE PODCASTS</a>
     </div>
 </section>
 

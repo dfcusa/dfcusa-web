@@ -3,6 +3,26 @@
   justify-content: space-between;
   flex-wrap: wrap;
   text-align: center;
+  position: relative;
+
+  .cover-stages {
+    position: absolute;
+    top: 0px;
+    left: 25%;
+    background-color: #fff;
+    opacity: 0.9;
+    right: 0px;
+    bottom: 0px;
+    .notice {
+      margin: 0px;
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: #666;
+    }
+  }
 
   &.program-icons-light{
 

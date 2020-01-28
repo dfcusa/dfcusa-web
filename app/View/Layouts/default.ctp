@@ -47,8 +47,6 @@
   <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
   <link href="/dfcusa-web/app/webroot/css/lity.min.css" rel="stylesheet">
-<!--  <link href="/dfcusa-web/app/webroot/css/style.css?version=2.03" rel="stylesheet">-->
-<!--  <link href="/dfcusa-web/app/webroot/css/responsive.css?version=2.03" rel="stylesheet">-->
     <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
