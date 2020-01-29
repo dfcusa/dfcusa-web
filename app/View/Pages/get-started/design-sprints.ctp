@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
     <div class="hero-container">
-        <h4 class="heading">Design Sprints</h4>
+        <h4 class="heading">An easy way to get started with the full experience</h4>
     </div>
 </section>
 
@@ -9,7 +9,7 @@
 <section class="page-content">
   <div class="container">
 
-      <h2 class="heading-secondary">An Easy Way to Get Started With Design for Change</h2>
+      <h2 class="heading-secondary">Design Sprints</h2>
 
       <p>Design Sprints introduce students to <strong>design thinking for social impact</strong>
           with a 4-hour experience that can launch them in Community Projects.

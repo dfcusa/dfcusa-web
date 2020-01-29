@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
     <div class="hero-container">
-        <h4 class="heading">Empathy Warmups</h4>
+        <h4 class="heading ">Build awareness and empathy</h4>
     </div>
 </section>
 
@@ -9,7 +9,7 @@
 <section class="page-content">
   <div class="container">
 
-      <h2 class="heading-secondary">An Easy Way to Get Started With Design for Change</h2>
+      <h2 class="heading-secondary">Empathy Warmups</h2>
 
       <p class="mb-4">Empathy Warmups introduce students to <strong>a relevant social issue</strong>
           with a 1-hour experience. Students listen to the podcast and then do a lesson plan to exercise their critical thinking skills.
@@ -37,7 +37,7 @@
       </div>
 
       <div class="program-icons program-icons-light mt-5">
-          <div class="cover-stages"><div class="notice">Available in <a href="/pages/get-started/design-sprints">Design Sprints</a> and <a href="/pages/get-started/community-actions">Community Actions</a></div></div>
+          <div class="cover-stages"><div class="notice">Available in <a href="/pages/get-started/design-sprints">Design Sprints</a> and <a href="/pages/get-started/community-action">Community Action</a></div></div>
           <div class="program-icon">
               <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
               <h4>Feel</h4>

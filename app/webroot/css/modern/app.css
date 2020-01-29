@@ -8747,7 +8747,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
       opacity: 0.87;
       z-index: 1; }
     .hero.with-background-image .hero-container {
-      padding: 3rem 15px; }
+      padding: 2rem 15px; }
       @media (max-width: 991.98px) {
         .hero.with-background-image .hero-container {
           padding: 1.4rem 15px; } }
@@ -9051,6 +9051,20 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   @media (min-width: 992px) {
     .heading-secondary {
       font-size: 1.75rem;
+      margin-bottom: 2rem; } }
+
+.heading-tertiary {
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 1.4rem;
+  margin-top: -1.3rem; }
+  @media (min-width: 768px) {
+    .heading-tertiary {
+      font-size: 1rem;
+      margin-bottom: 1.8rem; } }
+  @media (min-width: 992px) {
+    .heading-tertiary {
+      font-size: 1rem;
       margin-bottom: 2rem; } }
 
 .program-list {

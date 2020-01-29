@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png');">
     <div class="hero-container">
-        <h4 class="heading">Community Action</h4>
+        <h4 class="heading">A robust community change-making experience</h4>
     </div>
 </section>
 
@@ -9,7 +9,7 @@
 <section class="page-content">
     <div class="container">
 
-        <h2 class="heading-secondary">A Robust Community Change-Making Experience</h2>
+        <h2 class="heading-secondary">Community Action</h2>
 
         <p>
             Community Action offer an authentic and responsive experience for students,

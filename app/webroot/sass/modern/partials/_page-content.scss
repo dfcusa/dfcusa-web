@@ -15,6 +15,23 @@
   }
 }
 
+.heading-tertiary{
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 1.4rem;
+  margin-top: -1.3rem;
+
+  @include media-breakpoint-up(md){
+    font-size: 1rem;
+    margin-bottom: 1.8rem;
+  }
+
+  @include media-breakpoint-up(lg){
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+
 
 .program-list{
   @extend .table-responsive;

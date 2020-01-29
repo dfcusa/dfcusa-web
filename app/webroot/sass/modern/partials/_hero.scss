@@ -24,7 +24,7 @@
     }
 
     .hero-container{
-      padding: 3rem 15px;
+      padding: 2rem 15px;
 
       @include media-breakpoint-down(md){
         padding: 1.4rem 15px;
@@ -32,6 +32,7 @@
     }
 
     .heading{
+      
       position: relative;
       z-index: 2;
       margin: 0;
