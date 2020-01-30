@@ -356,7 +356,10 @@ small,
 .small,
 .post-block .description,
 .post-block a.read-more,
-.post-block .date {
+.post-block .date,
+.podcast-block .description,
+.podcast-block a.read-more,
+.podcast-block .date {
   font-size: 80%;
   font-weight: 400; }
 
@@ -5309,7 +5312,7 @@ button.bg-dark-green:focus {
 .rounded-sm {
   border-radius: 0.2rem !important; }
 
-.rounded, .lead-box, .post-block, .reviews .review-item, .newsletter-content, .video-box, .design-thinking-classroom img {
+.rounded, .lead-box, .post-block, .reviews .review-item, .newsletter-content, .podcast-block, .video-box, .design-thinking-classroom img {
   border-radius: 0.25rem !important; }
 
 .rounded-top {
@@ -9038,6 +9041,46 @@ a.text-dark-green:hover, a.text-dark-green:focus {
           margin-left: 0; }
         .footer .footer-btm .footer-social a:hover {
           color: #0096db; }
+
+.podcast-block {
+  display: block;
+  flex-direction: column;
+  height: 100%;
+  box-shadow: rgba(52, 58, 64, 0.2) 0 3px 5px;
+  overflow: hidden;
+  width: 300px;
+  height: 340px;
+  margin: 25px;
+  float: left; }
+  .podcast-block.podcast-pink .post-brief {
+    background: #ed1651; }
+  .podcast-block.podcast-yellow .post-brief {
+    background: #b89204; }
+  .podcast-block.podcast-blue .post-brief {
+    background: #00628f; }
+  .podcast-block .podcast-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 1.1rem;
+    display: block;
+    line-height: 1.2; }
+  .podcast-block .podcast-img {
+    height: 150px; }
+  .podcast-block .podcast-brief {
+    padding: 1.3rem 1.1rem 2.3rem;
+    flex-grow: 1;
+    position: relative;
+    min-height: 190px; }
+    .podcast-block .podcast-brief, .podcast-block .podcast-brief a {
+      color: #4b4e51;
+      text-decoration: none; }
+  .podcast-block a.read-more, .podcast-block .date {
+    position: absolute;
+    bottom: 0.8rem; }
+  .podcast-block a.read-more {
+    right: 1.1rem; }
+  .podcast-block .date {
+    left: 1.1rem; }
 
 .heading-secondary {
   color: #ed1651;

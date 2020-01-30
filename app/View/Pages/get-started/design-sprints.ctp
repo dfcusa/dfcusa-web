@@ -68,49 +68,28 @@
           <table class="table">
               <tbody>
               <tr>
-                  <th width="200">Time Required:</th>
-                  <td>4 hours</td>
+                  <th width="300">Time Required:</th>
+                  <td>5 hours</td>
+              </tr>
+              <tr>
+                  <th>Feature:</th>
+                  <td>Design thinking protocols</td>
               </tr>
               <tr>
                   <th>Where:</th>
-                  <td>
-                      Using the guided lesson plans on the
-                      <a href="/dfcusa-pm/login#register" class="link">Design for Change web portal</a>
-                  </td>
+                  <td>In class</td>
               </tr>
               <tr>
-                  <th>How:</th>
-                  <td>Provides concise and scripted experience for students</td>
+                  <th>Output:</th>
+                  <td>Action planning</td>
               </tr>
               <tr>
-                  <th>Context:</th>
-                  <td>Connects to relevant, local community challenges</td>
-              </tr>
-              <tr>
-                  <th>Alignment:</th>
-                  <td>Aligns to a UN Global Goal</td>
-              </tr>
-              <tr>
-                  <th>For You:</th>
-                  <td>
-                      Design for Change experts will provide feedback and guidance on how
-                      to make the experience amazing for your students
-                  </td>
+                  <th>Perfect for the Educator:</th>
+                  <td>Looking for a way to build on student empathy and introduce the design thinking process for social action.</td>
               </tr>
               </tbody>
           </table>
       </div>
-
-
-      <h2 class="heading-secondary">Perfect for the educator...</h2>
-      <ul class="pl-3 pb-4 mb-5">
-          <li class="my-3">Looking for a quick way to introduce students to the Design for Change methodology</li>
-          <li class="my-3">Searching for ready-made lesson plans that guide students through the design cycle</li>
-          <li class="my-3">Interested in promoting the UN Global Goals</li>
-          <li class="my-3">Passionate about connecting students to relevant issues in their community</li>
-          <li class="my-3">Looking for a way to faciliate your students to work with the community directly? Check out <a href="/pages/get-started/community-action">the Community Action</a> level.</li>
-      </ul>
-
   </div>
 </section>
 

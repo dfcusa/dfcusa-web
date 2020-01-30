@@ -71,38 +71,28 @@
             <table class="table">
                 <tbody>
                 <tr>
-                    <th width="200">Time Required:</th>
-                    <td>Around 20 hours over 4-8 weeks</td>
+                    <th width="300">Time Required:</th>
+                    <td>10+ hours</td>
                 </tr>
                 <tr>
                     <th>Feature:</th>
-                    <td>Dives deeply into the Design for Change methodology</td>
+                    <td>Authentic community engagement</td>
                 </tr>
                 <tr>
-                    <th>Context:</th>
-                    <td>Integrates seamlessly with diverse contexts and aligns with desired academic outcomes</td>
+                    <th>Where:</th>
+                    <td>In class and in the community</td>
                 </tr>
                 <tr>
-                    <th>Impact:</th>
-                    <td>Results in student-driven, authentic, and lasting social change</td>
+                    <th>Output:</th>
+                    <td>Community action project</td>
                 </tr>
                 <tr>
-                    <th>Alignment:</th>
-                    <td>Encourages investigation into 1 or more UN Global Goals</td>
+                    <th>Perfect for the Educator:</th>
+                    <td>Looking for a way to build on student empathy and deeply engage community in order to create concrete sustainable change.</td>
                 </tr>
                 </tbody>
             </table>
         </div>
-
-
-        <h2 class="heading-secondary">Perfect for the educator...</h2>
-        <ul class="pl-3 pb-4 mb-5">
-            <li class="my-3">Looking for a quick way to introduce students to the Design for Change methodology</li>
-            <li class="my-3">Searching for ready-made lesson plans that guide students through the design cycle</li>
-            <li class="my-3">Interested in promoting the UN Global Goals</li>
-            <li class="my-3">Passionate about connecting students to relevant issues in their community</li>
-        </ul>
-
     </div>
 </section>
 

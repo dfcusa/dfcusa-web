@@ -301,7 +301,7 @@
 <section class="cta cta-next-steps py-5">
   <div class="container mt-3">
       <h2 class="heading text-secondary">Best of All, Our Resources Are Free!</h2>
-      <a class="btn btn-secondary btn-lg" href="/pages/get-started">CHECK OUT OUR PODCASTS</a>
+      <a class="btn btn-secondary btn-lg" href="/pages/get-started">GET STARTED</a>
       <p class="mt-4 mb-3">Design for Change USA is a 501(c)(3) non-profit organization. <a href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
   </div>
 </section>

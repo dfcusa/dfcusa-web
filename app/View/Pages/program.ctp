@@ -108,80 +108,6 @@
   </div>
 </section>
 
-<section class="get-started text-white bg-success py-5 text-center">
-
-    <div class="container">
-
-        <div class="get-started-head mb-5">
-            <h2>Multiple Ways to Engage Your Students</h2>
-        </div>
-
-        <div class="get-started-inner">
-            <div class="row">
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-light-blue img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUP</h4>
-                            <div class="small">
-                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    1 hour
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-orange img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">DESIGN SPRINTS</h4>
-                            <div class="small">
-                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    4 hours
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-magenta img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">COMMUNITY ACTION</h4>
-                            <div class="small">
-                                <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    Around 20 hours
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-               
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="lead-box lead-primary border-0 rounded-0 mb-0">
     <div class="container py-4">
 
@@ -261,6 +187,88 @@
     </div>
 </section>
 
+<section class="page-content">
+
+    <div class="lead-box lead-success border-0 rounded-0 mb-0">
+        <div class="container py-4">
+            <div class="text-center">
+                <h2 id="platform" class="heading font-weight-bolder">Our Online Educator Platform</h2>
+                <p class="mb-4">Designed to help you bring Design for Change to your classroom.</p>
+            </div>
+            <div class="lead-content">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-sm-6 mb-4">
+                        <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png">
+                    </div>
+                    <div class="col-sm-6 mb-4">
+                        <ul class="list-unstyled h6 font-weight-normal">
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Free activities across all stages
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Free Design Sprint podcast episodes
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Guided lesson plans and step by step instructions
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Upload project worksheets, pictures and videos
+                            </li>
+                            <li class="mb-4 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Submit your project to be elible as an Ambassador Team to
+                                attend the annual Be The Change conference
+                            </li>
+                        </ul>
+
+                        <a href="/dfcusa-pm/login#register" class="btn btn-danger btn-lg">REGISTER NOW</a>
+
+                    </div>
+                </div>
+
+                <div class="lead-box lead-primary img-right mt-5">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_school.png"
+                             class="img-fluid"
+                             alt="img">
+                    </div>
+                    <div class="lead-content px-4">
+                        <h3 class="h4 mb-1">OUR SCHOOL / DISTRICT VERSION</h3>
+                        <hr>
+                        <ul class="list-unstyled h6 font-weight-normal">
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Manage multiple projects across different sites / schools
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Track progress of projects
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Invite students and support staff to projects
+                            </li>
+                            <li class="mb-4 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Get expert assistance from Design for Change staff
+                            </li>
+                        </ul>
+                        <a href="/dfcusa-web/pages/contact-us"
+                           class="btn btn-outline-light">Contact us</a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
 <section class="cta py-5 cta-ending">
     <div class="container my-3">

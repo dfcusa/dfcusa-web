@@ -61,44 +61,31 @@
       </div>
 
       <div class="program-list mb-5">
-          <table class="table">
-              <tbody>
-              <tr>
-                  <th width="200">Time Required:</th>
-                  <td>1 hour</td>
-              </tr>
-              <tr>
-                  <th>Where:</th>
-                  <td>
-                      In the classroom using the lesson plans on the 
-                      <a href="/dfcusa-pm/login#register" class="link">Design for Change web portal</a>
-                  </td>
-              </tr>
-              <tr>
-                  <th>How:</th>
-                  <td>Simple lesson plans that are easily to follow and implement</td>
-              </tr>
-              <tr>
-                  <th>Context:</th>
-                  <td>Connects to relevant, local community challenges</td>
-              </tr>
-              <tr>
-                  <th>Alignment:</th>
-                  <td>Aligns to a UN Global Goal</td>
-              </tr>
-              </tbody>
+        <table class="table">
+            <tbody>
+               <tr>
+                   <th width="300">Time Required:</th>
+                   <td>1 hour</td>
+               </tr>
+               <tr>
+                   <th>Feature:</th>
+                   <td>Empathy building</td>
+               </tr>
+               <tr>
+                   <th>Where:</th>
+                   <td>In class</td>
+               </tr>
+               <tr>
+                   <th>Output:</th>
+                   <td>Reflective practice</td>
+               </tr>
+               <tr>
+                   <th>Perfect for the Educator:</th>
+                   <td>Looking for a way to connect students to peer and community voice about a specific social issue.</td>
+               </tr>
+            </tbody>
           </table>
       </div>
-
-
-      <h2 class="heading-secondary">Perfect for the educator...</h2>
-      <ul class="pl-3 pb-4 mb-5">
-          <li class="my-3">Looking for a way to engage their students in a social issue</li>
-          <li class="my-3">Searching for a safe way to learn about complicated social causes</li>
-          <li class="my-3">Interested in promoting the UN Global Goals</li>
-          <li class="my-3">Passionate about connecting students to relevant issues in their community</li>
-      </ul>
-
   </div>
 </section>
 
