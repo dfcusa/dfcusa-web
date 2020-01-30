@@ -187,7 +187,7 @@
     </div>
 </section>
 
-<section class="page-content">
+<section class="page-content hide">
 
     <div class="lead-box lead-success border-0 rounded-0 mb-0">
         <div class="container py-4">
@@ -276,7 +276,7 @@
         <div class="mb-4">
             <h2 class="heading text-secondary">Ready to move forward? It's free...</h2>
         </div>
-        <a class="btn btn-secondary btn-lg" href="/pages/podcasts">CHECK OUT THE PODCASTS</a>
+        <a class="btn btn-secondary btn-lg" href="/pages/podcasts">GET STARTED</a>
     </div>
 </section>
 

@@ -93,7 +93,7 @@
 	<div class="container">
 
         <div class="get-started-head mb-5">
-            <h2>Our Programs for Educators</h2>
+            <h2>Our Content for Educators</h2>
             <p>Your students learn about a social cause through our high quality podcasts. You can then engage them on 3 different levels:</p>
         </div>
 
@@ -149,7 +149,7 @@
                                 <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    Around 20 hours
+                                    10+ hours
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
                             </div>
