@@ -84,7 +84,8 @@
 
 
 <?php if ($GET['hideheader'] == null) { ?>
-    <section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+    <?php if ($_GET['background'] != '') { ?><style>.hero.with-background-image:before { opacity: 0.4; }</style><?php } ?>
+    <section class="hero with-background-image" <?php if ($_GET['background'] != '') { ?>style="background-image: url('<?php echo $_GET['background'] ?>');" <?php } else { ?>style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');" <?php } ?>>
         <div class="hero-container">
             <h4 class="heading"><?php if ($_GET['title'] != '') { echo $_GET['title']; } ?></h4>
         </div>
