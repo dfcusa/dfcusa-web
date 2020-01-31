@@ -8,7 +8,7 @@
 <section class="page-content">
 	<div class="container">
 
-        <h2 class="heading-secondary">An Innovative and Collaborative Experience</h2>
+        <h2 class="heading-secondary">How Design for Change Works</h2>
         <p>
             Design for Change equips young people to transform empathy into social action using 4 steps:
             <strong>Feel, Imagine, Do, Share.</strong><br/><br/>
@@ -276,7 +276,7 @@
         <div class="mb-4">
             <h2 class="heading text-secondary">Ready to move forward? It's free...</h2>
         </div>
-        <a class="btn btn-secondary btn-lg" href="/pages/podcasts">GET STARTED</a>
+        <a class="btn btn-secondary btn-lg" href="/pages/get-started">GET STARTED</a>
     </div>
 </section>
 

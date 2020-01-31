@@ -359,7 +359,8 @@ small,
 .post-block .date,
 .podcast-block .description,
 .podcast-block a.read-more,
-.podcast-block .date {
+.podcast-block .date,
+.podcast-block .details .content {
   font-size: 80%;
   font-weight: 400; }
 
@@ -9042,16 +9043,23 @@ a.text-dark-green:hover, a.text-dark-green:focus {
         .footer .footer-btm .footer-social a:hover {
           color: #0096db; }
 
+#podcasts {
+  display: flex;
+  overflow: scroll; }
+
 .podcast-block {
   display: block;
   flex-direction: column;
   height: 100%;
   box-shadow: rgba(52, 58, 64, 0.2) 0 3px 5px;
   overflow: hidden;
-  width: 300px;
+  min-width: 300px;
   height: 340px;
-  margin: 25px;
-  float: left; }
+  margin: 10px 10px 30px 10px;
+  float: left;
+  position: relative; }
+  .podcast-block.extended {
+    height: 420px; }
   .podcast-block.podcast-pink .post-brief {
     background: #ed1651; }
   .podcast-block.podcast-yellow .post-brief {
@@ -9081,6 +9089,21 @@ a.text-dark-green:hover, a.text-dark-green:focus {
     right: 1.1rem; }
   .podcast-block .date {
     left: 1.1rem; }
+  .podcast-block .details {
+    left: 1.1em; }
+    .podcast-block .details .content {
+      display: block; }
+  .podcast-block .play-podcast {
+    position: absolute;
+    right: 20px;
+    bottom: 20px; }
+  .podcast-block .sponsor-logo {
+    position: absolute;
+    bottom: 10px;
+    left: 10px; }
+    .podcast-block .sponsor-logo img {
+      max-height: 60px;
+      max-width: 60px; }
 
 .heading-secondary {
   color: #ed1651;

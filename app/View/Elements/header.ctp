@@ -38,14 +38,14 @@
                     <li class="nav-item d-md-none">
                         <a class="nav-link" href="/">Home</a>
                     </li>
-                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'program') > -1) || (strpos($_GET['nav'], 'program') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link" href="/pages/program" target="_parent">How It Works</a>
+                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_GET['nav'], 'how-it-works') > -1)) { ?>active<?php } ?>">
+                        <a class="nav-link" href="/pages/how-it-works" target="_parent">How It Works</a>
                     </li>
                     <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_GET['nav'], 'get-started') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/get-started" target="_parent">Get Started</a>
                     </li>
-                    <li class="nav-item hide <?php if ((strpos($_SERVER['REQUEST_URI'], 'dashboard') > -1)  || (strpos($_GET['nav'], 'dashboard') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link" href="/dfcusa-pm/dashboard#catalog" target="_parent">Get Started</a>
+                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)  || (strpos($_GET['nav'], 'podcasts') > -1)) { ?>active<?php } ?>">
+                        <a class="nav-link" href="/dfcusa-pm/podcasts" target="_parent">Podcasts</a>
                     </li>
                     <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'stories') > -1) || (strpos($_GET['nav'], 'stories') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/stories" target="_parent">Real Stories</a>

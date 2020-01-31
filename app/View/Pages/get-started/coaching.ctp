@@ -107,13 +107,13 @@
 </section>
 
 
-<section class="cta pt-5 cta-ending hide-mobile">
+<section class="cta pt-5 cta-ending">
     <div class="container my-3">
         <div class="mb-5">
-            <h2 class="heading text-secondary">Kickstart Your Project</h2>
-            <p>Browse the activities we offer.</p>
+            <h2 class="heading text-secondary">Schedule a coaching session</h2>
+            <p>We can put you in touch with a fellow educator.</p>
         </div>
         <a class="btn btn-inverse-secondary btn-lg"
-           href="/dfcusa-pm/activities">SEE ACTIVITIES</a>
+           href="/pages/contact-us?ref=coaching">CONTACT US</a>
     </div>
 </section>

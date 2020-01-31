@@ -82,7 +82,7 @@
 
 <section class="latest-news">
   <div class="container">
-      <h2 class="heading">Latest News & Updates</h2>
+    <h2 class="heading">Latest News & Updates</h2>
     <div class="row news-posts"></div>
   </div>
 </section>

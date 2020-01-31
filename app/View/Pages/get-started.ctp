@@ -1,10 +1,11 @@
-<section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
-    <div class="hero-container">
-        <h4 class="heading">Change starts with you.</h4>
-    </div>
+<section class="hero with-background-image"
+         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+  <div class="hero-container">
+    <h4 class="heading">Change starts with you.</h4>
+  </div>
 </section>
 
-<section class="page-content my-5">
+<section class="page-content mb-5">
     <div class="container">
 
         <h2 class="heading-secondary">Getting Started with Design for Change</h2>
@@ -95,22 +96,26 @@
     </div>
 </section>
 
-<section class="page-content my-8">
+<section class="page-content">
     <div class="container">
-
         <h3 class="h4 mt-5 mb-2">STEP 2</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Choose an Empathy Podcast episode:
         </h4>
+
     </div>
 
-    <div id="podcasts" class="col-lg-12">
+    <div id="podcasts" class="container">
     </div>
+
+    <div class="container">
+        <p class="py-4 px-2"><a href="/dfcusa-pm/podcasts">see full list of episodes...</a></p>
+    </div>
+
 
 </section>
 
 <section class="page-content my-5">
-
     <div class="lead-box lead-success border-0 rounded-0 mb-0">
         <div class="container py-4">
             <h3 class="h4 mt-0 mb-2">STEP 3</h3>
@@ -218,7 +223,7 @@
                             <strong>Time Commitment:</strong><br>
                             2 Hours | 1/2 Day | Full Day
                         </p>
-                        <a href="/dfcusa-web/pages/get-started/professional-development"
+                        <a href="/dfcusa-web/pages/get-started/workshops"
                            class="btn btn-outline-light">Learn more</a>
                     </div>
                 </div>

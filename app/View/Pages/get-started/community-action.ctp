@@ -37,7 +37,7 @@
                   with people affected by that issue and changemakers making a difference.
               </p>
               <a class="btn btn-outline-light"
-                 href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
+                 href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
           </div>
       </div>
 
@@ -97,13 +97,68 @@
 </section>
 
 
-<section class="cta pt-5 cta-ending hide-mobile">
+<section class="cta pt-5 py-5 cta-ending hide-mobile">
     <div class="container my-3">
-        <div class="mb-5">
-            <h2 class="heading text-secondary">Kickstart Your Project</h2>
-            <p>Browse the activities we offer.</p>
+        <div class="mb-2">
+            <h2 class="heading text-secondary">Ready to get started?</h2>
+            <p>Get your lesson going in minutes.</p>
         </div>
         <a class="btn btn-inverse-secondary btn-lg"
-           href="/dfcusa-pm/dashboard#catalog">SEE PODCAST EPISODES</a>
+           href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
+    </div>
+</section>
+
+<section class="get-started text-white bg-success py-1 pb-5">
+    <div class="container">
+
+        <h3 class="h4 mt-5 mb-2">Need an easier way to get going?</h3>
+        <h4 class="h5 mb-4 font-weight-normal">
+            Try a 1 hour or 5 hour engagement...
+        </h4>
+        
+        <div class="get-started-inner">
+            <div class="row">
+
+                <div class="col-lg-6">
+                    <div class="lead-box lead-light-blue img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <div class="small">
+                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    1 hour
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="lead-box lead-orange img-center text-center">
+                        <div class="lead-image">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png">
+                        </div>
+                        <div class="lead-content">
+                            <h4 class="heading">DESIGN SPRINTS</h4>
+                            <div class="small">
+                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
+                                <p>
+                                    <strong>Time Commitment:</strong><br>
+                                    5 hours
+                                </p>
+                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+               
+            </div>
+        </div>
     </div>
 </section>
