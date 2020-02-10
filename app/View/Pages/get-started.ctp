@@ -296,7 +296,7 @@
         <div class="podcast-brief">
           <a href="{{url}}" target="_new" class="podcast-title">{{name}}</a>
           <p class="description">{{description}}</p>
-          <div class="read-more"><a href="{{url}}" target="_new" class="read-more">Preview episode...</a></div>
+          <div class="read-more"><a href="/dfcusa-pm/podcasts#view/{{short_name}}" class="read-more">Preview episode...</a></div>
           <div class="date">{{date}}</date>
         </div>
     </div>

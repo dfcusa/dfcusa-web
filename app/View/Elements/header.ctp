@@ -57,22 +57,26 @@
                         <a class="nav-link" href="/pages/about-us" target="_parent">About Us</a>
                     </li>
                 </ul>
-                <div class="account-nav">
-                    <a href="/dfcusa-pm/dashboard" class="web-portal">Your Dashboard</a>
-                    <div class="dropdown-content">
-                        <a href="/dfcusa-pm/dashboard">Sprints and Projects</a>
-                        <a href="/dfcusa-pm/activities">Activities</a>
-                        <a href="/dfcusa-pm/logout">Logout</a>
-                    </div>
-                </div>
-                <ul class="navbar-nav login-nav hide-mobile">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/dfcusa-pm/login#register">Sign Up</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/dfcusa-pm/login">Login</a>
-                    </li>
-                </ul>
+
+                <?php if ($_COOKIE['user']) { ?>
+                    <ul class="navbar-nav login-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dfcusa-pm/dashboard">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <i class="fas fa-user-circle user-profile mt-1"></i>
+                        </li>
+                    </ul>
+                <?php } else { ?>
+                    <ul class="navbar-nav login-nav hide-mobile">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dfcusa-pm/login#register">Sign Up</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dfcusa-pm/login">Login</a>
+                        </li>
+                    </ul>
+                <?php } ?>
             </div>
         </nav>
     </div>

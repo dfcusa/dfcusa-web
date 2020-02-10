@@ -8707,6 +8707,8 @@ a.text-dark-green:hover, a.text-dark-green:focus {
       margin-top: 0;
       padding-top: 0;
       border: none; } }
+  .navbar-expand-lg .login-nav .user-profile {
+    font-size: 1.5em; }
   .navbar-expand-lg .login-nav .nav-link {
     font-size: 0.8rem;
     font-weight: 400; }
@@ -9082,6 +9084,8 @@ a.text-dark-green:hover, a.text-dark-green:focus {
     .podcast-block .podcast-brief, .podcast-block .podcast-brief a {
       color: #4b4e51;
       text-decoration: none; }
+    .podcast-block .podcast-brief.short {
+      min-height: 100px; }
   .podcast-block a.read-more, .podcast-block .date {
     position: absolute;
     bottom: 0.8rem; }

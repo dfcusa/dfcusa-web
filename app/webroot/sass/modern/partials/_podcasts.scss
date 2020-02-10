@@ -60,6 +60,10 @@
       color: #4b4e51;
       text-decoration: none;
     }
+
+    &.short {
+      min-height: 100px;
+    }
   }
 
   .description, a.read-more, .date{

@@ -83,10 +83,10 @@
 </div>
 
 
-<?php if ($GET['hideheader'] == null) { ?>
+<?php if ($_GET['hideheader'] == null) { ?>
     <?php if ($_GET['background'] != '') { ?><style>.hero.with-background-image:before { opacity: 0.65; }</style><?php } ?>
     <section class="hero with-background-image" <?php if ($_GET['background'] != '') { ?>style="background-image: url('<?php echo $_GET['background'] ?>');" <?php } else { ?>style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');" <?php } ?>>
-        <div class="hero-container">
+        <div class="hero-container" <?php if ($_GET['title'] == '') {?> style="padding-top: 0px"<?php } ?>>
             <h4 class="heading"><?php if ($_GET['title'] != '') { echo $_GET['title']; } ?></h4>
         </div>
     </section>
