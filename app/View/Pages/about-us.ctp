@@ -265,22 +265,6 @@
             </div>
 
             <div class="row text-center justify-content-center">
-
-                <div class="col-sm-3">
-                    <div class="member mb-5">
-                        <img src="/dfcusa-web/app/webroot/img/champions/taraschletz.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Tara Schletz</h6>
-                        <div class="small">
-                            <div class="text-muted">Curriculum Enrichment Specialist <br> Visitation School</div>
-                            <div class="text-muted font-italic mb-1">Mendota Heights, MN</div>
-                            <a class="text-decoration-none"
-                               href="https://vischool.learning.powerschool.com/tschletz/lowerschoolenrichment/cms_page/view/27780476"
-                               target="_blank">
-                                <i class="fab fa-globe mr-1"></i> More Info
-                            </a>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-sm-3">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/champions/kristabrincheck.png" alt="">
@@ -315,6 +299,24 @@
 
                 <div class="col-sm-3">
                     <div class="member mb-5">
+                        <img src="/dfcusa-web/app/webroot/img/champions/traceyjoyce.png" alt="">
+                        <h6 class="text-secondary mt-3 mb-1">Tracey Joyce</h6>
+                        <div class="small">
+                            <div class="text-muted">K-12 Technology Integrationist <br> Mounds Park Academy</div>
+                            <div class="text-muted font-italic mb-1">Minneapolis, MN</div>
+                            <a class="text-decoration-none"
+                               href="https://www.linkedin.com/in/traceyjoyce/"
+                               target="_blank">
+                                <i class="fab fa-linkedin mr-1"></i> More Info
+                            </a>
+                        </div>
+                    </div>
+                </div>           
+            </div>
+            <div class="row text-center justify-content-center pt-5">     
+
+                <div class="col-sm-3">
+                    <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/champions/carolinemitchell.png" alt="">
                         <h6 class="text-secondary mt-3 mb-1">Caroline Mitchell</h6>
                         <div class="small">
@@ -330,6 +332,23 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-3">
+                    <div class="member mb-5">
+                        <img src="/dfcusa-web/app/webroot/img/champions/taraschletz.png" alt="">
+                        <h6 class="text-secondary mt-3 mb-1">Tara Schletz</h6>
+                        <div class="small">
+                            <div class="text-muted">Curriculum Enrichment Specialist <br> Visitation School</div>
+                            <div class="text-muted font-italic mb-1">Mendota Heights, MN</div>
+                            <a class="text-decoration-none"
+                               href="https://vischool.learning.powerschool.com/tschletz/lowerschoolenrichment/cms_page/view/27780476"
+                               target="_blank">
+                                <i class="fas fa-globe mr-1"></i> More Info
+                            </a>
+                        </div>
+                    </div>
+                </div>                
+
             </div>
         </div>
 
