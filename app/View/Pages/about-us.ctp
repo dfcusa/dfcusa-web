@@ -23,7 +23,7 @@
             <div class="lead-content">
                 <p>DFC equips young people to transform empathy into social action using a simple framework. <br/>
                     Educators use DFC to facilitate a design process that fosters empathy and student agency. <br/>
-                    Students brainstorm, plan, and execute community change projects..</p>
+                    Students brainstorm, plan, and execute community change projects.</p>
                 <a class="btn btn-inverse-dark" href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
             </div>
         </div>
