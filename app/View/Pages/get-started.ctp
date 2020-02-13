@@ -1,5 +1,4 @@
 <link rel="stylesheet" type="text/css" href="/dfcusa-web/app/webroot/js/baraja/baraja.css" />
-<link rel="stylesheet" type="text/css" href="/dfcusa-web/app/webroot/js/baraja/baraja.css" />
 
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
@@ -58,10 +57,14 @@
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       New episodes are added every month
                   </li>
+                  <li class="mb-4 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      <a href="/dfcusa-pm/podcasts">See full library of podcasts</a>
+                  </li>
               </ul>
             </div>
             <div class="col-8 pt-2 mr-0">
-              <ul id="podcasts" class="baraja-container" style="margin-right: 0px">
+              <ul id="podcasts" class="baraja-container" style="margin-left: 300px">
               </ul>
             </div>
         </div>
@@ -328,17 +331,37 @@
         $('#podcasts').append(html);
       });
 
-      var $el = $('#podcasts'), baraja = $el.baraja();
+      var $el = $('#podcasts');
+      window.baraja = $el.baraja();
 
-      baraja.fan( {
+      window.baraja.fan( {
         speed : 500,
         easing : 'ease-out',
         range : 3,
         direction : 'left',
-        origin : { x : 30, y : 0 },
+        origin : { x : 10, y : 0 },
         center : false,
-        translation : 300
+        translation : 100
       } );
+
+      $('.play-podcast').unbind('click').click(previewpodcast);
+
+      function previewpodcast() {
+        window.fanstop = true;
+        window.baraja.close();
+        $('#empathy-audio').remove();
+        $('#podcasts').append('<audio class="audios" id="empathy-audio" src="' + $(this).attr('data-audio') + '" controls preload="auto"><source src="' + $(this).attr('data-audio') + '" type="audio/mpeg"></audio>');
+        window.podcast = document.getElementById('empathy-audio');
+        window.podcast.currentTime = '300';
+        window.podcast.play();
+        $(this).html('Stop Preview').addClass('btn-danger');
+        $(this).unbind('click').click(function() {
+          window.podcast.remove();
+          window.fanstop = false;
+          $(this).html('Play Preview').removeClass('btn-danger');
+          $(this).click(previewpodcast);
+        });
+      }
     });
   });
 </script>
@@ -349,15 +372,16 @@
       <div class="global-goal"><img src="{{global_goal_image}}"></div>
       <div class="podcast-img" style="background-image: url('{{picture}}'); background-size: 100%; background-repeat: no-repeat"></div>
       <div class="podcast-brief">
-        <a href="{{podcast.url}}" target="_new" class="podcast-title">{{name}}</a>
+        <a href="javascript:void(0)" class="podcast-title">{{name}}</a>
         <p class="description">{{description}}</p>
 
         <div class="details">
           <span class="content"><b>Duration:</b> {{duration}}</span>
           <span class="content"><b>Difficulty:</b> {{difficulty}}</span>
-          <span class="content"><b>Sponsored By:</b> <a href="{{sponsor_url}}" target="_new">{{sponsor_name}}</a></span>
+          <span class="content"><b>Sponsored By:</b> <a href="javascript:void(0)">{{sponsor_name}}</a></span>
         </div>
       </div>
+      <a class="btn btn-primary btn-sm center play-podcast text-white" href="javascript:void(0)" data-audio="{{assets.audio}}">Play Preview</a>
       <div class="sponsor-logo"><img src="{{sponsor_logo}}"/></div>
     </div>
   </li>

@@ -142,7 +142,6 @@ jQuery.fn.reverse = [].reverse;
 
 		},
 		_updateStack : function( $el, dir ) {
-
 			var currZIndex = Number( $el.css( 'z-index' ) ),
 				newZIndex = dir === 'next' ? this.itemZIndexMin - 1 : this.itemZIndexMin + this.itemsCount,
 				extra = dir === 'next' ? '+=1' : '-=1';
@@ -208,9 +207,7 @@ jQuery.fn.reverse = [].reverse;
 
 		},
 		_setOrigin : function( $el, x, y ) {
-
 			$el.css( 'transform-origin' , x + '% ' + y + '%' );
-
 		},
 		_setTransition : function( $el, prop, speed, easing, delay ) {
 
