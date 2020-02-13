@@ -2,13 +2,7 @@
 <html lang="en">
 <head>
 
-<!-- start Omniconvert.com code -->
-<link rel="dns-prefetch" href="//app.omniconvert.com" />
-<script type="text/javascript">window._mktz=window._mktz||[];</script>
-<script src="//cdn.omniconvert.com/js/q7c0100.js"></script>
-<!-- end Omniconvert.com code -->              
-  
-	<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66631957-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -22,7 +16,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Design for Change - USA</title>
+<title>Design for Change USA</title>
 <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
