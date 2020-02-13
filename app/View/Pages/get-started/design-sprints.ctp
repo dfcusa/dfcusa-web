@@ -18,7 +18,7 @@
       </p>
 
 
-      <div class="lead-box lead-danger img-left my-4">
+      <div class="lead-box lead-primary img-left my-4">
           <div class="lead-image">
               <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png">
           </div>

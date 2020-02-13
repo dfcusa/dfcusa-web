@@ -8461,12 +8461,13 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   position: relative; }
   .program-icons .cover-stages {
     position: absolute;
-    top: 0px;
+    top: -20px;
     left: 25%;
     background-color: #fff;
     opacity: 0.9;
     right: 0px;
-    bottom: 0px; }
+    height: 320px;
+    border: 3px dotted #666; }
     .program-icons .cover-stages .notice {
       margin: 0px;
       position: absolute;
@@ -9046,8 +9047,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
           color: #0096db; }
 
 #podcasts {
-  display: flex;
-  overflow: scroll; }
+  height: 30em; }
 
 .podcast-block {
   display: block;
@@ -9059,7 +9059,8 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   height: 340px;
   margin: 10px 10px 30px 10px;
   float: left;
-  position: relative; }
+  position: relative;
+  background-color: white; }
   .podcast-block.extended {
     height: 420px; }
   .podcast-block.podcast-pink .post-brief {

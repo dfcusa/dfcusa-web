@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="/dfcusa-web/app/webroot/js/baraja/baraja.css" />
+<link rel="stylesheet" type="text/css" href="/dfcusa-web/app/webroot/js/baraja/baraja.css" />
+
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
@@ -5,10 +8,10 @@
   </div>
 </section>
 
-<section class="page-content mb-5">
+<section class="page-content">
     <div class="container">
 
-        <h2 class="heading-secondary">Getting Started with Design for Change</h2>
+        <h2 class="heading-secondary">Get Started with Design for Change</h2>
 
         <p>
             Students don't have to wait to change the world. They can drive lasting
@@ -21,13 +24,57 @@
     </div>
 </section>
 
-<section class="get-started text-white bg-success py-1 pb-5">
+<section class="page-content pb-2">
+    <div class="container">
+        <h3 class="h4 mt-5 pt-4 mb-2">FIRST YOU...</h3>
+        <h4 class="h5 mb-4 font-weight-normal">
+            Choose a podcast that interests your students:
+        </h4>
 
+        <div class="row">
+            <div class="col-4 pt-3">
+              <ul class="list-unstyled h6 font-weight-normal">
+                  <li class="mb-3 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      Each podcast delves into a specific social issue
+                  </li>
+                  <li class="mb-3 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      Includes real interviews with youth
+                  </li>
+                  <li class="mb-3 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      Under 10 minutes each
+                  </li>
+                  <li class="mb-3 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      Include visuals to guide the listener along
+                  </li>
+                  <li class="mb-4 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      Each podcast is aligned with a UN Sustainable Global Goal
+                  </li>
+                  <li class="mb-4 d-flex align-items-center">
+                      <i class="fas fa-check-circle fa-2x mr-3"></i>
+                      New episodes are added every month
+                  </li>
+              </ul>
+            </div>
+            <div class="col-8 pt-2 mr-0">
+              <ul id="podcasts" class="baraja-container" style="margin-right: 0px">
+              </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="get-started">
+  <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
     <div class="container">
 
-        <h3 class="h4 mt-5 mb-2">STEP 1</h3>
+        <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
         <h4 class="h5 mb-4 font-weight-normal">
-            Choose a level based upon your time and resources:
+          Facilitate a lesson plan with your students that fits your time availability and classroom environment:
         </h4>
         
         <div class="get-started-inner">
@@ -44,7 +91,7 @@
                                 <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    1 hour
+                                    1 hour total<br/><i>(in classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
                             </div>
@@ -63,7 +110,7 @@
                                 <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    5 hours
+                                    5 hours total<br/><i>(in classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
                             </div>
@@ -82,7 +129,7 @@
                                 <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    10+ hours
+                                    10+ hours<br/><i>(in and out of classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
                             </div>
@@ -94,31 +141,13 @@
             </div>
         </div>
     </div>
+  </div>
 </section>
 
 <section class="page-content">
-    <div class="container">
-        <h3 class="h4 mt-5 mb-2">STEP 2</h3>
-        <h4 class="h5 mb-4 font-weight-normal">
-            Choose an Empathy Podcast episode:
-        </h4>
-
-    </div>
-
-    <div id="podcasts" class="container">
-    </div>
-
-    <div class="container">
-        <p class="py-4 px-2"><a href="/dfcusa-pm/podcasts">see full list of episodes...</a></p>
-    </div>
-
-
-</section>
-
-<section class="page-content my-5">
     <div class="lead-box lead-success border-0 rounded-0 mb-0">
         <div class="container py-4">
-            <h3 class="h4 mt-0 mb-2">STEP 3</h3>
+            <h3 class="h4 mt-0 mb-2">READY TO GO?</h3>
             <h4 class="h5 mb-4 font-weight-normal">
                 Create an account on our Educator Platform:
             </h4>
@@ -199,7 +228,7 @@
 <section class="page-content">
     <div class="container">
 
-        <h3 class="h4 mt-5 mb-2">STEP 4</h3>
+        <h3 class="h4 mt-5 mb-2">OTHER OPTIONS</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Get additional support rolling out Design for Change in your school or community.
         </h4>
@@ -276,28 +305,60 @@
     </div>
 </section>
 
+<script src="/dfcusa-web/app/webroot/js/baraja/modernizr.custom.79639.js"></script>
+<script src="/dfcusa-web/app/webroot/js/baraja/jquery.baraja.js" type="text/javascript"></script>
+
 <script type="text/javascript">
+  function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+  }
+
   $(function() {
     $.get("/dfcusa-pm/api/podcasts", function(data) {
       var i = 0;
+      shuffle = (array) => array.sort(() => Math.random() - 0.5);
+      shuffle(data);
       _.each(data, function(podcast) {
         i++;
         var template = Handlebars.compile($('#podcastTemplate').html());
+        podcast.tilt = getRandomInt(-5, 5);
         var html = template(podcast);
         $('#podcasts').append(html);
       });
+
+      var $el = $('#podcasts'), baraja = $el.baraja();
+
+      baraja.fan( {
+        speed : 500,
+        easing : 'ease-out',
+        range : 3,
+        direction : 'left',
+        origin : { x : 30, y : 0 },
+        center : false,
+        translation : 300
+      } );
     });
   });
 </script>
 
 <script type="text/x-handlebars-template" id="podcastTemplate">
-    <div class="podcast-block">
+  <li>
+    <div class="podcast-block extended">
+      <div class="global-goal"><img src="{{global_goal_image}}"></div>
       <div class="podcast-img" style="background-image: url('{{picture}}'); background-size: 100%; background-repeat: no-repeat"></div>
-        <div class="podcast-brief">
-          <a href="{{url}}" target="_new" class="podcast-title">{{name}}</a>
-          <p class="description">{{description}}</p>
-          <div class="read-more"><a href="/dfcusa-pm/podcasts#view/{{short_name}}" class="read-more">Preview episode...</a></div>
-          <div class="date">{{date}}</date>
+      <div class="podcast-brief">
+        <a href="{{podcast.url}}" target="_new" class="podcast-title">{{name}}</a>
+        <p class="description">{{description}}</p>
+
+        <div class="details">
+          <span class="content"><b>Duration:</b> {{duration}}</span>
+          <span class="content"><b>Difficulty:</b> {{difficulty}}</span>
+          <span class="content"><b>Sponsored By:</b> <a href="{{sponsor_url}}" target="_new">{{sponsor_name}}</a></span>
         </div>
+      </div>
+      <div class="sponsor-logo"><img src="{{sponsor_logo}}"/></div>
     </div>
+  </li>
 </script>

@@ -39,7 +39,7 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_GET['nav'], 'how-it-works') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link" href="/pages/how-it-works" target="_parent">How It Works</a>
+                        <a class="nav-link" href="/pages/how-it-works" target="_parent">Methodology</a>
                     </li>
                     <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_GET['nav'], 'get-started') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/get-started" target="_parent">Get Started</a>

@@ -94,7 +94,7 @@
 
         <div class="get-started-head mb-5">
             <h2>Our Content for Educators</h2>
-            <p>Your students learn about a social cause through our high quality podcasts. You can then engage them on 3 different levels:</p>
+            <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>. You can then engage them on 3 different levels:</p>
         </div>
 
         <div class="get-started-inner">
@@ -111,7 +111,7 @@
                                 <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    1 hour
+                                    1 hour total<br/><i>(in classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
                             </div>
@@ -130,7 +130,7 @@
                                 <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    4 hours
+                                    5 hours total<br/><i>(in classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
                             </div>
@@ -149,7 +149,7 @@
                                 <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
-                                    10+ hours
+                                    10+ hours<br/><i>(in and out of classroom)</i>
                                 </p>
                                 <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
                             </div>

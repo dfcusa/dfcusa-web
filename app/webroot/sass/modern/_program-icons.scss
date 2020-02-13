@@ -7,12 +7,13 @@
 
   .cover-stages {
     position: absolute;
-    top: 0px;
+    top: -20px;
     left: 25%;
     background-color: #fff;
     opacity: 0.9;
     right: 0px;
-    bottom: 0px;
+    height: 320px;
+    border: 3px dotted #666;
     .notice {
       margin: 0px;
       position: absolute;
