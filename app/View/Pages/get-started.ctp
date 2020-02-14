@@ -18,7 +18,28 @@
 
         <p>As an educator, here's how you get started:</p>
 
+        
+
         <h3 class="h4 mt-5 mb-2">STEP 1</h3>
+                <h4 class="h5 mb-4 font-weight-normal">Download Our Free Educator’s Design Thinking Poster</h4>
+
+                <div class="lead-box lead-danger img-left mb-4">
+                    <div class="lead-image">
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png"
+                             class="img-fluid w-75"
+                             alt="img">
+                    </div>
+                    <div class="lead-content">
+                        <h3 class="h4 mb-1">DESIGN THINKING POSTER</h3>
+                        <hr>
+                        <p>The DFC Toolkit Poster provides a quick overview of each stage of the DFC framework. It's an easy way
+                            to learn how it all works on one page.</p>
+                        <a class="btn btn-outline-light" href="javascript:showMailingPopUp()">GET THE POSTER</a>
+                    </div>
+                </div>
+
+
+        <h3 class="h4 mt-5 mb-2">STEP 2</h3>                
         <h4 class="h5 mb-4 font-weight-normal">
             Start a Design Sprint or Community Project with our
             <a href="#platform">Online Educator Platform.</a>
@@ -74,7 +95,7 @@
         </div>
 
 
-        <h3 class="h4 mt-5 mb-2">STEP 2</h3>
+        <h3 class="h4 mt-5 mb-2">STEP 3</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Get additional support rolling out Design for Change in your
             school or community.
@@ -240,12 +261,7 @@
 
 <script type="text/javascript">
   function showMailingPopUp() {
-    if ($.cookie('MCPopupSubscribed')) {
-      window.open('http://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf');
-    } else {
-      $.removeCookie('MCPopupClosed', { path: '/' });
-      window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"e163a23026","uniqueMethods":true}) });      
-    }
+    window.open('http://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf');
   }
 </script>
 
