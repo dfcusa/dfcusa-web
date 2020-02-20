@@ -185,7 +185,7 @@
             <div class="lead-content">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-sm-6 mb-4">
-                        <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png">
+                        <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png" alt="Screenshot">
                     </div>
                     <div class="col-sm-6 mb-4">
                         <ul class="list-unstyled h6 font-weight-normal">
