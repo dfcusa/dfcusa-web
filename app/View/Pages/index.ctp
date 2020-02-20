@@ -13,13 +13,13 @@
   <div class="container">
       <h3 class="heading">Supporters of Design for Change Global and DFC USA...</h3>
       <div class="logos">
-          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png"></a></div>
-          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg"></a></div>
-          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg"></a></div>
-          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg"></a></div>
-          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png"></a></div>
-          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png"></a></div>
-          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png"></a></div>
+          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png" alt="Be Fearless Be Kind Logo"></a></div>
+          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="Global Goals Logo"></a></div>
+          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg" alt="Ideo Logo"></a></div>
+          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg"alt="Teach For America Logo"></a></div>
+          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png" alt="Change Makers logo"></a></div>
+          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png" alt="Dschool Logo"></a></div>
+          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png" alt="Earth Day Logo"></a></div>
       </div>
   </div>
 </section>
@@ -102,7 +102,7 @@
                 <div class="col-lg-4">
                     <div class="lead-box lead-orange img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png">
+                            <img src="/dfcusa-web/app/webroot/img/img_pencil_art.png" alt="Pencil Rocket Icon">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">DESIGN SPRINTS</h4>
@@ -185,7 +185,7 @@
                         they retain these communication and respect qualities for a lifetime.</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png"
-                             class="author-image">
+                             class="author-image" alt="Charlene Hitchcock">
                         <h3 class="author-name">Charlene Hitchcock</h3>
                         <div class="author-details">
                             <div class="text-secondary">2nd Gr. Teacher</div>
@@ -202,7 +202,7 @@
                         did it and it feels so great!"... things I never imagined I would hear."</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png"
-                             class="author-image">
+                             class="author-image" alt="Dana kinel">
                         <h3 class="author-name">Dana Kinel</h3>
                         <div class="author-details">
                             <div class="text-secondary">Design Technology Teacher</div>
@@ -219,7 +219,7 @@
                         difference in our school community.</p>
                     <div class="review-author">
                         <img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png"
-                             class="author-image">
+                             class="author-image" alt="Patti Andreolas">
                         <h3 class="author-name">Patti Andreoles</h3>
                         <div class="author-details">
                             <div class="text-secondary">5th Grade Teacher</div>
@@ -250,17 +250,17 @@
 
         <div class="row">
             <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_globe.svg">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_globe.svg" alt="Globe Icon">
                 <h3 class="text-secondary">70</h3>
                 <p>Countries Participating</p>
             </div>
             <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_storybook.svg">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_storybook.svg" alt="Storybook Icon">
                 <h3 class="text-warning">30,000+</h3>
                 <p>Student Stories of Change</p>
             </div>
             <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_teacher.svg">
+                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_teacher.svg" alt="Teacher Icon">
                 <h3 class="text-primary">70,000+</h3>
                 <p>Teachers Trained</p>
             </div>
@@ -270,7 +270,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="world-map">
-                    <img src="/dfcusa-web/app/webroot/img/img_worlddfcmap.png">
+                    <img src="/dfcusa-web/app/webroot/img/img_worlddfcmap.png" alt="DFC World Map">
                 </div>
             </div>
         </div>
@@ -282,16 +282,16 @@
         <h2 class="text-secondary">Awards & Recognition</h2>
         <p class="mb-5">We're proud to be recognized on multiple platforms.</p>
         <div class="logos logo-large">
-            <div class="logo"><a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png"></a></div>
-            <div class="logo"><a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png"></a></div>
-            <div class="logo"><a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png"></a></div>
-            <div class="logo"><a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png"></a></div>
-            <div class="logo"><a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.thecommonwealth-educationhub.net/goodpractice/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_commonwealth.png"></a></div>
-            <div class="logo border-bottom-0"><a href="https://asiasociety.org/education/events/globaledchat-design-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_asia.png"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.ashoka.org/en/fellow/kiran-bir-sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ashoka.png"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ted.png"></a></div>
+            <div class="logo"><a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png" alt="Index Award 2011"></a></div>
+            <div class="logo"><a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png" alt="Rockerfeller Foundation"></a></div>
+            <div class="logo"><a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png" alt="Change Makers"></a></div>
+            <div class="logo"><a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png" alt="Vital Voices"></a></div>
+            <div class="logo"><a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png" alt="Fetzer"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png" alt="Chicago Council"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.thecommonwealth-educationhub.net/goodpractice/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_commonwealth.png" alt="The Commonwealth"></a></div>
+            <div class="logo border-bottom-0"><a href="https://asiasociety.org/education/events/globaledchat-design-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_asia.png" alt="Asia Society"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.ashoka.org/en/fellow/kiran-bir-sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ashoka.png" alt="Ashoka"></a></div>
+            <div class="logo border-bottom-0"><a href="https://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ted.png" alt="TED Logo"></a></div>
         </div>
   </div>
 </section>
