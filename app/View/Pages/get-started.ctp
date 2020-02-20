@@ -25,7 +25,7 @@
 
 <section class="page-content pb-2">
     <div class="container">
-        <h3 class="h4 mt-5 pt-4 mb-2">FIRST YOU...</h3>
+        <h3 class="h4 mt-3 pt-4 mb-2">FIRST YOU...</h3>
         <h4 class="h5 mb-4 font-weight-normal">
             Choose a podcast that interests your students:
         </h4>
@@ -345,9 +345,12 @@
       } );
 
       $('.play-podcast').unbind('click').click(previewpodcast);
+      $('.podcast-block').unbind('click').click(function() {
+        
+      });
 
       function previewpodcast() {
-        window.fanstop = true;
+        window.stopfan = true;
         window.baraja.close();
         $('#empathy-audio').remove();
         $('#podcasts').append('<audio class="audios" id="empathy-audio" src="' + $(this).attr('data-audio') + '" controls preload="auto"><source src="' + $(this).attr('data-audio') + '" type="audio/mpeg"></audio>');
@@ -357,7 +360,8 @@
         $(this).html('Stop Preview').addClass('btn-danger');
         $(this).unbind('click').click(function() {
           window.podcast.remove();
-          window.fanstop = false;
+          window.stopfan = false;
+          window.baraja._fan();
           $(this).html('Play Preview').removeClass('btn-danger');
           $(this).click(previewpodcast);
         });

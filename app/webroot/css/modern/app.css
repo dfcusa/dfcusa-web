@@ -8679,7 +8679,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   text-align: right; }
   @media (min-width: 992px) {
     .navbar-expand-lg .navbar-nav .nav-item {
-      margin-left: 1.5rem; } }
+      margin-left: 1.3rem; } }
   .navbar-expand-lg .navbar-nav .nav-item:first-child {
     margin-left: 0; }
   .navbar-expand-lg .navbar-nav .nav-item:hover > .nav-link, .navbar-expand-lg .navbar-nav .nav-item.active > .nav-link {

@@ -389,94 +389,100 @@ jQuery.fn.reverse = [].reverse;
 		},
 		_fan : function( settings ) {
 
-			var self = this;
-
-			this.closed = false;
-
-			settings = this._validateDefaultFanSettings( settings || {} );
+			console.log(window.stopfan);
 			
-			// set transform origins
-			// if minX and maxX are passed:
-			if( settings.origin.minX && settings.origin.maxX ) {
+			if ((window.stopfan == false) || (window.stopfan == undefined)) {
+				var self = this;
 
-				var max = settings.origin.maxX, min = settings.origin.minX,
-					stepOrigin = ( max - min ) / this.itemsCount;
+				this.closed = false;
 
+				settings = this._validateDefaultFanSettings( settings || {} );
+				
+				// set transform origins
+				// if minX and maxX are passed:
+				if( settings.origin.minX && settings.origin.maxX ) {
+
+					var max = settings.origin.maxX, min = settings.origin.minX,
+						stepOrigin = ( max - min ) / this.itemsCount;
+
+					this.$items.each( function( i ) {
+
+						var $el = $( this ),
+							pos = self.itemsCount - 1 - ( Number( $el.css( 'z-index' ) ) - self.itemZIndexMin ),
+							originX = pos * ( max - min + stepOrigin ) / self.itemsCount + min;
+
+						if( settings.direction === 'left' ) {
+									
+							originX = max + min - originX;
+
+						}
+
+						self._setOrigin( $( this ), originX, settings.origin.y );
+
+					} );
+				
+				}
+				else {
+
+					this._setOrigin( this.$items, settings.origin.x , settings.origin.y );
+
+				}
+
+				this._setTransition( this.$items, 'transform', settings.speed, settings.easing );
+
+				var stepAngle = settings.range / ( this.itemsCount - 1 ),
+					stepTranslation = settings.translation / ( this.itemsCount - 1 ),
+					cnt = 0;
+				
 				this.$items.each( function( i ) {
 
 					var $el = $( this ),
 						pos = self.itemsCount - 1 - ( Number( $el.css( 'z-index' ) ) - self.itemZIndexMin ),
-						originX = pos * ( max - min + stepOrigin ) / self.itemsCount + min;
+						val = settings.center ? settings.range / 2 : settings.range,
+						angle = val - stepAngle * pos,
+						position = stepTranslation * ( self.itemsCount - pos - 1 );
 
 					if( settings.direction === 'left' ) {
-								
-						originX = max + min - originX;
+						
+						angle *= -1;
+						position *= -1;
 
 					}
 
-					self._setOrigin( $( this ), originX, settings.origin.y );
+					if( settings.scatter ) {
+						
+						var extraAngle = Math.floor( Math.random() * stepAngle ),
+							extraPosition = Math.floor( Math.random() * stepTranslation ) ;
+						
+						// not for the first item..
+						if( pos !== self.itemsCount - 1 ) {
+
+							angle = settings.direction === 'left' ? angle + extraAngle : angle - extraAngle;
+							position = settings.direction === 'left' ? position - extraPosition : position + extraPosition;
+
+						}
+
+					}
+
+					// save..
+					$el.data( { translation : position, rotation : angle } );
+
+					self._applyTransition( $el, { transform : 'translate(' + position + 'px) rotate(' + angle + 'deg)' }, function() {
+
+						++cnt;
+						$el.off( self.transEndEventName );
+						
+						if( cnt === self.itemsCount - 1 ) {
+							self.isAnimating = false;
+						}
+
+					} );
 
 				} );
-			
+			} else {
+				this.closed = false;
+				window.stopfan = false;
 			}
-			else {
-
-				this._setOrigin( this.$items, settings.origin.x , settings.origin.y );
-
-			}
-
-			this._setTransition( this.$items, 'transform', settings.speed, settings.easing );
-
-			var stepAngle = settings.range / ( this.itemsCount - 1 ),
-				stepTranslation = settings.translation / ( this.itemsCount - 1 ),
-				cnt = 0;
-			
-			this.$items.each( function( i ) {
-
-				var $el = $( this ),
-					pos = self.itemsCount - 1 - ( Number( $el.css( 'z-index' ) ) - self.itemZIndexMin ),
-					val = settings.center ? settings.range / 2 : settings.range,
-					angle = val - stepAngle * pos,
-					position = stepTranslation * ( self.itemsCount - pos - 1 );
-
-				if( settings.direction === 'left' ) {
-					
-					angle *= -1;
-					position *= -1;
-
-				}
-
-				if( settings.scatter ) {
-					
-					var extraAngle = Math.floor( Math.random() * stepAngle ),
-						extraPosition = Math.floor( Math.random() * stepTranslation ) ;
-					
-					// not for the first item..
-					if( pos !== self.itemsCount - 1 ) {
-
-						angle = settings.direction === 'left' ? angle + extraAngle : angle - extraAngle;
-						position = settings.direction === 'left' ? position - extraPosition : position + extraPosition;
-
-					}
-
-				}
-
-				// save..
-				$el.data( { translation : position, rotation : angle } );
-
-				self._applyTransition( $el, { transform : 'translate(' + position + 'px) rotate(' + angle + 'deg)' }, function() {
-
-					++cnt;
-					$el.off( self.transEndEventName );
-					
-					if( cnt === self.itemsCount - 1 ) {
-						self.isAnimating = false;
-					}
-
-				} );
-
-			} );
-
 		},
 		// adds new elements to the deck
 		_add : function( $elems ) {
