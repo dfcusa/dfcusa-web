@@ -6,9 +6,10 @@
                     <div class="footer-links">
                         <h4>OUR SERVICES</h4>
                         <a href="/pages/get-started/design-thinking-classroom">In Your Classroom</a>
-                        <a href="/pages/get-started/professional-development">Professional Development</a>
+                        <a href="/pages/get-started/workshops">Workshops</a>
                         <a href="/pages/get-started/coaching">Coaching</a>
                         <a href="/pages/impact">Our Impact</a>
+                        <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>
                     </div>
                 </div>
                 <div class="col-md-2 col-lg-2">
@@ -21,12 +22,12 @@
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
                         <h4>OUR PROGRAM</h4>
-                        <a href="/pages/get-started">Getting Started</a>
-                        <a href="/pages/program">How It Works</a>
+                        <a href="/pages/how-it-works">Methodology</a>
+                        <a href="/pages/get-started">Get Started</a>
+                        <a href="/pages/get-started/empathy-warmups">Empathy Warmups</a>
                         <a href="/pages/get-started/design-sprints">Design Sprints</a>
-                        <a href="/pages/get-started/community-projects">Community Projects</a>
+                        <a href="/pages/get-started/community-action">Community Action</a>
                         <a href="/dfcusa-pm/activities">Activities</a>
-                        <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-2">
@@ -60,10 +61,7 @@
                     <p class="copyright-info">©2014 - 2020 Design for Change USA. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p class="legal-links d-none">
-                        <a href="#">Terms & Conditions</a>
-                        <a href="#">Privacy Policy</a>
-                    </p>
+                    
                 </div>
                 <div class="col-lg-3">
                     <p class="footer-social">

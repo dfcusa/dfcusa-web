@@ -1,42 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" class="dfc">
 <head>
-  <?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5BBRV75');</script>
-    <!-- End Google Tag Manager -->
+  <?php echo $this->element('meta'); ?>
 
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-128220370-1');
-
-      function gaEvent(eventStr) {
-        gtag('event', eventStr);
-      }
-    </script>
-
-
-  <?php } else { ?>
-    <script>
-      function gaEvent(eventStr) {
-        console.log('ga: ' + eventStr);
-      }
-    </script>
-  <?php } ?>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>Design for Change - USA</title>
   <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -57,17 +23,41 @@
   
   <script src="/dfcusa-web/app/webroot/js/moment.js" type="text/javascript"></script>  
   <script src="/dfcusa-web/app/webroot/js/underscore-min.js" type="text/javascript"></script>
-  <script src="/dfcusa-web/app/webroot/js/aos.js" type="text/javascript"></script>
   <script src="/dfcusa-web/app/webroot/js/lity.js" type="text/javascript"></script>
   <script src="/dfcusa-web/app/webroot/js/jquery.cookie.js" type="text/javascript"></script>
 </head>
 
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BBRV75"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5BBRV75');</script>
+  <!-- End Google Tag Manager -->
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-128220370-1');
+
+    function gaEvent(eventStr) {
+      gtag('event', eventStr);
+    }
+  </script>
+
+
+<?php } else { ?>
+  <script>
+    function gaEvent(eventStr) {
+      console.log('ga: ' + eventStr);
+    }
+  </script>
+<?php } ?>
 
 <?php echo $this->element('header') ?>
 
@@ -76,14 +66,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php echo $this->element('footer'); ?>
 
 <script>
-  AOS.init();
-
   if ($.cookie('user')) {
   	$('.my-projects-nav').removeClass('hide');
   } else {
   	$('.login-nav').removeClass('hide');
   }
 </script>
-<script src="/dfcusa-web/app/webroot/js/main.js"></script>
 </body>
 </html>

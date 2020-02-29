@@ -76,16 +76,6 @@ class PagesController extends AppController {
 		$this->render(implode('/', $path));
 	}
 
-	public function rawHeader() {
-		$this->layout = 'header';
-		$this->render('blank');
-	}
-
-	public function rawFooter() {
-		$this->layout = 'footer';
-		$this->render('blank');
-	}
-
 	public function getPosts() {
 		$this->autoRender = false;
 		$this->response->type('application/json');

@@ -1,5 +1,5 @@
 <section class="hero with-background-image"
-         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_designsprints@2x.png');">
+         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
     <div class="hero-container">
         <h4 class="heading">A robust community change-making experience</h4>
     </div>
@@ -21,24 +21,26 @@
         </p>
 
 
-      <div class="lead-box lead-primary img-left my-4 mb-5">
-          <div class="lead-image">
-              <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png">
-          </div>
-          <div class="lead-content">
-              <h4 class="heading mb-1">EMPATHY PODCASTS</h4>
-              <hr>
-              <p>
-                  Help your students become empathic about a specific social issue,
-                  while learning the Design for Change methodology.
-              </p>
-              <p>
-                  Each podcast is aligned with a UN Global Goal and includes real interviews
-                  with people affected by that issue and changemakers making a difference.
-              </p>
-              <a class="btn btn-outline-light"
-                 href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
-          </div>
+    <div class="lead-box lead-primary img-left my-4 mb-5">
+        <div class="lead-image">
+            <img src="/dfcusa-web/app/webroot/img/ico_c_podcast.png">
+        </div>
+        <div class="lead-content">
+          <h4 class="heading mb-1">EMPATHY PODCASTS</h4>
+          <hr>
+          <p>
+              All lesson plans start with an Empathy Podcast.
+          </p>
+          <p>
+              These short podcasts help your students become empathic about a specific social issue,
+              while learning the Design for Change methodology.
+          </p>
+          <p>
+              Each podcast is aligned with a UN Global Goal and includes real interviews
+              with people affected by that issue and changemakers making a difference.
+          </p>
+          <a class="btn btn-outline-light" href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
+        </div>
       </div>
 
 

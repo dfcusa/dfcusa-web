@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/dfcusa-web/app/webroot/js/baraja/baraja.css" />
 
-<section class="hero with-background-image"
-         style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+<section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
     <h4 class="heading">Change starts with you.</h4>
   </div>
@@ -63,8 +62,8 @@
                   </li>
               </ul>
             </div>
-            <div class="col-8 pt-2 mr-0">
-              <ul id="podcasts" class="baraja-container" style="margin-left: 300px">
+            <div class="col-8 pt-0 mr-0">
+              <ul id="podcasts" class="baraja-container" style="margin-left: 280px">
               </ul>
             </div>
         </div>
@@ -331,6 +330,8 @@
         $('#podcasts').append(html);
       });
 
+      $('.sponsored[data-sponsor=""]').remove();
+
       var $el = $('#podcasts');
       window.baraja = $el.baraja();
 
@@ -382,7 +383,8 @@
         <div class="details">
           <span class="content"><b>Duration:</b> {{duration}}</span>
           <span class="content"><b>Difficulty:</b> {{difficulty}}</span>
-          <span class="content"><b>Sponsored By:</b> <a href="javascript:void(0)">{{sponsor_name}}</a></span>
+          <span class="content"><b>Global Goal:</b> {{global_goal}}</span>
+          <span class="content sponsored" data-sponsor="{{sponsor_name}}"><b>Sponsored By:</b> <a href="javascript:void(0)">{{sponsor_name}}</a></span>
         </div>
       </div>
       <a class="btn btn-primary btn-sm center play-podcast text-white" href="javascript:void(0)" data-audio="{{assets.audio}}">Play Preview</a>
