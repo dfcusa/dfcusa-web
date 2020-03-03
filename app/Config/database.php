@@ -78,7 +78,7 @@ class DATABASE_CONFIG {
 		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
 		'login'	 		=> 'root',
 		'password' 		=> 'designforchange',
-		'database' 		=> 'dfcusa_sprints',
+		'database' 		=> 'dfcusa_v4',
 		'prefix' 		=> '',
 		//'encoding' => 'utf8',
 	);
