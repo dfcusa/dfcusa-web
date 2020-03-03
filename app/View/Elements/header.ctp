@@ -1,6 +1,6 @@
 <header>
 
-    <div class="top-bar navbar navbar-expand-lg">
+    <div class="top-bar navbar navbar-expand-lg hide">
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
                 <div class="content">
