@@ -1,7 +1,6 @@
 .navbar{
   padding: 0.6rem 0;
-  text-transform: uppercase;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
 
   @include media-breakpoint-up(lg){
     padding: 1.5rem 0;
@@ -22,11 +21,17 @@
       text-align: right;
 
       @include media-breakpoint-up(lg) {
-        margin-left: 1.3rem;
+        margin-left: 0em;
+        margin-right: 2em;
+
+        &.short {
+          margin-left: 0.3em;
+          text-align: center;
+        }
       }
 
       &:first-child{
-        margin-left: 0;
+        margin-left: 1em;
       }
 
       &:hover, &.active{

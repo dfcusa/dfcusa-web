@@ -2352,7 +2352,7 @@ input[type="button"].btn-block {
   position: absolute;
   top: 100%;
   left: 0;
-  z-index: 1000;
+  z-index: 1000000;
   display: none;
   float: left;
   min-width: 10rem;

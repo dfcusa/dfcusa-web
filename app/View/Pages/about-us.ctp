@@ -23,8 +23,8 @@
             <div class="lead-content">
                 <p>DFC equips young people to transform empathy into social action using a simple framework. <br/>
                     Educators use DFC to facilitate a design process that fosters empathy and student agency. <br/>
-                    Students brainstorm, plan, and execute community change projects..</p>
-                <a class="btn btn-inverse-dark" href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
+                    Students brainstorm, plan, and execute community change projects.</p>
+                <a class="btn btn-inverse-dark hide" href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
             </div>
         </div>
 
@@ -101,7 +101,7 @@
                         webkitallowfullscreen="" width="400" height="385"></iframe>
             </div>
             <div class="col-md-6">
-                <h3 class="heading-secondary mb-3">The story of our founder, Kiran Bir Sethi</h3>
+                <h3 class="heading-secondary mb-3">The story of our founder,<br/>Kiran Bir Sethi</h3>
                 <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design
                     thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were
                     empowered, they could design a better world. Kiran partnered with leading experts from Stanford

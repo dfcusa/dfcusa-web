@@ -1,10 +1,10 @@
 <section class="hero">
 	<div class="hero-container">
-        <h1 class="heading">We Turn Empathy Into Action</h1>
+        <h1 class="heading">Turn Empathy Into Action</h1>
         <div class="hero-art">
             <img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="" class="img-fluid">
         </div>
-        <p class="lead">Join other educators helping over <em>1 million young people worldwide</em> positively impact their communities.
+        <p class="lead">Join other educators helping over <em>1 million young people worldwide</em><br/>positively impact their communities.
     </div>
 </section>
 
@@ -25,76 +25,26 @@
 </section>
 
 
-<section class="design-change">
+<section class="design-change reverse pb-5">
 	<div class="container">
 
-        <h2 class="heading">What is Design for Change?</h2>
-        <p class="lead">Our program engages young people about social causes that are relevant and meaningful to them. We use a simple four step framework:</p>
-
-        <div class="program-icons">
-
-            <div class="program-icon item-pink">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
-                <h4>Feel</h4>
-                <p>Build Empathy</p>
-            </div>
-
-            <div class="program-icon item-yellow">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
-                <h4>Imagine</h4>
-                <p>Brainstorm Ideas</p>
-            </div>
-
-            <div class="program-icon item-green">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
-                <h4>Do</h4>
-                <p>Implement Solutions</p>
-            </div>
-
-            <div class="program-icon item-blue">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
-                <h4>SHARE</h4>
-                <p>Inspire Others</p>
-            </div>
-
+        <div class="lead shadow-lg p-5 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
+            <h2 class="heading text-black">Activate young people to take action on social causes.</h2>
+            Connect students to social causes through podcasts and<br/>activities that support them in turning empathy into action.
+            <br/>
+            <button class="btn btn-success btn-md mt-4"><a href="/pages/how-it-works" class="text-white"><i class="fas fa-external-link"></i>&nbsp;&nbsp;Learn how it works</a></button>
         </div>
 
     </div>
 </section>
-
-<section class="apply-dfc mt-2 mb-5">
-    <div class="container">
-        <div class="lead-box lead-light img-right">
-            <div class="lead-image">
-                <img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="img" class="img-fluid">
-            </div>
-            <div class="lead-content">
-                <h3 class="heading">Global Goals&nbsp;</h3>
-                <p>Design for Change is aligned with the UN Sustainable Global Goals. Young people use
-                    the 17 Global Goals and the <a href="https://worldslargestlesson.globalgoals.org/" target="_new">World's
-                        Largest Lesson</a> to guide their projects and focus on high impact issues in their community.
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="latest-news">
-  <div class="container">
-    <h2 class="heading">Latest News & Updates</h2>
-    <div class="row news-posts"></div>
-  </div>
-</section>
-
 
 <section class="get-started text-white bg-success py-5 text-center">
 
 	<div class="container">
 
         <div class="get-started-head mb-5">
-            <h2>Our Content for Educators</h2>
-            <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>. You can then engage them on 3 different levels:</p>
+            <h2>Different Paths for Engaging</h2>
+            <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>.<br/>You then engage them on 3 different paths:</p>
         </div>
 
         <div class="get-started-inner">
@@ -163,6 +113,114 @@
     </div>
 </section>
 
+<section class="design-change">
+    <div class="container">
+        <p class="lead">Use a 4 step design framework to catalyze students to change their community and themselves:</p>
+
+        <div class="program-icons">
+
+            <div class="program-icon item-pink">
+                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
+                <h4>Feel</h4>
+                <p>Build Empathy</p>
+            </div>
+
+            <div class="program-icon item-yellow">
+                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
+                <h4>Imagine</h4>
+                <p>Brainstorm Ideas</p>
+            </div>
+
+            <div class="program-icon item-green">
+                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
+                <h4>Do</h4>
+                <p>Implement Solutions</p>
+            </div>
+
+            <div class="program-icon item-blue">
+                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
+                <h4>SHARE</h4>
+                <p>Inspire Others</p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<section class="apply-dfc mt-0 mb-5">
+    <div class="container">
+        <div class="lead-box lead-light img-right">
+            <div class="lead-image">
+                <img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="img" class="img-fluid">
+            </div>
+            <div class="lead-content">
+                <h3 class="heading">Design for Change...&nbsp;</h3>
+                <ul class="list-unstyled h6 font-weight-normal">
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Combines design thinking and service learning
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Includes a library of podcasts aligned to the UN Global Goals
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Is flexible and responsive to your context and can fit into in-school, after-school or outside of school environments
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Results in the development of key 21st Century skills including empathy, creativity, resourcefulness and collaboration
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="text-center hide">
+    <div class="row w-100 mx-auto text-center">
+        <div class="col-sm-8 mx-auto">
+            <div class="row align-items-stretch">
+                <div class="col-sm-6 mb-3">
+                    <div class="lead-box lead-orange lead-count py-3 h-100">
+                        <h1 class="num num-compressed">10,000 <span class="tiny">+</span></h1>
+                        <div class="small mb-0">students in the USA have changed their community in a
+                            positive way through Design for Change
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 mb-3">
+                    <div class="lead-box lead-light-blue lead-count py-3 h-100">
+                        <h1 class="num">91%</h1>
+                        <div class="small mb-0">of teachers surveyed report that DFC increased students'
+                            self-motivation to complete tasks and persist through obstacles
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 mb-3">
+                    <div class="lead-box lead-magenta lead-count py-3 h-100">
+                        <h1 class="num">91%</h1>
+                        <div class="small mb-0">surveyed report that DFC increased students' empathy for
+                            the experiences of others
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 mb-3">
+                    <div class="lead-box lead-primary lead-count py-3 h-100">
+                        <h1 class="num">89%</h1>
+                        <div class="small mb-0">surveyed report that DFC increased students' engagement
+                            with problem-solving for their schools or communities*
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="cta py-5 cta-begin">
     <div class="container my-3">
         <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
@@ -172,6 +230,13 @@
         </div>
         <a class="btn btn-inverse-secondary btn-lg" href="/pages/stories">SEE REAL PROJECTS</a>
     </div>
+</section>
+
+<section class="latest-news">
+  <div class="container">
+    <h2 class="heading">Latest News & Updates</h2>
+    <div class="row news-posts"></div>
+  </div>
 </section>
 
 <section class="reviews">
