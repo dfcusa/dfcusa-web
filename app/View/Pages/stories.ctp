@@ -70,7 +70,7 @@
     </div>
 </section>
 
-<section class="page-content">
+<section class="page-content hide">
     <div class="container">
         <div class="p-4 mb-5">
             <h3 class="heading w-100 text-center pb-5">OUR IMPACT</h3>
