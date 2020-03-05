@@ -9,7 +9,7 @@
     <div class="container">
 
         <div class="heading mb-5">
-            <h2 class="heading-secondary">Stories of Change from Around the Country</h2>
+            <h2 class="heading-secondary">Our Impact Around The Country</h2>
             <p>Do you believe that... 3rd graders can shut down a drug house? 5th graders can create a pipeline between
                 farmers and food deserts? High school students can increase support for mental health at their school?
                 We do.</p>
@@ -62,6 +62,61 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="page-content">
+    <div class="container">
+        <div class="p-4 mb-5">
+            <h3 class="heading w-100 text-center pb-5">OUR IMPACT</h3>
+            <div class="row">
+                <div class="col-6">
+                    <div class="m-3">
+                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
+                        <div class="float-left w-50">
+                            <strong>Students realized empathy is the key to action</strong><br/>
+                            Students learned to seek the root cause of local issues by listening to the voices of those closest to the problem.
+                        </div>
+                    </div>
+
+                    <div class="m-3">
+                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
+                        <div class="float-left w-50">
+                            <strong>Students learned skills to create change</strong><br/>
+                            Teachers reported students improve in their ability to work as a team, to listen to one another, and to adjust to and persist through obstacles.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="m-3">
+                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
+                        <div class="float-left w-50">
+                            <strong>Students felt a sense of agency</strong><br/>
+                            Teachers reported that participating in DFC unleashes passion and unlocks potential in students, who come to see themselves as real agents of change.
+                        </div>
+                    </div>
+
+                    <div class="m-3">
+                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>4</strong></div>
+                        <div class="float-left w-50">
+                            <strong>Impact was transformative and long lasting</strong><br/>
+                            Teachers reported that the skills learned by students transcend their involvement with DFC and allowed young people to improve relationships, schoolwork, and their view of themselves.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="m-3">
+                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>5</strong></div>
+                        <div class="float-left w-75">
+                            <strong>Students found meaning in their education</strong><br/>
+                            Teachers reported that students discover new motivation for their education after seeing real-world applications of skills applied through DFC projects such as reading, critical reasoning, argumentation, research, and math.
                         </div>
                     </div>
                 </div>

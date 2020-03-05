@@ -2,6 +2,8 @@
 	<div class="hero-container">
         <h1 class="heading">Turn Empathy Into Action</h1>
         <div class="hero-art">
+            <img class="hide-mobile accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
+            <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
             <img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="" class="img-fluid">
         </div>
         <p class="lead">Join other educators helping over <em>1 million young people worldwide</em><br/>positively impact their communities.
@@ -38,10 +40,25 @@
     </div>
 </section>
 
+<div class="cta cta-interested p-0">
+  <div class="container">
+    <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png">
+    <div class="row w-75 mx-auto">
+        <div class="col-lg-3 mr-3 ml-5">
+            <h1 class="num" style="font-size: 6.5em">91%</h1>
+        </div>
+        <div class="col-lg-6 mt-4 text-left ml-5">
+            of teachers surveyed report that Design for Change <b>increased students' self-motivation to complete tasks and persist through obstacles.</b>
+        </div>
+    </div>
+  </div>
+</div>
+
 <section class="get-started text-white bg-success py-5 text-center">
 
 	<div class="container">
 
+        <img src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" class="accent-yellowcircle">
         <div class="get-started-head mb-5">
             <h2>Different Paths for Engaging</h2>
             <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>.<br/>You then engage them on 3 different paths:</p>
@@ -115,6 +132,7 @@
 
 <section class="design-change">
     <div class="container">
+        <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars">
         <p class="lead">Use a 4 step design framework to catalyze students to change their community and themselves:</p>
 
         <div class="program-icons">
@@ -160,7 +178,7 @@
                 <ul class="list-unstyled h6 font-weight-normal">
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Combines design thinking and service learning
+                        Combines design thinking and doing good
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -241,7 +259,7 @@
 
 <section class="reviews">
     <div class="container">
-
+        <img class="accent-heart hide-mobile" src="/dfcusa-web/app/webroot/img/accent_heart.png">
         <h2 class="text-secondary text-center mb-5 font-weight-bolder">What do educators think?</h2>
 
         <div class="row">
@@ -300,6 +318,7 @@
 </section>
 
 <div class="cta cta-interested mt-3">
+    <img class="accent-speech hide-mobile" src="/dfcusa-web/app/webroot/img/accent_speech.png">
   <div class="container">
       <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
       <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>

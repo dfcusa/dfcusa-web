@@ -2597,7 +2597,7 @@ input[type="button"].btn-block {
 
 .dropdown-menu {
   position: absolute;
-  top: 100%;
+  top: 80%;
   left: 0;
   z-index: 1000000;
   display: none;
@@ -8946,6 +8946,9 @@ a.text-dark-green:hover, a.text-dark-green:focus {
     @media (min-width: 992px) {
       .cta-ending .heading {
         font-size: 1.8rem; } }
+  .cta-ending.reverse {
+    background: #effcff;
+    background: linear-gradient(white 0%, #02c2ed 100%); }
   @media (max-width: 767.98px) {
     .cta-ending .btn {
       font-size: 0.8rem; } }
@@ -9261,6 +9264,51 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   box-shadow: rgba(52, 58, 64, 0.4) 0 3px 5px;
   max-width: 160px;
   margin: 0 auto; }
+
+.cta-interested {
+  position: relative; }
+  .cta-interested .accent-exclamation {
+    position: absolute;
+    left: 100px;
+    top: 15px; }
+  .cta-interested .accent-speech {
+    position: absolute;
+    right: 100px;
+    bottom: -20px;
+    z-index: 1; }
+
+.reviews {
+  position: relative; }
+  .reviews .accent-heart {
+    position: absolute;
+    right: 0px;
+    top: 47px;
+    z-index: 99999; }
+
+.get-started {
+  position: relative; }
+  .get-started .accent-yellowcircle {
+    position: absolute;
+    left: 0px;
+    top: 40px; }
+
+.hero-art {
+  position: relative; }
+  .hero-art .accent-star {
+    position: absolute;
+    right: -500px;
+    top: -200px; }
+  .hero-art .accent-arrow {
+    position: absolute;
+    bottom: -90px;
+    left: -200px; }
+
+.design-change {
+  position: relative; }
+  .design-change .accent-3greenstars {
+    position: absolute;
+    top: 50px;
+    left: 0px; }
 
 @media (max-width: 767px) {
   .hide-mobile {

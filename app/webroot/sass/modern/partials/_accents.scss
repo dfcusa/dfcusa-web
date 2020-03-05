@@ -1,0 +1,63 @@
+.cta-interested {
+  position: relative;
+
+  .accent-exclamation {
+    position: absolute;
+    left: 100px;
+    top: 15px;
+  }
+
+  .accent-speech {
+    position: absolute;
+    right: 100px;
+    bottom: -20px;
+    z-index: 1;
+  }
+}
+
+.reviews {
+  position: relative;
+
+  .accent-heart {
+    position: absolute;
+    right: 0px;
+    top: 47px;
+    z-index: 99999;
+  }
+}
+
+.get-started {
+  position: relative;
+
+  .accent-yellowcircle {
+    position: absolute;
+    left: 0px;
+    top: 40px;
+  }
+}
+
+.hero-art {
+  position: relative;
+
+  .accent-star {
+    position: absolute; 
+    right: -500px; 
+    top: -200px;
+  }
+
+  .accent-arrow {
+    position: absolute; 
+    bottom: -90px; 
+    left: -200px;
+  }
+}
+
+.design-change {
+  position: relative;
+
+  .accent-3greenstars {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+  }
+}

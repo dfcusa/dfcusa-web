@@ -10,6 +10,11 @@
     }
   }
 
+  &.reverse {
+    background: lighten($theme-light-blue, 50%);
+    background: linear-gradient(lighten($white, 45%) 0%, $theme-light-blue 100%);    
+  }
+
   .btn{
 
     @include media-breakpoint-down(sm){

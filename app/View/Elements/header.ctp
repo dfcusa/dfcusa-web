@@ -38,7 +38,7 @@
                     <li class="nav-item d-md-none">
                         <a class="nav-link" href="/">Home</a>
                     </li>
-                    <li class="nav-item dropdown <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_GET['nav'], 'get-started') > -1)) { ?>active<?php } ?>">
+                    <li class="nav-item dropdown <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link dropdown-toggle" data-toggle="get-started" href="#" target="_parent">Our Program</a>
                         <div class="dropdown-menu">
                           <a class="dropdown-item" href="/pages/how-it-works">How It Works</a>
