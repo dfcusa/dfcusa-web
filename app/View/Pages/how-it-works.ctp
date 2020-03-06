@@ -114,6 +114,27 @@
                 </ol>
             </div>
         </div>
+
+        <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
+            <div class="lead-content">
+                <div class="row align-items-center">
+                    <div class="col-md-4 order-md-last px-md-5">
+                        <img src="/dfcusa-web/app/webroot/img/pic_share.png" class="img-fluid mb-md-0 w-100" alt="img">
+                    </div>
+                    <div class="col-md-8">
+                        <h3 class="heading text-uppercase mb-1">Why Design Thinking?</h3>
+                        <hr>
+                        <p>
+                            After years of experience in education and design, we know that students have the capacity to make immediate change in their communities and that design thinking provides a framework for driving that change. Through innovative and collaborative design experiences, students apply critical thinking and creative problem-solving. 
+                        </p>
+                        <div class="mt-4">
+                            <a class="btn btn-outline-light text-uppercase"
+                               href="/dfcusa-web/pages/get-starteddesign-thinking-classroom">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
   </div>
 </section>
 
@@ -288,4 +309,3 @@
         <a class="btn btn-secondary btn-lg" href="/pages/get-started">GET STARTED</a>
     </div>
 </section>
-

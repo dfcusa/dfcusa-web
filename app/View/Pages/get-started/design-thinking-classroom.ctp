@@ -10,7 +10,7 @@
 
         <h2 class="heading-secondary">Why Design Thinking?</h2>
         <p>After years of experience in education and design, we know that students have the capacity to make immediate change in their communities and that design thinking provides a framework for driving that change. Through innovative and collaborative design experiences, students apply critical thinking and creative problem-solving. </p>
-        <p>At Design for Change, we equip educators like you to bring the design process to students. Let’s explore some of the basics of design thinking and what it can look like in a classroom:</p>
+        <p>At Design for Change, we equip educators like you to bring the design process to students. Let's explore some of the basics of design thinking and what it can look like in a classroom:</p>
 
         <table class="number-list my-4">
             <tr>
@@ -72,7 +72,6 @@
                     <br><br><strong>Design thinking fosters changemaking.</strong> Through design thinking, educators and students have the tools to investigate social challenges and create meaningful change in their local community.
                     <br><br>Create a classroom of student-driven changemaking.
                 </p>
-                <a class="btn btn-secondary" href="javascript:showMailingPopUp()">DOWNLOAD THE TOOLKIT</a>
             </div>
         </div>
 
@@ -127,18 +126,4 @@
 <div class="py-4">
     <hr class="my-5">
 </div>
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
-
-<script type="text/javascript">
-  function showMailingPopUp() {
-    if ($.cookie('MCPopupSubscribed')) {
-      window.open('http://www.designforchange.us/dfcusa-web/app/webroot/files/Design%20for%20Change%20USA%20-%20Getting%20Started%20Poster.pdf');
-    } else {
-      $.removeCookie('MCPopupClosed', { path: '/' });
-      window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"e163a23026","uniqueMethods":true}) });      
-    }
-  }
-</script>
-
 <?php echo $this->element('newsletter'); ?>

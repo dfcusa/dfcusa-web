@@ -66,11 +66,13 @@
 <?php echo $this->element('footer'); ?>
 
 <script>
-  if ($.cookie('user')) {
-  	$('.my-projects-nav').removeClass('hide');
-  } else {
-  	$('.login-nav').removeClass('hide');
-  }
+  $( document ).ready(function() {
+    $('.user-profile,.profile-nav-dropdown').hover(function() {
+      $('.profile-nav-dropdown').show();
+    }, function() {
+      $('.profile-nav-dropdown').hide();
+    });
+  });
 </script>
 </body>
 </html>

@@ -387,7 +387,7 @@
           <span class="content sponsored" data-sponsor="{{sponsor_name}}"><b>Sponsored By:</b> <a href="javascript:void(0)">{{sponsor_name}}</a></span>
         </div>
       </div>
-      <a class="btn btn-primary btn-sm center play-podcast text-white" href="javascript:void(0)" data-audio="{{assets.audio}}">Play Preview</a>
+      <a class="btn btn-primary btn-sm center play-podcast text-white" href="javascript:void(0)" data-audio="{{audio}}">Play Preview</a>
       <div class="sponsor-logo"><img src="{{sponsor_logo}}"/></div>
     </div>
   </li>

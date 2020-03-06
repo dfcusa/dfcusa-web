@@ -4,12 +4,14 @@
             <div class="row">
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
-                        <h4>OUR SERVICES</h4>
-                        <a href="/pages/get-started/design-thinking-classroom">In Your Classroom</a>
-                        <a href="/pages/get-started/workshops">Workshops</a>
-                        <a href="/pages/get-started/coaching">Coaching</a>
-                        <a href="/pages/impact">Our Impact</a>
-                        <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>
+                        <h4>OUR PROGRAM</h4>
+                        <a href="/pages/how-it-works">How It Works</a>
+                        <a href="/pages/get-started">Get Started</a>
+                        <a href="/dfcusa-pm/podcasts">Social Causes</a>
+                        <a href="/pages/get-started/empathy-warmups">Empathy Warmups</a>
+                        <a href="/pages/get-started/design-sprints">Design Sprints</a>
+                        <a href="/pages/get-started/community-action">Community Action</a>
+                        <a href="/dfcusa-pm/activities">Activities</a>
                     </div>
                 </div>
                 <div class="col-md-2 col-lg-2">
@@ -21,13 +23,12 @@
                 </div>
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
-                        <h4>OUR PROGRAM</h4>
-                        <a href="/pages/how-it-works">Methodology</a>
-                        <a href="/pages/get-started">Get Started</a>
-                        <a href="/pages/get-started/empathy-warmups">Empathy Warmups</a>
-                        <a href="/pages/get-started/design-sprints">Design Sprints</a>
-                        <a href="/pages/get-started/community-action">Community Action</a>
-                        <a href="/dfcusa-pm/activities">Activities</a>
+                        <h4>OUR SERVICES</h4>
+                        <a href="/pages/get-started/design-thinking-classroom">In Your Classroom</a>
+                        <a href="/pages/get-started/workshops">Workshops</a>
+                        <a href="/pages/get-started/coaching">Coaching</a>
+                        <a href="/pages/impact">Our Impact</a>
+                        <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-2">
@@ -48,8 +49,8 @@
                         <h4>CONTACT</h4>
                         <a href="/pages/contact-us">Contact Us</a>
                         <a href="mailto:info@designforchange.us">info@designforchange.us</a>
-                        <a href="#">6 Liberty Square #2339</a>
-                        <a href="#">Boston, MA 02109 USA</a>
+                        <p>6 Liberty Square #2339
+                        Boston, MA 02109 USA</p>
                     </div>
                 </div>
             </div>
