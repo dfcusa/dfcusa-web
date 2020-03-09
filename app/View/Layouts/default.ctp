@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
   <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/lity.min.css">
   <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
-  <link rel="stylesheet" href="/dfcusa-pm/app/webroot/css/dfcusa_podcast_portal.css?ref=v3.7">
+  <link rel="stylesheet" href="/dfcusa-pm/app/webroot/css/dfcusa_podcast_portal.css?ref=v4.01">
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
