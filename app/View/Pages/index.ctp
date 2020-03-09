@@ -18,7 +18,6 @@
           <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png"></a></div>
           <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg"></a></div>
           <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg"></a></div>
-          <div class="logo"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_teach4america.svg"></a></div>
           <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png"></a></div>
           <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png"></a></div>
           <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png"></a></div>
@@ -244,9 +243,16 @@
         <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
         <div class="mb-4">
             <h2 class="heading text-secondary">Need to see it in action?</h2>
-            <p>Check out some inspiring stories to get a feel for how it works.</p>
+            <p>Thousands of organizations are using Design for Change today... here are just a few:</p>
         </div>
-        <a class="btn btn-inverse-secondary btn-lg" href="/pages/stories">SEE REAL PROJECTS</a>
+        <div class="customer_logos pt-3 pb-2">
+            <div class="logo mt-2"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/tfa.png"></a></div>
+            <div class="logo"><a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/tstnfp.png"></a></div>
+            <div class="logo"><a href="https://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/higherachievement.png"></a></div>
+            <div class="logo"><a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/galileo.png"></a></div>
+            <div class="logo"><a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/ysa.png"></a></div>
+        </div>
+        <a class="btn btn-inverse-secondary btn-lg mt-3" href="/pages/stories">SEE REAL PROJECTS</a>
     </div>
 </section>
 

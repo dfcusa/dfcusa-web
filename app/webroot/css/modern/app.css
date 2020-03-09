@@ -8812,8 +8812,21 @@ a.text-dark-green:hover, a.text-dark-green:focus {
         height: 100%; }
       .logo-list .logos .logo img {
         display: block;
-        width: 75px;
+        width: 100px;
         height: auto; }
+
+.customer_logos {
+  margin: 1.2rem 0 1rem;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: wrap; }
+  .customer_logos .logo {
+    padding: 0.6rem 1.5rem; }
+    .customer_logos .logo img {
+      display: block;
+      max-width: 150px;
+      height: auto; }
 
 .design-change {
   background: #0096db;

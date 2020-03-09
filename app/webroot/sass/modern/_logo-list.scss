@@ -50,10 +50,28 @@
 
       img{
         display: block;
-        width: 75px;
+        width: 100px;
         height: auto;
       }
     }
   }
 
+}
+ 
+.customer_logos{
+  margin: 1.2rem 0 1rem;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .logo{
+    padding: 0.6rem 1.5rem;
+ 
+    img{
+      display: block;
+      max-width: 150px;
+      height: auto;
+    }
+  }
 }
