@@ -86,6 +86,16 @@
   <a href="/pages/donate">Donate</a>
 </div>
 
+<?php if ($_GET['title'] != '') { ?>
+
+  <section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
+      <div class="hero-container">
+          <h4 class="heading"><?php if ($_GET['title'] != '') { echo $_GET['title']; } else {?>What's New<?php } ?></h4>
+      </div>
+  </section>
+
+<?php } ?>
+
 <script type="text/javascript">
   $( document ).ready(function() {
     $('.dropdown').hover(function() {
