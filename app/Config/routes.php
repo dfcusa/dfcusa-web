@@ -46,6 +46,9 @@
  * ...and connect the rest of 'Pages' controller's urls.
  */
 
+	Router::connect('/pages/raw/header', array('controller' => 'pages', 'action' => 'rawHeader'));
+	Router::connect('/pages/raw/footer', array('controller' => 'pages', 'action' => 'rawFooter'));
+
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 
 /**
