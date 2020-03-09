@@ -129,7 +129,7 @@
                         </p>
                         <div class="mt-4">
                             <a class="btn btn-outline-light text-uppercase"
-                               href="/dfcusa-web/pages/get-starteddesign-thinking-classroom">Learn More</a>
+                               href="/pages/get-started/design-thinking-classroom">Learn More</a>
                         </div>
                     </div>
                 </div>
