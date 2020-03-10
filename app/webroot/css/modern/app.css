@@ -8668,7 +8668,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
 
 .navbar {
   padding: 0.6rem 0;
-  font-size: 1.1rem; }
+  font-size: 1rem; }
   @media (min-width: 992px) {
     .navbar {
       padding: 1.5rem 0; } }
@@ -8695,7 +8695,8 @@ a.text-dark-green:hover, a.text-dark-green:focus {
 .navbar-expand-lg .login-nav {
   border-top: rgba(52, 58, 64, 0.3) solid 1px;
   margin-left: 1rem;
-  border: none; }
+  border: none;
+  margin-top: -5px; }
   .navbar-expand-lg .login-nav .user-profile {
     font-size: 1.5em; }
   .navbar-expand-lg .login-nav .nav-link {
@@ -8802,7 +8803,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
       .logo-list .logos.logo-large .logo:nth-child(5) {
         border-right: none; } }
     .logo-list .logos .logo {
-      padding: 0.6rem 1.5rem;
+      padding: 0.6rem 1rem;
       border-right: #dee2e6 solid 1px; }
       .logo-list .logos .logo:last-child {
         border-right: none; }
@@ -8822,7 +8823,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   justify-content: center;
   flex-wrap: wrap; }
   .customer_logos .logo {
-    padding: 0.6rem 1.5rem; }
+    padding: 0.6rem 0.5rem; }
     .customer_logos .logo img {
       display: block;
       max-width: 150px;

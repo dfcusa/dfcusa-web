@@ -1,6 +1,6 @@
 .navbar{
   padding: 0.6rem 0;
-  font-size: 1.1rem;
+  font-size: 1rem;
 
   @include media-breakpoint-up(lg){
     padding: 1.5rem 0;
@@ -51,6 +51,7 @@
     border-top: rgba($dark, 0.3) solid 1px;
     margin-left: 1rem;
     border: none;
+    margin-top: -5px;
 
     .user-profile {
       font-size: 1.5em;
