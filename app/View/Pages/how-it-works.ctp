@@ -84,31 +84,43 @@
         <div class="p-4 mb-5">
             <h3 class="heading w-100 text-center pb-5">What We Do For You</h3>
             <div class="lead-content mr-5">
-                <ol class="list-group w-75 mx-auto">
+                <ol class="list-group w-100 mx-auto">
                     <li class="list-unstyled mb-5">
-                        <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
-                        <div class="float-right w-75">
-                            <strong>We elevate the work of educators:</strong><br/>
-                            Because we believe educators are designers, Design for Change equips all educators
-                            to be leaders in the design thinking process and provides them with tools, resources,
-                            training, and coaching in the DFC methodology.
+                        <div class="row">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
+                            </div>
+                            <div class="col">
+                                <strong>We elevate the work of educators:</strong><br/>
+                                Because we believe educators are designers, Design for Change equips all educators
+                                to be leaders in the design thinking process and provides them with tools, resources,
+                                training, and coaching in the DFC methodology.
+                            </div>
                         </div>
                     </li>
                     <li class="list-unstyled mb-5">
-                        <div class="big_number bg-primary border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
-                        <div class="float-right w-75">
-                            <strong>We support student-driven social impact:</strong><br/>
-                            Educators facilitate each stage of the Feel, Imagine, Do, Share process, enabling
-                            students to respond and take action on a local issue they are passionate about.
+                        <div class="row">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-primary border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
+                            </div>
+                            <div class="col">
+                                <strong>We support student-driven social impact:</strong><br/>
+                                Educators facilitate each stage of the Feel, Imagine, Do, Share process, enabling
+                                students to respond and take action on a local issue they are passionate about.
+                            </div>
                         </div>
                     </li>
-                    <li class="list-unstyled mb-2 mt-4">
-                        <div class="big_number bg-warning border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
-                        <div class="float-right w-75">
-                            <strong>We connect you and your students to a global network:</strong><br/>
-                            By participating in Design for Change, students join a coalition of young people
-                            creating social change around the world by designing solutions to address the
-                            <a href="https://globalgoals.org" target="_new">UN Global Goals.</a>
+                    <li class="list-unstyled mb-2 mt-0">
+                        <div class="row">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-warning border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
+                            </div>
+                            <div class="col">                     
+                                <strong>We connect you and your students to a global network:</strong><br/>
+                                By participating in Design for Change, students join a coalition of young people
+                                creating social change around the world by designing solutions to address the
+                                <a href="https://globalgoals.org" target="_new">UN Global Goals.</a>
+                            </div>
                         </div>
                     </li>
                 </ol>
@@ -118,7 +130,7 @@
         <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
             <div class="lead-content">
                 <div class="row align-items-center">
-                    <div class="col-md-4 order-md-last px-md-5">
+                    <div class="col-md-4 order-md-last px-md-5 pb-4">
                         <img src="/dfcusa-web/app/webroot/img/pic_share.png" class="img-fluid mb-md-0 w-100" alt="img">
                     </div>
                     <div class="col-md-8">
