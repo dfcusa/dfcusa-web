@@ -9315,7 +9315,11 @@ a.text-dark-green:hover, a.text-dark-green:focus {
 
 @media (max-width: 767px) {
   .hide-mobile {
-    display: none !important; } }
+    display: none !important; }
+
+  .force-full-size {
+    max-width: 100% !important;
+    flex: 1; } }
 .hide {
   display: none !important; }
 

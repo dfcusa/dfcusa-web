@@ -39,7 +39,7 @@
     </div>
 </section>
 
-<div class="cta cta-interested p-0">
+<div class="cta cta-interested p-3 hide-mobile">
   <div class="container">
     <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png">
     <div class="row w-75 mx-auto">
@@ -57,7 +57,7 @@
 
 	<div class="container">
 
-        <img src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" class="accent-yellowcircle">
+        <img src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" class="accent-yellowcircle hide-mobile">
         <div class="get-started-head mb-5">
             <h2>Different Paths for Engaging</h2>
             <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>.<br/>You then engage them on 3 different paths:</p>
@@ -131,7 +131,7 @@
 
 <section class="design-change">
     <div class="container">
-        <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars">
+        <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars hide-mobile">
         <p class="lead">Use a 4 step design framework to catalyze students to change their community and themselves:</p>
 
         <div class="program-icons">
@@ -192,47 +192,6 @@
                         Results in the development of key 21st Century skills including empathy, creativity, resourcefulness and collaboration
                     </li>
                 </ul>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="text-center hide">
-    <div class="row w-100 mx-auto text-center">
-        <div class="col-sm-8 mx-auto">
-            <div class="row align-items-stretch">
-                <div class="col-sm-6 mb-3">
-                    <div class="lead-box lead-orange lead-count py-3 h-100">
-                        <h1 class="num num-compressed">10,000 <span class="tiny">+</span></h1>
-                        <div class="small mb-0">students in the USA have changed their community in a
-                            positive way through Design for Change
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 mb-3">
-                    <div class="lead-box lead-light-blue lead-count py-3 h-100">
-                        <h1 class="num">91%</h1>
-                        <div class="small mb-0">of teachers surveyed report that DFC increased students'
-                            self-motivation to complete tasks and persist through obstacles
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 mb-3">
-                    <div class="lead-box lead-magenta lead-count py-3 h-100">
-                        <h1 class="num">91%</h1>
-                        <div class="small mb-0">surveyed report that DFC increased students' empathy for
-                            the experiences of others
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 mb-3">
-                    <div class="lead-box lead-primary lead-count py-3 h-100">
-                        <h1 class="num">89%</h1>
-                        <div class="small mb-0">surveyed report that DFC increased students' engagement
-                            with problem-solving for their schools or communities*
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>

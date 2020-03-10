@@ -30,7 +30,7 @@
         </h4>
 
         <div class="row">
-            <div class="col-4 pt-3">
+            <div class="col-4 pt-3 force-full-size">
               <ul class="list-unstyled h6 font-weight-normal">
                   <li class="mb-3 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -62,7 +62,7 @@
                   </li>
               </ul>
             </div>
-            <div class="col-8 pt-0 mr-0">
+            <div class="col-8 pt-0 mr-0 hide-mobile">
               <ul id="podcasts" class="baraja-container" style="margin-left: 280px">
               </ul>
             </div>

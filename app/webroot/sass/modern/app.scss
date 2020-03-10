@@ -37,6 +37,11 @@
 	.hide-mobile {
 		display: none !important;
 	}
+
+	.force-full-size {
+		max-width: 100% !important;
+		flex: 1;
+	}
 }
 
 .hide {
