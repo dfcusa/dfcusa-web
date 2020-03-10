@@ -39,7 +39,7 @@
                         <a class="nav-link dropdown-toggle" data-toggle="get-started" href="#" target="_parent">Our Program</a>
                         <div class="dropdown-menu">
                           <a class="dropdown-item" href="/pages/how-it-works">How It Works</a>
-                          <a class="dropdown-item" href="/dfcusa-pm/podcasts">Social Causes</a>
+                          <a class="dropdown-item" href="/pages/podcasts">Social Causes</a>
                           <a class="dropdown-item" href="/pages/get-started">Getting Started</a>
                         </div>
                     </li>
