@@ -318,7 +318,7 @@
   }
 
   $(function() {
-    $.get("/dfcusa-pm/api/podcasts", function(data) {
+    $.get("/dfcusa-web/app/webroot/assets/podcasts.json", function(data) {
       var i = 0;
       shuffle = (array) => array.sort(() => Math.random() - 0.5);
       shuffle(data);
