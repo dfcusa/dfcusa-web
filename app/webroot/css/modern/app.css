@@ -8668,7 +8668,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
 
 .navbar {
   padding: 0.6rem 0;
-  font-size: 1rem; }
+  font-size: 1.1rem; }
   @media (min-width: 992px) {
     .navbar {
       padding: 1.5rem 0; } }
@@ -9320,6 +9320,9 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   .force-full-size {
     max-width: 100% !important;
     flex: 1; } }
+@media (max-width: 1024px) {
+  .navbar {
+    font-size: 1em; } }
 .hide {
   display: none !important; }
 
