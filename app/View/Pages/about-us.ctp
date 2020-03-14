@@ -275,7 +275,7 @@
                             <a class="text-decoration-none"
                                href="https://www.linkedin.com/in/krista-brinchek-p-g-m-a-t-229a6947/"
                                target="_blank">
-                                <i class="fas fa-linkedin mr-1"></i> More Info
+                                <i class="fab fa-linkedin mr-1"></i> More Info
                             </a>
                         </div>
                     </div>

@@ -72,7 +72,7 @@
       }
     });
 
-    $.get("/dfcusa-web/app/webroot/assets/podcasts.json", function(data) {
+    $.get("https://dfc-podcasts.s3.amazonaws.com/podcasts.json", function(data) {
       _.each(data, function(podcast) {
         var template = Handlebars.compile($('#podcastCatalogCard').html());
         var html = template(podcast);
