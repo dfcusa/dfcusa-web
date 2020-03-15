@@ -27,7 +27,11 @@
   </section>
 
 <script type="text/mustache-template" id="podcastCatalogCard">
-  <div class="col-lg-4">
+  <div class="col-lg-4 podcast-col">
+    {{#if_datelessthandays published 30}}
+      <div class="podcast-new"><img src="/dfcusa-pm/app/webroot/img/ico_new.png"></div>
+    {{/if_datelessthandays}}
+
     <div class="card podcast-block extended">
       <div class="global-goal"><img src="{{global_goal_image}}"></div>
       <div class="podcast-img" style="background-image: url('{{picture}}'); background-size: 100%; background-repeat: no-repeat"></div>
@@ -66,6 +70,18 @@
 
     Handlebars.registerHelper('if_notempty', function(a, opts) {
       if (((a != null) && (a != '') && (a != 'false') && (a != undefined) && (a != false) && (a != '"[]"')) || (a == '0.00')) {
+        return opts.fn(this);
+      } else {
+        return opts.inverse(this);
+      }
+    });
+
+    Handlebars.registerHelper('if_datelessthandays', function(a, b, opts) {
+      now = moment(new Date());
+      end = moment.unix(a);
+      duration = moment.duration(now.diff(end));
+      days = duration.asDays();
+      if (days <= b) {
         return opts.fn(this);
       } else {
         return opts.inverse(this);
