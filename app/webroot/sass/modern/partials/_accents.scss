@@ -1,17 +1,29 @@
 .cta-interested {
   position: relative;
+  overflow: hidden;
 
   .accent-exclamation {
     position: absolute;
     left: 100px;
-    top: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .container{
+    position: relative;
   }
 
   .accent-speech {
     position: absolute;
-    right: 100px;
-    bottom: -20px;
+    bottom: 0;
     z-index: 1;
+    right: 0;
+    transform: translateX(40%) translateY(55%) scale(0.8);
+
+    @include media-breakpoint-up(lg){
+      right: 0;
+      transform: translateX(50%) translateY(35%);
+    }
   }
 }
 
@@ -29,6 +41,12 @@
 .get-started {
   position: relative;
 
+  &-head{
+    position: relative;
+    z-index: 10;
+    text-shadow: rgba(black, 0.1) 1px 1px 2px;
+  }
+
   .accent-yellowcircle {
     position: absolute;
     left: 0px;
@@ -36,14 +54,26 @@
   }
 }
 
-.hero-art {
+.hero{
   position: relative;
+  overflow: hidden;
 
   .accent-star {
-    position: absolute; 
-    right: -500px; 
-    top: -200px;
+    position: absolute;
+    right: 0;
+    top: -30px;
+    transform: translateX(50%);
+
+    @include media-breakpoint-up(md){
+      right: 10px;
+      transform: none;
+    }
   }
+
+}
+
+.hero-art {
+  position: relative;
 
   .accent-arrow {
     position: absolute; 

@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="container">
         <div class="footer-top">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
                         <h4>OUR PROGRAM</h4>

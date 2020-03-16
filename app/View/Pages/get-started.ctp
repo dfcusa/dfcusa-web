@@ -22,50 +22,56 @@
     </div>
 </section>
 
+
+<hr class="my-5">
+
 <section class="page-content pb-2">
     <div class="container">
-        <h3 class="h4 mt-3 pt-4 mb-2">FIRST YOU...</h3>
-        <h4 class="h5 mb-4 font-weight-normal">
-            Choose a podcast that interests your students:
-        </h4>
 
-        <div class="row">
-            <div class="col-4 pt-3 force-full-size">
-              <ul class="list-unstyled h6 font-weight-normal">
-                  <li class="mb-3 d-flex align-items-center">
+        <div class="text-center">
+            <h3 class="h4 mt-3 pt-2 mb-2">FIRST YOU...</h3>
+            <h4 class="h5 mb-4 font-weight-normal">
+                Choose a podcast that interests your students:
+            </h4>
+        </div>
+
+        <div class="row mb-5">
+            <div class="col-12 pt-3 force-full-size">
+              <ul class="row list-unstyled h6 font-weight-normal">
+                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       Each podcast delves into a specific social issue
                   </li>
-                  <li class="mb-3 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       Includes real interviews with youth
                   </li>
-                  <li class="mb-3 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       Under 10 minutes each
                   </li>
-                  <li class="mb-3 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       Include visuals to guide the listener along
                   </li>
-                  <li class="mb-4 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       Each podcast is aligned with a UN Sustainable Global Goal
                   </li>
-                  <li class="mb-4 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       New episodes are added every month
                   </li>
-                  <li class="mb-4 d-flex align-items-center">
+                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
                       <i class="fas fa-check-circle fa-2x mr-3"></i>
                       <a href="/dfcusa-web/podcasts">See full library of podcasts</a>
                   </li>
               </ul>
             </div>
-            <div class="col-8 pt-0 mr-0 hide-mobile">
-              <ul id="podcasts" class="baraja-container" style="margin-left: 280px">
-              </ul>
-            </div>
+<!--            <div class="col-8 pt-0 mr-0 hide-mobile">-->
+<!--              <ul id="podcasts" class="baraja-container" style="margin-left: 280px">-->
+<!--              </ul>-->
+<!--            </div>-->
         </div>
     </div>
 </section>
@@ -74,18 +80,20 @@
   <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
     <div class="container">
 
-        <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
-        <h4 class="h5 mb-4 font-weight-normal">
-          Facilitate a lesson plan with your students that fits your time availability and classroom environment:
-        </h4>
+        <div class="text-center">
+            <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
+            <h4 class="h5 mb-4 font-weight-normal">
+                Facilitate a lesson plan with your students that fits your time availability and classroom environment:
+            </h4>
+        </div>
         
         <div class="get-started-inner">
             <div class="row">
 
                 <div class="col-lg-4">
-                    <div class="lead-box lead-light-blue img-center text-center">
+                    <div class="lead-box lead-light-blue lead-offsetted img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit_square.png" alt="">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">EMPATHY WARMUP</h4>
@@ -95,16 +103,16 @@
                                     <strong>Time Commitment:</strong><br>
                                     1 hour total<br/><i>(in classroom)</i>
                                 </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
+                                <a class="btn btn-inverse-light-blue" href="/pages/get-started/empathy-warmups">Learn more</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4">
-                    <div class="lead-box lead-orange img-center text-center">
+                    <div class="lead-box lead-orange lead-offsetted img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints_square.png">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">DESIGN SPRINTS</h4>
@@ -114,16 +122,16 @@
                                     <strong>Time Commitment:</strong><br>
                                     5 hours total<br/><i>(in classroom)</i>
                                 </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
+                                <a class="btn btn-inverse-orange" href="/pages/get-started/design-sprints">Learn more</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4">
-                    <div class="lead-box lead-magenta img-center text-center">
+                    <div class="lead-box lead-magenta lead-offsetted img-center text-center">
                         <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="">
+                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects_square.png" alt="">
                         </div>
                         <div class="lead-content">
                             <h4 class="heading">COMMUNITY ACTION</h4>
@@ -133,7 +141,7 @@
                                     <strong>Time Commitment:</strong><br>
                                     10+ hours<br/><i>(in and out of classroom)</i>
                                 </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
+                                <a class="btn btn-inverse-magenta" href="/pages/get-started/community-action">Learn more</a>
                             </div>
                         </div>
                     </div>
@@ -149,10 +157,14 @@
 <section class="page-content">
     <div class="lead-box lead-success border-0 rounded-0 mb-0">
         <div class="container py-4">
-            <h3 class="h4 mt-0 mb-2">READY TO GO?</h3>
-            <h4 class="h5 mb-4 font-weight-normal">
-                Create an account on our Educator Platform:
-            </h4>
+
+            <div class="text-center">
+                <h3 class="h4 mt-0 mb-2">READY TO GO?</h3>
+                <h4 class="h5 mb-4 font-weight-normal">
+                    Create an account on our Educator Platform:
+                </h4>
+            </div>
+
             <div class="lead-content">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-sm-6 mb-4">
@@ -230,16 +242,18 @@
 <section class="page-content">
     <div class="container">
 
-        <h3 class="h4 mt-5 mb-2">OTHER OPTIONS</h3>
-        <h4 class="h5 mb-4 font-weight-normal">
-            Get additional support rolling out Design for Change in your school or community.
-        </h4>
+        <div class="text-center">
+            <h3 class="h4 mt-5 mb-2">OTHER OPTIONS</h3>
+            <h4 class="h5 mb-4 font-weight-normal">
+                Get additional support rolling out Design for Change in your school or community.
+            </h4>
+        </div>
 
-        <div class="row align-items-stretch">
-            <div class="col-sm-6 mb-4">
-                <div class="lead-box lead-magenta img-center text-center h-100">
+        <div class="row justify-content-center align-items-stretch">
+            <div class="col-md-5 d-flex align-items-stretch mb-5">
+                <div class="lead-box lead-magenta lead-offsetted img-center text-center">
                     <div class="lead-image">
-                        <img src="/dfcusa-web/app/webroot/img/ico_c_workshops.png"
+                        <img src="/dfcusa-web/app/webroot/img/ico_c_workshops_square.png"
                              class="img-fluid"
                              alt="img">
                     </div>
@@ -255,14 +269,14 @@
                             2 Hours | 1/2 Day | Full Day
                         </p>
                         <a href="/dfcusa-web/pages/get-started/workshops"
-                           class="btn btn-outline-light">Learn more</a>
+                           class="btn btn-inverse-magenta">Learn more</a>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 mb-4">
-                <div class="lead-box lead-primary img-center text-center h-100">
+            <div class="col-md-5 ml-md-2 d-flex align-items-stretch mb-5">
+                <div class="lead-box lead-primary lead-offsetted img-center text-center">
                     <div class="lead-image">
-                        <img src="/dfcusa-web/app/webroot/img/ico_coaching.png"
+                        <img src="/dfcusa-web/app/webroot/img/ico_coaching_square.png"
                              class="img-fluid"
                              alt="img">
                     </div>
@@ -278,7 +292,7 @@
                             Flexible
                         </p>
                         <a href="/dfcusa-web/pages/get-started/coaching"
-                           class="btn btn-outline-light">Learn more</a>
+                           class="btn btn-inverse-primary">Learn more</a>
                     </div>
                 </div>
             </div>

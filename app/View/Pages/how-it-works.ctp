@@ -16,69 +16,79 @@
             Students <strong>brainstorm, plan,</strong> and <strong>execute</strong> service learning projects.
         </p>
 
-        <div class="program-icons program-icons-light mt-5">
+        <div class="program-icons program-icons-light program-icons-offsetted pt-3 my-5">
             <div class="program-icon">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
-                <h4>Feel</h4>
-                <p>Students listen to an Empathy Podcast about a social issue. They can also engage community members to go deeper.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid my-4 rounded border">
+                <div class="inner">
+                    <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
+                    <h4>Feel</h4>
+                    <p>Students listen to an Empathy Podcast about a social issue. They can also engage community members to go deeper.</p>
+                    <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid mt-4 rounded border">
+                </div>
             </div>
             <div class="program-icon">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
-                <h4>Imagine</h4>
-                <p>Students work as a team to brainstorm solutions. They do this in the classroom or engage the community to get feedback.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid my-4 rounded border">
+                <div class="inner">
+                    <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
+                    <h4>Imagine</h4>
+                    <p>Students work as a team to brainstorm solutions. They do this in the classroom or engage the community to get feedback.</p>
+                    <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid mt-4 rounded border">
+                </div>
             </div>
             <div class="program-icon">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
-                <h4>Do</h4>
-                <p>Teams develop an action plan to be reviewed in the classroom or taken into the community to implement and interate on.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid my-4 rounded border">
+                <div class="inner">
+                    <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
+                    <h4>Do</h4>
+                    <p>Teams develop an action plan to be reviewed in the classroom or taken into the community to implement and interate on.</p>
+                    <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid mt-4 rounded border align-self-end">
+                </div>
             </div>
             <div class="program-icon">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
-                <h4>SHARE</h4>
-                <p>Teams share their story with their peers and the community to generate awareness and inspire others to act.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="img-fluid my-4 rounded border">
+                <div class="inner">
+                    <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
+                    <h4>SHARE</h4>
+                    <p>Teams share their story with their peers and the community to generate awareness and inspire others to act.</p>
+                    <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="img-fluid mt-4 rounded border">
+                </div>
             </div>
         </div>
 
-        <div class="program-list mb-5">
-            <table class="table">
-                <tbody>
-                <tr>
-                    <th>Who:</th>
-                    <td>
-                        Middle school-aged students with an adult educator (teacher, parent, youth
-                        leader, coach, etc.)
-                    </td>
-                </tr>
-                <tr>
-                    <th>What:</th>
-                    <td>
-                        Students work in teams to investigate social issues, brainstorm solutions,
-                        develop action plans, and implement their ideas. “Through” this process, they
-                        develop empathy, persistence, and resilience.
-                    </td>
-                </tr>
-                <tr>
-                    <th>How:</th>
-                    <td>
-                        Educators guide students using the DFC methodology and dozens of free activities.
-                        Projects can range from 4 hours to weeks long. Projects are managed using our
-                        Online Educator Platform.
-                    </td>
-                </tr>
-                <tr>
-                    <th>When:</th>
-                    <td>
-                        Teams submit their projects to DFC by May 15, 2020. Each team has the opportunity
-                        to be selected to represent the United States at the annual Design for Change
-                        Global Conference, held in a different country each year.
-                    </td>
-                </tr>
-                </tbody>
-            </table>
+        <div class="mb-5 pb-3">
+            <div class="program-list program-list-shadowed">
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th>Who:</th>
+                        <td>
+                            Middle school-aged students with an adult educator (teacher, parent, youth
+                            leader, coach, etc.)
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>What:</th>
+                        <td>
+                            Students work in teams to investigate social issues, brainstorm solutions,
+                            develop action plans, and implement their ideas. “Through” this process, they
+                            develop empathy, persistence, and resilience.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>How:</th>
+                        <td>
+                            Educators guide students using the DFC methodology and dozens of free activities.
+                            Projects can range from 4 hours to weeks long. Projects are managed using our
+                            Online Educator Platform.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>When:</th>
+                        <td>
+                            Teams submit their projects to DFC by May 15, 2020. Each team has the opportunity
+                            to be selected to represent the United States at the annual Design for Change
+                            Global Conference, held in a different country each year.
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
 
         <div class="p-4 mb-5">

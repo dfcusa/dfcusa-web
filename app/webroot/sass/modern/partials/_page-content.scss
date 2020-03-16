@@ -82,6 +82,23 @@
 
   }
 
+
+  &-shadowed{
+    border: none;
+    box-shadow: rgba(black, 0.1) 0 5px 35px;
+
+    @include media-breakpoint-up(md){
+      padding: 1rem 3rem;
+    }
+
+    .table{
+      th, td{
+        border-top-style: solid;
+        border-top-color: $gray-300;
+      }
+    }
+  }
+
 }
 
 

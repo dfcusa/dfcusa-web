@@ -1,8 +1,8 @@
 <section class="hero">
 	<div class="hero-container">
         <h1 class="heading">Turn Empathy Into Action</h1>
+        <img class="hide-mobile accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
         <div class="hero-art">
-            <img class="hide-mobile accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
             <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
             <img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="" class="img-fluid">
         </div>
@@ -283,8 +283,8 @@
 </section>
 
 <div class="cta cta-interested mt-3">
-    <img class="accent-speech hide-mobile" src="/dfcusa-web/app/webroot/img/accent_speech.png">
   <div class="container">
+      <img class="accent-speech hide-mobile" src="/dfcusa-web/app/webroot/img/accent_speech.png">
       <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
       <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>
       <a class="btn" href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
