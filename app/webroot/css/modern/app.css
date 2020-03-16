@@ -14021,7 +14021,7 @@ a.text-dark-green:focus {
   }
 }
 
-.reviews {
+.reviews .container {
   position: relative;
 }
 
@@ -14032,7 +14032,7 @@ a.text-dark-green:focus {
   z-index: 99999;
 }
 
-.get-started {
+.get-started .container {
   position: relative;
 }
 
@@ -14079,7 +14079,7 @@ a.text-dark-green:focus {
   left: -200px;
 }
 
-.design-change {
+.design-change .container {
   position: relative;
 }
 

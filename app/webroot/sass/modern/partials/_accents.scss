@@ -28,7 +28,10 @@
 }
 
 .reviews {
-  position: relative;
+
+  .container{
+    position: relative;
+  }
 
   .accent-heart {
     position: absolute;
@@ -39,7 +42,10 @@
 }
 
 .get-started {
-  position: relative;
+
+  .container{
+    position: relative;
+  }
 
   &-head{
     position: relative;
@@ -83,7 +89,10 @@
 }
 
 .design-change {
-  position: relative;
+
+  .container{
+    position: relative;
+  }
 
   .accent-3greenstars {
     position: absolute;

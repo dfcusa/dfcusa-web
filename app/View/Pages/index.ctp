@@ -56,7 +56,6 @@
 <section class="get-started text-white bg-success py-5 text-center">
 
 	<div class="container">
-
         <img src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" class="accent-yellowcircle hide-mobile">
         <div class="get-started-head mb-5">
             <h2>Different Paths for Engaging</h2>
@@ -166,7 +165,7 @@
 </section>
 
 
-<section class="apply-dfc mt-0 mb-5">
+<section class="apply-dfc position-relative mt-0 mb-5">
     <div class="container">
         <div class="lead-box lead-light img-right">
             <div class="lead-image">
