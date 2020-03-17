@@ -1,5 +1,5 @@
 @each $color, $value in $theme-colors {
   .btn-inverse-#{$color} {
-    @include button-inverse-variant($value);
+    @include button-inverse-variant($value, $dark);
   }
 }
