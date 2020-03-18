@@ -53,3 +53,18 @@
 .hide {
 	display: none !important;
 }
+
+
+
+
+.on-hover{
+	.hover{
+		display: none;
+	}
+
+	&:hover{
+		.hover{
+			display: block;
+		}
+	}
+}

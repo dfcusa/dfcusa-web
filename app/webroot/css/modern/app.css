@@ -12525,6 +12525,8 @@ a.text-dark-green:focus {
   flex-wrap: wrap;
   text-align: center;
   position: relative;
+  -webkit-box-align: stretch;
+          align-items: stretch;
 }
 
 .program-icons .cover-stages {
@@ -12567,10 +12569,55 @@ a.text-dark-green:focus {
           align-items: stretch;
 }
 
+.program-icons-offsetted .program-icon.on-hover {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+}
+
+.program-icons-offsetted .program-icon.on-hover:hover .inner {
+  position: relative;
+}
+
+.program-icons-offsetted .program-icon.on-hover:hover .inner:after {
+  content: "";
+  position: absolute;
+  bottom: -42px;
+  width: 20px;
+  height: 20px;
+  background: white;
+  left: 50%;
+  -webkit-transform: translateX(-50%) rotateZ(45deg);
+          transform: translateX(-50%) rotateZ(45deg);
+  box-shadow: rgba(0, 0, 0, 0.07) -3px -3px 8px;
+  z-index: 1;
+}
+
 .program-icons-offsetted .program-icon .inner {
   background: white;
   box-shadow: rgba(0, 0, 0, 0.08) 0 5px 30px;
   padding: 1rem 0.8rem;
+}
+
+.program-icons-offsetted .program-icon .hover {
+  margin-top: 0;
+  padding-top: 2rem;
+}
+
+@media (min-width: 992px) {
+  .program-icons-offsetted .program-icon .hover {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    margin-top: -2rem;
+  }
+}
+
+.program-icons-offsetted .program-icon .hover-inner {
+  background: white;
+  padding: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 5px 30px;
 }
 
 @media (min-width: 576px) {
@@ -12610,6 +12657,10 @@ a.text-dark-green:focus {
   .program-icon {
     width: 25%;
   }
+}
+
+.program-icon .inner {
+  height: 100%;
 }
 
 .program-icon.wide {
@@ -14109,6 +14160,14 @@ a.text-dark-green:focus {
 
 .hide {
   display: none !important;
+}
+
+.on-hover .hover {
+  display: none;
+}
+
+.on-hover:hover .hover {
+  display: block;
 }
 
 
