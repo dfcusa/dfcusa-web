@@ -27,51 +27,48 @@
 
 <section class="page-content pb-2">
     <div class="container">
+        <h3 class="h4 mt-3 pt-4 mb-2">FIRST YOU...</h3>
+        <h4 class="h5 mb-4 font-weight-normal">
+            Choose a podcast that interests your students:
+        </h4>
 
-        <div class="text-center">
-            <h3 class="h4 mt-3 pt-2 mb-2">FIRST YOU...</h3>
-            <h4 class="h5 mb-4 font-weight-normal">
-                Choose a podcast that interests your students:
-            </h4>
-        </div>
-
-        <div class="row mb-5">
-            <div class="col-12 pt-3 force-full-size">
-              <ul class="row list-unstyled h6 font-weight-normal">
-                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      Each podcast delves into a specific social issue
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      Includes real interviews with youth
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      Under 10 minutes each
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-3 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      Include visuals to guide the listener along
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      Each podcast is aligned with a UN Sustainable Global Goal
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      New episodes are added every month
-                  </li>
-                  <li class="col-md-6 col-lg-4 mb-4 d-flex align-items-center">
-                      <i class="fas fa-check-circle fa-2x mr-3"></i>
-                      <a href="/dfcusa-web/podcasts">See full library of podcasts</a>
-                  </li>
-              </ul>
+        <div class="row">
+            <div class="col-4 pt-3 force-full-size">
+                <ul class="list-unstyled h6 font-weight-normal">
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Each podcast delves into a specific social issue
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Includes real interviews with youth
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Under 10 minutes each
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Include visuals to guide the listener along
+                    </li>
+                    <li class="mb-4 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        Each podcast is aligned with a UN Sustainable Global Goal
+                    </li>
+                    <li class="mb-4 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        New episodes are added every month
+                    </li>
+                    <li class="mb-4 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        <a href="/dfcusa-web/podcasts">See full library of podcasts</a>
+                    </li>
+                </ul>
             </div>
-<!--            <div class="col-8 pt-0 mr-0 hide-mobile">-->
-<!--              <ul id="podcasts" class="baraja-container" style="margin-left: 280px">-->
-<!--              </ul>-->
-<!--            </div>-->
+            <div class="col-8 pt-0 mr-0 hide-mobile">
+                <ul id="podcasts" class="baraja-container" style="margin-left: 280px">
+                </ul>
+            </div>
         </div>
     </div>
 </section>

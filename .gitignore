@@ -4,3 +4,4 @@ node_modules/
 app/webroot/.sass-cache
 app/tmp/cache/*
 app/tmp/logs/*
+.directory
