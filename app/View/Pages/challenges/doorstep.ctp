@@ -92,6 +92,9 @@
     </div>
     <!-- Hero area end -->
 
+    <div class="social hide">
+        <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div> <script src="https://flockler.embed.codes/KDAe3j" async></script>
+    </div>
 
     <!-- video area start -->
 
@@ -276,7 +279,7 @@
                                         <li>Doing chores</li>
                                         <li>Online Tutoring</li>
                                         <li>Online book club</li>
-                                        <li data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Set up a phone call chain to check in with others </li><li>Create a pass-it-on gif challenge</li><li>Create a one-pager for your community with information about accessing resources </li><li>Start a gratefulness thread via text or social media</li><li>Create a tutorial to share a hobby or talent</li><li>Leave notes or gifts on your door</li></ul></div>"><a href="javascript:void(0)">More...</a></li>
+                                        <li data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>"><a href="javascript:void(0)">More...</a></li>
                                     </ul>
                                     <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                                 </div>
@@ -325,7 +328,7 @@
                                     <h4>Tips for videos</h4>
                                     <ul>
                                         <li>Shoot it horizontally</li>
-                                        <li>Tell your story in your own words</li>
+                                        <li>Tell your story using the words Feel, Imagine, Do, Share</li>
                                         <li>Include a caption when you post, using the <br> hashtag #doorstepchallenge.</li>
                                     </ul>
 
