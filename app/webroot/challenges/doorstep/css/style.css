@@ -91,7 +91,8 @@ a:hover { text-decoration: none }
 }
 .hero-area {
 	padding-top: 80px;
-	padding-bottom: 45px;
+	padding-bottom: 300px;
+  margin-bottom: 150px;
 	background-size: cover;
 	background-position: center center;
 }
@@ -122,7 +123,7 @@ a:hover { text-decoration: none }
 
 
 .video-blk-inner {
-  max-width: 730px;
+  max-width: 830px;
   margin: 0 auto;
 }
 
@@ -589,4 +590,12 @@ a:hover { text-decoration: none }
     padding-top: 20px;
     background-color: #0097de;
     opacity: 1.0;
+}
+
+.social {
+  position: absolute;
+  width: 100%;
+  padding-top: 2em;
+  padding-left: 4em;
+  padding-right: 4em;
 }

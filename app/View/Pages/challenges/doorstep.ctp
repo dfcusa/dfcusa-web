@@ -89,12 +89,12 @@
                 </div>
             </div>
         </div>
+
+        <div class="social">
+            <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div><script src="https://flockler.embed.codes/KDAe3j" async></script>
+        </div>
     </div>
     <!-- Hero area end -->
-
-    <div class="social hide">
-        <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div> <script src="https://flockler.embed.codes/KDAe3j" async></script>
-    </div>
 
     <!-- video area start -->
 
@@ -112,7 +112,7 @@
                     <div class="video-blk-inner">
                         <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nh3CVqCi82Y?rel=0" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nh3CVqCi82Y?rel=0" width="730" allowfullscreen></iframe>
                             </div>
                         </div>
                         <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
