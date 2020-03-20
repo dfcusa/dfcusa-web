@@ -39,8 +39,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
-                            <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</p>
-                            <p><b>Here's how:</b></p>
+                            <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</br><i>Here's how:</i></p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
@@ -91,8 +90,8 @@
             </div>
         </div>
 
-        <div class="social hide">
-
+        <div class="social">
+            <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div><script src="https://flockler.embed.codes/KDAe3j" async></script>
         </div>
     </div>
     <!-- Hero area end -->

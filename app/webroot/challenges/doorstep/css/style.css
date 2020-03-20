@@ -92,8 +92,8 @@ a:hover { text-decoration: none }
 }
 .hero-area {
 	padding-top: 80px;
-	padding-bottom: 60px;
-  margin-bottom: 0px;
+	padding-bottom: 200px;
+  margin-bottom: 250px;
 	background-size: cover;
 	background-position: center center;
 }
@@ -112,7 +112,8 @@ a:hover { text-decoration: none }
   display: inline-block;
   border-radius: 45px;
   font-weight: 600;
-  margin-top: 36px;
+  margin-top: 46px;
+  margin-bottom: 30px;
 }
 
 
