@@ -107,9 +107,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="video-blk-inner">
-                        <div class="video-main-wrp hide">
+                        <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BEaCGvymlX0?rel=0" allowfullscreen></iframe>
                             </div>
                         </div>
                         <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
@@ -141,78 +141,68 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="help-slider owl-carousel">
-                        <div class="single-help-slider-blk">
+                    <div class="help-slider owl-carousel avatar-group">
+                        <div class="single-help-slider-blk avatar">
                            <img class="sp-1" src="/dfcusa-web/app/webroot/challenges/doorstep/img/cn-icon.png" alt="">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/sick.png" alt="">
                             </div>
                             <h3>The Sick</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/parents.png" alt="">
                             </div>
                             <h3>Parents</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                            <img class="sp-2" src="/dfcusa-web/app/webroot/challenges/doorstep/img/sp-1.png" alt="">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/discriminated.png" alt="">
                             </div>
-                            <h3>The Discriminated</h3>
-                            <p>People who are infected with the coronavirus.</p>
+                            <h3>Experiencing Discrimination</h3>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/restaurant.png" alt="">
                             </div>
                             <h3>Service Workers</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/seniors.png" alt="">
                             </div>
-                            <h3>Seniors</h3>
-                            <p>People who are infected with the coronavirus.</p>
+                            <h3>The Elderly</h3>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/delivery.png" alt="">
                             </div>
                             <h3>Delivery Drivers</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/healthcare.png" alt="">
                             </div>
                             <h3>Healthcare Workers</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/petowner.png" alt="">
                             </div>
                             <h3>Pet Owners</h3>
-                            <p>People who are infected with the coronavirus.</p>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/unemployed.png" alt="">
                             </div>
-                            <h3>Recently Unemployed</h3>
-                            <p>People who are infected with the coronavirus.</p>
+                            <h3>The Recently Unemployed</h3>
                         </div>
-                        <div class="single-help-slider-blk">
+                        <div class="single-help-slider-blk avatar">
                             <div class="hlp-img">
                                 <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/youths.png" alt="">
                             </div>
-                            <h3>Youth Stuck at Home</h3>
-                            <p>People who are infected with the coronavirus.</p>
+                            <h3>Other Kids</h3>
                         </div>
                     </div>
                 </div>
@@ -250,7 +240,7 @@
                             </div>
                             <p><span>Connect!</span> Find out more about how this pandemic is impacting others. Look for news clips, articles or social media clips to learn more. Choose a neighbor or a community organization who is impacted by this pandemic.
                             </p>
-                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>
@@ -265,7 +255,7 @@
                             <p><span>Brainstorm!</span> Jot down safe ways you could make an impact right now. Choose something to do as a part of this #doorstepchallenge.
 
                             </p>
-                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>
@@ -277,17 +267,18 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt=""></span>
                                 <h2>Do <span>Make a difference.</span></h2>
                             </div>
-                            <p><span>Act!</span> Take the steps necessary. Here
-                            </p>
+                            <p><span>Act!</span> Take the steps necessary.</p>
                             <div class="do-list-wrp">
                                 <div class="do-list">
-                                    <h4>are examples:</h4>
+                                    <h4>Some examples:</h4>
                                     <ul>
-                                        <li>Dog walking</li>
+                                        <li>Calling elders</li>
                                         <li>Doing chores</li>
                                         <li>Online Tutoring</li>
+                                        <li>Online book club</li>
+                                        <li data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Set up a phone call chain to check in with others </li><li>Create a pass-it-on gif challenge</li><li>Create a one-pager for your community with information about accessing resources </li><li>Start a gratefulness thread via text or social media</li><li>Create a tutorial to share a hobby or talent</li><li>Leave notes or gifts on your door</li></ul></div>"><a href="javascript:void(0)">More...</a></li>
                                     </ul>
-                                    <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                                    <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                                 </div>
                                 <div class="do-list">
                                     <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/call-img.png" alt="">
@@ -341,7 +332,7 @@
                                 </div>
 
                             </div>
-                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>What did I learn?</li><li>How did my action make a difference for somebody? </li><li>How can I share - through a picture or a video - what I did?</li><li>Who else can I inspire to take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What did I learn?</li><li>How did my action make a difference for somebody? </li><li>How can I share - through a picture or a video - what I did?</li><li>Who else can I inspire to take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>

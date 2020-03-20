@@ -24,9 +24,17 @@
                   
         });
 
+        function random(owlSelector){
+            owlSelector.children().sort(function(){
+                return Math.round(Math.random()) - 0.5;
+            }).each(function(){
+              $(this).appendTo(owlSelector);
+            });
+          }
        
+        var owl = $(".help-slider");
               
-        $(".help-slider").owlCarousel({
+        owl.owlCarousel({
             items:5,
             nav:true,
             navText:['<img src="/dfcusa-web/app/webroot/challenges/doorstep/img/arrow-left.png" alt="">', '<img src="/dfcusa-web/app/webroot/challenges/doorstep/img/arrow-right.png" alt="">'],
@@ -50,9 +58,14 @@
                     items:3,
                    
                 }
-            }
-            
-          
+            },
+            onInitialize : function(elem){
+                owl.children().sort(function(){
+                    return Math.round(Math.random()) - 0.5;
+                }).each(function(){
+                    $(this).appendTo(owl);
+                });
+            }          
         });
 
 
