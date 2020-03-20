@@ -392,7 +392,7 @@
                                     <div class="subs-form newsletter-signup">
                                         <form action="">
                                             <label for="">Email Address</label>
-                                            <input type="text" placeholder="Your email address" id="email">
+                                            <input type="text" placeholder="" id="email">
                                             <button type="button" onclick="javascript:submitNewsletter();">Sign Up</button>
                                         </form>
                                     </div>
