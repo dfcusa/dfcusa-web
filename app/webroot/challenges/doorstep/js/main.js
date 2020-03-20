@@ -29,7 +29,7 @@
         $(".help-slider").owlCarousel({
             items:5,
             nav:true,
-            navText:['<img src="assets/img/arrow-left.png" alt="">', '<img src="assets/img/arrow-right.png" alt="">'],
+            navText:['<img src="/dfcusa-web/app/webroot/challenges/doorstep/img/arrow-left.png" alt="">', '<img src="/dfcusa-web/app/webroot/challenges/doorstep/img/arrow-right.png" alt="">'],
             dot:true,
             loop:true,
             margin:20,
