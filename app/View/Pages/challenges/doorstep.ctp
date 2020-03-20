@@ -90,8 +90,8 @@
             </div>
         </div>
 
-        <div class="social">
-            <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div><script src="https://flockler.embed.codes/KDAe3j" async></script>
+        <div class="social hide">
+
         </div>
     </div>
     <!-- Hero area end -->
@@ -325,11 +325,11 @@
                             <div class="do-list-wrp tips-list">
                                 <img class="tp-sc" src="/dfcusa-web/app/webroot/challenges/doorstep/img/social-icons.png" alt="">
                                 <div class="do-list">
-                                    <h4>Tips for videos</h4>
+                                    <h4>Tips for posting on social media</h4>
                                     <ul>
                                         <li>Shoot it horizontally</li>
                                         <li>Tell your story using the words Feel, Imagine, Do, Share</li>
-                                        <li>Include a caption when you post, using the <br> hashtag #doorstepchallenge.</li>
+                                        <li>In your post, say: "I took #thedoorstepchallenge"<br/>and tag your friends.</li>
                                     </ul>
 
                                 </div>
