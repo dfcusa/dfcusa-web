@@ -71,7 +71,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
-                            <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</br><i>Here's how:</i></p>
+                            <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</br><i>Here's how:</i></p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
