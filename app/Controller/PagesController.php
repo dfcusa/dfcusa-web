@@ -71,9 +71,13 @@ class PagesController extends AppController {
 			$title_for_layout = Inflector::humanize($path[$count - 1]);
 		}
 		$this->set(compact('page', 'subpage', 'title_for_layout'));
-		
-		$this->layout = 'default';
-		$this->render(implode('/', $path));
+
+		if (strpos($_SERVER['HTTP_HOST'], 'doorstepchallenge')) {
+			$this->redirect('/doorstepchallenge');
+		} else {
+			$this->layout = 'default';
+			$this->render(implode('/', $path));
+		}
 	}
 
 	public function doorstepchallenge() {
