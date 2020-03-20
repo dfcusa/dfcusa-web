@@ -22,6 +22,10 @@
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/style.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/responsive.css" rel="stylesheet">
 
+
+  <?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0093/4090.js" async="async"></script>
+  <?php } ?>
 </head>
 
 <body>

@@ -25,6 +25,10 @@
   <script src="/dfcusa-web/app/webroot/js/underscore-min.js" type="text/javascript"></script>
   <script src="/dfcusa-web/app/webroot/js/lity.js" type="text/javascript"></script>
   <script src="/dfcusa-web/app/webroot/js/jquery.cookie.js" type="text/javascript"></script>
+
+  <?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0093/4090.js" async="async"></script>
+  <?php } ?>
 </head>
 
 <body>
