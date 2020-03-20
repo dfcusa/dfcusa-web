@@ -91,8 +91,8 @@ a:hover { text-decoration: none }
 }
 .hero-area {
 	padding-top: 80px;
-	padding-bottom: 300px;
-  margin-bottom: 150px;
+	padding-bottom: 60px;
+  margin-bottom: 0px;
 	background-size: cover;
 	background-position: center center;
 }
