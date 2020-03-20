@@ -40,6 +40,7 @@
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
                             <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</p>
+                            <p><b>Here's how:</b></p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
@@ -103,7 +104,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2><span>Take</span>#TheDoorstepChallenge</h2>
+                        <h2>#TheDoorstepChallenge</h2>
                     </div>
                 </div>
             </div>
