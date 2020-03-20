@@ -82,7 +82,12 @@ class PagesController extends AppController {
 
 	public function doorstepchallenge() {
 		$this->layout = 'blank';
-		$this->render('/Pages/challenges/doorstep');
+
+		if ($_GET['beta'] == 'true') {
+			$this->render('/Pages/challenges/doorstep-beta');
+		} else {
+			$this->render('/Pages/challenges/doorstep');
+		}
 	}	
 
 	public function rawHeader() {

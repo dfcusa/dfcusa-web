@@ -61,7 +61,7 @@
 
     <!-- Hero area start -->
 
-    <div class="hero-area" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
+    <div class="hero-area big" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -122,7 +122,7 @@
             </div>
         </div>
 
-        <div class="social hide">
+        <div class="social">
             <div id="flockler-embed-170f9a9cecf0bf619b093b5b7dd88f94"></div><script src="https://flockler.embed.codes/jm4GyK" async></script>
         </div>
     </div>
