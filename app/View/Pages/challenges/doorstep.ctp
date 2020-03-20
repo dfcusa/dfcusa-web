@@ -39,7 +39,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
-                            <p>A virtual or a phyiscal doorstep - it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</p>
+                            <p>A virtual or a phyiscal doorstep... it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
@@ -83,7 +83,7 @@
                             </div>
                         </div>
                         <div class="get-started-btn">
-                            <a href="javascript:void(0)" onclick="javascript:getStarted()">Get Started</a>
+                            <a href="javascript:void(0)" onclick="javascript:getStarted()">Join The Movement&nbsp;&nbsp;&nbsp;<i class="fas fa-angle-double-down"></i></a>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>Who Needs Help?</h2>
+                        <h2>Start with who needs help</h2>
                         <p>Consider these different groups and how they might be <br> impacted by COVID-19:</p>
                     </div>
                 </div>
@@ -279,7 +279,7 @@
                                         <li>Doing chores</li>
                                         <li>Online Tutoring</li>
                                         <li>Online book club</li>
-                                        <li data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>"><a href="javascript:void(0)">More...</a></li>
+                                        <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
                                     </ul>
                                     <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                                 </div>
