@@ -49,8 +49,6 @@
       gtag('event', eventStr);
     }
   </script>
-
-
 <?php } else { ?>
   <script>
     function gaEvent(eventStr) {
