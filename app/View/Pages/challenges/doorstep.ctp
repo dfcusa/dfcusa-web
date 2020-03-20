@@ -39,7 +39,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
-                            <p>A virtual doorstep, a phyiscal doorstep - it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.<br/><b>Join them!</b></p>
+                            <p>A virtual or a phyiscal doorstep - it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.</p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
