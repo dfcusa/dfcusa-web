@@ -50,6 +50,7 @@
 	Router::connect('/pages/raw/footer', array('controller' => 'pages', 'action' => 'rawFooter'));
 
 	Router::connect('/doorstepchallenge', array('controller' => 'pages', 'action' => 'doorstepchallenge'));
+	Router::connect('/thedoorstepchallenge', array('controller' => 'pages', 'action' => 'doorstepchallenge'));
 
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 
