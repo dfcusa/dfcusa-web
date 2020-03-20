@@ -90,8 +90,8 @@
             </div>
         </div>
 
-        <div class="social">
-            <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div><script src="https://flockler.embed.codes/KDAe3j" async></script>
+        <div class="social hide">
+            <!-- <div id="flockler-embed-170f99c1d150c3de5038947cdfdab6ec"></div><script src="https://flockler.embed.codes/KDAe3j" async></script> -->
         </div>
     </div>
     <!-- Hero area end -->
