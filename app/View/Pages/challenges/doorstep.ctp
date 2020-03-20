@@ -39,7 +39,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <h2>one small act of kindness</h2>
-                            <p>Join young people across the nation who helping their <br> neighbors, family and friends during the COVID-19 pandemic.</p>
+                            <p>A virtual doorstep, a phyiscal doorstep - it doesn't matter. <br> Young people are helping their community during the COVID-19 pandemic.<br/><b>Join them!</b></p>
                         </div>
                         <div class="option-lists">
                             <div class="row">

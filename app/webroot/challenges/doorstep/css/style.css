@@ -69,9 +69,10 @@ a:hover { text-decoration: none }
   color: #ffff;
 }
 .hero-text-all-inner {
-  max-width: 618px;
+  max-width: 770px;
   margin: 43px auto;
   margin-top: 35px;
+  margin-bottom: 55px;
 }
 .single-option-list h2 {
   font-size: 40px;
