@@ -272,7 +272,7 @@ a:hover { text-decoration: none }
 }
 .step-text-blk a {
   color: #0096db;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
 }
 .step-text-blk a i {
@@ -581,4 +581,9 @@ a:hover { text-decoration: none }
 
 .footer {
   margin-top: 0em !important;
+}
+
+.tooltip-inner {
+    max-width: 450px;
+    width: 450px; 
 }

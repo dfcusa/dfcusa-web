@@ -250,7 +250,7 @@
                             </div>
                             <p><span>Connect!</span> Find out more about how this pandemic is impacting others. Look for news clips, articles or social media clips to learn more. Choose a neighbor or a community organization who is impacted by this pandemic.
                             </p>
-                            <a href=""><i class="fal fa-question-circle"></i>Things to think about</a>
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>
@@ -265,11 +265,10 @@
                             <p><span>Brainstorm!</span> Jot down safe ways you could make an impact right now. Choose something to do as a part of this #doorstepchallenge.
 
                             </p>
-                            <a href=""><i class="fal fa-question-circle"></i>Things to think about</a>
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>
-
                 <div class="row single-row step-3">
                     <div class="col-lg-7">
                         <div class="step-text-blk">
@@ -288,7 +287,7 @@
                                         <li>Doing chores</li>
                                         <li>Online Tutoring</li>
                                     </ul>
-                                    <a href=""><i class="fal fa-question-circle"></i>See more examples</a>
+                                    <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                                 </div>
                                 <div class="do-list">
                                     <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/call-img.png" alt="">
@@ -342,8 +341,7 @@
                                 </div>
 
                             </div>
-                            <a href=""><i class="fal fa-question-circle"></i>See more examples</a>
-
+                            <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><li>What did I learn?</li><li>How did my action make a difference for somebody? </li><li>How can I share - through a picture or a video - what I did?</li><li>Who else can I inspire to take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
                 </div>
@@ -368,7 +366,7 @@
                         </p>
                     </div>
                     <div class="video-tm">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/video-thumb.jpg" alt="">
+                        <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/kiran_sethi_kids_take_charge" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
                     </div>
                     <div class="vide-bottom-des">
                         <h4>The story of our founder, Kiran Bir Sethi</h4>
