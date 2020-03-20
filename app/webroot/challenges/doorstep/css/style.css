@@ -91,7 +91,7 @@ a:hover { text-decoration: none }
 }
 .hero-area {
 	padding-top: 120px;
-	padding-bottom: 180px;
+	padding-bottom: 45px;
 	background-size: cover;
 	background-position: center center;
 }
@@ -575,14 +575,10 @@ a:hover { text-decoration: none }
 }
 /* Footer top area css end */
 
+.hide {
+  display: none !important;
+}
 
-
-
-
-
-
-
-
-
-
-
+.footer {
+  margin-top: 0em !important;
+}

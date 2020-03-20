@@ -5,12 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
 
     <title>Take #TheDoorstepChallenge</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
 
 
+    <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/bootstrap.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/all.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/fontawesome.css" rel="stylesheet">
@@ -105,7 +107,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="video-blk-inner">
-                        <div class="video-main-wrp">
+                        <div class="video-main-wrp hide">
                             <div class="embed-responsive embed-responsive-16by9">
                                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
                             </div>
@@ -113,7 +115,7 @@
                         <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
                         <p>Now more than ever, we must come together to show our compassion and humanity. </p>
                         <div class="clg">
-                            <img src="assets/img/love.png" alt="">
+                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/love.png" alt="">
                             <p><span>We challenge young people to take on #TheDoorstepChallenge!</span> Perform a small act of kindness for your family, friends, or neighbors, and deliver it to them virtually or to their front door.</p>
                         </div>
                     </div>
@@ -143,52 +145,74 @@
                         <div class="single-help-slider-blk">
                            <img class="sp-1" src="/dfcusa-web/app/webroot/challenges/doorstep/img/cn-icon.png" alt="">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/sick.png" alt="">
                             </div>
                             <h3>The Sick</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
                         </div>
                         <div class="single-help-slider-blk">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/parents.png" alt="">
                             </div>
-                            <h3>The Sick</h3>
+                            <h3>Parents</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
                         </div>
                         <div class="single-help-slider-blk">
                            <img class="sp-2" src="/dfcusa-web/app/webroot/challenges/doorstep/img/sp-1.png" alt="">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/discriminated.png" alt="">
                             </div>
-                            <h3>The Sick</h3>
+                            <h3>The Discriminated</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
                         </div>
                         <div class="single-help-slider-blk">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/restaurant.png" alt="">
                             </div>
-                            <h3>The Sick</h3>
+                            <h3>Service Workers</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
                         </div>
                         <div class="single-help-slider-blk">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/seniors.png" alt="">
                             </div>
-                            <h3>The Sick</h3>
+                            <h3>Seniors</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
                         </div>
                         <div class="single-help-slider-blk">
                             <div class="hlp-img">
-                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/h-1.png" alt="">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/delivery.png" alt="">
                             </div>
-                            <h3>The Sick</h3>
+                            <h3>Delivery Drivers</h3>
                             <p>People who are infected with the coronavirus.</p>
-                            <a href=""><i class="fal fa-question-circle"></i>Learn more</a>
+                        </div>
+                        <div class="single-help-slider-blk">
+                            <div class="hlp-img">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/healthcare.png" alt="">
+                            </div>
+                            <h3>Healthcare Workers</h3>
+                            <p>People who are infected with the coronavirus.</p>
+                        </div>
+                        <div class="single-help-slider-blk">
+                            <div class="hlp-img">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/petowner.png" alt="">
+                            </div>
+                            <h3>Pet Owners</h3>
+                            <p>People who are infected with the coronavirus.</p>
+                        </div>
+                        <div class="single-help-slider-blk">
+                            <div class="hlp-img">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/unemployed.png" alt="">
+                            </div>
+                            <h3>Recently Unemployed</h3>
+                            <p>People who are infected with the coronavirus.</p>
+                        </div>
+                        <div class="single-help-slider-blk">
+                            <div class="hlp-img">
+                                <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/avatars/youths.png" alt="">
+                            </div>
+                            <h3>Youth Stuck at Home</h3>
+                            <p>People who are infected with the coronavirus.</p>
                         </div>
                     </div>
                 </div>
@@ -364,11 +388,12 @@
                                 <div class="subs-all">
                                     <h3>Free Resources for Students and Educators</h3>
                                     <p>Sign up to receive our newsletter and other free resources.</p>
-                                    <div class="subs-form">
+                                    <div class="bg-success p-3 text-white success-box" style="display: none">Thanks for signing up!</div>
+                                    <div class="subs-form newsletter-signup">
                                         <form action="">
                                             <label for="">Email Address</label>
-                                            <input type="text" placeholder="">
-                                            <button type="submit">Sign Up</button>
+                                            <input type="text" placeholder="Your email address" id="email">
+                                            <button type="button" onclick="javascript:submitNewsletter();">Sign Up</button>
                                         </form>
                                     </div>
                                 </div>
@@ -383,6 +408,7 @@
 
     <!-- Footer top area end -->
 
+    <?php echo $this->element('footer'); ?>
 
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -399,5 +425,26 @@
 
 
 </body>
+
+<script type="text/javascript">
+  function submitNewsletter() {
+    $.ajaxSetup({
+      contentType: 'application/json'
+    });
+
+    var data = {
+      'fields': [ {
+        'name': 'email',
+        'value': $('#email').val()
+      } ]
+    }
+    
+    $.post('https://api.hsforms.com/submissions/v3/integration/submit/6395720/4f577ebe-3e12-4f45-9440-c12935043e1b', JSON.stringify(data), function(data) {
+      $('.success-box').show();
+      $('.newsletter-signup').hide();
+    });
+  }
+</script>
+
 
 </html>
