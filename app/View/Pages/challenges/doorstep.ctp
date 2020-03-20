@@ -83,7 +83,7 @@
                             </div>
                         </div>
                         <div class="get-started-btn">
-                            <a href="">Get Started</a>
+                            <a href="javascript:void(0)" onclick="javascript:getStarted()">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -231,7 +231,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2><span>Take #</span>TheDoorstepChallenge</h2>
+                        <h2><span>Then take #</span>TheDoorstepChallenge</h2>
                         <p>You can get started right at home.</p>
                     </div>
                 </div>
@@ -443,6 +443,12 @@
       $('.success-box').show();
       $('.newsletter-signup').hide();
     });
+  }
+
+  function getStarted() {
+    $([document.documentElement, document.body]).animate({
+        scrollTop: $(".help-area").offset().top
+    }, 1000);
   }
 </script>
 
