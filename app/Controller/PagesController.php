@@ -76,6 +76,11 @@ class PagesController extends AppController {
 		$this->render(implode('/', $path));
 	}
 
+	public function doorstepchallenge() {
+		$this->layout = 'blank';
+		$this->render('/Pages/challenges/doorstep');
+	}	
+
 	public function rawHeader() {
 		$this->layout = 'header';
 		$this->render('blank');
