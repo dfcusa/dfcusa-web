@@ -48,6 +48,17 @@ a:hover { text-decoration: none }
 /* Hero area css start */
 
 
+.master-container{
+  margin-right: 300px;
+}
+
+.social {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 1000px;
+  width: 300px;
+}
 
 .hero-texts {
   text-align: center;
@@ -99,7 +110,7 @@ a:hover { text-decoration: none }
 
 .hero-area.big {
   padding-bottom: 200px;
-  margin-bottom: 250px;
+  margin-bottom: 160px;
 }
 
 .option-lists {
@@ -597,12 +608,4 @@ a:hover { text-decoration: none }
     padding-top: 20px;
     background-color: #0097de;
     opacity: 1.0;
-}
-
-.social {
-  position: absolute;
-  width: 100%;
-  padding-top: 2em;
-  padding-left: 4em;
-  padding-right: 4em;
 }

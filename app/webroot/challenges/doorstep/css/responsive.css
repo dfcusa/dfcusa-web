@@ -33,7 +33,7 @@
 	right: 17px;
 } 
 .hero-top-title-logo img {
-	max-width: 72%;
+	max-width: 95%;
 }
     
 .hero-text-all-inner h2 {
@@ -112,7 +112,7 @@
 	right: 17px;
 } 
 .hero-top-title-logo img {
-	max-width: 72%;
+	max-width: 95%;
 }
     
 .hero-text-all-inner h2 {
@@ -256,7 +256,7 @@
 	right: 17px;
 } 
 .hero-top-title-logo img {
-	max-width: 72%;
+	max-width: 95%;
 }
     
 .hero-text-all-inner h2 {
@@ -374,8 +374,11 @@
 }
 .hero-area {
 	padding-top: 54px;
-	padding-bottom: 130px;
+	padding-bottom: 0px;
 
+}
+.get-started-btn {
+	margin-top: -50px;
 }
 .video-blk-inner {
 	max-width: 100%;
