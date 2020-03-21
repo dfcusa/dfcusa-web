@@ -123,8 +123,7 @@
             </div>
 
             <div class="social">
-              <div id="flockler-embed-170f9a9cecf0bf619b093b5b7dd88f94"></div>
-<script src="https://flockler.embed.codes/jm4GyK" async></script>
+              <div class="taggbox-container" style=" width:100%;height:100%;overflow: auto;"><script defer src="//web.taggbox.com/app/js/embed.min.js" type="text/javascript"></script><div class="taggbox-socialwall" data-wall-id="31285" view-url="https://taggbox.com/w/31285">  </div></div>
             </div>
         </div>
         <!-- Hero area end -->

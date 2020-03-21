@@ -54,8 +54,8 @@ a:hover { text-decoration: none }
 .social {
   position: absolute;
   right: 0px;
-  bottom: -100px;
-  height: 300px;
+  bottom: -500px;
+  height: 700px;
   width: 100%;
 }
 
@@ -109,7 +109,7 @@ a:hover { text-decoration: none }
 
 .hero-area.big {
   padding-bottom: 200px;
-  margin-bottom: 200px;
+  margin-bottom: 400px;
 }
 
 .option-lists {
