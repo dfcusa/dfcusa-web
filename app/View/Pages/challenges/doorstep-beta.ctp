@@ -58,14 +58,10 @@
       </script>
     <?php } ?>
 
-    <div class="social">
-        <div class="taggbox-container" style=" width:100%;height:300%;overflow: auto;"><script defer src="//web.taggbox.com/app/js/embed.min.js" type="text/javascript"></script><div class="taggbox-socialwall" data-wall-id="31285" view-url="https://taggbox.com/w/31285">  </div></div>
-    </div>
-    
     <div class="master-container">
 
         <!-- Hero area start -->
-        <div class="hero-area" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
+        <div class="hero-area big" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -124,6 +120,11 @@
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <div class="social">
+              <div id="flockler-embed-170f9a9cecf0bf619b093b5b7dd88f94"></div>
+<script src="https://flockler.embed.codes/jm4GyK" async></script>
             </div>
         </div>
         <!-- Hero area end -->

@@ -49,15 +49,14 @@ a:hover { text-decoration: none }
 
 
 .master-container{
-  margin-right: 300px;
 }
 
 .social {
   position: absolute;
   right: 0px;
-  top: 0px;
-  height: 1000px;
-  width: 300px;
+  bottom: -100px;
+  height: 300px;
+  width: 100%;
 }
 
 .hero-texts {
@@ -110,7 +109,7 @@ a:hover { text-decoration: none }
 
 .hero-area.big {
   padding-bottom: 200px;
-  margin-bottom: 160px;
+  margin-bottom: 200px;
 }
 
 .option-lists {
