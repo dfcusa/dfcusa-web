@@ -59,6 +59,17 @@ a:hover { text-decoration: none }
   width: 100%;
 }
 
+.dfc-logo {
+  width: 100%;
+  margin-top: -70px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.dfc-logo-img {
+  width: 125px !important;
+  margin: auto;
+}
+
 .hero-texts {
   text-align: center;
 }
@@ -68,15 +79,20 @@ a:hover { text-decoration: none }
 }
 
 .hero-text-all-inner h2 {
-  color: #fff;
-  font-size: 52px;
+  color: #eec0ca;
+  font-size: 23px;
   font-weight: 300;
-  border-bottom: 1px solid #fff;
-  padding-bottom: 11px;
+  border-top: 1px solid #eec0ca;
+  margin-top: 30px;
+  margin-bottom: -5px;
+  padding-top: 30px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .hero-text-all-inner p {
-  font-size: 20px;
-  color: #ffff;
+  font-size: 23px;
+  color: #eec0ca;
 }
 .hero-text-all-inner {
   max-width: 770px;
@@ -102,7 +118,7 @@ a:hover { text-decoration: none }
 }
 .hero-area {
 	padding-top: 80px;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
 	background-size: cover;
 	background-position: center center;
 }
@@ -118,7 +134,7 @@ a:hover { text-decoration: none }
 
 
 
-.get-started-btn a {
+.get-started-btn {
   background: #26aeee;
   color: #fff;
   font-size: 20px;
@@ -129,6 +145,11 @@ a:hover { text-decoration: none }
   font-weight: 600;
   margin-top: 46px;
   margin-bottom: 30px;
+}
+
+.why-important {
+  color: #fff;
+  font-size: 14pt;
 }
 
 
@@ -153,7 +174,8 @@ a:hover { text-decoration: none }
   font-size: 38px;
   font-weight: 700;
 }
-.video-aera {
+.video-area {
+  display: none;
   padding: 60px 0;
 }
 .section-title {

@@ -62,6 +62,7 @@
     <!-- Hero area start -->
 
     <div class="hero-area" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
+        <div class="dfc-logo"><a href="https://designforchange.us"><img class="dfc-logo-img" src="/dfcusa-web/app/webroot/img/logo_dfc_square.png"></a></div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -70,8 +71,8 @@
                             <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/header-title-img.png" alt="">
                         </div>
                         <div class="hero-text-all-inner">
-                            <h2>one small act of kindness</h2>
-                            <p>A virtual or a physical doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</br><i>Here's how:</i></p>
+                            <p>A virtual or a physical doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</p>
+                            <h2>Here's how you can help:</p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
@@ -114,8 +115,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="get-started-btn">
-                            <a href="javascript:void(0)" onclick="javascript:getStarted()">Join The Movement&nbsp;&nbsp;&nbsp;<i class="fas fa-angle-double-down"></i></a>
+                        <div>
+                            <a class="get-started-btn" href="javascript:void(0)" onclick="javascript:getStarted()">Join The Movement</a>
+                            <br><a class="why-important" href="javascript:void()" onclick="$('.video-area').slideDown()">Why is this important?</a>
                         </div>
                     </div>
                 </div>
@@ -130,12 +132,12 @@
 
     <!-- video area start -->
 
-    <div class="video-aera">
+    <div class="video-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h2>#TheDoorstepChallenge</h2>
+                        <h2>Why #TheDoorstepChallenge?</h2>
                     </div>
                 </div>
             </div>
@@ -166,7 +168,7 @@
 
     <div class="help-area">
         <div class="container">
-            <div class="row">
+            <div class="row mb-4">
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2>Start with who needs help</h2>
@@ -273,7 +275,7 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/heart-icon.png" alt=""></span>
                                 <h2>Feel <span>Identify the need.</span></h2>
                             </div>
-                            <p><span>Connect!</span> Find out more about how this pandemic is impacting others. Look for news clips, articles or social media clips to learn more. Choose a neighbor or a community organization who is impacted by this pandemic.
+                            <p><span>Connect!</span> Find out more about how this pandemic is impacting the group you chose. Look for news clips, articles or social media clips to learn more.
                             </p>
                             <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
@@ -287,7 +289,7 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/light-icon.png" alt=""></span>
                                 <h2>Imagine <span>Get creative.</span></h2>
                             </div>
-                            <p><span>Brainstorm!</span> Jot down safe ways you could make an impact right now. Choose something to do as a part of this #doorstepchallenge.
+                            <p><span>Brainstorm!</span> Jot down safe ways you could make an impact right now. Ask your friends or family for help.
 
                             </p>
                             <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
@@ -302,7 +304,7 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt=""></span>
                                 <h2>Do <span>Make a difference.</span></h2>
                             </div>
-                            <p><span>Act!</span> Take the steps necessary.</p>
+                            <p><span>Act!</span> Make it happen, safely.</p>
                             <div class="do-list-wrp">
                                 <div class="do-list">
                                     <h4>Some examples:</h4>
@@ -349,7 +351,7 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt=""></span>
                                 <h2>share <span>Tell your story.</span></h2>
                             </div>
-                            <p><span>Post!</span> Upload a picture or video of your action, using the hashtag <a href="">#TheDoorstepChallenge</a>. Tag <a href="" style="color: #0096db">@dfcusa</a>. Tag your friends and challenge them to take on the <a href="">#TheDoorstepChallenge</a>.
+                            <p><span>Post!</span> Upload a picture or video of what you did, using the hashtag <a href="">#TheDoorstepChallenge</a>. Tag <a href="https://twitter.com/dfcusa" target="_new">@dfcusa</a>. Tag your friends and challenge them to take on the <a href="">#TheDoorstepChallenge</a>.
 
                             </p>
 
@@ -359,8 +361,8 @@
                                 <div class="do-list">
                                     <h4>Tips for posting on social media</h4>
                                     <ul>
-                                        <li>Shoot it horizontally</li>
-                                        <li>Tell your story using the words Feel, Imagine, Do, Share</li>
+                                        <li>Shoot it horizontally.</li>
+                                        <li>Tell your story using the words Feel, Imagine, Do, Share.</li>
                                         <li>In your post, say: "I took #thedoorstepchallenge"<br/>and tag your friends.</li>
                                     </ul>
 
