@@ -134,7 +134,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="video-blk-inner pt-3">
+                    <div class="video-blk-inner pt-5">
                         <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
                                 <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?colorscheme=dynamic&amp;theme=billboard&amp;show_header=0" data-title="My social wall" data-width="100%" data-height="400"></script>
