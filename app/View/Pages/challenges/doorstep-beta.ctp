@@ -70,20 +70,63 @@
                             <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/header-title-img.png" alt="">
                         </div>
                         <div class="hero-text-all-inner">
+                            <h2>one small act of kindness</h2>
                             <p>A virtual or a physical doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="social">
-            <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;theme=fluid&amp;show_header=0&scrollable=0" data-title="#thedoorstepchallenge" data-width="100%" data-height="400" data-lazyload="1"></script>
-        </div>
     </div>
     <!-- Hero area end -->
 
-    <div class="video-social-divide"></div>
+    <div class="option-lists">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-3 text-center">
+                <div class="single-option-list">
+                   
+                    <div class="opt-icon">
+                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/heart-icon.png" alt="" style="width: 90px">
+                    </div>
+                    <h2>Feel</h2>
+                    <p>Identify the need</p>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="single-option-list">
+                    <div class="opt-icon">
+                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/light-icon.png" alt="" style="width: 90px">
+                    </div>
+                    <h2>Imagine</h2>
+                    <p>Get creative</p>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="single-option-list">
+                    <div class="opt-icon">
+                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt="" style="width: 90px">
+                    </div>
+                    <h2>Do</h2>
+                    <p>Make a difference</p>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="single-option-list">
+                    <div class="opt-icon">
+                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt="" style="width: 90px">
+                    </div>
+                    <h2>Share</h2>
+                    <p>Tell your story</p>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="video-social-divide">
+
+    </div>
 
     <!-- video area start -->
 
@@ -94,7 +137,7 @@
                     <div class="video-blk-inner pt-3">
                         <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" style="border-radius: 50px" src="https://www.youtube.com/embed/Nh3CVqCi82Y?rel=0" height="380" allowfullscreen></iframe>
+                                <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?colorscheme=dynamic&amp;theme=billboard&amp;show_header=0" data-title="My social wall" data-width="100%" data-height="400"></script>
                             </div>
                         </div>
                     </div>
