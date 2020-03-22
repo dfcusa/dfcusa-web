@@ -124,11 +124,13 @@
             </div>
         </div>
 
-        <div class="social hide">
-            <div id="flockler-embed-170f9a9cecf0bf619b093b5b7dd88f94"></div><script src="https://flockler.embed.codes/jm4GyK" async></script>
+        <div class="social">
+            <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;theme=fluid&amp;show_header=0&scrollable=0" data-title="#thedoorstepchallenge" data-width="100%" data-height="400" data-lazyload="1"></script>
         </div>
     </div>
     <!-- Hero area end -->
+
+    <div class="video-social-divide"></div>
 
     <!-- video area start -->
 
@@ -366,7 +368,7 @@
                                     <ul>
                                         <li>Shoot it horizontally.</li>
                                         <li>Tell your story using the words Feel, Imagine, Do, Share.</li>
-                                        <li>In your post, say: "I took #thedoorstepchallenge"<br/>and tag your friends.</li>
+                                        <li>In your video, say: "I took #thedoorstepchallenge" and challenge your friends.</li>
                                     </ul>
 
                                 </div>

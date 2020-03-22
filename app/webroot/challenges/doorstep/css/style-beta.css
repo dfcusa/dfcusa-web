@@ -54,19 +54,19 @@ a:hover { text-decoration: none }
 .social {
   position: absolute;
   right: 0px;
-  top: 800px;
+  top: 300px;
   height: 200px;
   width: 100%;
 }
 
 .video-social-divide {
   width: 100%;
-  height: 200px;
-  margin-top: -200px;
+  height: 50px;
+  margin-top: -65px;
   position: absolute;
   z-index: 999;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,fff9f9+24,7db9e8+100 */
-  background-image: url('/dfcusa-web/app/webroot/challenges/doorstep/img/transdivide.png');
+  background-image: url('/dfcusa-web/app/webroot/challenges/doorstep/img/transdivide-short.png');
 }
 
 .dfc-logo {
@@ -102,7 +102,7 @@ a:hover { text-decoration: none }
 }
 .hero-text-all-inner p {
   font-size: 23px;
-  color: #eec0ca;
+  color: #fff;
 }
 .hero-text-all-inner {
   max-width: 770px;
@@ -127,11 +127,11 @@ a:hover { text-decoration: none }
   max-width: 64px;
 }
 .hero-area {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 40px;
   margin-bottom: 400px;
   background-size: cover;
-  background-position: center center;
+  background-position: -10px -409px;
 }
 
 .hero-area.big {
@@ -202,6 +202,14 @@ a:hover { text-decoration: none }
 }
 .clg-container {
   font-size: 16px;
+}
+
+.clg-container h2 {
+  color: #d0063c;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 20px;
+  text-align: left;
 }
 .clg {
   position: relative;
