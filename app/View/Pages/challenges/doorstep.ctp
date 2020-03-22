@@ -124,7 +124,7 @@
             </div>
         </div>
 
-        <div class="social">
+        <div class="social hide-mobile">
             <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;theme=fluid&amp;show_header=0&scrollable=0" data-title="#thedoorstepchallenge" data-width="100%" data-height="400" data-lazyload="1"></script>
         </div>
     </div>
