@@ -117,7 +117,7 @@
                         </div>
                         <div>
                             <a class="get-started-btn" href="javascript:void(0)" onclick="javascript:getStarted()">Join The Movement</a>
-                            <br><a class="why-important" href="javascript:void()" onclick="$('.video-area').slideDown()">Why is this important?</a>
+                            <br><a class="why-important hide" href="javascript:void()" onclick="$('.video-area').slideDown()">Why is this important?</a>
                         </div>
                     </div>
                 </div>
