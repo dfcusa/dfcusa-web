@@ -19,7 +19,7 @@
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/meanmenu.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/owl.carousel.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/default.css" rel="stylesheet">
-    <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/style.css" rel="stylesheet">
+    <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/style.css?version=1.1" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/responsive.css" rel="stylesheet">
 
 
