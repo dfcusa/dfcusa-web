@@ -72,7 +72,7 @@
                         </div>
                         <div class="hero-text-all-inner">
                             <p>A virtual or a physical doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</p>
-                            <h2>Here's how you can help:</p>
+                            <h2>Here's how:</p>
                         </div>
                         <div class="option-lists">
                             <div class="row">
