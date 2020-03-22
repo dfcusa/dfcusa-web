@@ -146,7 +146,7 @@
                     <div class="video-blk-inner pt-3">
                         <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Nh3CVqCi82Y?rel=0" width="430" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" style="border-radius: 50px" src="https://www.youtube.com/embed/Nh3CVqCi82Y?rel=0" height="380" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
