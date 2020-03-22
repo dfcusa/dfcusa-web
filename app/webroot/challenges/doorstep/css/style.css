@@ -175,7 +175,7 @@ a:hover { text-decoration: none }
   font-weight: 700;
 }
 .video-area {
-  padding: 60px 0;
+  padding: 50px 0;
 }
 .section-title {
 }
@@ -189,14 +189,17 @@ a:hover { text-decoration: none }
 .clg p span {
   font-weight: 600;
 }
+.clg-container {
+  font-size: 16px;
+}
 .clg {
   position: relative;
 }
 .clg img {
   position: absolute;
-  left: -72px;
+  left: -90px;
   max-width: 52px;
-  top: 44px;
+  top: -25px;
 }
 
 
@@ -350,7 +353,7 @@ a:hover { text-decoration: none }
 .row.single-row.step-2 {
   max-width: 100%;
   width: 100%;
-  margin-top: 160px;
+  margin-top: 70px;
 }
 
 .step-text-blk {
