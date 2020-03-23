@@ -72,7 +72,7 @@
             </div>
             <h1 class="heading">#TheDoorstepChallenge</h1>
             <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
-            <p class="lead">Take 4 steps to help your neighbors during the COVID-19 pandemic.</p>
+            <p class="lead">Take 4 steps to help your community during the COVID-19 pandemic.</p>
             <div class="row fids-list">
               <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
               <div class="col text-center">
