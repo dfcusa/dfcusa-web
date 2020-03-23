@@ -10,9 +10,13 @@
     <title>Take #TheDoorstepChallenge</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
 
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
+  <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/lity.min.css">
+  <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
 
-    <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/bootstrap.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/all.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/doorstep/css/fontawesome.css" rel="stylesheet">
@@ -58,100 +62,105 @@
       </script>
     <?php } ?>
 
-
-    <!-- Hero area start -->
-
-    <div class="hero-area" style="background-image: url(/dfcusa-web/app/webroot/challenges/doorstep/img/header-bg.jpg);">
+    <header>
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="hero-texts">
-                        <div class="hero-top-title-logo">
-                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/header-title-img.png" alt="">
-                        </div>
-                        <div class="hero-text-all-inner">
-                            <h2>one small act of kindness</h2>
-                            <p>A virtual or a physical doorstep... it doesn't matter. <br> Young people are helping their neighbors during the COVID-19 pandemic.</p>
-                        </div>
-                    </div>
-                </div>
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a target="_parent" class="navbar-brand" href="/">
+                <img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg"
+                     alt="Design for Change Logo"
+                     class="img-fluid">
+            </a>
+            <h3>presents</h3>
+          </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+      <div class="hero-container">
+            <h1 class="heading">#TheDoorstepChallenge</h1>
+            <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
+            <p class="lead">Take 4 steps to help your neighbors during the COVID-19 pandemic.</p>
+            <div class="row fids-list">
+              <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
+              <div class="col text-center">
+                  <div class="single-stage-list">
+                      <div class="opt-icon">
+                          <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/heart-icon.png" alt="" style="width: 60px">
+                      </div>
+                      <h2>Feel</h2>
+                      <p>Identify the need</p>
+                  </div>
+              </div>
+              <div class="col text-center">
+                  <div class="single-stage-list">
+                      <div class="opt-icon">
+                          <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/light-icon.png" alt="" style="width: 60px">
+                      </div>
+                      <h2>Imagine</h2>
+                      <p>Get creative</p>
+                  </div>
+              </div>
+              <div class="col text-center">
+                  <div class="single-stage-list">
+                      <div class="opt-icon">
+                          <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt="" style="width: 60px">
+                      </div>
+                      <h2>Do</h2>
+                      <p>Make a difference</p>
+                  </div>
+              </div>
+              <div class="col text-center">
+                  <div class="single-stage-list">
+                      <div class="opt-icon">
+                          <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt="" style="width: 60px">
+                      </div>
+                      <h2>Share</h2>
+                      <p>Challenge others</p>
+                  </div>
+              </div>
             </div>
         </div>
-    </div>
-    <!-- Hero area end -->
+    </section>
 
-    <div class="option-lists">
-      <div class="container">
-        <div class="row">
-            <div class="col-md-3 text-center">
-                <div class="single-option-list">
-                   
-                    <div class="opt-icon">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/heart-icon.png" alt="" style="width: 90px">
-                    </div>
-                    <h2>Feel</h2>
-                    <p>Identify the need</p>
-                </div>
-            </div>
-            <div class="col-md-3 text-center">
-                <div class="single-option-list">
-                    <div class="opt-icon">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/light-icon.png" alt="" style="width: 90px">
-                    </div>
-                    <h2>Imagine</h2>
-                    <p>Get creative</p>
-                </div>
-            </div>
-            <div class="col-md-3 text-center">
-                <div class="single-option-list">
-                    <div class="opt-icon">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt="" style="width: 90px">
-                    </div>
-                    <h2>Do</h2>
-                    <p>Make a difference</p>
-                </div>
-            </div>
-            <div class="col-md-3 text-center">
-                <div class="single-option-list">
-                    <div class="opt-icon">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt="" style="width: 90px">
-                    </div>
-                    <h2>Share</h2>
-                    <p>Tell your story</p>
-                </div>
-            </div>
+    <section class="video-area pt-5 pb-5">
+      <div class="row w-75 mx-auto">
+        <div class="col-lg-6" style="background-image: url('/dfcusa-web/app/webroot/challenges/doorstep/img/phonevideo.png'); background-size: 100%; background-position-y: -45px">
+          <iframe width="500" height="315" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col-lg-6 clg-container">
+          <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
+          <p>Now more than ever, we must come together to show our compassion and humanity. </p>
+          <p>We challenge young people to take on #TheDoorstepChallenge!</p>
+          <p>Perform a small act of kindness for your family, friends, or neighbors, and deliver it to them virtually or to their front door.</p>
+          <img class="mx-auto text-center accent" src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" alt="">
         </div>
       </div>
-    </div>
+    </section>
 
-    <div class="video-social-divide">
 
-    </div>
-
-    <!-- video area start -->
-
-    <div class="video-area">
+    <div class="video-area hide">
         <div class="container">
             <div class="row">
+              <div class="col-lg-4 pt-4 clg-container">
+                  <h2>Why #TheDoorstepChallenge?</h2>
+                  <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
+                  <p>Now more than ever, we must come together to show our compassion and humanity. </p>
+                  <div class="clg">
+                      <img src="/dfcusa-web/app/webroot/img/accent_arrow.png" alt="">
+                      <p><span>We challenge young people to take on #TheDoorstepChallenge!</span><br/><br>Perform a small act of kindness for your family, friends, or neighbors, and deliver it to them virtually or to their front door.</p>
+                  </div>
+              </div>              
+                <div class="col-lg-1"></div>
                 <div class="col-lg-6">
                     <div class="video-blk-inner pt-5">
                         <div class="video-main-wrp">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?colorscheme=dynamic&amp;theme=billboard&amp;show_header=0" data-title="My social wall" data-width="100%" data-height="400"></script>
+                                <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;colorscheme=light&amp;theme=fluid&amp;show_header=0&amp;autoscroll=1&amp;columns=2" data-title="My social wall" data-width="100%" data-height="500" data-lazyload="1"></script>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-1"></div>
-                <div class="col-lg-4 pt-4 clg-container">
-                    <h2>Why #TheDoorstepChallenge?</h2>
-                    <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
-                    <p>Now more than ever, we must come together to show our compassion and humanity. </p>
-                    <div class="clg">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/love.png" alt="">
-                        <p><span>We challenge young people to take on #TheDoorstepChallenge!</span><br/><br>Perform a small act of kindness for your family, friends, or neighbors, and deliver it to them virtually or to their front door.</p>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
@@ -163,11 +172,11 @@
 
     <div class="help-area">
         <div class="container">
-            <div class="row mb-4">
+            <div class="row mb-3">
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2>Start with who needs help</h2>
-                        <p>Consider these different groups and how they might be <br> impacted by COVID-19:</p>
+                        <p>Consider these different groups and how they might be impacted by COVID-19:</p>
                     </div>
                 </div>
             </div>
@@ -254,7 +263,6 @@
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2><span>Then take #</span>TheDoorstepChallenge</h2>
-                        <p>You can get started right at home.</p>
                     </div>
                 </div>
                 <div class="row single-row step-1">
@@ -270,7 +278,7 @@
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/heart-icon.png" alt=""></span>
                                 <h2>Feel <span>Identify the need.</span></h2>
                             </div>
-                            <p><span>Connect!</span> Find out more about how this pandemic is impacting the group you chose. Look for news clips, articles or social media clips to learn more.
+                            <p><span>Connect!</span> Look for news clips, articles or social media clips to learn more about the group you chose.
                             </p>
                             <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
@@ -297,7 +305,7 @@
                             <img class="b-3" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-3.png" alt="">
                             <div class="step-blk-top">
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt=""></span>
-                                <h2>Do <span>Make a difference.</span></h2>
+                                <h2>Do <span>Act now.</span></h2>
                             </div>
                             <p><span>Act!</span> Make it happen, safely.</p>
                             <div class="do-list-wrp">
@@ -344,7 +352,7 @@
                             <img class="b-5" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-5.png" alt="">
                             <div class="step-blk-top">
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt=""></span>
-                                <h2>share <span>Tell your story.</span></h2>
+                                <h2>share <span>Challenge others.</span></h2>
                             </div>
                             <p><span>Post!</span> Upload a picture or video of what you did, using the hashtag <a href="">#TheDoorstepChallenge</a>. Tag <a href="https://twitter.com/dfcusa" target="_new">@dfcusa</a>. Tag your friends and challenge them to take on the <a href="">#TheDoorstepChallenge</a>.
 
