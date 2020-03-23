@@ -21,4 +21,5 @@ mix
     })
     .sourceMaps(true, 'source-map', 'source-map')
 
-    .sass('app/webroot/sass/modern/app.scss', 'app/webroot/css/modern');
+    .sass('app/webroot/sass/modern/app.scss', 'app/webroot/css/modern')
+    .sass('app/webroot/challenges/doorstep/sass/style-beta.scss', 'app/webroot/challenges/doorstep/css');

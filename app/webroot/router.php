@@ -24,4 +24,10 @@ if( preg_match('/^\/dfcusa-web/', $path) ){
     exit;
 }
 
+if( preg_match('/^\/doorstepchallenge/', $path) ){
+    require_once __DIR__ . '/../View/Pages/challenges/doorstep-beta.ctp';
+    header("Location: $path");
+    exit;
+}
+
 include "$dir/index.php";
