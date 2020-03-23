@@ -118,7 +118,7 @@
     <section class="video-area pt-5 pb-5">
       <div class="row w-75 mx-auto">
         <div class="col-lg-6">
-          <iframe width="450" height="250" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="450" height="250" style="border-radius: 20px" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-lg-6 clg-container">
           <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
