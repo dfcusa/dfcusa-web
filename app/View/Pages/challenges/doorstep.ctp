@@ -331,6 +331,18 @@
 
     <!-- step area end -->
 
+    <div class="social-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="section-title">
+                  <h2>Get Inspired</h2>
+              </div>
+              <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;theme=fluid&amp;show_header=0" data-title="#TheDoorstepChallenge" data-width="100%" data-height="500" data-lazyload="1"></script>
+            </div>
+          </div>
+        </div>
+      </div>
 
     <!-- Footer top area start -->
 
