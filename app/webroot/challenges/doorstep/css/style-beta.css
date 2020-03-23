@@ -47,14 +47,20 @@ body {
   color: #545051;
   font-family: 'Open Sans', sans-serif; }
 
-header .navbar h3 {
-  font-family: 'Kalam', cursive;
-  font-size: 15pt;
-  margin-top: 50px; }
-
 .hero {
   padding-top: 2em;
   padding-bottom: 2em; }
+  .hero .logo-container {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transform: rotate(-8deg); }
+    .hero .logo-container img {
+      width: 150px; }
+    .hero .logo-container p {
+      color: #fff;
+      font-size: 13pt;
+      font-family: 'Kalam', cursive; }
   .hero .hero-container {
     max-width: none; }
     .hero .hero-container .heading {

@@ -62,21 +62,14 @@
       </script>
     <?php } ?>
 
-    <header>
-        <div class="container">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <a target="_parent" class="navbar-brand" href="/">
-                <img src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg"
-                     alt="Design for Change Logo"
-                     class="img-fluid">
-            </a>
-            <h3>presents</h3>
-          </nav>
-        </div>
-    </header>
-
     <section class="hero">
       <div class="hero-container">
+            <div class="logo-container">
+              <a href="/">
+                <img class="logo" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="Design for Change Logo">
+                <p>presents</p>
+              </a>
+            </div>
             <h1 class="heading">#TheDoorstepChallenge</h1>
             <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
             <p class="lead">Take 4 steps to help your neighbors during the COVID-19 pandemic.</p>
@@ -124,7 +117,7 @@
 
     <section class="video-area pt-5 pb-5">
       <div class="row w-75 mx-auto">
-        <div class="col-lg-6" style="background-image: url('/dfcusa-web/app/webroot/challenges/doorstep/img/phonevideo.png'); background-size: 100%; background-position-y: -45px">
+        <div class="col-lg-6" style="background-image: url('/dfcusa-web/app/webroot/challenges/doorstep/img/phonevideo.png'); background-size: 100%; background-repeat: no-repeat; background-position-y: -45px">
           <iframe width="500" height="315" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-lg-6 clg-container">
