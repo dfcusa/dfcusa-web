@@ -234,7 +234,7 @@
                     <div class="col-lg-5">
                         <div class="step-img-main">
                             <img class="br-1" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-1.png" alt="">
-                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/home-img.png" alt="">
+                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/home-img.png" alt="" width="300">
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -250,8 +250,10 @@
                     </div>
                 </div>
                 <div class="row single-row step-2">
-                    <div class="col-lg-12">
-                        <div class="step-text-blk">
+                    <div class="col-lg-1">
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="step-text-blk" style="width: 100%">
                             <img class="br-2" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-2.png" alt="">
                             <div class="step-blk-top">
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/light-icon.png" alt=""></span>
@@ -263,58 +265,41 @@
                             <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                         </div>
                     </div>
-                </div>
-                <div class="row single-row step-3">
                     <div class="col-lg-7">
-                        <div class="step-text-blk">
-                            <img class="b-3" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-3.png" alt="">
-                            <div class="step-blk-top">
-                                <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt=""></span>
-                                <h2>Do <span>Act now.</span></h2>
-                            </div>
-                            <p><span>Act!</span> Make it happen, safely.</p>
-                            <div class="do-list-wrp">
-                                <div class="do-list">
-                                    <h4>Some examples:</h4>
-                                    <ul>
-                                        <li>Calling elders</li>
-                                        <li>Doing chores</li>
-                                        <li>Online Tutoring</li>
-                                        <li>Online book club</li>
-                                        <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
-                                    </ul>
-                                    <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
-                                </div>
-                                <div class="do-list">
-                                    <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/call-img.png" alt="">
-                                    <a href=""><i class="fal fa-question-circle"></i>Be safe! You can work online</a>
-                                </div>
-                            </div>
+                      <div class="step-text-blk">
+                          <img class="b-3" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-3a.png" alt="">
+                          <div class="step-blk-top">
+                              <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/do-icon.png" alt=""></span>
+                              <h2>Do <span>Act now.</span></h2>
+                          </div>
+                          <p><span>Act!</span> Make it happen, safely.</p>
+                          <div class="do-list-wrp">
+                              <div class="do-list">
+                                  <h4>Some examples:</h4>
+                                  <ul>
+                                      <li>Calling elders</li>
+                                      <li>Doing chores</li>
+                                      <li>Online Tutoring</li>
+                                      <li>Online book club</li>
+                                      <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
+                                  </ul>
+                                  <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                              </div>
+                              <div class="do-list">
+                                  <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/call-img.png" alt="">
+                                  <a href=""><i class="fal fa-question-circle"></i>Be safe! You can work online</a>
+                              </div>
+                          </div>
 
-                        </div>
+                      </div>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="step-img-main tm-img">
-
-                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/step-3.png" alt="">
-                        </div>
-                    </div>
-
-
                 </div>
-
 
                 <div class="row single-row step-4">
-
-                    <div class="col-lg-5 d-flex order-last order-lg-first">
-                        <div class="step-img-main tm-img">
-
-                            <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/step-4-img.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-7">
-                        <div class="step-text-blk">
-                            <img class="b-5" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-5.png" alt="">
+                    <div class="col-lg-11 mx-auto">
+                        <img class="house" src="/dfcusa-web/app/webroot/challenges/doorstep/img/step-3.png" width="250" alt="">
+                        <div class="step-text-blk" style="width: 100%">
+                            <img class="br-5" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-5a.png" alt="">
                             <div class="step-blk-top">
                                 <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/doorstep/img/share-icon.png" alt=""></span>
                                 <h2>share <span>Challenge others.</span></h2>
