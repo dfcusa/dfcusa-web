@@ -107,7 +107,7 @@ body {
   color: #666;
   position: relative;
   font-weight: 500; }
-  .video-area iframe {
+  .video-area iframe-phone {
     border-radius: 20px;
     position: absolute;
     top: 14px;
