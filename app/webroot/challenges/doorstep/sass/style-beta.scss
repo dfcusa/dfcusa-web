@@ -80,6 +80,19 @@ header {
 	}
 }
 
+.section-title {
+	text-align: center;
+	margin-bottom: 42px;
+	h2 {
+		color: #d0063c;
+		font-size: 38px;
+		font-weight: bold;
+	}
+	p {
+		font-size: 13pt;
+	}
+}
+
 .fids-list {
 	padding-top: 30px;
 	width: 50%;
@@ -145,22 +158,9 @@ header {
 	}
 }
 
-.section-title {
-	text-align: center;
-	margin-bottom: 42px;
-	h2 {
-		color: #d0063c;
-		font-size: 38px;
-		font-weight: bold;
-	}
-	p {
-		font-size: 13pt;
-	}
-}
-
 .help-area {
 	background: #0096db;
-	padding: 60px 0;
+	padding: 50px 0;
 	.section-title {
 		h2 {
 			color: #fff;
@@ -176,7 +176,7 @@ header {
 			-webkit-transform: translateY(-50%);
 			transform: translateY(-50%);
 			img {
-				max-width: 52px;
+				max-width: 32px;
 			}
 		}
 		button.owl-next {
@@ -187,7 +187,7 @@ header {
 
 	.hlp-img {
 		img {
-			max-width: 250px;
+			max-width: 150px;
 			margin: 0 auto;
 		}
 		margin-bottom: 19px;
@@ -200,7 +200,7 @@ header {
 		margin-top: 40px;
 		h3 {
 			color: #fff;
-			font-size: 20px;
+			font-size: 17px;
 			font-weight: 700;
 			margin-top: 12px;
 			margin-bottom: 9px;

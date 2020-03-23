@@ -137,34 +137,6 @@
       </div>
     </section>
 
-
-    <div class="video-area hide">
-        <div class="container">
-            <div class="row">
-              <div class="col-lg-4 pt-4 clg-container">
-                  <h2>Why #TheDoorstepChallenge?</h2>
-                  <p>The 2020 COVID-19 pandemic has left many of us feeling concerned about food, education, healthcare, childcare and job security. </p>
-                  <p>Now more than ever, we must come together to show our compassion and humanity. </p>
-                  <div class="clg">
-                      <img src="/dfcusa-web/app/webroot/img/accent_arrow.png" alt="">
-                      <p><span>We challenge young people to take on #TheDoorstepChallenge!</span><br/><br>Perform a small act of kindness for your family, friends, or neighbors, and deliver it to them virtually or to their front door.</p>
-                  </div>
-              </div>              
-                <div class="col-lg-1"></div>
-                <div class="col-lg-6">
-                    <div class="video-blk-inner pt-5">
-                        <div class="video-main-wrp">
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;colorscheme=light&amp;theme=fluid&amp;show_header=0&amp;autoscroll=1&amp;columns=2" data-title="My social wall" data-width="100%" data-height="500" data-lazyload="1"></script>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
     <!-- video area end -->
 
     <!-- Help area start -->

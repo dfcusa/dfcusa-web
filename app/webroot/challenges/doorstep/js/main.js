@@ -47,15 +47,15 @@
             responsiveClass:true,
             responsive:{
                 0:{
-                    items:1,
+                    items:5,
                    
                 },
                 768:{
-                    items:3,
+                    items:5,
                    
                 },
                 1000:{
-                    items:3,
+                    items:5,
                    
                 }
             },
