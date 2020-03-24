@@ -10,7 +10,7 @@
     <title>#DoGoodFromHome</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
@@ -60,87 +60,86 @@
       </script>
     <?php } ?>
 
+    <div style="position: relative; background-image: url('/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/phone.png'); background-size: 100%; width: 380px; height: 590px; background-repeat: no-repeat; position: absolute; right: 250px; top: 70px; z-index: 999">
+      <iframe width="244" height="526" style="position: absolute; top: 15px; left: 70px; border-radius: 28px" src="https://www.youtube.com/embed/lylwHmgAMpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
     <section class="hero">
       <div class="hero-container">
-        <div class="logo-container ">
+        <div class="logo-container">
           <a href="/">
             <img class="logo-dfc" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="Design for Change Logo">&nbsp;&nbsp;&
             <img class="logo-hasbro" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/hasbro_logo.png" alt="Hasbo Logo">
             <p>present</p>
           </a>
         </div>
-        <div class="row">
-          <div class="col-lg-12 mx-auto">
-            <h1 class="heading">The <span class="big">#DoGoodFromHome</span> Challenge</h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6">
-            <iframe width="450" height="300" style="border-radius: 20px" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-          <div class="col-lg-5 pt-3">
-            <img class="accent-star hide" src="/dfcusa-web/app/webroot/img/accent_star.png">
-            <div class="fids-list">
-              <div class="row">
-                <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
-                <div class="col text-center">
-                    <div class="single-stage-list">
-                        <div class="opt-icon">
-                          <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/heart-icon.png" alt="" style="width: 60px">
-                        </div>
-                        <h2>Feel</h2>
-                        <p>Understand the need</p>
-                    </div>
-                </div>
-                <div class="col text-center">
-                    <div class="single-stage-list">
-                        <div class="opt-icon">
-                          <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/light-icon.png" alt="" style="width: 60px">
-                        </div>
-                        <h2>Imagine</h2>
-                        <p>Get creative</p>
-                    </div>
-                </div>
-              </div>
-              <div class="row pt-5">
-                <div class="col text-center">
-                    <div class="single-stage-list">
-                        <div class="opt-icon">
-                          <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/do-icon.png" alt="" style="width: 60px">
-                        </div>
-                        <h2>Do</h2>
-                        <p>Make a difference</p>
-                    </div>
-                </div>
-                <div class="col text-center">
-                    <div class="single-stage-list">
-                        <div class="opt-icon">
-                          <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/share-icon.png" alt="" style="width: 60px">
-                        </div>
-                        <h2>Share</h2>
-                        <p>Challenge others</p>
-                    </div>
-                </div>
-              </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 mx-auto pt-0">
+              <h1 class="heading pt-5">The<br/><span class="big"><i class="fab fa-slack-hash" style="font-size: 55px; margin-right: 5px"></i>DoGoodFromHome</span><br/>Challenge</h1>
+            </div>
+            <div class="col-lg-5 pt-3">
+              <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="why-area mx-auto w-75 pt-5 pb-5">
+    <section class="why-area mx-auto pt-5 pb-5 w-75">
+      <img class="mx-auto text-center accent" src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" alt="">
       <div class="container">
-          <div class="row">
-              <div class="col-lg-12 clg-container">
-                <div class="section-title text-left">
-                  <h2>Kids and teens everywhere are taking the challenge</h2>
-                </div>
-                <br/>
-                  <p>The COVID-19 pandemic has left people feeling uncertain, anxious and up against new challenges. Young people have and continue to lead the country in doing good.</p>
-                  <p>Join the #dogoodfromhome challenge!</p>
-                  <img class="mx-auto text-center accent" src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" alt="">
+        <div class="row">
+            <div class="col-lg-7 clg-container pt-2">
+              <div class="section-title text-center">
+                <h2>Kids and teens are taking the challenge</h2>
               </div>
-          </div>
+              <div class="fids-list w-1 pt-4 pb-4">
+                <div class="row">
+                  <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
+                  <div class="col text-center">
+                      <div class="single-stage-list">
+                          <div class="opt-icon">
+                            <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/heart-icon.png" alt="" style="width: 60px">
+                          </div>
+                          <h2>Feel</h2>
+                          <p>Understand<br/>the need</p>
+                      </div>
+                  </div>
+                  <div class="col text-center">
+                      <div class="single-stage-list">
+                          <div class="opt-icon">
+                            <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/light-icon.png" alt="" style="width: 60px">
+                          </div>
+                          <h2>Imagine</h2>
+                          <p>Get<br/>creative</p>
+                      </div>
+                  </div>
+                  <div class="col text-center">
+                      <div class="single-stage-list">
+                          <div class="opt-icon">
+                            <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/do-icon.png" alt="" style="width: 60px">
+                          </div>
+                          <h2>Do</h2>
+                          <p>Make a difference</p>
+                      </div>
+                  </div>
+                  <div class="col text-center">
+                      <div class="single-stage-list">
+                          <div class="opt-icon">
+                            <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/share-icon.png" alt="" style="width: 60px">
+                          </div>
+                          <h2>Share</h2>
+                          <p>Challenge others</p>
+                      </div>
+                  </div>
+                </div>
+              </div>
+<!-- 
+                <p>The COVID-19 pandemic has left people feeling uncertain, anxious and up against new challenges. Young people have and continue to lead the country in doing good.</p>
+                <p>Join the #dogoodfromhome challenge!</p> -->
+            </div>
+        </div>
       </div>
     </section>
 
@@ -253,7 +252,7 @@
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/heart-icon.png" alt=""></span>
                             <h2>Feel <span>Understand the need.</span></h2>
                         </div>
-                        <p><span>Connect!</span> Look for news clips, articles or social media clips to learn more about the group you chose.
+                        <p><span>Connect!</span> Look for news clips, article and social media posts to learn more about how others feel.
                         </p>
                         <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                     </div>
@@ -289,7 +288,7 @@
                                 <ul>
                                     <li>Calling elders</li>
                                     <li>Doing chores</li>
-                                    <li>Online Tutoring</li>
+                                    <li>Online tutoring</li>
                                     <li>Online book club</li>
                                     <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
                                 </ul>
@@ -314,7 +313,7 @@
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/share-icon.png" alt=""></span>
                             <h2>share <span>Challenge others.</span></h2>
                         </div>
-                        <p><span>Post!</span> Share a video or picture of what you did using the hashtag <a href="">#DoGoodFromHome</a>. Tag your friends and challenge them to take on the challenge.
+                        <p><span>Post!</span> Share a video or picture of what you did using the hashtag <a href="">#DoGoodFromHome</a>. Tag your friends and inspire them to take on the challenge.
 
                         </p>
 

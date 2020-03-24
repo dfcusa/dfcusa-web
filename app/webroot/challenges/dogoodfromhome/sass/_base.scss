@@ -73,18 +73,19 @@ body {
     }
     p {
       color: #fff;
-      font-size: 13pt;
+      font-size: 10pt;
       margin-top: -10px;
-      font-family: 'Kalam', cursive;
+      font-family: 'Arial', cursive;
     }
   }
   .hero-container {
     max-width: none;
     .heading {
-      font-size: 45px;
+      font-size: 35px;
       font-weight: 300;
+      transform: rotate(-3deg);
       .big {
-        font-family: 'Oswald';
+        font-family: 'Anton';
         font-size: 75px;
       }
     }
@@ -115,10 +116,7 @@ body {
 }
 
 .fids-list {
-  padding-top: 30px;
-  width: 75%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
   position: relative;
 
   .accent-arrow {
@@ -132,14 +130,14 @@ body {
       font-size: 23px;
       font-weight: 900;
       text-transform: uppercase;
-      color: #fff;
+      color: #545051;
       margin-bottom: 4px;
       margin-top: 10px;
     }
 
     p {
       font-size: 17px;
-      color: #fff;
+      color: #545051;
       margin: 0;
     }
   }
@@ -155,13 +153,13 @@ body {
     margin-bottom: 0px;
 
     h2 {
-      font-size: 32pt;
+      font-size: 22pt;
     }
   }
 
   .accent {
     position: absolute;
-    bottom: 0px;
+    bottom: 70px;
     right: -70px;
     z-index: -1;
   }

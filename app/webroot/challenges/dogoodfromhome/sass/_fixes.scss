@@ -8,10 +8,12 @@
     }
 
     .logo-container {
-      position: relative;
-      top: auto;
-      left: auto;
-      margin: auto;
+      @include media-md-down{
+        position: relative;
+        top: auto;
+        left: auto;
+        margin: auto;
+      }
     }
 
     .heading {
@@ -87,7 +89,7 @@
   }
 
   .row{
-    @include media-md-up{
+    @include media-md-only {
       margin-left: auto;
       margin-right: auto;
       width: 75%;
