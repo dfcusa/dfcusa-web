@@ -54,45 +54,170 @@ body {
 }
 
 
+.phone-embed{
+  overflow-x: hidden;
+  position: relative;
+  z-index: 1;
+  width: 380px;
+  height: 590px;
+  margin-top: -280px;
+  background: url('/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/phone.png') no-repeat;
+  background-size: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include media-xs-only{
+    margin-left: -10%;
+  }
+
+  @include media-lg-up{
+    position: absolute;
+    right: 80px;
+    top: 70px;
+    z-index: 999;
+    margin-top: 0;
+  }
+
+  @include media-xl-up{
+    right: 180px;
+  }
+
+
+  &-wrap{
+
+  }
+
+}
+
+
 .hero {
   padding-top: 1em;
   padding-bottom: 1em;
+  height: 600px;
+  text-align: left;
+
+  @include media-lg-up{
+    height: auto;
+  }
+
+  .accent-star{
+    @include media-md-down{
+      top: 100%;
+      right: 0;
+      left: 50%;
+      transform: translateX(5%);
+    }
+  }
 
   .logo-container {
-    position: absolute;
-    top: 20px;
-    left: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+    @include media-lg-up{
+      position: absolute;
+      top: 20px;
+      left: 40px;
+    }
+
     a {
       color: #fff;
     }
+
     .logo-dfc {
       width: 100px;
     }
+
     .logo-hasbro {
       width: 90px;
     }
+
     p {
       color: #fff;
       font-size: 10pt;
       margin-top: -10px;
       font-family: 'Arial', cursive;
     }
+
   }
+
   .hero-container {
     max-width: none;
+
+    @include media-xl-down{
+      padding-top: 1rem;
+    }
+
+    .content{
+      position: relative;
+
+      @include media-md-down{
+        text-align: center;
+      }
+    }
+
+
     .heading {
       font-size: 35px;
       font-weight: 300;
       transform: rotate(-3deg);
+      margin-top: 1rem;
+      text-align: center;
+      display: inline-block;
+
+      @include media-xs-only{
+        font-size: 25px;
+      }
+
+      @include media-sm-down{
+        font-size: 25px;
+        margin-top: 0;
+      }
+
+      @include media-md-only{
+        margin-top: -50px;
+      }
+
+      @include media-lg-up{
+        margin-top: 2.5rem;
+        padding-left: 2rem;
+      }
+
+      @include media-xl-up{
+        margin-top: 2rem;
+        padding-left: 0;
+      }
+
       .big {
         font-family: 'Anton';
-        font-size: 80px;
+        display: block;
+
+        @include media-sm-down{
+          font-size: 26px;
+        }
+
+        @include media-md-only{
+          font-size: 46px;
+        }
+
+        @include media-lg-up{
+          font-size: 5vw;
+        }
+
+        @include media-xl-up{
+          font-size: 6vw;
+        }
       }
 
       .hashtag {
-        font-size: 55px;
-        margin-right: 5px;
+        font-size: 0.7em;
         color: #efff00;
+        line-height: 1em;
+        vertical-align: middle;
+        margin-right: 0.2em;
+
+        @include media-lg-up{
+
+        }
       }
     }
 
@@ -125,6 +250,22 @@ body {
   width: 100%;
   position: relative;
 
+  > .row{
+
+    .col{
+      margin-bottom: 1rem;
+      min-width: 100%;
+
+      @include media-sm-up{
+        min-width: 50%;
+      }
+
+      @include media-md-up{
+        min-width: 0;
+      }
+    }
+  }
+
   .accent-arrow {
     position: absolute;
     left: -100px;
@@ -154,6 +295,10 @@ body {
   color: #666;
   position: relative;
   font-weight: 500;
+
+  @include media-lg-up{
+    margin-top: 3rem;
+  }
 
   .section-title {
     margin-bottom: 0px;

@@ -235,9 +235,9 @@
 /* SM Small Device :320px. */
 @include media-sm-only {
 
-  br {
-    display: none;
-  }
+  //br {
+  //  display: none;
+  //}
 
   .help-slider {
     padding: 0 70px;

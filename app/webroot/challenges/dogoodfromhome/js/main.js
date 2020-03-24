@@ -33,7 +33,6 @@
           }
        
         var owl = $(".help-slider");
-              
         owl.owlCarousel({
             items:5,
             nav:true,

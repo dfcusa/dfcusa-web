@@ -1,59 +1,52 @@
-.hero {
-  overflow: hidden;
-  padding-top: 0em;
+//.hero {
+//  overflow: hidden;
+//  padding-top: 0em;
+//
+//  .hero-container {
+//    @include media-md-down{
+//      padding-bottom: 0.5rem;
+//    }
+//
+//    .logo-container {
+//      @include media-md-down{
+//        position: relative;
+//        top: auto;
+//        left: auto;
+//        margin: auto;
+//      }
+//    }
+//
+//    .heading {
+//
+//      @include media-lg-down {
+//        margin-top: 2rem;
+//      }
+//
+//      @include media-md-only {
+//        margin-top: 6rem;
+//        font-size: 3rem;
+//      }
+//
+//      @include media-sm-down {
+//        font-size: 1.3rem;
+//        .big {
+//          font-family: 'Anton';
+//          font-size: 80;
+//        }
+//      }
+//    }
+//
+//    iframe{
+//      width: 100%;
+//
+//      @include media-md-down{
+//        margin-top: 2em;
+//        margin-bottom: 1rem;
+//      }
+//    }
+//  }
+//}
 
-  .hero-container {
-    @include media-md-down{
-      padding-bottom: 0.5rem;
-    }
-
-    .logo-container {
-      @include media-md-down{
-        position: relative;
-        top: auto;
-        left: auto;
-        margin: auto;
-      }
-    }
-
-    .heading {
-
-      @include media-lg-down {
-        margin-top: 2rem;
-      }
-
-      @include media-md-only {
-        margin-top: 6rem;
-        font-size: 3rem;
-      }
-
-      @include media-sm-down {
-        font-size: 1.3rem;
-        .big {
-          font-family: 'Oswald';
-          font-size: 43px;
-        }
-      }
-    }
-
-    iframe{
-      width: 100%;
-
-      @include media-md-down{
-        margin-top: 2em;
-        margin-bottom: 1rem;
-      }
-    }
-  }
-}
-
-
-.fids-list{
-  @include media-md-down{
-    width: 85%;
-    margin-bottom: 1em;
-  }
-}
 
 .top-house{
   margin-left: 20%;
@@ -94,13 +87,13 @@
     }
   }
 
-  .row{
-    @include media-md-only {
-      margin-left: auto;
-      margin-right: auto;
-      width: 75%;
-    }
-  }
+  //.row{
+  //  @include media-md-only {
+  //    margin-left: auto;
+  //    margin-right: auto;
+  //    width: 75%;
+  //  }
+  //}
 
 }
 
