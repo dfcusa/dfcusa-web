@@ -80,9 +80,9 @@ class PagesController extends AppController {
 		}
 	}
 
-	public function doorstepchallenge() {
+	public function dogoodfromhome() {
 		$this->layout = 'blank';
-		$this->render('/Pages/challenges/doorstep');
+		$this->render('/Pages/challenges/dogoodfromhome');
 	}	
 
 	public function rawHeader() {

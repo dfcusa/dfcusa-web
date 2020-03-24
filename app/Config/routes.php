@@ -49,8 +49,9 @@
 	Router::connect('/pages/raw/header', array('controller' => 'pages', 'action' => 'rawHeader'));
 	Router::connect('/pages/raw/footer', array('controller' => 'pages', 'action' => 'rawFooter'));
 
-	Router::connect('/doorstepchallenge', array('controller' => 'pages', 'action' => 'doorstepchallenge'));
-	Router::connect('/thedoorstepchallenge', array('controller' => 'pages', 'action' => 'doorstepchallenge'));
+	Router::connect('/dogoodfromhome', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
+	Router::connect('/thedoorstepchallenge', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
+	Router::connect('/doorstepchallenge', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
 
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 
