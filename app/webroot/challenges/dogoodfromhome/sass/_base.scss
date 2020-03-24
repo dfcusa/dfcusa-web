@@ -192,7 +192,7 @@ body {
 
       @include media-sm-down{
         font-size: 25px;
-        margin-top: 0;
+        margin-top: 13px;
       }
 
       @include media-lg-up{
@@ -211,7 +211,7 @@ body {
         font-size: 24px;
 
         @include media-sm-only{
-          font-size: 28px;
+          font-size: 32px;
         }
 
         @include media-md-only{
@@ -346,6 +346,7 @@ body {
   .callout-box {
     position: relative;
     z-index: 999;
+    margin-left: 4em;
 
     h5 {
       font-size: 13pt;
@@ -579,10 +580,10 @@ body {
       margin-bottom: 21px;
     }
     .phone {
-      max-width: 202px;
+      max-width: 166px;
       display: block;
       margin-left: auto;
-      margin-top: -90px;
+      margin-top: -58px;
       padding-bottom: 30px;
     }
     .cdc {

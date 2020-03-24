@@ -140,10 +140,10 @@
               </div>
       </div>
       <div class="container pt-4">
-        <img class="accent-excl" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/cn-icon.png">
+        <img class="accent-excl hide-mobile" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/cn-icon.png">
         <div class="row">
-          <div class="col-lg-11 pt-3 mt-4 ml-5 p-4 callout-box">
-            <h5>COVID-19 has people feeling uncertain, isolated and anxious </h5>
+          <div class="col-lg-10 p-4 callout-box">
+            <h5>COVID-19 has people feeling uncertain, isolated and anxious.</h5>
             Millions of students are out of school and looking for ways to help! They are using their creativity and courage to do simple acts of good, starting a wave of kindness and compassion.
             <b>You are not helpless, change is possible and you can drive it!</b>
           </div>
@@ -162,7 +162,7 @@
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2>Pick a group you care about</h2>
-                        <p>Consider these different groups and how they might be impacted by COVID-19:</p>
+                        <p>Consider how they might be impacted by COVID-19 and show them how much you care:</p>
                     </div>
                 </div>
             </div>
@@ -258,9 +258,9 @@
                     <div class="step-text-blk">
                         <div class="step-blk-top">
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/heart-icon.png" alt=""></span>
-                            <h2>Feel <span>Understand the need.</span></h2>
+                            <h2>Feel <span>Understand the need</span></h2>
                         </div>
-                        <p><span>Connect!</span> Look for news clips, article and social media posts to learn more about how others feel.
+                        <p><span>Connect!</span> Look for news clips, article and social media posts to learn more about the group of people you chose. 
                         </p>
                         <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>How does this make you feel? Why?</li><li>How do others feel?</li><li>How does the person you're trying to help feel? Why?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                     </div>
@@ -274,12 +274,12 @@
                         <img class="br-2" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/br-2.png" alt="">
                         <div class="step-blk-top">
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/light-icon.png" alt=""></span>
-                            <h2>Imagine <span>Get creative.</span></h2>
+                            <h2>Imagine <span>Get creative</span></h2>
                         </div>
-                        <p><span>Brainstorm!</span> Jot down safe ways you could make an impact right now. Ask your friends or family for help.
+                        <p><span>Brainstorm!</span> Jot down ideas for safe ways you can make an impact right now. Ask your friends or family for help.
 
                         </p>
-                        <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Given how you feel, what do you think you can do about it?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
+                        <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Given your feelings, how can you help?</li><li>What are ways you have seen others take action?</li><li>What are ways you can safely take action?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -287,9 +287,9 @@
                         <img class="b-3" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/br-3a.png" alt="">
                         <div class="step-blk-top">
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/do-icon.png" alt=""></span>
-                            <h2>Do <span>Act now.</span></h2>
+                            <h2>Do <span>Act now</span></h2>
                         </div>
-                        <p><span>Act!</span> Make it happen, safely.</p>
+                        <p><span>Get Started!</span> Make your idea happen, safely.</p>
                         <div class="do-list-wrp">
                             <div class="do-list">
                                 <h4>Some examples:</h4>
@@ -298,7 +298,7 @@
                                     <li>Doing chores</li>
                                     <li>Online tutoring</li>
                                     <li>Online book club</li>
-                                    <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Start an online book club</li><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
+                                    <li><a href="javascript:void(0)" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>Call your grandparents or elderly neighbors to check in</li><li>Send elderly relatives a handwritten letter</li><li>Set up a virtual playdate with friends</li><li>Share information about how to get information about COVID-19</li><li>Start a happy email chain with your friends</li><li>Tell people why you’re grateful for them and post to social media</li><li>Host a virtual puppet show or concert</li><li>Teach a virtual class</li><li>Read a story to a younger sibling or cousin on video chat</li><li>Leave notes or gifts on your doorstep for delivery people</li><li>Write inspiring messages on your driveway with chalk</li><li>Do extra chores at home to help your parents</li><li>Make an exercise video for your classmates</li></ul></div>">More...</a></li>
                                 </ul>
                                 <a href="javascript:void(0)" id="tooltip" data-toggle="tooltip" data-placement="right" data-html="true" title="<div style='text-align:left;'><ul><li>What are the tools you need to take action?</li><li>How can others help you?</li><li>What are all the steps you need to take?</li></ul></div>"><i class="fal fa-question-circle"></i>Things to think about</a>
                             </div>
@@ -319,9 +319,9 @@
                         <img class="br-5" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/br-5a.png" alt="">
                         <div class="step-blk-top">
                             <span class="step-img"><img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/share-icon.png" alt=""></span>
-                            <h2>share <span>Challenge others.</span></h2>
+                            <h2>Share <span>Challenge others</span></h2>
                         </div>
-                        <p><span>Post!</span> Share a video or picture of what you did using the hashtag <a href="">#DoGoodFromHome</a>. Tag your friends and inspire them to take on the challenge.
+                        <p><span>Post!</span> Share a video or picture(s) of what you did using the hashtag <a href="https://twitter.com/search?q=%23dogoodfromhome" target="_new">#DoGoodFromHome</a>. Tag your friends and inspire them to take on the challenge.
 
                         </p>
 
@@ -353,7 +353,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="section-title">
-                  <h2>Get Inspired</h2>
+                  <h2>Get Inspired by Young Leaders Like You!</h2>
               </div>
               <script async src="https://walls.io/js/wallsio-widget-1.2.js" data-wallurl="https://walls.io/z3duf?nobackground=1&amp;theme=fluid&amp;show_header=0" data-title="#DoGoodFromHome" data-width="100%" data-height="500" data-lazyload="1"></script>
             </div>
