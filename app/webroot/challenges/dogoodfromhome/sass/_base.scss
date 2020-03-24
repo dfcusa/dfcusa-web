@@ -58,16 +58,18 @@ body {
   overflow-x: hidden;
   position: relative;
   z-index: 1;
-  width: 380px;
-  height: 590px;
-  margin-top: -280px;
+  width: 200px;
+  height: 327px;
+  margin-top: -150px;
   background: url('/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/phone.png') no-repeat;
   background-size: 100%;
   margin-left: auto;
   margin-right: auto;
 
-  @include media-xs-only{
-    margin-left: -10%;
+  @include media-sm-up{
+    width: 380px;
+    height: 590px;
+    margin-top: -280px;
   }
 
   @include media-lg-up{
@@ -82,9 +84,21 @@ body {
     right: 180px;
   }
 
+  iframe{
+    position: absolute;
+    border-radius: 16px;
+    top: 8px;
+    left: 37px;
+    width: 128px;
+    height: 277px;
 
-  &-wrap{
-
+    @include media-sm-up{
+      top: 15px;
+      left: 70px;
+      width: 243px;
+      border-radius: 28px;
+      height: 525px;
+    }
   }
 
 }
@@ -93,8 +107,12 @@ body {
 .hero {
   padding-top: 1em;
   padding-bottom: 1em;
-  height: 600px;
   text-align: left;
+  height: 400px;
+
+  @include media-sm-up{
+    height: 600px;
+  }
 
   @include media-lg-up{
     height: auto;
@@ -117,6 +135,10 @@ body {
       position: absolute;
       top: 20px;
       left: 40px;
+    }
+
+    @include media-md-down{
+      text-align: center;
     }
 
     a {
@@ -173,10 +195,6 @@ body {
         margin-top: 0;
       }
 
-      @include media-md-only{
-        margin-top: -50px;
-      }
-
       @include media-lg-up{
         margin-top: 2.5rem;
         padding-left: 2rem;
@@ -190,9 +208,10 @@ body {
       .big {
         font-family: 'Anton';
         display: block;
+        font-size: 24px;
 
-        @include media-sm-down{
-          font-size: 26px;
+        @include media-sm-only{
+          font-size: 28px;
         }
 
         @include media-md-only{
@@ -219,10 +238,6 @@ body {
 
         }
       }
-    }
-
-    iframe {
-      margin-top: 3em;
     }
 
     .lead {

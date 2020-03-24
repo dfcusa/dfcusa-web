@@ -67,18 +67,20 @@ body {
   overflow-x: hidden;
   position: relative;
   z-index: 1;
-  width: 380px;
-  height: 590px;
-  margin-top: -280px;
+  width: 200px;
+  height: 327px;
+  margin-top: -150px;
   background: url("/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/phone.png") no-repeat;
   background-size: 100%;
   margin-left: auto;
   margin-right: auto;
 }
 
-@media (max-width: 319px) {
+@media (min-width: 320px) {
   .phone-embed {
-    margin-left: -10%;
+    width: 380px;
+    height: 590px;
+    margin-top: -280px;
   }
 }
 
@@ -98,11 +100,36 @@ body {
   }
 }
 
+.phone-embed iframe {
+  position: absolute;
+  border-radius: 16px;
+  top: 8px;
+  left: 37px;
+  width: 128px;
+  height: 277px;
+}
+
+@media (min-width: 320px) {
+  .phone-embed iframe {
+    top: 15px;
+    left: 70px;
+    width: 243px;
+    border-radius: 28px;
+    height: 525px;
+  }
+}
+
 .hero {
   padding-top: 1em;
   padding-bottom: 1em;
-  height: 600px;
   text-align: left;
+  height: 400px;
+}
+
+@media (min-width: 320px) {
+  .hero {
+    height: 600px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -131,6 +158,12 @@ body {
     position: absolute;
     top: 20px;
     left: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .hero .logo-container {
+    text-align: center;
   }
 }
 
@@ -196,12 +229,6 @@ body {
   }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
-  .hero .hero-container .heading {
-    margin-top: -50px;
-  }
-}
-
 @media (min-width: 992px) {
   .hero .hero-container .heading {
     margin-top: 2.5rem;
@@ -219,11 +246,12 @@ body {
 .hero .hero-container .heading .big {
   font-family: "Anton";
   display: block;
+  font-size: 24px;
 }
 
-@media (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .hero .hero-container .heading .big {
-    font-size: 26px;
+    font-size: 28px;
   }
 }
 
@@ -251,10 +279,6 @@ body {
   line-height: 1em;
   vertical-align: middle;
   margin-right: 0.2em;
-}
-
-.hero .hero-container iframe {
-  margin-top: 3em;
 }
 
 .hero .hero-container .lead {
