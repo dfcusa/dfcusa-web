@@ -71,12 +71,12 @@
         </div>
         <div class="row">
           <div class="col-lg-12 mx-auto">
-            <h1 class="heading">The <font style="font-family: 'Oswald'; font-size: 75px">#DoGoodFromHome</font> Challenge</h1>
+            <h1 class="heading">The <span class="big">#DoGoodFromHome</span> Challenge</h1>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 pt-5 ml-5">
-            <iframe width="450" height="300" style="border-radius: 20px; margin-left: 50px" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <div class="col-lg-6">
+            <iframe width="450" height="300" style="border-radius: 20px" src="https://www.youtube.com/embed/Nh3CVqCi82Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="col-lg-5 pt-3">
             <img class="accent-star hide" src="/dfcusa-web/app/webroot/img/accent_star.png">

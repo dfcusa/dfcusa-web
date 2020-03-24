@@ -68,8 +68,11 @@ body {
   .hero .hero-container {
     max-width: none; }
     .hero .hero-container .heading {
-      font-size: 50px;
+      font-size: 45px;
       font-weight: 300; }
+      .hero .hero-container .heading .big {
+        font-family: 'Oswald';
+        font-size: 75px; }
     .hero .hero-container .lead {
       margin-top: 12pt;
       font-size: 15pt;
@@ -824,43 +827,63 @@ body {
     overflow: hidden; } }
 /* XS Small Device :550px. */
 .hero {
-  overflow: hidden; }
+  overflow: hidden;
+  padding-top: 0em; }
   @media (max-width: 991px) {
     .hero .hero-container {
       padding-bottom: 0.5rem; } }
+  .hero .hero-container .logo-container {
+    position: relative;
+    top: auto;
+    left: auto;
+    margin: auto; }
   @media (max-width: 1200px) {
     .hero .hero-container .heading {
-      margin-top: 4rem; } }
+      margin-top: 2rem; } }
   @media (min-width: 768px) and (max-width: 991px) {
     .hero .hero-container .heading {
       margin-top: 6rem;
       font-size: 3rem; } }
   @media (max-width: 767px) {
     .hero .hero-container .heading {
-      margin-top: 8rem;
-      font-size: 1.5rem; } }
+      font-size: 1.3rem; }
+      .hero .hero-container .heading .big {
+        font-family: 'Oswald';
+        font-size: 43px; } }
+  .hero .hero-container iframe {
+    width: 100%; }
+    @media (max-width: 991px) {
+      .hero .hero-container iframe {
+        margin-top: 2em;
+        margin-bottom: 1rem; } }
 
 @media (max-width: 991px) {
   .fids-list {
-    width: 70%; } }
+    width: 85%;
+    margin-bottom: 1em; } }
 
 @media (max-width: 991px) {
   .single-stage-list {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0rem;
     min-width: 50%; } }
+@media (max-width: 991px) {
+  .single-stage-list p {
+    margin-left: 11px !important;
+    margin-right: 11px !important; } }
 
-.video-area {
+.why-area {
   overflow-x: hidden; }
+  .why-area .accent {
+    right: 0px; }
+  @media (max-width: 991px) {
+    .why-area .section-title h2 {
+      font-size: 1.4em;
+      line-height: 1.3em; } }
   @media (min-width: 768px) {
-    .video-area .row {
+    .why-area .row {
       margin-left: auto;
       margin-right: auto;
       width: 75%; } }
-  .video-area iframe {
-    width: 100%; }
-    @media (max-width: 991px) {
-      .video-area iframe {
-        margin-bottom: 1rem; } }
 
 .step-area {
   overflow-x: hidden; }

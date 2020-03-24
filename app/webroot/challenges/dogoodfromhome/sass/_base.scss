@@ -81,8 +81,12 @@ body {
   .hero-container {
     max-width: none;
     .heading {
-      font-size: 50px;
+      font-size: 45px;
       font-weight: 300;
+      .big {
+        font-family: 'Oswald';
+        font-size: 75px;
+      }
     }
     .lead {
       margin-top: 12pt;

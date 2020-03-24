@@ -1,15 +1,23 @@
 .hero {
   overflow: hidden;
+  padding-top: 0em;
 
   .hero-container {
     @include media-md-down{
       padding-bottom: 0.5rem;
     }
 
+    .logo-container {
+      position: relative;
+      top: auto;
+      left: auto;
+      margin: auto;
+    }
+
     .heading {
 
       @include media-lg-down {
-        margin-top: 4rem;
+        margin-top: 2rem;
       }
 
       @include media-md-only {
@@ -18,8 +26,20 @@
       }
 
       @include media-sm-down {
-        margin-top: 8rem;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
+        .big {
+          font-family: 'Oswald';
+          font-size: 43px;
+        }
+      }
+    }
+
+    iframe{
+      width: 100%;
+
+      @include media-md-down{
+        margin-top: 2em;
+        margin-bottom: 1rem;
       }
     }
   }
@@ -28,7 +48,8 @@
 
 .fids-list{
   @include media-md-down{
-    width: 70%;
+    width: 85%;
+    margin-bottom: 1em;
   }
 }
 
@@ -36,28 +57,40 @@
 
 .single-stage-list{
   @include media-md-down{
-    margin-bottom: 1.5rem;
+    margin-bottom: 0rem;
     min-width: 50%;
+  }
+
+  p {
+    @include media-md-down{
+      margin-left: 11px !important;
+      margin-right: 11px !important;
+    }
   }
 }
 
 
-.video-area{
+.why-area{
   overflow-x: hidden;
+
+  .accent {
+    right: 0px;
+  }
+
+  .section-title {
+    h2 {
+      @include media-md-down{
+        font-size: 1.4em;
+        line-height: 1.3em;
+      }
+    }
+  }
 
   .row{
     @include media-md-up{
       margin-left: auto;
       margin-right: auto;
       width: 75%;
-    }
-  }
-
-  iframe{
-    width: 100%;
-
-    @include media-md-down{
-      margin-bottom: 1rem;
     }
   }
 
