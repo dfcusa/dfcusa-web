@@ -73,7 +73,11 @@ body {
       transform: rotate(-3deg); }
       .hero .hero-container .heading .big {
         font-family: 'Anton';
-        font-size: 75px; }
+        font-size: 80px; }
+      .hero .hero-container .heading .hashtag {
+        font-size: 55px;
+        margin-right: 5px;
+        color: #efff00; }
     .hero .hero-container iframe {
       margin-top: 3em; }
     .hero .hero-container .lead {
@@ -106,7 +110,7 @@ body {
     margin-bottom: 4px;
     margin-top: 10px; }
   .fids-list .single-stage-list p {
-    font-size: 17px;
+    font-size: 15px;
     color: #545051;
     margin: 0; }
 
@@ -118,12 +122,30 @@ body {
   .why-area .section-title {
     margin-bottom: 0px; }
     .why-area .section-title h2 {
-      font-size: 22pt; }
+      font-size: 23pt;
+      font-family: 'PT Sans';
+      padding-bottom: 5px;
+      border-bottom: 1px dashed #ccc; }
   .why-area .accent {
     position: absolute;
     bottom: 70px;
     right: -70px;
-    z-index: -1; }
+    z-index: 999; }
+  .why-area .accent-excl {
+    position: absolute;
+    bottom: 80px;
+    left: 20px;
+    z-index: 99999; }
+  .why-area .callout-box {
+    position: relative;
+    z-index: 999;
+    border-top: 1px solid #f1f1f1;
+    font-size: 11pt;
+    background-color: #f1f1f1;
+    border-radius: 30px; }
+    .why-area .callout-box h5 {
+      font-size: 13pt;
+      font-weight: bold; }
 
 .help-area {
   background: #0096db;
