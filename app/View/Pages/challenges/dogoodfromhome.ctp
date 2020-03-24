@@ -60,33 +60,36 @@
       </script>
     <?php } ?>
 
-    <div style="position: relative; background-image: url('/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/phone.png'); background-size: 100%; width: 380px; height: 590px; background-repeat: no-repeat; position: absolute; right: 180px; top: 70px; z-index: 999">
-      <iframe width="244" height="526" style="position: absolute; top: 15px; left: 70px; border-radius: 28px" src="https://www.youtube.com/embed/99N8psi4FoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
     <section class="hero">
-      <div class="hero-container">
-        <div class="logo-container">
-          <a href="/">
-            <img class="logo-dfc" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="Design for Change Logo">&nbsp;&nbsp;&
-            <img class="logo-hasbro" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/hasbro_logo.png" alt="Hasbo Logo">
-            <p>present</p>
-          </a>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-7 mx-auto pt-0">
-              <h1 class="heading pt-5 ml-5">The<br/><span class="big"><i class="fab fa-slack-hash hashtag"></i>DoGoodFromHome</span><br/>Challenge</h1>
+        <div class="hero-container">
+            <div class="logo-container">
+                <a href="/">
+                    <img class="logo-dfc" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg"
+                         alt="Design for Change Logo">&nbsp;&nbsp;&
+                    <img class="logo-hasbro" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/hasbro_logo.png"
+                         alt="Hasbo Logo">
+                    <p>present</p>
+                </a>
             </div>
-            <div class="col-lg-5 pt-3">
-              <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
+            <div class="content">
+                <div class="container">
+                    <h1 class="heading">
+                        The<span class="big"><i class="fab fa-slack-hash hashtag"></i>DoGoodFromHome</span>Challenge
+                    </h1>
+                    <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
+                </div>
             </div>
-          </div>
         </div>
-      </div>
     </section>
 
-    <section class="why-area mx-auto pt-5 pb-5 w-75">
+    <div class="phone-embed">
+        <iframe width="244" height="526"
+                src="https://www.youtube.com/embed/99N8psi4FoA" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+    </div>
+
+    <section class="why-area mx-auto pb-5 w-75">
       <img class="mx-auto text-center accent" src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" alt="">
       <div class="container">
         <div class="row">
