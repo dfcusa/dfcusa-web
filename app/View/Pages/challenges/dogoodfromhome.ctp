@@ -162,7 +162,7 @@
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2>Pick a group you care about</h2>
-                        <p>Consider how they might be impacted by COVID-19 and show them how much you care:</p>
+                        <p>Consider how they might be affected by COVID-19 and show them how much you care:</p>
                     </div>
                 </div>
             </div>
