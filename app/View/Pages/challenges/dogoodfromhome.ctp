@@ -62,7 +62,7 @@
 
     <section class="hero">
       <div class="hero-container">
-        <div class="logo-container">
+        <div class="logo-container ">
           <a href="/">
             <img class="logo-dfc" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg" alt="Design for Change Logo">&nbsp;&nbsp;&
             <img class="logo-hasbro" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/hasbro_logo.png" alt="Hasbo Logo">
@@ -133,7 +133,7 @@
           <div class="row">
               <div class="col-lg-12 clg-container">
                 <div class="section-title text-left">
-                  <h2>Calling children and teens to take the challenge!</h2>
+                  <h2>Kids and teens everywhere are taking the challenge</h2>
                 </div>
                 <br/>
                   <p>The COVID-19 pandemic has left people feeling uncertain, anxious and up against new challenges. Young people have and continue to lead the country in doing good.</p>
