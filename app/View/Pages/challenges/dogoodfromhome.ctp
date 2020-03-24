@@ -63,7 +63,7 @@
     <section class="hero">
         <div class="hero-container">
             <div class="logo-container">
-                <a href="/">
+                <a href="http://www.designforchange.us">
                     <img class="logo-dfc" src="/dfcusa-web/app/webroot/img/img_logo_dfc.svg"
                          alt="Design for Change Logo">&nbsp;&nbsp;&
                     <img class="logo-hasbro" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/hasbro_logo.png"
@@ -74,7 +74,7 @@
             <div class="content">
                 <div class="container">
                     <h1 class="heading">
-                        The<span class="big"><i class="fab fa-slack-hash hashtag"></i>DoGoodFromHome</span>Challenge
+                        The<span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: rgb(252, 239, 3)">Do</font>Good<font style="color: rgb(5, 204, 254)">From</font>Home</span>Challenge
                     </h1>
                     <img class="accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
                 </div>
