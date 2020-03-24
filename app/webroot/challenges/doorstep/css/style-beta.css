@@ -1140,6 +1140,16 @@ body {
   }
 }
 
+.top-house {
+  margin-left: 20%;
+}
+
+@media (max-width: 1200px) {
+  .top-house {
+    margin-left: 0;
+  }
+}
+
 @media (max-width: 991px) {
   .single-stage-list {
     margin-bottom: 1.5rem;
@@ -1173,6 +1183,12 @@ body {
   overflow-x: hidden;
 }
 
+@media (max-width: 991px) {
+  .step-area .step-img-main img.br-1 {
+    display: none;
+  }
+}
+
 @media (max-width: 1200px) {
   .step-area .do-list-wrp .do-list,
   .step-area .do-list-wrp .do-list + .do-list {
@@ -1194,7 +1210,7 @@ body {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 991px) {
   .step-area .row.step-1 {
     margin-top: 0;
   }

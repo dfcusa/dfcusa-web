@@ -233,7 +233,7 @@
                 <div class="col-lg-5">
                     <div class="step-img-main">
                         <img class="br-1" src="/dfcusa-web/app/webroot/challenges/doorstep/img/br-1.png" alt="">
-                        <img src="/dfcusa-web/app/webroot/challenges/doorstep/img/home-img.png" alt="" width="300">
+                        <img class="top-house" src="/dfcusa-web/app/webroot/challenges/doorstep/img/home-img.png" alt="" width="300">
                     </div>
                 </div>
                 <div class="col-lg-7">

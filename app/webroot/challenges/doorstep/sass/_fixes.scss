@@ -32,7 +32,13 @@
   }
 }
 
+.top-house{
+  margin-left: 20%;
 
+  @include media-lg-down{
+    margin-left: 0;
+  }
+}
 
 .single-stage-list{
   @include media-md-down{
@@ -67,6 +73,14 @@
 .step-area{
   overflow-x: hidden;
 
+  .step-img-main{
+    img.br-1{
+      @include media-md-down{
+        display: none;
+      }
+    }
+  }
+
   .do-list-wrp{
     .do-list{
       &, + .do-list {
@@ -91,7 +105,7 @@
 
   }
 
-  @include media-lg-down{
+  @include media-md-down{
 
     .row.step-1{
       margin-top: 0;
