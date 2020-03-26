@@ -36,7 +36,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item dropdown <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link dropdown-toggle" data-toggle="get-started" href="#" target="_parent">Our Program</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="get-started" href="/pages/how-it-works" target="_parent">Our Program</a>
                         <div class="dropdown-menu">
                           <a class="dropdown-item" href="/pages/how-it-works">How It Works</a>
                           <a class="dropdown-item" href="/pages/podcasts">Social Causes</a>

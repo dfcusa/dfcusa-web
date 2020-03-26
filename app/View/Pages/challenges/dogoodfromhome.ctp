@@ -9,6 +9,8 @@
 
     <title>#DoGoodFromHome</title>
 
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Anton&display=swap" rel="stylesheet">
 
@@ -143,9 +145,9 @@
         <img class="accent-excl hide-mobile" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/cn-icon.png">
         <div class="row">
           <div class="col-lg-10 p-4 callout-box">
-            <h5>COVID-19 has people feeling uncertain, isolated and anxious.</h5>
-            Millions of students are out of school and looking for ways to help! They are using their creativity and courage to do simple acts of good, starting a wave of kindness and compassion.
-            <b>You are not helpless, change is possible and you can drive it!</b>
+            <h5>COVID-19 has impacted many groups of people.</h5>
+            If you are out of school and looking for meaningful things to do, we’ll help you channel your energy into good. Use your creativity and courage to carry out simple acts of kindness and compassion. Take the lead. Be a changemaker!
+            <br/><b>You are not helpless, change is possible and you can drive it!</b>
           </div>
         </div>
       </div>
@@ -348,7 +350,7 @@
 
     <!-- step area end -->
 
-    <div class="social-area">
+    <div class="social-area pb-5">
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
@@ -367,44 +369,21 @@
        <img class="ds-logo" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/des-logo.png" alt="">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title">
-                        <h2><span>Supported by </span>Design For Change</h2>
-                        <p>Design For Change equips young people to transform empathy into social <br> action using a simple framework.
-                        </p>
-                    </div>
-                    <div class="video-tm">
-                        <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/kiran_sethi_kids_take_charge" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-                    </div>
-                    <div class="vide-bottom-des">
-                        <h4>The story of our founder, Kiran Bir Sethi</h4>
-                        <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were empowered, they could design a better world.</p>
-
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="subs-box">
-                        <div class="row">
-                            <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                                <img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/map-img.png" alt="">
-                            </div>
-                            <div class="col-lg-9">
-                                <div class="subs-all">
-                                    <h3>Free Resources for Students and Educators</h3>
-                                    <p>Sign up to receive our newsletter and other free resources.</p>
-                                    <div class="bg-success p-3 text-white success-box" style="display: none">Thanks for signing up!</div>
-                                    <div class="subs-form newsletter-signup">
-                                        <form action="">
-                                            <label for="">Email Address</label>
-                                            <input type="text" placeholder="" id="email">
-                                            <button type="button" onclick="javascript:submitNewsletter();">Sign Up</button>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
+                <div class="col-lg-8 mx-auto">
+                    <div class="section-title mb-0">
+                      <h2><span>Supported by </span>Design For Change</h2>
+                      <p>Design for Change is a global movement of youth-led change making.</p>
+                      <div class="row" style="margin-top: -2em">
+                        <div class="col-lg-5 text-left">
+                          <br/><br/>We activate young people to take action on social causes, starting with Empathy Podcasts and moving into design-thinking activities.
+                          <br/><br/>We offer free resources to educators - teachers, parents, administrators, counselors and other practitioners - who work with children from kindergarten through high school.
                         </div>
+                        <div class="col-lg-7 pt-5 mt-3 text-right">
+                          <img src="/dfcusa-web/app/webroot/img/globalgoalsgrid.png" style="width: 90%">
+                        </div>
+                      </div>
+                      <a href="https://designforchange.us" class="btn btn-danger mt-5 mb-3">Free resources for educators and parents here!</a>
+                      <br/><a style="font-size: 10pt" class="text-white" href="http://www.designforchange.us/donate">Design for Change USA is a 501(c)(3) non-profit. Support our cause.</a>
                     </div>
                 </div>
             </div>
@@ -424,33 +403,10 @@
     <script src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/js/jquery.meanmenu.js"></script>
     <script src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/js/owl.carousel.min.js"></script>
     <script src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/js/bootstrap.min.js"></script>
-
-
     <script src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/js/main.js"></script>
-
-
-
 </body>
 
 <script type="text/javascript">
-  function submitNewsletter() {
-    $.ajaxSetup({
-      contentType: 'application/json'
-    });
-
-    var data = {
-      'fields': [ {
-        'name': 'email',
-        'value': $('#email').val()
-      } ]
-    }
-    
-    $.post('https://api.hsforms.com/submissions/v3/integration/submit/6395720/4f577ebe-3e12-4f45-9440-c12935043e1b', JSON.stringify(data), function(data) {
-      $('.success-box').show();
-      $('.newsletter-signup').hide();
-    });
-  }
-
   function getStarted() {
     $([document.documentElement, document.body]).animate({
         scrollTop: $(".help-area").offset().top
@@ -461,6 +417,5 @@
     gaEvent('dogoodfromhome');
   });
 </script>
-
 
 </html>
