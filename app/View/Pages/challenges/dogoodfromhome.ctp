@@ -147,7 +147,7 @@
           <div class="col-lg-10 p-4 callout-box">
             <h5>COVID-19 has changed our lives and our world.</h5>
             While we are social distancing, let's connect through kindness. Use your compassion and creativity to do acts of good from home.
-            <b>Small acts can make a big difference! Take the #DoGoodFromHome Challenge now!</b>
+            <b>Small acts can make a big difference! Take the #DoGoodFromHome challenge now!</b>
           </div>
         </div>
       </div>
