@@ -145,9 +145,9 @@
         <img class="accent-excl hide-mobile" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/cn-icon.png">
         <div class="row">
           <div class="col-lg-10 p-4 callout-box">
-            <h5>COVID-19 has people feeling uncertain, isolated and anxious.</h5>
-            Use your imagination and creativity to do a simple act of good for those affected by COVID-19 and start a wave of kindness. Take the challenge and #DoGoodFromHome. 
-            <br/><br/><b>Small acts can make a big difference! Take the #DoGoodFromHome Challenge now!</b>
+            <h5>COVID-19 has changed our lives and our world.</h5>
+            While we are social distancing, let's connect through kindness. Use your compassion and creativity to do acts of good from home.
+            <b>Small acts can make a big difference! Take the #DoGoodFromHome Challenge now!</b>
           </div>
         </div>
       </div>
