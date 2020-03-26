@@ -378,8 +378,9 @@
                           <br/><br/>We activate young people to take action on social causes, starting with Empathy Podcasts and moving into design-thinking activities.
                           <br/><br/>We offer free resources to educators - teachers, parents, administrators, counselors and other practitioners - who work with children from kindergarten through high school.
                         </div>
-                        <div class="col-lg-7 pt-5 mt-3 text-right">
-                          <img src="/dfcusa-web/app/webroot/img/globalgoalsgrid.png" style="width: 90%">
+                        <div class="col-lg-7 pt-5 mt-0 text-right">
+                          <img src="/dfcusa-web/app/webroot/img/globalgoalsgrid.png" style="width: 100%" class="mb-2">
+                          <br/><i style="font-size: 10pt">Design for Change USA is aligned with the UN Global Goals</i>
                         </div>
                       </div>
                       <a href="https://designforchange.us" class="btn btn-danger mt-5 mb-3">Free resources for educators and parents here!</a>
