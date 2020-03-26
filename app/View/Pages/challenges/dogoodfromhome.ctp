@@ -145,9 +145,9 @@
         <img class="accent-excl hide-mobile" src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/cn-icon.png">
         <div class="row">
           <div class="col-lg-10 p-4 callout-box">
-            <h5>COVID-19 has impacted many groups of people.</h5>
-            If you are out of school and looking for meaningful things to do, we’ll help you channel your energy into good. Use your creativity and courage to carry out simple acts of kindness and compassion. Take the lead. Be a changemaker!
-            <br/><b>You are not helpless, change is possible and you can drive it!</b>
+            <h5>COVID-19 has people feeling uncertain, isolated and anxious.</h5>
+            Use your imagination and creativity to do a simple act of good for those affected by COVID-19 and start a wave of kindness. Take the challenge and #DoGoodFromHome. 
+            <br/><br/><b>Small acts can make a big difference! Take the #DoGoodFromHome Challenge now!</b>
           </div>
         </div>
       </div>
