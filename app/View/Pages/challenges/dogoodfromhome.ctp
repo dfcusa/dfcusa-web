@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col-lg-7 clg-container pt-2">
               <div class="section-title text-center ml-4 mb-2">
-                <h2>Kids and teens are taking the challenge</h2>
+                <h2 style="font-size: 1.7em">Calling on kids and teens to take the challenge!</h2>
               </div>
               <div class="fids-list w-1 pt-4 pb-4">
                 <div class="row">
