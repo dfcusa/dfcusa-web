@@ -25,7 +25,7 @@
     <link href="/dfcusa-web/app/webroot/challenges/dogoodfromhome/css/meanmenu.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/dogoodfromhome/css/owl.carousel.min.css" rel="stylesheet">
     <link href="/dfcusa-web/app/webroot/challenges/dogoodfromhome/css/default.css" rel="stylesheet">
-    <link href="/dfcusa-web/app/webroot/challenges/dogoodfromhome/css/style.css?version=1.2" rel="stylesheet">
+    <link href="/dfcusa-web/app/webroot/challenges/dogoodfromhome/css/style.css?version=1.3" rel="stylesheet">
 
   <?php if (in_array($_SERVER['SERVER_NAME'], ['localhost', '0.0.0.0'])) { ?>
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0093/4090.js" async="async"></script>
