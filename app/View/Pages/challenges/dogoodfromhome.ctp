@@ -396,9 +396,11 @@
                           <img src="/dfcusa-web/app/webroot/img/globalgoalsgrid.png" style="width: 100%" class="mb-2">
                           <br/><i style="font-size: 10pt">Design for Change USA is aligned with the UN Global Goals</i>
                         </div>
-                      </div>
-                      <a href="https://designforchange.us" class="btn btn-danger mt-5 mb-3">Free resources for educators and parents here!</a>
-                      <br/><a style="font-size: 10pt" class="text-white" href="http://www.designforchange.us/donate">Design for Change USA is a 501(c)(3) non-profit. Support our cause.</a>
+                        <div class="col-12 text-center mt-3">
+                          <a href="https://designforchange.us"><button class="btn btn-danger mt-3 mb-3" style="font-size: 0.9em">Get free resources for educators and parents!</button></a>
+                          <br/><a style="font-size: 10pt" class="text-white" href="http://www.designforchange.us/donate">Design for Change USA is a 501(c)(3) non-profit. Support our cause.</a>
+                        </div>
+                      </div>                      
                     </div>
                 </div>
             </div>
