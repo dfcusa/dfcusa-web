@@ -7,6 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
 
+    <meta property="og:image" content="https://designforchange.us/app/webroot/challenges/img/header.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://designforchange.us/dogoodfromhome" />
+    <meta property="og:title" content="The #DoGoodFromHome Challenge" />
+    <meta property="og:description" content="X" />
+
     <title>#DoGoodFromHome</title>
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
