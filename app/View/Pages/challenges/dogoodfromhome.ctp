@@ -10,7 +10,7 @@
     <meta property="og:image" content="https://designforchange.us/app/webroot/challenges/dogoodfromhome/img/header.png" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://designforchange.us/dogoodfromhome" />
-    <meta property="og:title" content="The #DoGoodFromHome Challenge" />
+    <meta property="og:title" content="Kids and teens are taking the #DoGoodFromHome challenge" />
     <meta property="og:description" content="X" />
 
     <title>#DoGoodFromHome</title>
