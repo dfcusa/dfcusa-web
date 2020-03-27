@@ -12,7 +12,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Anton&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Anton|BenchNine&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
@@ -82,11 +82,16 @@
                 </div>
             </div>
         </div>
+
+        <div class="gabe hide-mobile">
+          <i class="fas fa-hand-point-left"></i>
+          Actor Gabe Eggerling from<br/>Amazon Prime's The Kicks
+        </div>
     </section>
 
     <div class="phone-embed">
         <iframe width="244" height="526"
-                src="https://www.youtube.com/embed/99N8psi4FoA" frameborder="0"
+                src="https://www.youtube.com/embed/xJ8Nr1cYI0o?rel=0" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
     </div>

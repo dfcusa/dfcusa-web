@@ -53,7 +53,6 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-
 .phone-embed{
   overflow-x: hidden;
   position: relative;
@@ -87,7 +86,7 @@ body {
   iframe{
     position: absolute;
     border-radius: 16px;
-    top: 8px;
+    top: -10px;
     left: 37px;
     width: 128px;
     height: 277px;
@@ -99,7 +98,7 @@ body {
       border-radius: 28px;
       height: 525px;
     }
-  }
+  } 
 
 }
 
@@ -109,6 +108,18 @@ body {
   padding-bottom: 1em;
   text-align: left;
   height: 400px;
+
+  .gabe {
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+    font-size: 14pt;
+    color: #ffffff;
+    z-index: 9999;
+    width: 180px;
+    transform: rotate(-3deg);
+    font-family: 'BenchNine';
+  }
 
   @include media-sm-up{
     height: 600px;

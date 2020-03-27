@@ -76,7 +76,7 @@ body {
   .phone-embed iframe {
     position: absolute;
     border-radius: 16px;
-    top: 8px;
+    top: -10px;
     left: 37px;
     width: 128px;
     height: 277px; }
@@ -93,6 +93,16 @@ body {
   padding-bottom: 1em;
   text-align: left;
   height: 400px; }
+  .hero .gabe {
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+    font-size: 14pt;
+    color: #ffffff;
+    z-index: 9999;
+    width: 180px;
+    transform: rotate(-3deg);
+    font-family: 'BenchNine'; }
   @media (min-width: 320px) {
     .hero {
       height: 600px; } }
