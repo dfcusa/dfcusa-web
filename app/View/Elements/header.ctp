@@ -1,13 +1,12 @@
 <header>
 
-    <div class="top-bar navbar navbar-expand-lg hide">
+    <div class="top-bar navbar navbar-expand-lg">
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
                 <div class="content">
-                    Register your projects to be considered for the 2020 Be The Change Conference in São Paulo, Brazil!
-                    <a target="_parent" href="/dfcusa-pm/projects#project/new/submit"
-                       class="btn btn-primary btn-sm d-block d-lg-inline-block mt-2 mt-lg-0 text-uppercase">
-                        Register My Projects
+                    Looking for ways to help? <a target="_parent" href="/dogoodfromhome"
+                       class="btn btn-primary btn-sm d-block d-lg-inline-block ml-2 mt-2 mt-lg-0">
+                        Check out the #DoGoodFromHome challenge
                     </a>
                 </div>
             </div>

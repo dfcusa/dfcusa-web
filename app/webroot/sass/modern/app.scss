@@ -56,7 +56,6 @@
 
 
 
-
 .on-hover{
 	.hover{
 		display: none;
@@ -66,5 +65,34 @@
 		.hover{
 			display: block;
 		}
+	}
+}
+
+.dogoodfromhome {
+	position: absolute;
+	left: 30px;
+	top: 170px;
+	cursor: pointer;
+
+	.heading {
+	  font-size: 16px;
+	  font-weight: 300;
+	  transform: rotate(-3deg);
+	  text-align: center;
+	  display: inline-block;
+
+	  .big {
+	    font-family: 'Anton';
+	    display: block;
+	    font-size: 45px;
+	  }
+
+	  .hashtag {
+	    font-size: 0.7em;
+	    color: #efff00;
+	    line-height: 1em;
+	    vertical-align: middle;
+	    margin-right: 0.2em;
+	  }
 	}
 }
