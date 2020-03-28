@@ -246,9 +246,12 @@
                     </div>
                 </div>
             </div>
-            <div class="row hide">
-              <div class="col-lg-12 text-center">
-                <button class="btn btn-success mx-auto"><i class="fas fa-podcast"></i>&nbsp;&nbsp;Hear from people around the country who have been impacted</button>
+            <div class="row">
+              <div class="col-lg-9 text-center text-white">
+                Hear a short podcast from people around the country who have been impacted.<br/>
+                <button class="btn btn-success mx-auto show-podcast mt-3"><i class="fas fa-play"></i>&nbsp;&nbsp;Play</button>
+                <br/>
+                <audio class="audios mt-3 hide" id="podcast-audio" src="https://dfc-podcasts.s3.amazonaws.com/DoGoodFromHome/Design+for+Change+USA+-+DoGoodFromHome+-+Real+Voices.mp3" controls preload="auto"><source src="https://dfc-podcasts.s3.amazonaws.com/DoGoodFromHome/Design+for+Change+USA+-+DoGoodFromHome+-+Real+Voices.mp3" type="audio/mpeg"></audio>
               </div>
             </div>
         </div>
@@ -437,6 +440,12 @@
 
   $( document ).ready(function() {
     gaEvent('dogoodfromhome');
+
+    $('.show-podcast').unbind('click').click(function() {
+      $('.audios').removeClass('hide');
+      window.oPodcast = document.getElementById('podcast-audio');
+      window.oPodcast.play();
+    });
   });
 </script>
 
