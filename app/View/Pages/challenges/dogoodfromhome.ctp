@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" type="image/x-icon" href="/dfcusa-web/app/webroot/img/favicon.png">
 
-    <meta property="og:image" content="https://designforchange.us/app/webroot/challenges/dogoodfromhome/img/header.png" />
+    <meta property="og:image" content="https://designforchange.us/app/webroot/challenges/dogoodfromhome/img/square_header.png" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://designforchange.us/dogoodfromhome" />
     <meta property="og:title" content="Calling all kids and teens to take the Challenge!" />
