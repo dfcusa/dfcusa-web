@@ -13,6 +13,10 @@
 		$title = 'Education Community Service - Design for Change USA';
 		$description = 'Design for Change recognizes that every child can be a designer for change provided the right tools, resources, and support. Find out how to get started here!';
 
+	} else if ($_SERVER['REQUEST_URI'] == '/pages/podcasts') {
+		$title = 'Education Community Service - Design for Change USA';
+		$description = 'Design for Change recognizes that every child can be a designer for change provided the right tools, resources, and support. Find out how to get started here!';
+
 	} else if ($_SERVER['REQUEST_URI'] == '/pages/get-started/design-sprints') {
 		$title = 'Best Social Project Ideas - Design for Change USA';
 		$description = 'Design Sprints introduce students to design thinking for social impact with a 4-hour experience that can launch them in Community Projects. ';
@@ -61,3 +65,9 @@
 <meta name="description" content="<?php echo $description ?>">
 <meta name="author" content="Design for Change USA">
 <title><?php echo $title ?></title>
+
+<meta property="og:image" content="https://designforchange.us/app/webroot/img/logo_dfc_square.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="<?php echo $_SERVER['REQUEST_URI'] ?>" />
+<meta property="og:title" content="<?php echo $title ?>" />
+<meta property="og:description" content="<?php echo $description ?" />
