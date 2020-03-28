@@ -13,7 +13,7 @@
     <meta property="og:title" content="Calling all kids and teens to take the Challenge!" />
     <meta property="og:description" content="Small acts can make a big difference!" />
 
-    <meta name="twitter:card" content="https://designforchange.us/app/webroot/challenges/dogoodfromhome/img/header.png" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@dfcusa">
     <meta name="twitter:creator" content="@dfcusa">
     <meta name="twitter:title" content="Calling all kids and teens to take the Challenge!" />
