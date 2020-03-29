@@ -38,7 +38,7 @@
   }
 
   .callout-box {
-    @include media-md-down{
+    @include media-sm-down{
       margin-left: 0em;
     }
   }
