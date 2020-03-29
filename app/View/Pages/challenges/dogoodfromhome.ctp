@@ -20,6 +20,9 @@
     <meta name="twitter:description" content="Small acts can make a big difference!" />
     <meta name="twitter:image" content="https://designforchange.us/app/webroot/challenges/dogoodfromhome/img/header.png" />
 
+    <meta name="description" content="Small acts can make a big difference!" />
+    <meta name="keywords" content="kindess,do good" />
+
     <title>#DoGoodFromHome</title>
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>

@@ -36,7 +36,7 @@
         owl.owlCarousel({
             items:5,
             nav:true,
-            navText:['<img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/arrow-left.png" alt="">', '<img src="/dfcusa-web/app/webroot/challenges/dogoodfromhome/img/arrow-right.png" alt="">'],
+            navText:['<img src="img/arrow-left.png" alt="">', '<img src="img/arrow-right.png" alt="">'],
             dot:true,
             loop:true,
             margin:20,
