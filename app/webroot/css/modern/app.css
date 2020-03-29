@@ -8210,6 +8210,7 @@ button.bg-dark-green:focus {
 }
 
 .rounded,
+.story-chart-image,
 .design-thinking-classroom img,
 .video-box,
 .podcast-block,
@@ -12829,8 +12830,14 @@ a.text-dark-green:focus {
 }
 
 .lead-box.lead-count .num-compressed {
-  font-size: 3.4rem;
+  font-size: 3rem;
   letter-spacing: -0.2rem;
+}
+
+@media (min-width: 1200px) {
+  .lead-box.lead-count .num-compressed {
+    font-size: 3.4rem;
+  }
 }
 
 .lead-box.lead-offsetted {
@@ -13285,8 +13292,14 @@ a.text-dark-green:focus {
 
 .logo-list .logos .logo img {
   display: block;
-  width: 100px;
+  width: 75px;
   height: auto;
+}
+
+@media (min-width: 992px) {
+  .logo-list .logos .logo img {
+    width: 100px;
+  }
 }
 
 .customer_logos {
@@ -14218,6 +14231,14 @@ a.text-dark-green:focus {
   line-height: 1em;
   vertical-align: middle;
   margin-right: 0.2em;
+}
+
+.story-chart-image {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding-bottom: 1rem;
 }
 
 

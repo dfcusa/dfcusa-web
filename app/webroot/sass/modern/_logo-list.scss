@@ -50,8 +50,12 @@
 
       img{
         display: block;
-        width: 100px;
+        width: 75px;
         height: auto;
+
+        @include media-breakpoint-up(lg){
+          width: 100px;
+        }
       }
     }
   }

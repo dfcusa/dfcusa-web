@@ -88,8 +88,12 @@
       }
 
       &-compressed{
-        font-size: 3.4rem;
+        font-size: 3rem;
         letter-spacing: -0.2rem;
+
+        @include media-breakpoint-up(xl){
+          font-size: 3.4rem;
+        }
       }
     }
   }

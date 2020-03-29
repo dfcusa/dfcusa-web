@@ -110,3 +110,12 @@
 	  }
 	}
 }
+
+.story-chart-image{
+	@extend .rounded;
+
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	padding-bottom: 1rem;
+}
