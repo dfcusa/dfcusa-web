@@ -96,7 +96,7 @@
             <div class="lead-content mr-5">
                 <ol class="list-group w-100 mx-auto">
                     <li class="list-unstyled mb-5">
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-2 hide-mobile">
                                 <div class="big_number bg-success border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
                             </div>
@@ -109,9 +109,9 @@
                         </div>
                     </li>
                     <li class="list-unstyled mb-5">
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-2 hide-mobile">
-                                <div class="big_number bg-primary border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
+                                <div class="big_number bg-primary border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
                             </div>
                             <div class="col">
                                 <strong>We support student-driven social impact:</strong><br/>
@@ -121,9 +121,9 @@
                         </div>
                     </li>
                     <li class="list-unstyled mb-2 mt-0">
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-2 hide-mobile">
-                                <div class="big_number bg-warning border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
+                                <div class="big_number bg-warning border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
                             </div>
                             <div class="col">                     
                                 <strong>We connect you and your students to a global network:</strong><br/>

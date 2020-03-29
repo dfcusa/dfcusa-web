@@ -85,9 +85,9 @@
         </div>
         
         <div class="get-started-inner">
-            <div class="row">
+            <div class="row align-items-stretch">
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 d-flex">
                     <div class="lead-box lead-light-blue lead-offsetted img-center text-center">
                         <div class="lead-image">
                             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit_square.png" alt="">
@@ -106,7 +106,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 d-flex">
                     <div class="lead-box lead-orange lead-offsetted img-center text-center">
                         <div class="lead-image">
                             <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints_square.png">
@@ -125,7 +125,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 d-flex">
                     <div class="lead-box lead-magenta lead-offsetted img-center text-center">
                         <div class="lead-image">
                             <img src="/dfcusa-web/app/webroot/img/ico_c_projects_square.png" alt="">

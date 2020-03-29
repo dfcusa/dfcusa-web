@@ -22,11 +22,11 @@
 
                 <div class="content-image">
                     <div class="row">
-                        <div class="col-sm-6">
-                            <img class="img-fluid mb-4 rounded shadow"
+                        <div class="col-lg-6">
+                            <img class="story-chart-image"
                                  src="/dfcusa-web/app/webroot/img/photos/maleah.png">
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-lg-6">
 
                             <div class="row align-items-stretch">
                                 <div class="col-sm-6 mb-3">
