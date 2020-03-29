@@ -98,7 +98,7 @@
                     <li class="list-unstyled mb-5">
                         <div class="row">
                             <div class="col-2 hide-mobile">
-                                <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
+                                <div class="big_number bg-success border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
                             </div>
                             <div class="col">
                                 <strong>We elevate the work of educators:</strong><br/>
