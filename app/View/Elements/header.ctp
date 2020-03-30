@@ -24,7 +24,7 @@
 
             <button class="navbar-toggler ml-auto text-dark" type="button" data-toggle="collapse" data-target="#notice-top-bar"
                     aria-controls="notice-top-bar" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="far fa-newspaper"></i>
+                <i class="far fa-bell"></i>
             </button>
 
             <button class="navbar-toggler ml-1 text-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
