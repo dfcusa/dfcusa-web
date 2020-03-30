@@ -1,7 +1,7 @@
 <?php
 	
-	$title = 'Service Learning Projects - Design for Change USA';
-	$description = 'Design for Change equips young people to transform empathy into social action through innovative and collaborative experiences. Find out more here!';
+	$title = 'Free Resources for Educators and Parents | Design for Change USA';
+	$description = 'We offer free resources to educators - teachers, parents, administrators, counselors and other practitioners - who work with children from middle school through high school.';
 
 	if ($_SERVER['REQUEST_URI'] == '') {
 
