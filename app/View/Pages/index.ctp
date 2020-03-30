@@ -11,7 +11,7 @@
 
     <div class="dogoodfromhome" onclick="javascript:window.location.href = '/dogoodfromhome'">
         <h1 class="heading">
-          Looking for ways to help during COVID-19? Try the <span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: rgb(252, 239, 3)">Do</font>Good<font style="color: rgb(5, 204, 254)">From</font>Home</span>Challenge
+          Looking for ways to help during COVID-19? Take The <span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: rgb(252, 239, 3)">Do</font>Good<font style="color: rgb(5, 204, 254)">From</font>Home</span>Challenge
         </h1>
     </div>
 </section>
