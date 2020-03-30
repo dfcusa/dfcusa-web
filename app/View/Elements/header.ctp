@@ -4,7 +4,7 @@
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
                 <div class="content">
-                    Looking for ways to help? <a target="_parent" href="/dogoodfromhome"
+                    Looking for ways to help during the COVID-19 crisis? <a target="_parent" href="/dogoodfromhome"
                        class="btn btn-primary btn-sm d-block d-lg-inline-block ml-2 mt-2 mt-lg-0">
                         Check out the #DoGoodFromHome challenge
                     </a>
