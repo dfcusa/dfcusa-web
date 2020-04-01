@@ -61,7 +61,7 @@
                     </li>
                     <li class="mb-4 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        <a href="/dfcusa-web/podcasts">See full library of podcasts</a>
+                        <a href="/podcasts">See full library of podcasts</a>
                     </li>
                 </ul>
             </div>
