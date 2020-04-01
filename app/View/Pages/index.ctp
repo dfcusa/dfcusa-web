@@ -20,7 +20,7 @@
   <div class="container">
       <h3 class="heading">Supporters of Design for Change Global and DFC USA...</h3>
       <div class="logos">
-          <div class="logo"><a href="https://befearlessbekind.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_befearlessbekind.png"></a></div>
+          <div class="logo"><a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png"></a></div>
           <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg"></a></div>
           <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg"></a></div>
           <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png"></a></div>
