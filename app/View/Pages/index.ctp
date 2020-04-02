@@ -335,7 +335,7 @@
 <section class="logo-list my-5 py-4">
 	<div class="container">
         <h2 class="text-secondary">Awards & Recognition</h2>
-        <p class="mb-5">We're proud to be recognized on multiple platforms.</p>
+        <p class="mb-5">We are proud to be a partner of DFC Global who is recognized by:</p>
         <div class="logos logo-large">
             <div class="logo"><a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png"></a></div>
             <div class="logo"><a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png"></a></div>
