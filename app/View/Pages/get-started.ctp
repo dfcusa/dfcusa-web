@@ -80,7 +80,7 @@
         <div class="text-center">
             <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
             <h4 class="h5 mb-4 font-weight-normal">
-                Facilitate a lesson plan with your students that fits your time availability and classroom environment:
+                Facilitate a lesson path that fits your time availability and classroom environment:
             </h4>
         </div>
         
@@ -93,7 +93,7 @@
                             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit_square.png" alt="">
                         </div>
                         <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <h4 class="heading">EMPATHY WARMUPS</h4>
                             <div class="small">
                                 <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>
@@ -171,11 +171,7 @@
                         <ul class="list-unstyled h6 font-weight-normal">
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Free activities across all stages
-                            </li>
-                            <li class="mb-3 d-flex align-items-center">
-                                <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Free Design Sprint podcast episodes
+                                Free podcast episodes
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -183,12 +179,15 @@
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Free activities across all stages
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
                                 Upload project worksheets, pictures and videos
                             </li>
                             <li class="mb-4 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Submit your project to be elible as an Ambassador Team to
-                                attend the annual Be The Change conference
+                                Reach out for help and talk to experts
                             </li>
                         </ul>
 

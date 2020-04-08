@@ -136,7 +136,7 @@
                             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit_square.png" alt="">
                         </div>
                         <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <h4 class="heading">EMPATHY WARMUPS</h4>
                             <div class="small">
                                 <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>

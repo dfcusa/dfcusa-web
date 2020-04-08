@@ -21,7 +21,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                     <h4>Feel</h4>
-                    <p>Students listen to an Empathy Podcast about a social issue. They can also engage community members to go deeper.</p>
+                    <p>Students listen to a podcast about a social issue. They can also engage community members to go deeper.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid mt-4 rounded border">
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                     <h4>Imagine</h4>
-                    <p>Students work as a team to brainstorm solutions. They do this in the classroom or engage the community to get feedback.</p>
+                    <p>Students work as a team to brainstorm solutions - in the classroom or they go into the community to get feedback.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid mt-4 rounded border">
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                     <h4>Do</h4>
-                    <p>Teams develop an action plan to be reviewed in the classroom or taken into the community to implement and interate on.</p>
+                    <p>Teams develop an action plan to be reviewed in the classroom or they go into the community and implement it.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid mt-4 rounded border align-self-end">
                 </div>
             </div>

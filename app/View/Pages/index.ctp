@@ -34,9 +34,9 @@
 <section class="design-change reverse pb-5">
 	<div class="container">
 
-        <div class="lead shadow-lg p-5 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
-            <h2 class="heading text-black">Activate young people to take action on social causes.</h2>
-            Connect students to social causes through podcasts and<br/>activities that support them in turning empathy into action.
+        <div class="lead shadow-lg p-4 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
+            <h2 class="heading text-black">Activate your students to take action on social causes.</h2>
+            Connect students to social causes through <a href="/pages/podcasts">podcasts</a> and<br/>activities that support them to do real projects in their communities.
             <br/>
             <button class="btn btn-success btn-md mt-4"><a href="/pages/how-it-works" class="text-white"><i class="fas fa-external-link"></i>&nbsp;&nbsp;Learn how it works</a></button>
         </div>
@@ -76,7 +76,7 @@
                             <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="">
                         </div>
                         <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUP</h4>
+                            <h4 class="heading">EMPATHY WARMUPS</h4>
                             <div class="small">
                                 <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
                                 <p>
@@ -136,7 +136,7 @@
 <section class="design-change">
     <div class="container">
         <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars hide-mobile">
-        <p class="lead">Use a 4 step design framework to catalyze students to change their community and themselves:</p>
+        <p class="lead">We use a 4 step design framework to engage students to change their community and themselves:</p>
 
         <div class="program-icons">
 
@@ -194,6 +194,10 @@
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
                         Results in the development of key 21st Century skills including empathy, creativity, resourcefulness and collaboration
+                    </li>
+                    <li class="mb-3 d-flex align-items-center">
+                        <i class="fas fa-check-circle fa-2x mr-3"></i>
+                        <a href="/pages/how-it-works">Ready to start? See how it works</a>
                     </li>
                 </ul>
             </div>
