@@ -80,7 +80,7 @@
         <div class="text-center">
             <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
             <h4 class="h5 mb-4 font-weight-normal">
-                Facilitate a lesson path that fits your time availability and classroom environment:
+                Facilitate an activity path that fits your time availability and classroom environment:
             </h4>
         </div>
         
@@ -133,7 +133,7 @@
                         <div class="lead-content">
                             <h4 class="heading">COMMUNITY ACTION</h4>
                             <div class="small">
-                                <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
+                                <p>Activities that take your students into the community to discover issues they care about and do something about them.</p>
                                 <p>
                                     <strong>Time Commitment:</strong><br>
                                     10+ hours<br/><i>(in and out of classroom)</i>
@@ -175,7 +175,7 @@
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Guided lesson plans and step by step instructions
+                                Guided activities and step by step instructions
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>

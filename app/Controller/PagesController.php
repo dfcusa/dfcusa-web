@@ -85,6 +85,12 @@ class PagesController extends AppController {
 		$this->render('/Pages/challenges/dogoodfromhome');
 	}	
 
+	public function activities() {
+		echo '123';
+		$this->layout = 'blank';
+		$this->render('/Pages/podcasts');
+	}	
+
 	public function rawHeader() {
 		$this->layout = 'header';
 		$this->render('blank');

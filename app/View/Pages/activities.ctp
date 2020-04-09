@@ -1,15 +1,15 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">Build empathy in your students.</h4>
+    <h4 class="heading">Activities to Foster Empathy and Action</h4>
   </div>
 </section>
 
 <section class="page-content mb-5">
     <div class="container">
-      <h2 class="heading-secondary">Social Causes Activities and Podcasts</h2>
+      <h2 class="heading-secondary">Listen to a podcast, brainstorm ideas, make it happen!</h2>
 
-      <p class="mb-5">Choose a social cause to learn about and then select the activity path that works for you. These podcasts are under 10 minutes and have an accompanying presentation to introduce the topic to your students and get their brainstorming juices flowing!
+      <p class="mb-5">Choose a social cause to learn about and then select the <a href="/pages/get-started">activity path</a> that works for you and your students. These podcasts are under 10 minutes and introduce the topic to your students and get their brainstorming juices flowing!
       </p>
 
       <div id="podcasts-container" class="row mt-5">
