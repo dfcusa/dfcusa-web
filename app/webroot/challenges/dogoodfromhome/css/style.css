@@ -820,7 +820,7 @@ body {
 }
 @media (min-width: 768px) {
   .inspired-images > * {
-    flex: 1 1 50%;
+    flex: 1 1 33.33333333%;
   }
 }
 
