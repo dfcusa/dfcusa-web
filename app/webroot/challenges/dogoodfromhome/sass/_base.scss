@@ -108,6 +108,8 @@ body {
   padding-bottom: 1em;
   text-align: left;
   height: 400px;
+  position: relative;
+  box-shadow: 0px 3px 5px 0px rgba(176,176,176,1);
 
   .gabe {
     position: absolute;
@@ -122,7 +124,7 @@ body {
   }
 
   @include media-sm-up{
-    height: 600px;
+    height: 800px;
   }
 
   @include media-lg-up{
@@ -130,12 +132,26 @@ body {
   }
 
   .accent-star{
-    @include media-md-down{
-      top: 100%;
-      right: 0;
-      left: 50%;
-      transform: translateX(5%);
+    top: auto;
+    bottom: 120px;
+    right: 25%;
+
+    @include media-lg-up{
+      bottom: auto;
+      top: 10%;
+      right: 10%;
     }
+
+    //@include media-md-down{
+    //  top: 100%;
+    //  right: 0;
+    //  left: 50%;
+    //  transform: translateX(5%);
+    //}
+
+    //@include media-sm-down{
+    //  display: none;
+    //}
   }
 
   .logo-container {
@@ -793,4 +809,85 @@ body {
 
 .social-area {
   margin-top: 3px;
+}
+
+
+.hasbro-toys{
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  max-width: 600px;
+  margin: -1.2rem auto 0;
+
+  @include media-lg-up{
+    margin-left: 0;
+    max-width: 600px;
+    animation: hasbro-toys-animation 2s cubic-bezier(.38,.3,.31,1.44);
+  }
+
+  @include media-xl-up{
+    max-width: 57%;
+  }
+
+  .img-wrap{
+    flex: 0 0 120px;
+    position: relative;
+    flex-basis: 120px;
+  }
+
+  .mr-potato{
+    width: 100%;
+    height: auto;
+  }
+
+  .notification{
+    position: absolute;
+    right: -14px;
+    bottom: 30%;
+
+    i{
+      font-size: 25pt;
+      color: #fff;
+    }
+  }
+
+
+  &-content{
+    font-size: 12pt;
+    margin-left: 20px;
+    font-family: 'Viga', cursive;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+  }
+
+  .hasbro-text{
+    font-size: 14pt;
+    color: #ffec0d;
+  }
+
+}
+
+
+.inspired-images{
+  margin-left: -2px;
+  margin-right: -2px;
+
+  > *{
+    padding: 0 2px;
+    margin-bottom: 4px;
+    flex: 1 1 100%;
+
+    @include media-md-up{
+      flex: 1 1 50%;
+    }
+  }
+}
+
+
+@keyframes hasbro-toys-animation {
+  from{
+    transform: translateY(300px);
+  }
+  to{
+    transform: translateY(0);
+  }
 }

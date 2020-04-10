@@ -27,7 +27,7 @@
 
     <title>#DoGoodFromHome</title>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Anton|BenchNine|Viga&display=swap" rel="stylesheet">
@@ -42,7 +42,7 @@
     <link href="css/meanmenu.css" rel="stylesheet">
     <link href="css/owl.carousel.min.css" rel="stylesheet">
     <link href="css/default.css" rel="stylesheet">
-    <link href="css/style-compiled.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0093/4090.js" async="async"></script>
 
@@ -68,7 +68,7 @@
     }
   </script>
 
-    <section class="hero" style="padding-bottom: 6em; box-shadow: 0px 3px 5px 0px rgba(176,176,176,1);">
+    <section class="hero">
         <div class="hero-container">
             <div class="logo-container">
                 <a href="http://www.designforchange.us">
@@ -84,7 +84,6 @@
                     <h1 class="heading" style="margin-top: 1em">
                         The<span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: rgb(252, 239, 3)">Do</font>Good<font style="color: rgb(5, 204, 254)">From</font>Home</span>Challenge
                     </h1>
-                    <img class="accent-star" src="img/accent_star.png">
                 </div>
             </div>
         </div>
@@ -95,13 +94,20 @@
         </div>
 
       
-        <div style="position: absolute; bottom: -500px; left: 0px; width: 900px;" class="hasbro">
-          <img src="img/hasbrotoys2.png" style="width: 200px; float: left">
-          <div style="float: left; width: 650px; height: 300px; position: absolute; top: 50px; left: 170px; font-size: 12pt; margin-left: 20px; font-family: 'Viga', cursive; text-shadow: 1px 1px 2px rgba(150, 150, 150, 1); padding-top: 40px">
-            <div style="float: left; width: 50px"><i class="fad fa-comment-exclamation" style="font-size: 25pt; color: #fff"></i></div>
-            <div style="float: left; width: 600px; font-size: 14pt; color: #ffec0d">Hasbro will donate 25,000 toys and games to the children of COVID-19 essential workers for every act of good using #DoGoodFromHome!</div>
-          </div>
+        <div class="hasbro-toys">
+            <div class="img-wrap">
+                <img class="mr-potato" src="img/hasbrotoys2.png">
+                <div class="notification"><i class="fad fa-comment-exclamation"></i></div>
+            </div>
+            <div class="hasbro-toys-content">
+                <div class="hasbro-text">Hasbro will donate 25,000 toys and games to the children of COVID-19 essential
+                    workers for every act of good using #DoGoodFromHome!
+                </div>
+            </div>
         </div>
+
+        <img class="accent-star" src="img/accent_star.png">
+
     </section>
 
     <div class="phone-embed">
@@ -288,12 +294,41 @@
 
     <div class="step-area">
         <div class="container">
-          <div class="section-title">
-              <h2><span>Then </span>Get Inspired</h2>
-          </div>
-          <div class="row mx-auto">
-            <img src="img/inspiregrid.png">
-          </div>
+            <div class="section-title">
+                <h2><span>Then </span>Get Inspired</h2>
+            </div>
+            <div class="row inspired-images">
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%202@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%203@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%204@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%205@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%206@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%207@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%208@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%209@2x.png" alt="">
+                </div>
+                <div class="col">
+                    <img class="img-fluid" src="img/inspire/logo_FFArtboard%201%20copy%2010@2x.png" alt="">
+                </div>
+            </div>
         </div>
     </div>
 
@@ -542,7 +577,7 @@
   $( document ).ready(function() {
     gaEvent('dogoodfromhome');
 
-    $('.hasbro').animate({bottom:'-110px'}, 2000, "easeOutBounce");
+    // $('.hasbro').animate({bottom:'-110px'}, 0, "easeOutBounce");
 
     if (window.location.pathname != undefined) {
         mixpanel.track("View - DoGoodFromHome");
