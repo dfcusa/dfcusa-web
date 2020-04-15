@@ -7,7 +7,7 @@
 
 <section class="page-content">
 	<div class="container">
-		<iframe src="https://landing.designforchange.us/covid-19?hs_preview=IXpzHQbg-28199471001" style="border: 0px; width: 1000px; margin-left: auto; margin-right: auto; height: 800px; margin-top: -150px" scrolling="no">
+		<iframe src="https://landing.designforchange.us/covid-19?hs_preview=IXpzHQbg-28199471001" style="border: 0px; width: 1000px; margin-left: auto; margin-right: auto; height: 1100px; margin-top: -150px" scrolling="no">
 		</iframe>
 	</div>
 </section>
