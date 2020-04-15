@@ -81,13 +81,28 @@
 <?php echo $this->element('footer'); ?>
 
 <script>
+
+  function getUrlVars() {
+      var vars = {};
+      var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+          vars[key] = value;
+      });
+      return vars;
+  }
+
   $( document ).ready(function() {
     $('.user-profile,.profile-nav-dropdown').hover(function() {
       $('.profile-nav-dropdown').show();
     }, function() {
       $('.profile-nav-dropdown').hide();
     });
+
+    if (getUrlVars()["ref"] == 'covid-19') {
+      $('#alertModal').find('.modal-body').html('Thank you for your interest. Please check your inbox for the toolkit. In the mean time, explore all the free resources we have on our website.');
+      $('#alertModal').modal('show');
+    }
   });
+
 </script>
 
 <!-- Start of HubSpot Embed Code -->
@@ -95,4 +110,22 @@
 <!-- End of HubSpot Embed Code -->
 
 </body>
+
+<div id="alertModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Thank you!</h4>
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body">
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary noButton" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 </html>
