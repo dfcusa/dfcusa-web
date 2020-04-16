@@ -395,12 +395,13 @@ body {
 
 .help-area {
   background: #0096db;
-  padding: 50px 0;
+  padding: 40px 0;
   position: relative;
 
   .section-title {
     h2 {
       color: #fff;
+      font-size: 23pt;
     }
     color: #fff;
     margin-bottom: 0;
@@ -434,7 +435,7 @@ body {
 
   .hlp-img {
     img {
-      max-width: 150px;
+      max-width: 100px;
       margin: 0 auto;
     }
     margin-bottom: 19px;
@@ -447,7 +448,7 @@ body {
     margin-top: 40px;
     h3 {
       color: #fff;
-      font-size: 17px;
+      font-size: 16px;
       font-weight: 700;
       margin-top: 12px;
       margin-bottom: 9px;
@@ -1087,6 +1088,14 @@ body {
 
   img {
     max-width: 190px;
+  }
+
+  .takechallenge {
+    position: absolute;
+    left: -148px;
+    top: -43px;
+    width: 175px;
+    z-index: -01;
   }
 }
 

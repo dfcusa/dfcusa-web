@@ -238,16 +238,14 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="review-item mb-3">
-                    <p class="review-text">I love that my students learned to listen to each other better. They learned
-                        to share ideas, carefully critique each other and move forward. It was incredible and I hope
-                        they retain these communication and respect qualities for a lifetime.</p>
+                    <p class="review-text">I also wanted to say thank you all for this content. This speaks to me like nothing else I've encountered. I use the SDGs for projects and your program has been a gem in this rough time of distance teaching.</p>
                     <div class="review-author">
-                        <img src="/dfcusa-web/app/webroot/img/testimonials/charlenehitchcock.png"
+                        <img src="/dfcusa-web/app/webroot/img/testimonials/ronaldnober.png"
                              class="author-image">
-                        <h3 class="author-name">Charlene Hitchcock</h3>
+                        <h3 class="author-name">Ronald Nober</h3>
                         <div class="author-details">
-                            <div class="text-secondary">2nd Gr. Teacher</div>
-                            <div class="text-muted">Washington Elementary School, Sandpoint, ID</div>
+                            <div class="text-secondary">8th Gr. Teacher</div>
+                            <div class="text-muted">Southampton, NJ</div>
                         </div>
                     </div>
                 </div>

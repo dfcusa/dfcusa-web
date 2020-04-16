@@ -34,27 +34,27 @@
        
         var owl = $(".help-slider");
         owl.owlCarousel({
-            items:5,
+            items:7,
             nav:true,
             navText:['<img src="img/arrow-left.png" alt="">', '<img src="img/arrow-right.png" alt="">'],
             dot:true,
             loop:true,
-            margin:20,
+            margin:10,
             autoplay:false,
             autoplayTimeout:3000,
             smartSpeed:1000,
             responsiveClass:true,
             responsive:{
                 0:{
-                    items:1,
+                    items:2,
                    
                 },
                 768:{
-                    items:3,
+                    items:5,
                    
                 },
                 1000:{
-                    items:5,
+                    items:7,
                    
                 }
             },
