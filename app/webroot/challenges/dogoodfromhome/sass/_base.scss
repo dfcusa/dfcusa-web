@@ -908,28 +908,71 @@ body {
 
 }
 
-
 .inspired-images{
-  margin-left: -2px;
-  margin-right: -2px;
+  column-count: 1;
+  column-gap: 4px;
 
-  iframe {
-    border-radius: 5px;
+  @include media-md-up{
+    column-count: 2;
   }
 
-  .grid-item {
-    margin-bottom: 20px;
-    border: 0px;
-    display: inline-block;
-    width: 195px;
-    img {
-      width: 200px;
-      border-radius: 5px;
+  @include media-xl-up{
+    column-count: 3;
+  }
+
+  .inspire-video{
+    width: 100%;
+    margin-bottom: 4px;
+  }
+
+  .grid-item{
+    width: 100%;
+    display: flex;
+
+    a{
+      display: block;
+      width: 50%;
+      margin-bottom: 4px;
+      transition: transform 300ms;
+      transform-origin: 50% bottom;
+
+      &:active{
+        transform: perspective(500px) rotateX(0.13rad);
+      }
+
+      &:first-child{
+        padding-right: 2px;
+      }
+
+      &:last-child{
+        padding-left: 2px;
+      }
     }
   }
-
-  
 }
+
+
+//.inspired-images{
+//  margin-left: -2px;
+//  margin-right: -2px;
+//
+//  iframe {
+//    border-radius: 5px;
+//  }
+//
+//  .grid-item {
+//    margin-bottom: 20px;
+//    border: 0px;
+//    display: inline-block;
+//    width: 195px;
+//    img {
+//      width: 200px;
+//      border-radius: 5px;
+//    }
+//  }
+//
+//
+//}
 
 
 @keyframes hasbro-toys-animation {
@@ -1292,3 +1335,23 @@ body {
 }
 
 /* new Changes Css */
+
+.partners{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  .partner{
+    width: 120px;
+    margin: 0 0.6rem 0.6rem;
+
+    @include media-md-up{
+      width: 180px;
+    }
+
+    img{
+      width: 100%;
+    }
+  }
+}
