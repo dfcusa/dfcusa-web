@@ -3,6 +3,19 @@
 <html lang="en">
 
 <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128220370-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-128220370-3');
+
+      function gaEvent(eventStr) {
+        gtag('event', eventStr);
+      }
+    </script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -55,37 +68,6 @@
 
 <body>
 
-    <?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
-      <!-- Google Tag Manager -->
-      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-5BBRV75');</script>
-      <!-- End Google Tag Manager -->
-
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-128220370-1');
-
-        function gaEvent(eventStr) {
-          gtag('event', eventStr);
-        }
-      </script>
-    <?php } else { ?>
-      <script>
-        function gaEvent(eventStr) {
-          console.log('ga: ' + eventStr);
-        }
-      </script>
-    <?php } ?>
-
-
-
-
     <section class="new-hero">
       <div class="container">
         <div class="row">
@@ -133,16 +115,14 @@
     </section>
 
 
-    <div class="container social-area mt-5 hide-mobile">
-      <div class="toptrans"></div>
+    <div class="container social-area pt-5 pb-5 hide-mobile">
         <div id="flockler-embed-1718499f7690261e5f3a287dcf0f2f1c"></div>
         <script src="https://flockler.embed.codes/KDRWw2" async></script>
-      <div class="bottomtrans"></div>
     </div>
 
-    <div class="help-area">
+    <div class="help-area pt-5 pb-5">
         <div class="container">
-            <div class="row mb-3">
+            <div class="row mb-3 pt-5">
                 <div class="col-lg-12">
                     <div class="section-title">
                         <h2>First, pick a group you care about:</h2>
@@ -150,7 +130,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row pb-3">
                 <div class="col-lg-12">
                     <img class="sp-2" src="img/sp-1.png" alt="">
                     <div class="help-slider owl-carousel avatar-group">

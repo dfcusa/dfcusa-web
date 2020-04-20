@@ -609,7 +609,8 @@ body {
 .social-area {
   max-width: 100%;
   position: relative;
-  height: 470px; }
+  height: 450px;
+  background-color: #0096db; }
   .social-area .toptrans {
     position: absolute;
     top: -60px;
