@@ -609,7 +609,7 @@ body {
 .social-area {
   max-width: 100%;
   position: relative;
-  height: 450px;
+  height: 575px;
   background-color: #0096db; }
   .social-area .toptrans {
     position: absolute;
@@ -627,6 +627,8 @@ body {
     height: 50px;
     background-image: url("../img/bottomtrans.png");
     background-repeat-x: repeat; }
+  .social-area .section-title h2 {
+    color: #fff; }
 
 .toolkit-area {
   background-color: #88c51f !important;

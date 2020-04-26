@@ -823,7 +823,7 @@ body {
 .social-area {
   max-width: 100%;
   position: relative;
-  height: 450px;
+  height: 575px;
   background-color: #0096db;
   .toptrans {
     position: absolute;
@@ -842,6 +842,11 @@ body {
     height: 50px;
     background-image: url("../img/bottomtrans.png");
     background-repeat-x: repeat;
+  }
+  .section-title {
+    h2 {
+      color: #fff;
+    }
   }
 }
 
