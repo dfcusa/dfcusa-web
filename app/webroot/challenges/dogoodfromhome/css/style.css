@@ -332,8 +332,20 @@ body {
       .help-area .single-help-slider-blk a i {
         margin-right: 6px; }
 
+.challenge-area {
+  background-color: #0096db; }
+  .challenge-area .section-title h2 {
+    color: #fff;
+    padding-top: 1em; }
+  .challenge-area .section-title h5 {
+    color: #fff;
+    font-size: 1.3em;
+    padding-top: 0.5em;
+    color: #f1f1f1;
+    font-weight: 300; }
+
 .step-area {
-  padding: 70px 0;
+  padding: 0px 0;
   padding-bottom: 0px;
   position: relative; }
   .step-area .row.single-row {
@@ -609,7 +621,7 @@ body {
 .social-area {
   max-width: 100%;
   position: relative;
-  height: 575px;
+  height: 650px;
   background-color: #0096db; }
   .social-area .toptrans {
     position: absolute;
@@ -627,8 +639,28 @@ body {
     height: 50px;
     background-image: url("../img/bottomtrans.png");
     background-repeat-x: repeat; }
-  .social-area .section-title h2 {
-    color: #fff; }
+  .social-area .section-title {
+    margin-bottom: 0px; }
+    .social-area .section-title h2 {
+      color: #fff;
+      font-size: 2.5em; }
+    .social-area .section-title h5 {
+      color: #fff;
+      font-size: 1.3em;
+      margin-bottom: 0px;
+      font-weight: 300; }
+    .social-area .section-title h4 {
+      color: #fff;
+      font-size: 1.8em;
+      font-weight: 300; }
+      .social-area .section-title h4 .bold {
+        font-weight: 700; }
+        .social-area .section-title h4 .bold.underline {
+          background-image: url("../img/redunderline.png");
+          background-clip: padding-box;
+          background-size: 107%;
+          background-repeat: inherit;
+          background-position-y: -103px; }
 
 .toolkit-area {
   background-color: #88c51f !important;
@@ -710,7 +742,7 @@ body {
 /* new Changes Css */
 .new-hero {
   background-image: url(../img/hasbro/new-hero-bg.png);
-  min-height: 650px;
+  min-height: 500px;
   background-size: 100% 100%;
   background-position: center;
   position: relative; }
@@ -782,8 +814,8 @@ body {
 
 .playdoh-new {
   position: absolute;
-  right: 32%;
-  top: 480px;
+  right: 0;
+  top: 200px;
   z-index: 9; }
   .playdoh-new img {
     max-width: 190px; }
@@ -804,7 +836,7 @@ body {
 
 .new-toolkit-area {
   background-color: #cc0239;
-  padding: 60px 0 100px; }
+  padding: 60px 0 50px; }
 
 .new-toolkit-area-content h2 {
   color: #fff;
@@ -1055,10 +1087,22 @@ body {
     border: #dadada solid 1px;
     border-top: #0195db solid 3px;
     border-radius: 0 0 1.3rem 1.3rem;
-    padding: 2rem 1rem 1rem;
     font-size: 0.88rem;
     color: #666c75;
+    background-color: #fff;
     flex: 1 1 auto; }
+    .play-idea-body .play-idea-body-inside {
+      padding: 2rem 1rem 1.5rem 1.5em;
+      min-height: 19em; }
+    .play-idea-body .play-idea-body-footer {
+      background-color: #fb7715;
+      color: #fff;
+      padding: 0.8em;
+      font-size: 0.9em;
+      height: 6em;
+      border-bottom-right-radius: 1.3em;
+      border-bottom-left-radius: 1.3em;
+      text-align: center; }
     .play-idea-body a {
       text-decoration: underline;
       font-weight: bold; }

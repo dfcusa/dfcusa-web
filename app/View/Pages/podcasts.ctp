@@ -36,7 +36,7 @@
       <div class="global-goal"><img src="{{global_goal_image}}"></div>
       <div class="podcast-img" style="background-image: url('{{picture}}'); background-size: 100%; background-repeat: no-repeat"></div>
       <div class="podcast-brief">
-        <a href="{{url}}" target="_new" class="podcast-title">{{name}}</a>
+        <a href="/dfcusa-pm/podcasts#view/{{short_name}}" target="_new" class="podcast-title">{{name}}</a>
         <p class="description">{{description}}</p>
 
         <div class="details">
