@@ -806,11 +806,11 @@ body {
 
 .classic-mr {
   position: absolute;
-  left: 30%;
+  left: 10%;
   top: 430px;
   z-index: 9; }
   .classic-mr img {
-    max-width: 150px; }
+    max-width: 200px; }
 
 .playdoh-new {
   position: absolute;
