@@ -3,11 +3,9 @@
     <div class="top-bar navbar navbar-expand-lg">
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
-                <div class="content">
-                    Looking for ways to help during the COVID-19 crisis? <a target="_parent" href="/dogoodfromhome"
-                       class="btn btn-primary btn-sm d-block d-lg-inline-block ml-2 mt-2 mt-lg-0">
-                        Check out the #DoGoodFromHome challenge
-                    </a>
+                <div class="content" style="font-size: 12pt; font-weight: 300">
+                    Annually during this season, we celebrate stories of change through the Design Thinking Challenge.<br>
+                    Given the changing realities, this year we will not hold a deadline for submission. Instead, we encourage you to checkout our new campaign <a href="http://www.dogoodfromhome.com" style="color: #fff; text-decoration: underline;">#DoGoodFromHome</a>.
                 </div>
             </div>
         </div>
