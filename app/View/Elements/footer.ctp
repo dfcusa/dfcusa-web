@@ -68,6 +68,8 @@
                     <p class="footer-social">
                         <a href="https://www.youtube.com/channel/UCA18h_Zj-pCR_hpwVFAULgQ" target="_new"><i
                                 class="fab fa-youtube"></i></a>
+                        <a href="https://instagram.com/designforchangeus" target="_new"><i
+                                class="fab fa-instagram"></i></a>
                         <a href="https://www.twitter.com/dfcusa" target="_new"><i class="fab fa-twitter"></i></a>
                         <a href="https://www.facebook.com/dfcusa" target="_new"><i class="fab fa-facebook-f"></i></a>
                     </p>
