@@ -56,7 +56,7 @@
 
     $(document).ready(function() {
       if (window.location.pathname != undefined) {
-        mixpanel.track("View - " + window.location.pathname);
+//        mixpanel.track("View - " + window.location.pathname);
       }
     });
   </script>
