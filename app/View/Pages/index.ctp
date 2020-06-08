@@ -10,8 +10,8 @@
     </div>
 
     <div class="dogoodfromhome" onclick="javascript:window.location.href = '/dogoodfromhome'">
-        <h1 class="heading">
-          Looking for ways to help during COVID-19? Take The <span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: rgb(252, 239, 3)">Do</font>Good<font style="color: rgb(5, 204, 254)">From</font>Home</span>Challenge
+        <h1 class="heading" style="color: #000">
+          Looking for ways to fight racial injustice? Take The <span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: #000">Do</font>Good<font style="color: #000">From</font>Home</span>Challenge
         </h1>
     </div>
 </section>
