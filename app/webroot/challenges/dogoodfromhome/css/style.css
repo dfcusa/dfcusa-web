@@ -807,7 +807,7 @@ body {
 .classic-mr {
   position: absolute;
   left: 10%;
-  top: 430px;
+  top: 330px;
   z-index: 9; }
   .classic-mr img {
     max-width: 200px; }
@@ -1094,6 +1094,8 @@ body {
     .play-idea-body .play-idea-body-inside {
       padding: 2rem 1rem 1.5rem 1.5em;
       min-height: 19em; }
+      .play-idea-body .play-idea-body-inside .play-idea-title, .play-idea-body .play-idea-body-inside .play-idea-date {
+        color: #000; }
     .play-idea-body .play-idea-body-footer {
       background-color: #fb7715;
       color: #fff;

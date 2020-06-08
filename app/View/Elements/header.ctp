@@ -4,8 +4,7 @@
         <div id="notice-top-bar" class="navbar-collapse collapse"  style="background-color: #000">
             <div class="container-fluid justify-content-center">
                 <div class="content" style="font-size: 12pt; font-weight: 300; color: #fff">
-                    Annually during this season, we celebrate stories of change through the Design Thinking Challenge.<br>
-                    Given the changing realities, this year we will not hold a deadline for submission.<br/>We stand in solidarity for equity and equality and encourage you to checkout resources to listen, learn and use your voice. You can <a href="http://www.dogoodfromhome.com" style="color: #fff; text-decoration: underline;">#DoGoodFromHome</a>.
+                    We stand in solidarity for equity and equality and encourage you to checkout resources to listen, learn and use your voice. You can <a href="http://www.dogoodfromhome.com" style="color: #fff; text-decoration: underline;">#DoGoodFromHome</a>.
                 </div>
             </div>
         </div>

@@ -1119,7 +1119,7 @@ body {
 .classic-mr {
   position: absolute;
   left: 10%;
-  top: 430px;
+  top: 330px;
   z-index: 9;
 
   img {
@@ -1520,6 +1520,10 @@ $play-idea-gap: 5px;
     .play-idea-body-inside {
       padding: 2rem 1rem 1.5rem 1.5em;
       min-height: 19em;
+
+      .play-idea-title, .play-idea-date {
+        color: #000;
+      }
     }
 
     .play-idea-body-footer {
