@@ -37,7 +37,7 @@
   <?php } ?>
 </head>
 
-<body>
+<body class="<?php echo $is_homepage ? 'is-home' : '';?>">
 
 <?php if ($_SERVER['SERVER_NAME'] != 'localhost') { ?>
   <!-- Google Tag Manager -->

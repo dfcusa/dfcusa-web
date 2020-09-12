@@ -1,398 +1,362 @@
-<section class="hero">
-	<div class="hero-container">
-        <h1 class="heading">Turn Empathy Into Action</h1>
-        <img class="hide-mobile accent-star" src="/dfcusa-web/app/webroot/img/accent_star.png">
-        <div class="hero-art">
-            <img class="hide-mobile accent-arrow" src="/dfcusa-web/app/webroot/img/accent_arrow.png">
-            <img src="/dfcusa-web/app/webroot/img/dfcprocess.svg" alt="" class="img-fluid">
+<div class="page-content new-home">
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-container">
+                <h1>Turn Empathy into Action</h1>
+                <p>Lead your students in developing solutions for real world problems.</p>
+                <div class="row text-center mt-4 mb-3">
+                    <div class="col-4 mb-3">
+                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-climate.png" class="icon" alt="">
+                        <h5 class="text-uppercase">Climate Action</h5>
+                    </div>
+                    <div class="col-4 mb-3">
+                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-education.png" class="icon" alt="">
+                        <h5 class="text-uppercase">Equity in Education</h5>
+                    </div>
+                    <div class="col-4 mb-3">
+                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-fist.png" class="icon" alt="">
+                        <h5 class="text-uppercase">Racial Injustice</h5>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <a href="" class="btn btn-lg btn-light-blue">Learn How</a>
+                </div>
+            </div>
         </div>
-        <p class="lead">Join other educators helping over <em>1 million young people worldwide</em><br/>positively impact their communities.
-    </div>
-
-    <div class="dogoodfromhome" onclick="javascript:window.location.href = '/dogoodfromhome'">
-        <h1 class="heading" style="color: #000">
-          Looking for ways to fight racial injustice? Take The <span class="big"><i class="fab fa-slack-hash hashtag"></i><font style="color: #000">Do</font>Good<font style="color: #000">From</font>Home</span>Challenge
-        </h1>
-    </div>
-</section>
-
-<section class="logo-list">
-  <div class="container">
-      <h3 class="heading">Supporters of Design for Change Global and DFC USA...</h3>
-      <div class="logos">
-          <div class="logo"><a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro"></a></div>
-          <div class="logo"><a href="https://www.globalgoals.org" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="Global Goals"></a></div>
-          <div class="logo"><a href="https://www.ideo.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ideo_h.svg" alt="IDEO"></a></div>
-          <div class="logo"><a href="https://www.ashoka.com" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_ashokachange_v@2x.png" alt="Ashoka"></a></div>
-          <div class="logo"><a href="https://dschool.stanford.edu/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_dschool@2x.png" alt="Stanford"></a></div>
-          <div class="logo"><a href="https://www.earthday.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/logo_earthday.png" alt="EarthyDay"></a></div>
-      </div>
-  </div>
-</section>
+    </section>
 
 
-<section class="design-change reverse pb-5">
-	<div class="container">
-
-        <div class="lead shadow-lg p-4 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
-            <h2 class="heading text-black">Activate your students to take action on social causes.</h2>
-            Connect students to social causes through <a href="/pages/podcasts">podcasts</a> and<br/>activities that support them to do real projects in their communities.
-            <br/>
-            <button class="btn btn-success btn-md mt-4"><a href="/pages/how-it-works" class="text-white"><i class="fas fa-external-link"></i>&nbsp;&nbsp;Learn how it works</a></button>
-        </div>
-
-    </div>
-</section>
-
-<div class="cta cta-interested p-3 hide-mobile">
-  <div class="container">
-    <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png">
-    <div class="row w-75 mx-auto">
-        <div class="col-lg-3 mr-3 ml-5">
-            <h1 class="num" style="font-size: 6.5em">91%</h1>
-        </div>
-        <div class="col-lg-6 mt-4 text-left ml-5">
-            of teachers surveyed report that Design for Change <b>increased students' self-motivation to complete tasks and persist through obstacles.</b>
-        </div>
-    </div>
-  </div>
-</div>
-
-<section class="get-started text-white bg-success py-5 text-center">
-
-	<div class="container">
-        <img src="/dfcusa-web/app/webroot/img/accent_yellowcircle.png" class="accent-yellowcircle hide-mobile">
-        <div class="get-started-head mb-5">
-            <h2>Different Paths for Engaging</h2>
-            <p>Your students learn about a social cause through our high quality <strong><a href="/dfcusa-pm/podcasts" class="text-white">podcasts</a></strong>.<br/>You then engage them on 3 different paths:</p>
+    <section class="container mb-5 pb-3">
+        <div class="logos">
+            <div class="logo">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt="">
+            </div>
+            <div class="logo">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt="">
+            </div>
+            <div class="logo">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt="">
+            </div>
+            <div class="logo">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt="">
+            </div>
+            <div class="logo">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt="">
+            </div>
         </div>
 
-        <div class="get-started-inner">
+        <hr class="mb-5">
+
+        <div class="features text-center">
+            <h2 class="text-light-blue mb-5">We support teachers in doing great work</h2>
             <div class="row">
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-light-blue img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit.png" alt="Empathy Warmups">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUPS</h4>
-                            <div class="small">
-                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    1 hour total<br/><i>(in classroom)</i>
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/empathy-warmups">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-md-6 col-lg-3 mb-3 px-5">
+                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
+                         class="img-fluid img-center" alt="Design Thinking">
+                    <h5 class="my-3">Design Thinking</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-orange img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints.png" alt="Design Sprints">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">DESIGN SPRINTS</h4>
-                            <div class="small">
-                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    5 hours total<br/><i>(in classroom)</i>
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/design-sprints">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-md-6 col-lg-3 mb-3 px-5">
+                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-vote.png"
+                         class="img-fluid img-center" alt="Address Social Causes">
+                    <h5 class="my-3">Address Social Causes</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
-
-                <div class="col-lg-4">
-                    <div class="lead-box lead-magenta img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects.png" alt="Community Actions">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">COMMUNITY ACTION</h4>
-                            <div class="small">
-                                <p>Lesson plans that take your students into the community to discover issues they care about and do something about them.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    10+ hours<br/><i>(in and out of classroom)</i>
-                                </p>
-                                <a class="btn btn-sm btn-outline-light" href="/pages/get-started/community-action">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-md-6 col-lg-3 mb-3 px-5">
+                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
+                         class="img-fluid img-center" alt="Self Guided Mobile App">
+                    <h5 class="my-3">Self Guided Mobile App</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
-
-               
+                <div class="col-md-6 col-lg-3 mb-3 px-5">
+                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
+                         class="img-fluid img-center" alt="Community Support">
+                    <h5 class="my-3">Community Support</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
 
-<section class="design-change">
-    <div class="container">
-        <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars hide-mobile" alt="Green Stars">
-        <p class="lead">We use a 4 step design framework to engage students to change their community and themselves:</p>
+    </section>
 
-        <div class="program-icons">
 
-            <div class="program-icon item-pink">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
-                <h4>Feel</h4>
-                <p>Build Empathy</p>
+    <section class="container">
+        <div class="survey">
+            <div class="left-flap"></div>
+            <div class="survey-inner">
+                <span class="number">91<sup>%</sup></span>
+                <span class="details">
+                    of teachers surveyed report that Design for Change increased students'
+                    self-motivation to complete tasks and persist through obstacles.
+                </span>
             </div>
-
-            <div class="program-icon item-yellow">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
-                <h4>Imagine</h4>
-                <p>Brainstorm Ideas</p>
-            </div>
-
-            <div class="program-icon item-green">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
-                <h4>Do</h4>
-                <p>Implement Solutions</p>
-            </div>
-
-            <div class="program-icon item-blue">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
-                <h4>SHARE</h4>
-                <p>Inspire Others</p>
-            </div>
-
+            <div class="right-flap"></div>
         </div>
+    </section>
 
-    </div>
-</section>
-
-
-<section class="apply-dfc position-relative mt-0 mb-5">
-    <div class="container">
-        <div class="lead-box lead-light img-right">
-            <div class="lead-image">
-                <img src="/dfcusa-web/app/webroot/img/partners/logo_globalgoals.svg" alt="UN Sustainable Global Goals" class="img-fluid">
-            </div>
+    <section class="lead-box lead-light-blue pb-5 mb-5 shadow-none rounded-0 border-0" style="padding-top: 80px; margin-top: -40px;">
+        <div class="container py-4">
             <div class="lead-content">
-                <h3 class="heading">Design for Change...&nbsp;</h3>
-                <ul class="list-unstyled h6 font-weight-normal">
-                    <li class="mb-3 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Combines design thinking and doing good
-                    </li>
-                    <li class="mb-3 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Includes a library of podcasts aligned to the UN Global Goals
-                    </li>
-                    <li class="mb-3 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Is flexible and responsive to your context and can fit into in-school, after-school or outside of school environments
-                    </li>
-                    <li class="mb-3 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Results in the development of key 21st Century skills including empathy, creativity, resourcefulness and collaboration
-                    </li>
-                    <li class="mb-3 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        <a href="/pages/how-it-works">Ready to start? See how it works</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="cta py-5 cta-begin">
-    <div class="container my-3">
-        <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
-        <div class="mb-4">
-            <h2 class="heading text-secondary">Need to see it in action?</h2>
-            <p>Thousands of organizations are using Design for Change today... here are just a few:</p>
-        </div>
-        <div class="customer_logos pt-3 pb-2">
-            <div class="logo mt-2"><a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/tfa.png" alt="Teach for America"></a></div>
-            <div class="logo"><a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/tstnfp.png" alt="Teachers Supporting Teachers"></a></div>
-            <div class="logo"><a href="https://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/higherachievement.png" alt="Higher Achievement"></a></div>
-            <div class="logo"><a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/galileo.png" alt="Galileo"></a></div>
-            <div class="logo"><a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/customers/ysa.png" alt="YSA"></a></div>
-        </div>
-        <a class="btn btn-inverse-secondary btn-lg mt-3" href="/pages/stories">SEE REAL PROJECTS</a>
-    </div>
-</section>
-
-<section class="latest-news">
-  <div class="container">
-    <h2 class="heading">Latest News & Updates</h2>
-    <div class="row news-posts"></div>
-  </div>
-</section>
-
-<section class="reviews">
-    <div class="container">
-        <img class="accent-heart hide-mobile" src="/dfcusa-web/app/webroot/img/accent_heart.png" alt="Heart">
-        <h2 class="text-secondary text-center mb-5 font-weight-bolder">What do educators think?</h2>
-
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="review-item mb-3">
-                    <p class="review-text">I also wanted to say thank you all for this content. This speaks to me like nothing else I've encountered. I use the SDGs for projects and your program has been a gem in this rough time of distance teaching.</p>
-                    <div class="review-author">
-                        <img src="/dfcusa-web/app/webroot/img/testimonials/ronaldnober.png"
-                             class="author-image" alt="Teacher Review">
-                        <h3 class="author-name">Ronald Nober</h3>
-                        <div class="author-details">
-                            <div class="text-secondary">8th Gr. Teacher</div>
-                            <div class="text-muted">Southampton, NJ</div>
-                        </div>
-                    </div>
+                <div class="mb-5">
+                    <h2 class="text-block-sm text-center">Activate your students to take action on social causes</h2>
+                    <p class="text-block text-center lead">
+                        Your students learn about a social cause through our high quality podcasts.<br>
+                        You then engage them on three different paths.
+                    </p>
                 </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="review-item mb-3">
-                    <p class="review-text">At the end of this project, my students were saying things like, "I feel like
-                        I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I
-                        did it and it feels so great!"... things I never imagined I would hear."</p>
-                    <div class="review-author">
-                        <img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png"
-                             class="author-image" alt="Teacher Review">
-                        <h3 class="author-name">Dana Kinel</h3>
-                        <div class="author-details">
-                            <div class="text-secondary">Design Technology Teacher</div>
-                            <div class="text-muted">Sunset Ridge Middle School, Hartford, CT</div>
+                <h2 class="text-block text-center mb-3">
+                    Our <em>Design for Change</em> Courses
+                </h2>
+                <div class="courses px-md-3">
+                    <div class="row align-self-stretch">
+                        <div class="col-md-4 podcast-col">
+                            <div class="card podcast-block extended shadow">
+                                <div class="podcast-img"
+                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+                                </div>
+                                <div class="podcast-brief">
+                                    <h5 class="text-center text-light-blue text-uppercase">Climate Action</h5>
+                                    <hr>
+                                    <p class="description">
+                                        Alongside Earth Day Network, explore the causes, the impact and
+                                        the complicated reality of plastic pollution.
+                                    </p>
+                                    <div class="details">
+                                        <span class="content"><b>Duration:</b> 10 minutes</span>
+                                        <span class="content"><b>Difficulty:</b> Intermediate</span>
+                                        <span class="content"><b>Global Goal(s):</b> Climate Action</span>
+                                        <span class="content"><b>Sponsored By:</b> Earth Day Network</span>
+                                    </div>
+                                </div>
+                                <a class="btn btn-primary" href="#">Get Started</a>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="review-item mb-3">
-                    <p class="review-text">They never wanted to miss a day from the project. They gave up their free
-                        time to do more than they had to. They were thinking critically and problem solving. They made a
-                        difference in our school community.</p>
-                    <div class="review-author">
-                        <img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png"
-                             class="author-image" alt="Teacher Review">
-                        <h3 class="author-name">Patti Andreoles</h3>
-                        <div class="author-details">
-                            <div class="text-secondary">5th Grade Teacher</div>
-                            <div class="text-muted">P.S.135Q The Bellaire School, Queens, NY</div>
+                        <div class="col-md-4 podcast-col">
+                            <div class="card podcast-block extended">
+                                <div class="podcast-img"
+                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+                                </div>
+                                <div class="podcast-brief">
+                                    <h5 class="text-center text-light-blue text-uppercase">Equity in Education</h5>
+                                    <hr>
+                                    <p class="description">
+                                        Explore the various reactions to and the impact of experiencing
+                                        ongoing school and academic pressure.
+                                    </p>
+                                    <div class="details">
+                                        <span class="content"><b>Duration:</b> 11 minutes</span>
+                                        <span class="content"><b>Difficulty:</b> Intermediate</span>
+                                        <span class="content"><b>Global Goal(s):</b> Good Health and Well-being</span>
+                                    </div>
+                                </div>
+                                <a class="btn btn-primary" href="#">Get Started</a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 podcast-col">
+                            <div class="card podcast-block extended">
+                                <div class="podcast-img"
+                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+                                </div>
+                                <div class="podcast-brief">
+                                    <h5 class="text-center text-light-blue text-uppercase">Racial Injustice</h5>
+                                    <hr>
+                                    <p class="description">
+                                        Explore the impact of racialized discrimination that has
+                                        manifested as a result of information and misinformation about
+                                        the COVID-19 pandemic.
+                                    </p>
+                                    <div class="details">
+                                        <span class="content"><b>Duration:</b> 11 minutes</span>
+                                        <span class="content"><b>Difficulty:</b> Advanced</span>
+                                        <span class="content"><b>Global Goal(s):</b> Reduced Inequalities</span>
+                                    </div>
+                                </div>
+                                <a class="btn btn-primary" href="#">Get Started</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<div class="cta cta-interested mt-3">
-  <div class="container">
-      <img class="accent-speech hide-mobile" src="/dfcusa-web/app/webroot/img/accent_speech.png" alt="Speech Bubble">
-      <h4 class="heading">We have reached over 10,000 young people in the USA</h4>
-      <p class="mb-4">Learn about our impact in the 2018 / 2019 school year</p>
-      <a class="btn" href="/dfcusa-web/pages/impact">OUR IMPACT ANALYSIS</a>
-  </div>
+    <section class="reviews-new">
+        <div class="container">
+
+            <h2 class="text-light-blue text-center mb-5 font-weight-bolder">What educators think</h2>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="review-item mb-5">
+                        <p class="review-text">I also wanted to say thank you all for this content. This speaks to me like nothing else I've encountered. I use the SDGs for projects and your program has been a gem in this rough time of distance teaching.</p>
+                        <div class="review-author">
+                            <img src="/dfcusa-web/app/webroot/img/testimonials/ronaldnober.png" class="author-image" alt="Teacher Review">
+                            <h3 class="author-name mb-0">Ronald Nober</h3>
+                            <div class="author-details">
+                                <div class="text-muted">8th Gr. Teacher</div>
+                                <div class="text-muted">Southampton, NJ</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="review-item mb-5">
+                        <p class="review-text">At the end of this project, my students were saying things like, "I feel like
+                            I can do anything now!", "I want to be a designer!" and, "I never thought I could do this, but I
+                            did it and it feels so great!"... things I never imagined I would hear."</p>
+                        <div class="review-author">
+                            <img src="/dfcusa-web/app/webroot/img/testimonials/danakinel.png" class="author-image" alt="Teacher Review">
+                            <h3 class="author-name">Dana Kinel</h3>
+                            <div class="author-details">
+                                <div class="text-muted">Design Technology Teacher</div>
+                                <div class="text-muted">Sunset Ridge Middle School, Hartford, CT</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="review-item mb-5">
+                        <p class="review-text">They never wanted to miss a day from the project. They gave up their free
+                            time to do more than they had to. They were thinking critically and problem solving. They made a
+                            difference in our school community.</p>
+                        <div class="review-author">
+                            <img src="/dfcusa-web/app/webroot/img/testimonials/pattiandreolas.png" class="author-image" alt="Teacher Review">
+                            <h3 class="author-name">Patti Andreoles</h3>
+                            <div class="author-details">
+                                <div class="text-muted">5th Grade Teacher</div>
+                                <div class="text-muted">P.S.135Q The Bellaire School, Queens, NY</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <h2 class="text-block-sm text-light-blue">See it in action</h2>
+                <p class="text-block lead">
+                    Explore projects from some of the thousands of organizations
+                    using Design for Change
+                </p>
+                <a href="" class="btn btn-lg btn-secondary">See real Projects</a>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="lead lead-secondary py-5 my-5">
+        <div class="container text-block text-center py-4">
+            <h2>Best of All, Our Resources Are Free!</h2>
+            <p class="lead">
+                We provide free downloadabe resources and podcasts to educators to bring
+                the Design for Change program into their classrooms.
+            </p>
+            <a href="" class="btn btn-lg btn-outline-light">Get Started</a>
+        </div>
+    </section>
+
+
+    <section class="news py-4">
+        <div class="container">
+            <h2 class="text-block text-center text-light-blue mb-5">Latest News & Updates</h2>
+            <div class="row align-self-stretch">
+                <div class="col-md-4 d-flex mb-3">
+                    <div class="card shadow w-100">
+                        <img class="card-img-top"
+                             src="/dfcusa-web/app/webroot/img/new-pages/news-01.jpg" alt="">
+                        <div class="card-body text-center px-lg-4">
+                            <h5 class="text-uppercase my-3">We're Listening To You</h5>
+                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex mb-3">
+                    <div class="card shadow w-100">
+                        <img class="card-img-top"
+                             src="/dfcusa-web/app/webroot/img/new-pages/news-02.jpg" alt="">
+                        <div class="card-body text-center px-lg-4">
+                            <h5 class="text-uppercase my-3">Design For Change Educators Facebook Group</h5>
+                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex mb-3">
+                    <div class="card shadow w-100">
+                        <img class="card-img-top"
+                             src="/dfcusa-web/app/webroot/img/new-pages/news-03.jpg" alt="">
+                        <div class="card-body text-center px-lg-4">
+                            <h5 class="text-uppercase my-3">Behind the Scenes – How We Produced 5 New Empathy Podcasts About COVID-19</h5>
+                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="newsletter mt-5 text-center">
+        <h2 class="h5 text-light-blue">Change Starts with You</h2>
+        <p>Sign up to receive our newsletter and other free resources.</p>
+        <div class="newsletter-form mx-auto">
+            <div class="bg-success p-3 text-white success-box" style="display: none">Thanks for signing up!</div>
+            <div class="input-group newsletter-signup">
+                <input class="form-control" type="text" name="EMAIL" id="email" placeholder="Enter your e-mail address">
+                <div class="input-group-append">
+                    <div class="btn btn-secondary send-newsletter" onclick="submitNewsletter();">Sign-up</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </div>
 
-<section class="global-impact text-center">
-    <div class="container">
 
-        <div class="heading">
-            <h2 class="text-secondary font-weight-bolder">We Are Global</h2>
-            <p>Design for Change spans 6 continents.</p>
-        </div>
+<script>
+    // Wrapped in function to contain its scope.
+    function init_home(){
+        // Auto Height for Review Text
 
-        <div class="row">
-            <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_globe.svg" alt="Globe">
-                <h3 class="text-secondary">70</h3>
-                <p>Countries Participating</p>
-            </div>
-            <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_storybook.svg" alt="Storybook">
-                <h3 class="text-warning">30,000+</h3>
-                <p>Student Stories of Change</p>
-            </div>
-            <div class="col-sm-4 mb-4">
-                <img class="icon" src="/dfcusa-web/app/webroot/img/ico_teacher.svg" alt="Teacher">
-                <h3 class="text-primary">70,000+</h3>
-                <p>Teachers Trained</p>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid d-none">
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="world-map">
-                    <img src="/dfcusa-web/app/webroot/img/img_worlddfcmap.png" alt="World Map">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+        const $review_text = $('.review-text');
+        $review_text.attr('style', '');
 
-<section class="logo-list my-5 py-4">
-	<div class="container">
-        <h2 class="text-secondary">Awards & Recognition</h2>
-        <p class="mb-5">We are proud to be a partner of DFC Global who is recognized by:</p>
-        <div class="logos logo-large">
-            <div class="logo"><a href="https://designtoimprovelife.dk/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_indexaward.png" alt="Index Award 2011"></a></div>
-            <div class="logo"><a href="https://icandfc.tumblr.com/post/46238175506/the-rockefeller-foundation-new-york-awards-design" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_rockefeller.png" alt="Rockefeller Foundation"></a></div>
-            <div class="logo"><a href="https://www.changemakers.com/play2learn/network" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_changemakers.png" alt="Lego Foundation"></a></div>
-            <div class="logo"><a href="https://www.vitalvoices.org/people/kiran-sethi/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_vitalvoices.png" alt="Vital Voices"></a></div>
-            <div class="logo"><a href="https://fetzer.org/work/projects/design-change-incites-new-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_fetzer.png" alt="Fetzer Institute"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.thechicagocouncil.org/event/creative-power-combatting-violence-and-empowering-youth#bio-Kiran%20Bir%20Sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_chicago.png" alt="The Chicago Council"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.thecommonwealth-educationhub.net/goodpractice/design-for-change/" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_commonwealth.png" alt="The Commonwealth"></a></div>
-            <div class="logo border-bottom-0"><a href="https://asiasociety.org/education/events/globaledchat-design-thinking" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_asia.png" alt="Asia Society"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.ashoka.org/en/fellow/kiran-bir-sethi" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ashoka.png" alt="Ashoka"></a></div>
-            <div class="logo border-bottom-0"><a href="https://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge" target="_new"><img src="/dfcusa-web/app/webroot/img/img_logo_ted.png" alt="TED"></a></div>
-        </div>
-  </div>
-</section>
+        if( $(window).width() < 768 ) return;
 
-<section class="cta cta-next-steps py-5">
-  <div class="container mt-3">
-      <h2 class="heading text-secondary">Best of All, Our Resources Are Free!</h2>
-      <a class="btn btn-secondary btn-lg" href="/pages/get-started">GET STARTED</a>
-      <p class="mt-4 mb-3">Design for Change USA is a 501(c)(3) non-profit organization. <a href="/dfcusa-web/pages/donate">Learn more about how you can support us.</a></p>
-  </div>
-</section>
+        let max_height = 0;
+        $review_text.each((i, e) => {
+            const height = $(e).height();
+            if( height > max_height ){
+                max_height = height;
+            }
+            if( i === $review_text.length - 1 ){
+                $review_text.height(max_height)
+            }
+        });
+    }
 
-<?php echo $this->element('newsletter'); ?>
+    $(document).ready(init_home);
+    $(window).resize(init_home);
 
-<script type="text/javascript">
-  $(function() {
-    $.get("/dfcusa-web/api/posts", function(data) {
-      data = JSON.parse(data);
-      var i = 0;
-      _.each(data.posts, function(post) {
-        i++;
-        if (i == 1) post.color = 'post-pink';
-        if (i == 2) post.color = 'post-yellow';
-        if (i == 3) post.color = 'post-blue';
-        post.date = moment(post.published_at).format('MMMM Do YYYY');
-        var template = Handlebars.compile($('#postTemplate').html());
-        var html = template(post);
-        $('.news-posts').append(html);
-      });
-    });
-  });
 </script>
 
-<script type="text/x-handlebars-template" id="postTemplate">
-  <div class="col-lg-4">
-    <div class="post-block {{color}}">
-      <div class="post-img" style="background-image: url('{{feature_image}}'); background-size: 100%; background-repeat: no-repeat"></div>
-        <div class="post-brief">
-          <span>{{post}}</span>
-          <a href="{{url}}" target="_new" class="post-title">{{title}}</a>
-          <p class="description">{{custom_excerpt}}</p>
-          <div class="read-more"><a href="{{url}}" target="_new" class="read-more">Read more...</a></div>
-          <div class="date">{{date}}</date>
-        </div>
-    </div>
-  </div>
+<script type="text/javascript">
+    function submitNewsletter() {
+        gaEvent('newsletter');
+        $.ajaxSetup({
+            contentType: 'application/json'
+        });
+
+        var data = {
+            'fields': [ {
+                'name': 'email',
+                'value': $('#email').val()
+            } ]
+        }
+
+        $.post('https://api.hsforms.com/submissions/v3/integration/submit/6395720/4f577ebe-3e12-4f45-9440-c12935043e1b', JSON.stringify(data), function(data) {
+            $('.success-box').show();
+            $('.newsletter-signup').hide();
+        });
+    }
 </script>

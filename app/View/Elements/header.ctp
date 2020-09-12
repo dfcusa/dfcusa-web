@@ -1,10 +1,12 @@
-<header>
+<header class="page-header">
 
     <div class="top-bar navbar navbar-expand-lg">
-        <div id="notice-top-bar" class="navbar-collapse collapse"  style="background-color: #000">
+        <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
-                <div class="content" style="font-size: 12pt; font-weight: 300; color: #fff">
-                    We stand in solidarity for equity and equality and encourage you to checkout resources to listen, learn and use your voice. You can <a href="http://www.dogoodfromhome.com" style="color: #fff; text-decoration: underline;">#DoGoodFromHome</a>.
+                <div class="content">
+                    We stand in solidarity for equity and equality and encourage you to checkout
+                    resources to listen, learn and use your voice. You can
+                    <a href="http://www.dogoodfromhome.com" style="color: inherit; text-decoration: underline">#DoGoodFromHome</a>.
                 </div>
             </div>
         </div>
@@ -17,7 +19,6 @@
                      alt="Design for Change Logo"
                      class="img-fluid">
             </a>
-
 
             <button class="navbar-toggler ml-auto text-dark" type="button" data-toggle="collapse" data-target="#notice-top-bar"
                     aria-controls="notice-top-bar" aria-expanded="false" aria-label="Toggle navigation">

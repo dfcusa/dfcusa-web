@@ -179,8 +179,7 @@
 
 }
 
-
-@each $color, $value in $theme-colors {
+@mixin lead($color, $value){
   .lead-#{$color} {
     color: get-value-for-contrast($value, $lightness: 60);
     background: $value;
@@ -191,6 +190,15 @@
         border-bottom-color: get-value-for-contrast($value, lighten($value, 10%), darken($value, 10%), 20);
       }
     }
-
   }
 }
+
+
+// Theme Colors --------------------------------
+
+@each $color, $value in $theme-colors {
+  @include lead($color, $value);
+}
+
+// Some custom color -------------------------
+@include lead('lime', #70D047);

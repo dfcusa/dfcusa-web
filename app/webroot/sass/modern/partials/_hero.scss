@@ -83,3 +83,36 @@
     font-weight: $font-weight-semi-bold;
   }
 }
+
+
+.new-home{
+
+  .hero{
+    padding-top: 120px;
+    padding-bottom: 30px;
+    text-align: left;
+    background: linear-gradient(180deg, rgba(black, 0.5) 0%, rgba(black, 0.6) 100%),
+                url('/dfcusa-web/app/webroot/img/new-pages/boy-with-laptop.jpg') no-repeat center center / cover;
+    font-size: 1.7rem;
+    border-radius: 2rem 2rem 0 0;
+    margin: -95px 10px 0;
+    text-shadow: rgba(black, 0.1) 0 2px 3px;
+
+    @include media-breakpoint-up(lg){
+      margin: -120px 15px 0;
+    }
+  }
+
+  .hero-container{
+    max-width: 520px;
+    margin-right: 0;
+  }
+
+  h1{
+    font-size: 4rem;
+    line-height: 1.1;
+    font-weight: $font-weight-bolder;
+    color: $theme-light-blue;
+  }
+
+}

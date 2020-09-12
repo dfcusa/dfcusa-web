@@ -84,3 +84,13 @@
   }
 
 }
+
+.news{
+  .card-img-top{
+    height: 180px;
+    object-fit: cover;
+  }
+  .card{
+    background: darken( $gray-100, 1% );
+  }
+}
