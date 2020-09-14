@@ -7,16 +7,16 @@
                 <p>Lead your students in developing solutions for real world problems.</p>
                 <div class="row text-center mt-4 mb-3">
                     <div class="col-4 mb-3">
-                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-climate.png" class="icon" alt="">
-                        <h5 class="text-uppercase">Climate Action</h5>
+                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-fist.png" class="icon" alt="">
+                        <h5 class="text-uppercase">Racial Injustice</h5>
                     </div>
                     <div class="col-4 mb-3">
                         <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-education.png" class="icon" alt="">
                         <h5 class="text-uppercase">Equity in Education</h5>
                     </div>
                     <div class="col-4 mb-3">
-                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-fist.png" class="icon" alt="">
-                        <h5 class="text-uppercase">Racial Injustice</h5>
+                        <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-climate.png" class="icon" alt="">
+                        <h5 class="text-uppercase">Climate Action</h5>
                     </div>
                 </div>
                 <div class="text-center">

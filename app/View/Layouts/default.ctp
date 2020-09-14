@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800|Josefin+Slab|Anton|BenchNine" rel="stylesheet">
   <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/lity.min.css">
-  <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css?ref=v4.01">
+  <link rel="stylesheet" href="/dfcusa-web/app/webroot/css/modern/app.css?ref=12">
   <link rel="stylesheet" href="/dfcusa-pm/app/webroot/css/dfcusa_podcast_portal.css?ref=v4.01">
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>

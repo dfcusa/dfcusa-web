@@ -72,6 +72,7 @@ class PagesController extends AppController {
 		}
 
 		$is_homepage = $this->request->here === '/';
+		$is_homepage = $this->request->here === '/dfcusa-web/';
 
 		$this->set(compact('page', 'subpage', 'title_for_layout', 'is_homepage'));
 
