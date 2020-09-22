@@ -39,6 +39,17 @@
       }
     }
 
+    .nav-item {
+      &.homepage {
+        &:hover, &.active{
+          > .nav-link{
+            color: #fff;
+            border-bottom-color: #fff;
+          }
+        }
+      }
+    }
+
     .nav-link{
       font-weight: $font-weight-bold;
       border-bottom: transparent solid 2px;

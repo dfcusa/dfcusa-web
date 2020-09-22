@@ -1,42 +1,48 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
-    <div class="hero-container">
-        <h4 class="heading">A framework for changing the world.</h4>
-    </div>
+  <div class="hero-container">
+    <h4 class="heading">Racism exists and we need to talk about it!</h4>
+  </div>
 </section>
 
 <section class="page-content racial-injustice">
 
     <div class="container">
 
-        <div class="text-center my-5">
-            <h2 class="heading-secondary mb-1">Racial Injustice</h2>
-            <p>Racism is a scary word. It sucks that it exists. But we still need to talk about it!</p>
-        </div>
+        <h2 class="heading-secondary">Racial Injustice</h2>
 
-        <div class="row">
+        <div class="row mt-2">
             <div class="col-sm-6 mb-4">
                 <h5>We Need to Talk About It</h5>
                 <p>
-                    Racial dynamics and disparities have permeated all facets of our societies, our
-                    communities, schools and most importantly, our classrooms. Yet discussions about
-                    racism do not often make their way into our curriculum, our textbooks. We are
-                    here to support you in changing the status quo.
+                    Racial disparities have permeated all facets of our societies, our communities, schools and our classrooms. Yet discussions about racism do not often make their way into our curriculum, our textbooks. We are here to support you in changing the status quo. 
                 </p>
             </div>
             <div class="col-sm-6 mb-4">
-                <h5>Our System Can Help</h5>
+                <h5>Our Program Can Help</h5>
                 <p>
-                    We have designed a unique learning experience around our globally recognized
-                    Feel, Imagine, Do, Share design thinking process. Using this methodology students
-                    engage in a self directed virtual experience to:
+                    We have designed a unique learning experience around our globally recognized design thinking process. Students engage in a self directed virtual experience to: 
                 </p>
                 <ul>
-                    <li>Engage in the topic of racial justice</li>
+                    <li>Engage in the topic of racial injustice</li>
                     <li>Build radical empathy</li>
                     <li>Take meaningful action</li>
                 </ul>
             </div>
+        </div>
+        <div class="cta cta-interested p-3 mb-5">
+          <div class="container">
+            <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 25px">
+            <div class="row w-100 mx-auto">
+                <div class="col-lg-4">
+                    <h1 class="num ml-5" style="font-size: 6.5em">8%</h1>
+                </div>
+                <div class="col-lg-7 mt-4 text-left">
+                    "Though slavery is taught in history classes, only 8% of high school seniors could identify slavery as the central cause of the Civil War. And more than half of teachers found their textbooks inadequate on the topic of slavery."
+                    <em><a href="https://www.splcenter.org/sites/default/files/tt_hard_history_american_slavery.pdf" target="_new" class="text-white">Southern Poverty Law Center</a></em>
+                </div>
+            </div>
+          </div>
         </div>
     </div>
 
@@ -46,10 +52,7 @@
                 <div class="text-center mb-5">
                     <h2>Feel. Imagine. Do. Share.</h2>
                     <p class="lead text-block">
-                        We help you equip your students to transform empathy into social action
-                        using four steps: Feel, Imagine, Do, Share. After listening to one of our
-                        social cause podcasts, young people can brainstorm solutions and create a
-                        final deliverable with our mobile app and your guidance.
+                        We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
                     </p>
                 </div>
                 <div class="steps">
@@ -59,6 +62,12 @@
                                 <img src="/dfcusa-web/app/webroot/img/new-pages/laptop-outline.svg"
                                      class="img-fluid" alt="">
                                 <div class="main-slider">
+                                    <div class="carousel-cell">
+                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                    </div>
+                                    <div class="carousel-cell">
+                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                    </div>
                                     <div class="carousel-cell">
                                         <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
                                     </div>
@@ -78,53 +87,50 @@
                                         STEP 1:<br>
                                         Empathy Warmup
                                     </h4>
-                                    <ul>
-                                        <li>6 Word Essay</li>
-                                        <li>Rapid Brainstorming</li>
-                                        <li>Facts, Questions, Quotes, Connections
-                                        <li>
-                                            Listen to a podcast, highlighting a series of interviews about
-                                            racial justice, and think about the topic critically by naming
-                                            facts, asking questions, pulling quotes and making personal
-                                            connections.
-                                        </li>
-                                    </ul>
+
+                                    <p class="pt-3 pb-4">
+                                        Students listen to a podcast, highlighting a series of interviews about racial injustice, and think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections. 
+                                    </p>
                                     <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                                 </div>
                                 <div class="carousel-cell">
                                     <h4>
                                         STEP 2:<br>
-                                        Empathy Warmup
+                                        Feel
                                     </h4>
-                                    <ul>
-                                        <li>6 Word Essay</li>
-                                        <li>Rapid Brainstorming</li>
-                                        <li>Facts, Questions, Quotes, Connections
-                                        <li>
-                                            Listen to a podcast, highlighting a series of interviews about
-                                            racial justice, and think about the topic critically by naming
-                                            facts, asking questions, pulling quotes and making personal
-                                            connections.
-                                        </li>
-                                    </ul>
+                                    <p class="pt-3 pb-4">
+                                        Students consider the symptoms and the underlying factors that continue to cause racial injustice in a root cause analysis exercise.  
+                                    </p>
                                     <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                                 </div>
                                 <div class="carousel-cell">
                                     <h4>
                                         STEP 3:<br>
-                                        Empathy Warmup
+                                        Imagine
                                     </h4>
-                                    <ul>
-                                        <li>6 Word Essay</li>
-                                        <li>Rapid Brainstorming</li>
-                                        <li>Facts, Questions, Quotes, Connections
-                                        <li>
-                                            Listen to a podcast, highlighting a series of interviews about
-                                            racial justice, and think about the topic critically by naming
-                                            facts, asking questions, pulling quotes and making personal
-                                            connections.
-                                        </li>
-                                    </ul>
+                                    <p class="pt-3 pb-4">
+                                        Sudents imagine how they might change the current situation by brainstorming new ideas, and then pick an idea they'd like to move forward with.
+                                    </p>
+                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
+                                </div>
+                                <div class="carousel-cell">
+                                    <h4>
+                                        STEP 4:<br>
+                                        Do
+                                    </h4>
+                                    <p class="pt-3 pb-4">
+                                        Use a storyboard to determine and order any action steps, students plan out their action plan and implement their solution, if possible.
+                                    </p>
+                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
+                                </div>
+                                <div class="carousel-cell">
+                                    <h4>
+                                        STEP 5:<br>
+                                        Share
+                                    </h4>
+                                    <p class="pt-3 pb-4">
+                                        Students reflect on all the things they learned about themselves, the issue and the community and they consider how others felt about these things too.
+                                    </p>
                                     <a class="btn btn-outline-light text-uppercase" href="/pages/get-started">Get Started</a>
                                 </div>
                             </div>
@@ -137,38 +143,26 @@
 
 
     <div class="container pb-4">
-        <div class="text-center mb-5">
-            <h2 class="heading-secondary mb-1">Feel. Imagine. Do. Share.</h2>
-            <p class="lead text-block">
-                “Though slavery is taught in history classes,
-                <span class="font-weight-bold text-secondary">only 8% of high school seniors could identify slavery
-                as the central cause of the Civil War</span>,
-                according to research conducted by the Southern Poverty Law Center (SPLC) in 2017. And
-                more than half of teachers found their textbooks inadequate on the topic of slavery.”
-                <em>Resource - Southern Poverty Law Center</em>
-            </p>
+        <div class="text-center">
+            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
         </div>
         <div class="row align-items-center">
-            <div class="col-md-8 order-md-last mb-4">
+            <div class="col-md-6 order-md-last mb-4">
                 <iframe width="100%"
                         height="315"
-                        src="https://www.youtube.com/embed/-aCn72iXO9s"
+                        src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
                         frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </div>
-            <div class="col-md-4 order-md-first mb-4">
-                <h5>Our System in Action</h5>
+            <div class="col-md-1"></div>
+            <div class="col-md-5 order-md-first mb-4">
+                <h5>Our Program in Action</h5>
                 <p>
-                    Students using our system discovered the shameful past of injustice and violence in
-                    Wake County, North Carolina.
-                </p>
-                <p>
-                    Turning empathy into action, they’re bringing attention to an episode of racial
-                    violence that reverberates today.
+                  The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.<br><br>As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.
                 </p>
                 <a class="btn btn-outline-secondary text-uppercase"
-                   href="/dfcusa-web/app/webroot/files/Design for Change USA - Case for Support - 2020.pdf"
+                   href="https://blog.designforchange.us/george-taylor-remembrance/"
                    target="_blank">Read the case study</a>
             </div>
         </div>
@@ -181,9 +175,7 @@
                 <div class="text-center mb-5">
                     <h2>Social Cause Podcasts</h2>
                     <p class="lead text-block">
-                        We have amazing content for your your students. Each podcast focuses on
-                        an aspect that aligns with one of the UN's 17 Global Goals for addressing
-                        the world's most pressing challenges.
+                        We have amazing content for your students to learn about racial justice:
                     </p>
                 </div>
                 <div class="row">
@@ -191,27 +183,27 @@
                         <ul class="block-num-list">
                             <li>
                                 <span class="num pink">10</span>
-                                Racialized Discrimination
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/racializeddiscrimination">Racialized Discrimination</a>
                             </li>
                             <li>
                                 <span class="num pink">10</span>
-                                Racism: Black Youth Perspective
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/black_youth_leadership">Combating Racism: Black Youth Leadership</a>
                             </li>
                             <li>
                                 <span class="num pink">10</span>
-                                Combating Racism: Black Youth Leadership
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/youth_advocacy">Combating Racism: Youth Advocacy</a>
                             </li>
                             <li>
                                 <span class="num red">4</span>
-                                Teaching Accurate History
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/black_youth_perspective">Racism: Black Youth Perspective</a>
                             </li>
                             <li>
-                                <span class="num pink">10</span>
-                                Combating Racism: Youth Advocacy
+                                <span class="num pink">4</span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/teaching_accurate_history">Teaching Accurate History</a>
                             </li>
                             <li>
                                 <span class="num yellow">2</span>
-                                Food Deserts?
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_desert">Food Deserts</a>
                             </li>
                         </ul>
                     </div>
@@ -224,20 +216,14 @@
         <div class="mb-5">
             <h2 class="heading-secondary text-center">Global Goals</h2>
             <div class="images mb-3">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/goal-01.jpg" alt="">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/goal-02.jpg" alt="">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/goal-04.jpg" alt="">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/goal-10.jpg" alt="">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/goal-16.jpg" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
             </div>
-            <p>
-                Design For Change encourages young people around the world to think globally and
-                act locally, tackling the challenges identified by the UN that need immediate
-                action. Each year, student teams submit their projects to Design For Change. An
-                ambassador team from each country is selected to attend the Design For Change
-                Global Conference. The conference has been held in India, China, Mexico, Spain
-                and Taiwan. While travel may be curtailed at the moment, maybe your team will be
-                selected at our next conference!
+            <p class="text-black">
+                DFC has partnered with the World's Largest Lesson to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.
             </p>
         </div>
     </div>

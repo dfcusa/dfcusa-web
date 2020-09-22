@@ -8,28 +8,96 @@
 
 <section class="page-content">
     <div class="container">
-
         <h2 class="heading-secondary">Get Started with Design for Change</h2>
-
         <p>
-            Students don't have to wait to change the world. They can drive lasting
-            change in their communities, given the right tools and resources.
-            DFC recognizes that every child can be a designer for change provided
-            the right tools, resources, and support.
+            Students don't have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes that every child can be a designer for change provided the right tools, resources, and support.
         </p>
-
         <p>As an educator, here's how you get started:</p>
     </div>
 </section>
 
+<section class="get-started mt-5">
+  <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
+    <div class="container">
 
-<hr class="my-5">
+        <div class="text-center">
+            <h3 class="h4 mt-2 mb-2">FIRST YOU...</h3>
+            <h4 class="h5 mb-4 font-weight-normal">
+              Select a course that you think will engage your students and fits your curriculum goals:
+            </h4>
+        </div>
+        
+        <div class="row pb-5">
+          <div class="get-started-inner">
+              <div class="row align-items-stretch">
+
+                  <div class="col-lg-4 d-flex">
+                      <div class="lead-box lead-magenta lead-offsetted img-center text-center">
+                          <div class="lead-image">
+                              <img src="/dfcusa-web/app/webroot/img/ico_c_racialinjustice.png" alt="">
+                          </div>
+                          <div class="lead-content">
+                              <h4 class="heading">RACIAL<br>INJUSTICE</h4>
+                              <div>
+                                  <p class="pt-2 pb-3">Racism does exist in America and the impact and the history of it is complex. Students lean in and join the movement for racial justice and change. </p>
+                                  <p class="small">
+                                      <strong>Time Commitment:</strong><br>
+                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                  </p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 d-flex">
+                      <div class="lead-box lead-orange lead-offsetted img-center text-center">
+                          <div class="lead-image">
+                              <img src="/dfcusa-web/app/webroot/img/ico_c_equityeducation.png">
+                          </div>
+                          <div class="lead-content">
+                              <h4 class="heading">EQUITY IN<br>EDUCATION</h4>
+                              <div>
+                                  <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Students explore the many factors and get inspired to disrupt the inequity.</p>
+                                  <p class="small">
+                                      <strong>Time Commitment:</strong><br>
+                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                  </p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 d-flex">
+                      <div class="lead-box lead-success lead-offsetted img-center text-center">
+                          <div class="lead-image">
+                              <img src="/dfcusa-web/app/webroot/img/ico_c_climateaction.png" alt="">
+                          </div>
+                          <div class="lead-content">
+                              <h4 class="heading">CLIMATE<br>ACTION</h4>
+                              <div>
+                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Students learn about the realities of climate change and learn what they can do about it.</p>
+                                  <p class="small">
+                                      <strong>Time Commitment:</strong><br>
+                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                  </p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                 
+              </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
 
 <section class="page-content pb-2">
     <div class="container">
-        <h3 class="h4 mt-3 pt-4 mb-2">FIRST YOU...</h3>
+        <h3 class="h4 mt-3 pt-4 mb-2">THEN YOU...</h3>
         <h4 class="h5 mb-4 font-weight-normal">
-            Choose a podcast that interests your students:
+            Hand pick specially produced podcasts that give your students real facts and build empathy for those affected by the issue:
         </h4>
 
         <div class="row">
@@ -37,7 +105,7 @@
                 <ul class="list-unstyled h6 font-weight-normal">
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Each podcast delves into a specific social issue
+                        Each podcast delves into a specific social issue - Racial Injustice, Equity in Education, Climate Action
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -57,10 +125,6 @@
                     </li>
                     <li class="mb-4 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        New episodes are added every month
-                    </li>
-                    <li class="mb-4 d-flex align-items-center">
-                        <i class="fas fa-check-circle fa-2x mr-3"></i>
                         <a href="/pages/podcasts">See full library of podcasts</a>
                     </li>
                 </ul>
@@ -71,84 +135,6 @@
             </div>
         </div>
     </div>
-</section>
-
-<section class="get-started">
-  <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
-    <div class="container">
-
-        <div class="text-center">
-            <h3 class="h4 mt-2 mb-2">THEN, YOU...</h3>
-            <h4 class="h5 mb-4 font-weight-normal">
-                Facilitate an activity path that fits your time availability and classroom environment:
-            </h4>
-        </div>
-        
-        <div class="get-started-inner">
-            <div class="row align-items-stretch">
-
-                <div class="col-lg-4 d-flex">
-                    <div class="lead-box lead-light-blue lead-offsetted img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_toolkit_square.png" alt="">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">EMPATHY WARMUPS</h4>
-                            <div class="small">
-                                <p>A quick way to get engaged with a specific social cause and for your students to think critically about it.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    1 hour total<br/><i>(in classroom)</i>
-                                </p>
-                                <a class="btn btn-inverse-light-blue" href="/pages/get-started/empathy-warmups">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 d-flex">
-                    <div class="lead-box lead-orange lead-offsetted img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_designsprints_square.png">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">DESIGN SPRINTS</h4>
-                            <div class="small">
-                                <p>Brief classroom activities that build empathy around a social issue and introduce design thinking concepts.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    5 hours total<br/><i>(in classroom)</i>
-                                </p>
-                                <a class="btn btn-inverse-orange" href="/pages/get-started/design-sprints">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 d-flex">
-                    <div class="lead-box lead-magenta lead-offsetted img-center text-center">
-                        <div class="lead-image">
-                            <img src="/dfcusa-web/app/webroot/img/ico_c_projects_square.png" alt="">
-                        </div>
-                        <div class="lead-content">
-                            <h4 class="heading">COMMUNITY ACTION</h4>
-                            <div class="small">
-                                <p>Activities that take your students into the community to discover issues they care about and do something about them.</p>
-                                <p>
-                                    <strong>Time Commitment:</strong><br>
-                                    10+ hours<br/><i>(in and out of classroom)</i>
-                                </p>
-                                <a class="btn btn-inverse-magenta" href="/pages/get-started/community-action">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-               
-            </div>
-        </div>
-    </div>
-  </div>
 </section>
 
 <section class="page-content">
@@ -171,15 +157,19 @@
                         <ul class="list-unstyled h6 font-weight-normal">
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Free podcast episodes
+                                Create unlimited classes with any of our courses
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Guided activities and step by step instructions
+                                Self guided with intervals for teacher-led exercises
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Free activities across all stages
+                                Works with in-person, virtual and hybrid environments
+                            </li>
+                            <li class="mb-3 d-flex align-items-center">
+                                <i class="fas fa-check-circle fa-2x mr-3"></i>
+                                Step by step instructions and interactive worksheets
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -391,14 +381,13 @@
         <p class="description">{{description}}</p>
 
         <div class="details">
+          <span class="content"><b>Course:</b> {{course}}</span>
           <span class="content"><b>Duration:</b> {{duration}}</span>
           <span class="content"><b>Difficulty:</b> {{difficulty}}</span>
           <span class="content"><b>Global Goal:</b> {{global_goal}}</span>
-          <span class="content sponsored" data-sponsor="{{sponsor_name}}"><b>Sponsored By:</b> <a href="javascript:void(0)">{{sponsor_name}}</a></span>
         </div>
       </div>
       <a class="btn btn-primary btn-sm center play-podcast text-white" href="javascript:void(0)" data-audio="{{audio}}">Play Preview</a>
-      <div class="sponsor-logo"><img src="{{sponsor_logo}}"/></div>
     </div>
   </li>
 </script>

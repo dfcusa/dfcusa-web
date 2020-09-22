@@ -51,7 +51,7 @@
   }
 
   .hero-container{
-    width: 90%;
+    width: 100%;
     max-width: 810px;
     margin: auto;
     padding: 3rem 15px 2rem;
@@ -88,12 +88,12 @@
 .new-home{
 
   .hero{
-    padding-top: 120px;
+    padding-top: 100px;
     padding-bottom: 30px;
     text-align: left;
     background: linear-gradient(180deg, rgba(black, 0.5) 0%, rgba(black, 0.6) 100%),
-                url('/dfcusa-web/app/webroot/img/new-pages/boy-with-laptop.jpg') no-repeat center center / cover;
-    font-size: 1.7rem;
+                url('/dfcusa-web/app/webroot/img/new-pages/washhands.png') no-repeat center center / cover;
+    font-size: 1.5rem;
     border-radius: 2rem 2rem 0 0;
     margin: -95px 10px 0;
     text-shadow: rgba(black, 0.1) 0 2px 3px;
@@ -104,12 +104,12 @@
   }
 
   .hero-container{
-    max-width: 520px;
+    max-width: 430px;
     margin-right: 0;
   }
 
   h1{
-    font-size: 4rem;
+    font-size: 3.2rem;
     line-height: 1.1;
     font-weight: $font-weight-bolder;
     color: $theme-light-blue;

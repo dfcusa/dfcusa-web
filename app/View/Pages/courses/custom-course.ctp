@@ -1,15 +1,15 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">Build empathy in your students.</h4>
+    <h4 class="heading">Engage your students the way you want to.</h4>
   </div>
 </section>
 
 <section class="page-content mb-5">
     <div class="container">
-      <h2 class="heading-secondary">Social Causes Activities and Podcasts</h2>
+      <h2 class="heading-secondary">Design Your Own Design for Change Course</h2>
 
-      <p class="mb-5">Choose a social cause to learn about and then select the activity path that works for you. These podcasts are under 10 minutes and have an accompanying presentation to introduce the topic to your students and get their brainstorming juices flowing!
+      <p class="mb-5">Choose a social cause to learn about and then download <a target="_new" href="https://dfc-files.s3.amazonaws.com/Design+for+Change+USA+Design+Sprint+Toolkit.pdf">our free Educator Toolkit</a> to guide you on setting up your Design for Change course. These podcasts are under 10 minutes and have an accompanying presentation to introduce the topic to your students and get their brainstorming juices flowing!
       </p>
 
       <div id="podcasts-container" class="row mt-5">

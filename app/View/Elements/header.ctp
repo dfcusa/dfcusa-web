@@ -32,28 +32,29 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item dropdown <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)) { ?>active<?php } ?>">
+                    <li class="nav-item dropdown <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?> <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link dropdown-toggle" data-toggle="get-started" href="/pages/how-it-works" target="_parent">Our Program</a>
                         <div class="dropdown-menu">
                           <a class="dropdown-item" href="/pages/how-it-works" target="_parent">How It Works</a>
                           <a class="dropdown-item" href="/pages/get-started" target="_parent">Getting Started</a>
                         </div>
                     </li>
-                    <li class="nav-item dropdown <?php if ((strpos($_SERVER['REQUEST_URI'], 'get-started') > -1) || (strpos($_SERVER['REQUEST_URI'], 'how-it-works') > -1) || (strpos($_SERVER['REQUEST_URI'], 'podcasts') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link dropdown-toggle" data-toggle="get-started" href="/pages/how-it-works" target="_parent">Courses</a>
+                    <li class="nav-item dropdown <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?> <?php if ((strpos($_SERVER['REQUEST_URI'], 'courses') > -1)) { ?>active<?php } ?>">
+                        <a class="nav-link dropdown-toggle" data-toggle="courses" href="#" target="_parent">Courses</a>
                         <div class="dropdown-menu">
                           <a class="dropdown-item" href="/pages/courses/racial-injustice" target="_parent">Racial Injustice</a>
                           <a class="dropdown-item" href="/pages/courses/climate-action" target="_parent">Climate Action</a>
                           <a class="dropdown-item" href="/pages/courses/equity-education" target="_parent">Equity in Education</a>
+                          <a class="dropdown-item" href="/pages/courses/custom-course" target="_parent">Build Your Own</a>
                         </div>
                     </li>
-                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'stories') > -1) || (strpos($_GET['nav'], 'stories') > -1)) { ?>active<?php } ?>">
+                    <li class="nav-item <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?><?php if ((strpos($_SERVER['REQUEST_URI'], 'stories') > -1) || (strpos($_GET['nav'], 'stories') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/stories" target="_parent">Our Impact</a>
                     </li>
-                    <li class="nav-item hide <?php if ($_GET['title'] != '') { ?>active<?php } ?>">
+                    <li class="nav-item <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?> hide <?php if ($_GET['title'] != '') { ?>active<?php } ?>">
                         <a class="nav-link" href="https://blog.designforchange.us/tag/blog/" target="_parent">What's New</a>
                     </li>
-                    <li class="nav-item <?php if ((strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) || (strpos($_GET['nav'], 'about-us') > -1)) { ?>active<?php } ?>">
+                    <li class="nav-item <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?> <?php if ((strpos($_SERVER['REQUEST_URI'], 'about-us') > -1) || (strpos($_GET['nav'], 'about-us') > -1)) { ?>active<?php } ?>">
                         <a class="nav-link" href="/pages/about-us" target="_parent">About Us</a>
                     </li>
                 </ul>

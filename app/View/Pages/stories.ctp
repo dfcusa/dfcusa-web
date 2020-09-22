@@ -129,7 +129,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h2 class="mt-5 heading-secondary">Top Stories From 2019</h2>
+        <h2 class="mt-5 heading-secondary">Real Stories of Change</h2>
         <iframe src="https://blog.designforchange.us/spotlights/"
                 style="border: 0px; width: 100%; height: 2544px; margin-top: -10px" scrolling="no"></iframe>
       </div>
@@ -140,7 +140,7 @@
 <section class="stories-area">
 	<div class="container">
 
-        <h2 class="heading-secondary mt-5">Previous Years' Ambassador Teams</h2>
+        <h2 class="heading-secondary mt-5">Real Project Videos</h2>
 
 
         <div class="row">

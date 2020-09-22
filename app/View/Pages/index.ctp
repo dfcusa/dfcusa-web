@@ -4,7 +4,7 @@
         <div class="container">
             <div class="hero-container">
                 <h1>Turn Empathy into Action</h1>
-                <p>Lead your students in developing solutions for real world problems.</p>
+                <p>Join the movement of young people designing solutions for change.</p>
                 <div class="row text-center mt-4 mb-3">
                     <div class="col-4 mb-3">
                         <img src="/dfcusa-web/app/webroot/img/new-pages/icon-s-fist.png" class="icon" alt="">
@@ -20,7 +20,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <a href="" class="btn btn-lg btn-light-blue">Learn How</a>
+                    <a href="/pages/how-it-works" class="btn btn-lg btn-light-blue">Learn How</a>
                 </div>
             </div>
         </div>
@@ -49,31 +49,31 @@
         <hr class="mb-5">
 
         <div class="features text-center">
-            <h2 class="text-light-blue mb-5">We support teachers in doing great work</h2>
+            <h2 class="text-light-blue mb-5">Engage young people in a virtual changemaking experience!</h2>
             <div class="row">
                 <div class="col-md-6 col-lg-3 mb-3 px-5">
                     <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
                          class="img-fluid img-center" alt="Design Thinking">
                     <h5 class="my-3">Design Thinking</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-3 px-5">
-                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-vote.png"
-                         class="img-fluid img-center" alt="Address Social Causes">
-                    <h5 class="my-3">Address Social Causes</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <p>Young people use design thinking to create social change.</p>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-3 px-5">
                     <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
                          class="img-fluid img-center" alt="Self Guided Mobile App">
-                    <h5 class="my-3">Self Guided Mobile App</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h5 class="my-3">Self Guided Experience</h5>
+                    <p>Young people move through a virtual platform of guided activities.</p>
                 </div>
                 <div class="col-md-6 col-lg-3 mb-3 px-5">
                     <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
                          class="img-fluid img-center" alt="Community Support">
-                    <h5 class="my-3">Community Support</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <h5 class="my-3">Develop Empathy</h5>
+                    <p>Young interact with subject matter experts and community leaders.</p>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-3 px-5">
+                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-megaphone.png"
+                         class="img-fluid img-center" alt="Address Social Causes">
+                    <h5 class="my-3">Address Social Causes</h5>
+                    <p>Young people learn about racial justice, educational equity or climate action.</p>
                 </div>
             </div>
         </div>
@@ -99,82 +99,76 @@
         <div class="container py-4">
             <div class="lead-content">
                 <div class="mb-5">
-                    <h2 class="text-block-sm text-center">Activate your students to take action on social causes</h2>
+                    <h2 class="text-block-sm text-center">Support young people to build empathy and make change happen!</h2>
                     <p class="text-block text-center lead">
-                        Your students learn about a social cause through our high quality podcasts.<br>
-                        You then engage them on three different paths.
+                        Through a self-guided virtual platform, young people build awareness around a social cause and design solutions for change.
                     </p>
                 </div>
                 <h2 class="text-block text-center mb-3">
-                    Our <em>Design for Change</em> Courses
+                    The <em>Design for Change</em> Courses
                 </h2>
-                <div class="courses px-md-3">
-                    <div class="row align-self-stretch">
-                        <div class="col-md-4 podcast-col">
-                            <div class="card podcast-block extended shadow">
-                                <div class="podcast-img"
-                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+
+                <div class="get-started-inner">
+                    <div class="row align-items-stretch">
+
+                        <div class="col-lg-4 d-flex">
+                            <div class="lead-box lead-magenta lead-offsetted img-center text-center">
+                                <div class="lead-image">
+                                    <img src="/dfcusa-web/app/webroot/img/ico_c_racialinjustice.png" alt="">
                                 </div>
-                                <div class="podcast-brief">
-                                    <h5 class="text-center text-light-blue text-uppercase">Climate Action</h5>
-                                    <hr>
-                                    <p class="description">
-                                        Alongside Earth Day Network, explore the causes, the impact and
-                                        the complicated reality of plastic pollution.
-                                    </p>
-                                    <div class="details">
-                                        <span class="content"><b>Duration:</b> 10 minutes</span>
-                                        <span class="content"><b>Difficulty:</b> Intermediate</span>
-                                        <span class="content"><b>Global Goal(s):</b> Climate Action</span>
-                                        <span class="content"><b>Sponsored By:</b> Earth Day Network</span>
+                                <div class="lead-content">
+                                    <h4 class="heading">RACIAL<br>INJUSTICE</h4>
+                                    <div>
+                                        <p class="pt-2 pb-3">Racism does exist in America and the impact and the history of it is complex. Students lean in and join the movement for racial justice and change. </p>
+                                        <p class="small pb-3">
+                                            <strong>Time Commitment:</strong><br>
+                                            5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                        </p>
+                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-injustice">Learn more</a>
                                     </div>
                                 </div>
-                                <a class="btn btn-primary" href="#">Get Started</a>
                             </div>
                         </div>
-                        <div class="col-md-4 podcast-col">
-                            <div class="card podcast-block extended">
-                                <div class="podcast-img"
-                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+
+                        <div class="col-lg-4 d-flex">
+                            <div class="lead-box lead-orange lead-offsetted img-center text-center">
+                                <div class="lead-image">
+                                    <img src="/dfcusa-web/app/webroot/img/ico_c_equityeducation.png">
                                 </div>
-                                <div class="podcast-brief">
-                                    <h5 class="text-center text-light-blue text-uppercase">Equity in Education</h5>
-                                    <hr>
-                                    <p class="description">
-                                        Explore the various reactions to and the impact of experiencing
-                                        ongoing school and academic pressure.
-                                    </p>
-                                    <div class="details">
-                                        <span class="content"><b>Duration:</b> 11 minutes</span>
-                                        <span class="content"><b>Difficulty:</b> Intermediate</span>
-                                        <span class="content"><b>Global Goal(s):</b> Good Health and Well-being</span>
+                                <div class="lead-content">
+                                    <h4 class="heading">EQUITY IN EDUCATION</h4>
+                                    <div>
+                                        <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Students explore the many factors and get inspired to disrupt the inequity.</p>
+                                        <p class="small pb-3">
+                                            <strong>Time Commitment:</strong><br>
+                                            5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                        </p>
+                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/equity-education">Learn more</a>
                                     </div>
                                 </div>
-                                <a class="btn btn-primary" href="#">Get Started</a>
                             </div>
                         </div>
-                        <div class="col-md-4 podcast-col">
-                            <div class="card podcast-block extended">
-                                <div class="podcast-img"
-                                     style="background: url('/dfcusa-web/app/webroot/img/new-pages/news-01.jpg')">
+
+                        <div class="col-lg-4 d-flex">
+                            <div class="lead-box lead-success lead-offsetted img-center text-center">
+                                <div class="lead-image">
+                                    <img src="/dfcusa-web/app/webroot/img/ico_c_climateaction.png" alt="">
                                 </div>
-                                <div class="podcast-brief">
-                                    <h5 class="text-center text-light-blue text-uppercase">Racial Injustice</h5>
-                                    <hr>
-                                    <p class="description">
-                                        Explore the impact of racialized discrimination that has
-                                        manifested as a result of information and misinformation about
-                                        the COVID-19 pandemic.
-                                    </p>
-                                    <div class="details">
-                                        <span class="content"><b>Duration:</b> 11 minutes</span>
-                                        <span class="content"><b>Difficulty:</b> Advanced</span>
-                                        <span class="content"><b>Global Goal(s):</b> Reduced Inequalities</span>
+                                <div class="lead-content">
+                                    <h4 class="heading">CLIMATE<br>ACTION</h4>
+                                    <div>
+                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Students learn about the realities of climate change and learn what they can do about it.</p>
+                                        <p class="small pb-3">
+                                            <strong>Time Commitment:</strong><br>
+                                            5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                        </p>
+                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/climate-action">Learn more</a>
                                     </div>
                                 </div>
-                                <a class="btn btn-primary" href="#">Get Started</a>
                             </div>
                         </div>
+
+                       
                     </div>
                 </div>
             </div>
@@ -237,10 +231,9 @@
             <div class="text-center">
                 <h2 class="text-block-sm text-light-blue">See it in action</h2>
                 <p class="text-block lead">
-                    Explore projects from some of the thousands of organizations
-                    using Design for Change
+                    Explore projects from some of the thousands of student teams using Design for Change
                 </p>
-                <a href="" class="btn btn-lg btn-secondary">See real Projects</a>
+                <a href="/pages/impact" class="btn btn-lg btn-secondary">See real Projects</a>
             </div>
 
         </div>
@@ -250,10 +243,9 @@
         <div class="container text-block text-center py-4">
             <h2>Best of All, Our Resources Are Free!</h2>
             <p class="lead">
-                We provide free downloadabe resources and podcasts to educators to bring
-                the Design for Change program into their classrooms.
+                We provide a free web and mobile experience for educators to bring the Design for Change program into their classrooms, <i><b>in person or virtually</b></i>.
             </p>
-            <a href="" class="btn btn-lg btn-outline-light">Get Started</a>
+            <a href="/pages/get-started" class="btn btn-lg btn-outline-light">Get Started</a>
         </div>
     </section>
 
@@ -261,37 +253,7 @@
     <section class="news py-4">
         <div class="container">
             <h2 class="text-block text-center text-light-blue mb-5">Latest News & Updates</h2>
-            <div class="row align-self-stretch">
-                <div class="col-md-4 d-flex mb-3">
-                    <div class="card shadow w-100">
-                        <img class="card-img-top"
-                             src="/dfcusa-web/app/webroot/img/new-pages/news-01.jpg" alt="">
-                        <div class="card-body text-center px-lg-4">
-                            <h5 class="text-uppercase my-3">We're Listening To You</h5>
-                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 d-flex mb-3">
-                    <div class="card shadow w-100">
-                        <img class="card-img-top"
-                             src="/dfcusa-web/app/webroot/img/new-pages/news-02.jpg" alt="">
-                        <div class="card-body text-center px-lg-4">
-                            <h5 class="text-uppercase my-3">Design For Change Educators Facebook Group</h5>
-                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 d-flex mb-3">
-                    <div class="card shadow w-100">
-                        <img class="card-img-top"
-                             src="/dfcusa-web/app/webroot/img/new-pages/news-03.jpg" alt="">
-                        <div class="card-body text-center px-lg-4">
-                            <h5 class="text-uppercase my-3">Behind the Scenes – How We Produced 5 New Empathy Podcasts About COVID-19</h5>
-                            <a href="#" class="btn btn-sm btn-outline-dark my-3">Read More</a>
-                        </div>
-                    </div>
-                </div>
+            <div class="row align-self-stretch news-posts">
             </div>
         </div>
     </section>
@@ -338,7 +300,39 @@
     $(document).ready(init_home);
     $(window).resize(init_home);
 
+    $(function() {
+      $.get("/dfcusa-web/api/posts", function(data) {
+        data = JSON.parse(data);
+        var i = 0;
+        _.each(data.posts, function(post) {
+          i++;
+          if (i == 1) post.color = 'post-pink';
+          if (i == 2) post.color = 'post-yellow';
+          if (i == 3) post.color = 'post-blue';
+          post.date = moment(post.published_at).format('MMMM Do YYYY');
+          var template = Handlebars.compile($('#postTemplate').html());
+          var html = template(post);
+          $('.news-posts').append(html);
+        });
+      });
+    });
 </script>
+
+<script type="text/x-handlebars-template" id="postTemplate">
+  <div class="col-lg-4">
+    <div class="post-block {{color}}">
+      <div class="post-img" style="background-image: url('{{feature_image}}'); background-size: 100%; background-repeat: no-repeat"></div>
+        <div class="post-brief">
+          <span>{{post}}</span>
+          <a href="{{url}}" target="_new" class="post-title">{{title}}</a>
+          <p class="description">{{custom_excerpt}}</p>
+          <div class="read-more"><a href="{{url}}" target="_new" class="read-more">Read more...</a></div>
+          <div class="date">{{date}}</date>
+        </div>
+    </div>
+  </div>
+</script>
+
 
 <script type="text/javascript">
     function submitNewsletter() {

@@ -21,7 +21,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                     <h4>Feel</h4>
-                    <p>Students listen to a podcast about a social issue. They can also engage community members to go deeper.</p>
+                    <p>Students listen to specially produced podcasts about a social issue. They also engage with additional content from subject matter experts.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid mt-4 rounded border">
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                     <h4>Imagine</h4>
-                    <p>Students work as a team to brainstorm solutions - in the classroom or they go into the community to get feedback.</p>
+                    <p>Students work indivdually and as a team to brainstorm solutions through a series of activities that encourage creativity and introspection.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid mt-4 rounded border">
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                     <h4>Do</h4>
-                    <p>Teams develop an action plan to be reviewed in the classroom or they go into the community and implement it.</p>
+                    <p>Students develop action plans to make their idea happen. When possible, they go into the community and implement and interate on their solution.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid mt-4 rounded border align-self-end">
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <div class="inner">
                     <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
                     <h4>SHARE</h4>
-                    <p>Teams share their story with their peers and the community to generate awareness and inspire others to act.</p>
+                    <p>Students go through a reflection exercises to reinforce their own learnings and share their findings to inspire others.</p>
                     <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="img-fluid mt-4 rounded border">
                 </div>
             </div>
@@ -58,32 +58,25 @@
                     <tr>
                         <th>Who:</th>
                         <td>
-                            Middle school-aged students with an adult educator (teacher, parent, youth
-                            leader, coach, etc.)
+                            Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)
                         </td>
                     </tr>
                     <tr>
                         <th>What:</th>
                         <td>
-                            Students work in teams to investigate social issues, brainstorm solutions,
-                            develop action plans, and implement their ideas. “Through” this process, they
-                            develop empathy, persistence, and resilience.
+                            Students work individually and in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. "Through" this process, they develop empathy, persistence, and resilience.
                         </td>
                     </tr>
                     <tr>
                         <th>How:</th>
                         <td>
-                            Educators guide students using the DFC methodology and dozens of free activities.
-                            Projects can range from 4 hours to weeks long. Projects are managed using our
-                            Online Educator Platform.
+                            Using Design for Change's unique web and mobile experience, students do a series of online activities and then come together virtually or physically to collaborate and learn from each other.
                         </td>
                     </tr>
                     <tr>
                         <th>When:</th>
                         <td>
-                            Teams submit their projects to DFC by May 15, 2020. Each team has the opportunity
-                            to be selected to represent the United States at the annual Design for Change
-                            Global Conference, held in a different country each year.
+                            Design for Change USA will award three $500 grants to youth teams to advance their Design for Change USA projects. Projects will need to address one of our critical themes this year: Racial Justice, Educational Equity, Climate Action. Ambassador teams will be announced on May 30th, 2021. 
                         </td>
                     </tr>
                     </tbody>
@@ -92,7 +85,7 @@
         </div>
 
         <div class="p-4 mb-5">
-            <h3 class="heading w-100 text-center pb-5">What We Do For You</h3>
+            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
             <div class="lead-content mr-5">
                 <ol class="list-group w-100 mx-auto">
                     <li class="list-unstyled mb-5">
@@ -172,12 +165,11 @@
                 </div>
                 <div class="col-sm-9 mb-4">
                     <p>
-                        Every year, student teams from around the world submit their projects to Design for Change. An
-                        Ambassador Team is selected from each country to attend the DFC Global Conference. This
-                        conference brings together student teams from across the world to share and celebrate their
-                        solutions!<br/><br/>The conference has been held in India, China, Mexico, and Spain. In 2018,
-                        the conference was in Taipei, Taiwan. Explore the experiences of our students at the global
-                        conference in the videos below:
+                        Over the last 8 years, Design for Change has hosted multiple global celebrations, bringing together student changemakers from over 70+ countries, to share their projects for a better world! 
+                        <br/><br/>
+                        These celebrations have historically been a time for students to gather and build cross cultural connections and friendships, helping them realize the power of their collective action! 
+                        <br/><br/>
+                        In 2021, Design for Change is considering an exciting virtual event, bringing together student changemakers to share their projects of change proving that while we may not be in person this year, the spirit of change making is stronger than ever! 
                     </p>
                 </div>
             </div>
