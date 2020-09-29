@@ -5,7 +5,7 @@
   </div>
 </section>
 
-<section class="page-content">
+<section class="page-content pb-4">
 	<div class="container">
     <h2 class="heading-secondary">How Design for Change Works</h2>
     <p>
@@ -14,43 +14,10 @@
         Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
         Students <strong>brainstorm, plan,</strong> and <strong>execute</strong> service learning projects.
     </p>
-
-    <div class="program-icons program-icons-light program-icons-offsetted pt-3 my-5 hide">
-        <div class="program-icon">
-            <div class="inner">
-                <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
-                <h4>Feel</h4>
-                <p>Students listen to specially produced podcasts about a social issue. They also engage with additional content from subject matter experts.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/feel.png" class="img-fluid mt-4 rounded border">
-            </div>
-        </div>
-        <div class="program-icon">
-            <div class="inner">
-                <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
-                <h4>Imagine</h4>
-                <p>Students work indivdually and as a team to brainstorm solutions through a series of activities that encourage creativity and introspection.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/imagine.png" class="img-fluid mt-4 rounded border">
-            </div>
-        </div>
-        <div class="program-icon">
-            <div class="inner">
-                <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
-                <h4>Do</h4>
-                <p>Students develop action plans to make their idea happen. When possible, they go into the community and implement and interate on their solution.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/do.png" class="img-fluid mt-4 rounded border align-self-end">
-            </div>
-        </div>
-        <div class="program-icon">
-            <div class="inner">
-                <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
-                <h4>SHARE</h4>
-                <p>Students go through a reflection exercises to reinforce their own learnings and share their findings to inspire others.</p>
-                <img src="/dfcusa-web/app/webroot/img/photos/share.png" class="img-fluid mt-4 rounded border">
-            </div>
-        </div>
-    </div>
   </div>
+</section>
 
+<section class="page-content">
   <div class="lead-box lead-light-blue py-5 shadow-none rounded-0 border-0">
       <div class="container py-4">
           <div class="lead-content">
@@ -144,7 +111,8 @@
               </div>
           </div>
       </div>
-  </div>  
+  </div>
+</section> 
 
   <div class="container">
     <div class="mb-5 pb-3 hide">
@@ -249,14 +217,12 @@
   </div>
 </section>
 
-<section class="lead-box lead-primary border-0 rounded-0 mb-0">
-    <div class="container py-4">
+<section class="design-change reverse pb-5">
+  <div class="container">
 
-        <h2 class="heading text-center font-weight-bolder">Grants</h2>
-        <div class="lead-content">
-          <div class="row">
-            <div class="col-sm-12">
-              At Design for Change USA, we are pleased to announce that we will be awarding three $500 grants to youth teams to advance their Design for Change USA projects. 
+        <div class="lead shadow-lg p-4 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
+            <h2 class="heading text-black">Grants</h2>
+            At Design for Change USA, we are pleased to announce that we will be awarding three $500 grants to youth teams to advance their Design for Change USA projects. 
               <br/><br/>
               Projects will need to address one of our critical themes this year:
               <ul>
@@ -266,10 +232,13 @@
               </ul>
               Ambassador teams will be announced on May 30th, 2021. 
             </div>
-          </div>
         </div>
 
-        <br/><hr><br/>
+    </div>
+</section>
+
+<section class="lead-box lead-primary border-0 rounded-0 mb-0">
+    <div class="container py-4">
 
         <h2 class="heading text-center font-weight-bolder">The Global Connection</h2>
 

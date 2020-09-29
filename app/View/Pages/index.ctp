@@ -98,7 +98,7 @@
                                 <div class="lead-content">
                                     <h4 class="heading">RACIAL<br>JUSTICE</h4>
                                     <div>
-                                        <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice.</p>
+                                        <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice and make a real difference.</p>
                                         <p class="small pb-3">
                                             <strong>Time Commitment:</strong><br>
                                             5+ hours
@@ -136,7 +136,7 @@
                                 <div class="lead-content">
                                     <h4 class="heading">CLIMATE<br>ACTION</h4>
                                     <div>
-                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Learn about the current realities. Create change.</p>
+                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the current realities and create change in your community.</p>
                                         <p class="small pb-3">
                                             <strong>Time Commitment:</strong><br>
                                             5+ hours
@@ -168,117 +168,38 @@
         </div>
     </section>      
 
-    <section>
-        <div class="features text-center hide">
-            <h2 class="text-light-blue mb-5">Engage students in a virtual changemaking experience!</h2>
-            <div class="row">
-                <div class="col-md-6 col-lg-3 mb-3 px-5">
-                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
-                         class="img-fluid img-center" alt="Self Guided Mobile App">
-                    <h5 class="my-3">Social<br>Causes</h5>
-                    <p>Students build empathy around racial justice, educational equity or climate action.</p>
-                </div>                
-                <div class="col-md-6 col-lg-3 mb-3 px-5">
-                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
-                         class="img-fluid img-center" alt="Address Social Causes">
-                    <h5 class="my-3">Design<br>Thinking</h5>
-                    <p>Students use design thinking to create social change.</p>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-3 px-5">
-                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
-                         class="img-fluid img-center" alt="Design Thinking">
-                    <h5 class="my-3">Self-guide<br>Virtual Platform</h5>
-                    <p>Students move through a virtual platform of guided activities.</p>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-3 px-5">
-                    <img src="/dfcusa-web/app/webroot/img/new-pages/icon-megaphone.png"
-                         class="img-fluid img-center" alt="Community Support">
-                    <h5 class="my-3">Amplified<br>Impact</h5>
-                    <p>Students who submit their story of change are eligible for a small grant to support their changemaking. </p>
-                </div>
+    <section class="container">
+      <div class="features text-center">
+        <h2 class="text-light-blue mb-5">Engage students in a virtual changemaking experience!</h2>
+        <p>Through a virtual platform, student build awareness around a social cause and design solutions for change.</p>
+        <div class="row">
+            <div class="col-md-6 col-lg-3 mb-3 px-5">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
+                     class="img-fluid img-center" alt="Self Guided Mobile App">
+                <h5 class="my-3">Social<br>Causes</h5>
+                <p>Students build empathy around racial justice, educational equity or climate action.</p>
+            </div>                
+            <div class="col-md-6 col-lg-3 mb-3 px-5">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
+                     class="img-fluid img-center" alt="Address Social Causes">
+                <h5 class="my-3">Design<br>Thinking</h5>
+                <p>Students use design thinking to create social change.</p>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-3 px-5">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
+                     class="img-fluid img-center" alt="Design Thinking">
+                <h5 class="my-3">Self-guide<br>Virtual Platform</h5>
+                <p>Students move through a virtual platform of guided activities.</p>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-3 px-5">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-megaphone.png"
+                     class="img-fluid img-center" alt="Community Support">
+                <h5 class="my-3">Amplified<br>Impact</h5>
+                <p>Students who submit their story of change are eligible for a small grant to support their changemaking. </p>
             </div>
         </div>
+      </div>
     </section> 
-
-    <section class="lead-box lead-light-blue pb-5 mb-5 shadow-none rounded-0 border-0" style="padding-top: 80px; margin-top: -40px;">
-        <div class="container py-4">
-            <div class="lead-content">
-                <div class="mb-5">
-                    <h2 class="text-block-sm text-center">Support students to build empathy and make change happen!</h2>
-                    <p class="text-block text-center lead pt-3">
-                        Through a flexible  virtual platform, students build awareness about a social<br>cause and design solutions for change.
-                    </p>
-                </div>
-                <h3 class="text-block text-center mb-3">
-                    The <em>Design for Change</em> Themes
-                </h3>
-
-                <div class="get-started-inner">
-                    <div class="row align-items-stretch">
-
-                        <div class="col-lg-4 d-flex">
-                            <div class="lead-box lead-magenta lead-offsetted img-center text-center">
-                                <div class="lead-image">
-                                    <img src="/dfcusa-web/app/webroot/img/ico_c_racialinjustice.png" alt="">
-                                </div>
-                                <div class="lead-content">
-                                    <h4 class="heading">RACIAL<br>JUSTICE</h4>
-                                    <div>
-                                        <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice.</p>
-                                        <p class="small pb-3">
-                                            <strong>Time Commitment:</strong><br>
-                                            5+ hours
-                                        </p>
-                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-justice">Learn more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 d-flex">
-                            <div class="lead-box lead-orange lead-offsetted img-center text-center">
-                                <div class="lead-image">
-                                    <img src="/dfcusa-web/app/webroot/img/ico_c_equityeducation.png">
-                                </div>
-                                <div class="lead-content">
-                                    <h4 class="heading">EDUCATIONAL EQUITY</h4>
-                                    <div>
-                                        <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Explore the many factors. Disrupt the inequity.</p>
-                                        <p class="small pb-3">
-                                            <strong>Time Commitment:</strong><br>
-                                            5+ hours
-                                        </p>
-                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/educational-equity">Learn more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 d-flex">
-                            <div class="lead-box lead-success lead-offsetted img-center text-center">
-                                <div class="lead-image">
-                                    <img src="/dfcusa-web/app/webroot/img/ico_c_climateaction.png" alt="">
-                                </div>
-                                <div class="lead-content">
-                                    <h4 class="heading">CLIMATE<br>ACTION</h4>
-                                    <div>
-                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Learn about the current realities. Create change.</p>
-                                        <p class="small pb-3">
-                                            <strong>Time Commitment:</strong><br>
-                                            5+ hours
-                                        </p>
-                                        <a class="btn btn-inverse-light-blue" href="/pages/courses/climate-action">Learn more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                       
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="reviews-new">
         <div class="container">

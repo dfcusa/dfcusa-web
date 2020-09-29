@@ -2,7 +2,7 @@
 
 <section class="hero with-background-image" style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">Change starts with you.</h4>
+    <h4 class="heading">Turn empathy into action.</h4>
   </div>
 </section>
 
@@ -10,9 +10,14 @@
     <div class="container">
         <h2 class="heading-secondary">Get Started with Design for Change</h2>
         <p>
-            Students don't have to wait to change the world. They can drive lasting change in their communities, given the right tools and resources. DFC recognizes that every child can be a designer for change provided the right tools, resources, and support.
+          Join the movement of educators who are creating experiences for their students to lead change. Through a virtual platform, students build awareness around a social cause and design solutions for change.
         </p>
-        <p>As an educator, here's how you get started:</p>
+        <p>
+          3 steps to get started:
+          1. Choose a theme.
+          2. Set up the experience.
+          3. Support students to create change.
+        </p>
     </div>
 </section>
 
@@ -21,9 +26,9 @@
     <div class="container">
 
         <div class="text-center">
-            <h3 class="h4 mt-2 mb-2">FIRST YOU...</h3>
+            <h3 class="h4 mt-2 mb-2">Step #1: Choose a Theme</h3>
             <h4 class="h5 mb-4 font-weight-normal">
-              Select a course that you think will engage your students and fits your curriculum goals:
+              Select a theme that you think will engage your students and fits your curriculum goals:
             </h4>
         </div>
         
@@ -39,11 +44,12 @@
                           <div class="lead-content">
                               <h4 class="heading">RACIAL<br>INJUSTICE</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice.</p>
+                                  <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice and make a real difference.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>
                                   </p>
+                                  <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-justice">Learn more</a>
                               </div>
                           </div>
                       </div>
@@ -62,6 +68,7 @@
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>
                                   </p>
+                                  <a class="btn btn-inverse-light-blue" href="/pages/courses/educational-equity">Learn more</a>
                               </div>
                           </div>
                       </div>
@@ -75,11 +82,12 @@
                           <div class="lead-content">
                               <h4 class="heading">CLIMATE<br>ACTION</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Learn about the current realities. Create change.</p>
+                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the current realities and create change in your community.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>
                                   </p>
+                                  <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-justice">Learn more</a>
                               </div>
                           </div>
                       </div>
@@ -93,11 +101,11 @@
   </div>
 </section>
 
-<section class="page-content pb-2">
+<section class="page-content pb-5">
     <div class="container">
-        <h3 class="h4 mt-3 pt-4 mb-2">THEN YOU...</h3>
+        <h3 class="h4 mt-3 pt-4 mb-2">Step #2: Set Up the Experience</h3>
         <h4 class="h5 mb-4 font-weight-normal">
-            Hand pick specially produced podcasts that give your students real facts and build empathy for those affected by the issue:
+            Select a featured podcast and empathy-building content from a curated library:
         </h4>
 
         <div class="row">
@@ -105,11 +113,11 @@
                 <ul class="list-unstyled h6 font-weight-normal">
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Each podcast delves into a specific social issue - Racial Injustice, Equity in Education, Climate Action
+                        All content provides a critical look at the selected theme 
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Includes real interviews with youth
+                        Each podcast center community perspective and youth voice
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -117,11 +125,11 @@
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Include visuals to guide the listener along
+                        Podcasts include transcripts and visuals
                     </li>
                     <li class="mb-4 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Each podcast is aligned with a UN Sustainable Global Goal
+                        Materials are aligned to the UN Sustainable Development Goals
                     </li>
                     <li class="mb-4 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -135,6 +143,29 @@
             </div>
         </div>
     </div>
+</section>
+
+<section class="get-started mt-5">
+  <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
+    <div class="container">
+
+        <div class="text-center">
+            <h3 class="h4 mt-2 mb-2">Step #3: Support Students to Create Change</h3>
+            <h4 class="h5 mb-4 font-weight-normal">
+              As an educator, you will have access to a teacher platform that allows you to: 
+              <ul>
+                <li>Customize content </li>
+                <li>Monitor the student experience</li>
+                <li>Set up collaborative sessions with your class</li>
+                <li>Support students’ changemaking </li>
+                <li>Capture students’ stories of change </li>
+              </ul>
+
+            </h4>
+        </div>
+
+    </div>
+  </div>
 </section>
 
 <section class="page-content">
@@ -157,27 +188,27 @@
                         <ul class="list-unstyled h6 font-weight-normal">
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Create unlimited classes with any of our courses
+                                Synchronous or asynchronous engagement
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Self guided with intervals for teacher-led exercises
+                                Virtual or in-person interaction 
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Works with in-person, virtual and hybrid environments
+                                Step-by-step instructions for students
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Step by step instructions and interactive worksheets
+                                Modifiable to fit your context 
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Upload project worksheets, pictures and videos
+                                Easily monitor students’ progress
                             </li>
                             <li class="mb-4 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Reach out for help and talk to experts
+                                <i>Experienced educator community available for support</i>
                             </li>
                         </ul>
 
