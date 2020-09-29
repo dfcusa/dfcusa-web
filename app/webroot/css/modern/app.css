@@ -14315,27 +14315,18 @@ a.text-dark-green:focus {
 .racial-injustice .global-goals .images {
   display: -webkit-box;
   display: flex;
-  -webkit-box-pack: justify;
-          justify-content: space-between;
   flex-wrap: wrap;
 }
 
+.racial-injustice .global-goals .images .img {
+  -webkit-box-flex: 0;
+          flex: 0 0 33.3333333%;
+  padding: 0.3rem;
+}
+
 .racial-injustice .global-goals .images img {
-  margin-bottom: 0.5rem;
-  width: 48%;
+  width: 100%;
   height: auto;
-}
-
-@media (min-width: 768px) {
-  .racial-injustice .global-goals .images img {
-    width: 32%;
-  }
-}
-
-@media (min-width: 992px) {
-  .racial-injustice .global-goals .images img {
-    width: 150px;
-  }
 }
 
 .new-home .courses .podcast-col {
@@ -14773,6 +14764,66 @@ a.text-dark-green:focus {
   .grants .lead-wrap {
     padding-right: 140px;
   }
+}
+
+.newspaper-back {
+  margin-bottom: 3rem;
+  padding: 2rem 3rem 3rem 3rem;
+  font-family: serif;
+  position: relative;
+  border-radius: 1px 1px 8px 1px;
+  box-shadow: rgba(0, 0, 0, 0.3) -3px 3px 5px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.3085609244)), color-stop(94%, rgba(255, 255, 255, 0.1)), color-stop(98%, #bfbfbf), to(rgba(64, 64, 64, 0.5214460784))), -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.3085609244)), color-stop(6%, rgba(227, 227, 227, 0.5242471989)), color-stop(27%, rgba(255, 255, 255, 0.330969888)), color-stop(44%, rgba(228, 228, 228, 0.4570203081)), color-stop(60%, rgba(255, 255, 255, 0.3029586835)), color-stop(80%, rgba(255, 255, 255, 0.0760679272)), to(rgba(255, 255, 255, 0.4178046218))), url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(255, 255, 255, 0.1) 94%, #bfbfbf 98%, rgba(64, 64, 64, 0.5214460784) 100%), linear-gradient(90deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(227, 227, 227, 0.5242471989) 6%, rgba(255, 255, 255, 0.330969888) 27%, rgba(228, 228, 228, 0.4570203081) 44%, rgba(255, 255, 255, 0.3029586835) 60%, rgba(255, 255, 255, 0.0760679272) 80%, rgba(255, 255, 255, 0.4178046218) 100%), url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
+}
+
+.newspaper-back:before,
+.newspaper-back:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 1px 1px 8px 1px;
+  background: url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
+}
+
+.newspaper-back:before {
+  top: 25px;
+  -webkit-transform: translate(-14px) skewX(3deg);
+          transform: translate(-14px) skewX(3deg);
+  box-shadow: rgba(0, 0, 0, 0.3) -2px 0 2px, rgba(0, 0, 0, 0.2) 0 3px 5px;
+}
+
+.newspaper-back:after {
+  top: 15px;
+  -webkit-transform: translate(-9px) skewX(2deg);
+          transform: translate(-9px) skewX(2deg);
+  box-shadow: rgba(0, 0, 0, 0.3) -1px 0 2px;
+}
+
+.newspaper-back .content {
+  position: relative;
+  z-index: 2;
+}
+
+.newspaper-back .heading {
+  font-size: 2.5rem;
+}
+
+.newspaper-back h5 {
+  font-size: 2rem;
+}
+
+.newspaper-back .line-middle {
+  background: -webkit-gradient(linear, left top, right top, color-stop(55%, rgba(255, 255, 255, 0)), color-stop(56%, #404040), color-stop(57%, rgba(255, 255, 255, 0)));
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 55%, #404040 56%, rgba(255, 255, 255, 0) 57%);
+}
+
+.newspaper-back .h-line {
+  border-color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 0;
 }
 
 .cta-interested {

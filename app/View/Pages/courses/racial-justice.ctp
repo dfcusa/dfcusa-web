@@ -202,51 +202,72 @@
     </div>
 
     <div class="container pb-4 global-goals mt-5 pt-3">
-        <div class="mb-5">
-            <h2 class="heading-secondary text-center">Think Globally. Act Locally.</h2>
-            <p class="text-black">
-                The following UN Global Goals are relevant to the theme of Racial Justice.
-            </p>
-            <div class="images mb-3">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-11">
+                <div class="lead lead-light shadow-lg">
+                    <div class="card-body">
+                        <h2 class="heading-secondary text-center d-md-none">Think Globally. Act Locally.</h2>
+                        <div class="row align-items-center">
+                            <div class="col-sm-6">
+                                <div class="images mb-3">
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt=""></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 text-black">
+                                <h2 class="heading-secondary d-none d-md-block">Think Globally. Act Locally.</h2>
+                                <p>
+                                    The following UN Global Goals are relevant to the theme of Racial Justice.
+                                </p>
+                                <p>
+                                    Our platform helps students address these global goals through engaging activities
+                                    that result in real changemaking.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <p class="text-black">
-                Our platform helps students address these global goals through engaging activities that result in real changemaking.
-            </p>
         </div>
     </div>    
 
-<div class="container pb-4">
-        <div class="text-center">
-            <h3 class="heading w-100 text-center pb-5">Design for Change In Action</h3>
-        </div>
-        <div class="row align-items-center">
-            <div class="col-md-6 order-md-last mb-4">
-                <iframe width="100%"
-                        height="315"
-                        src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+<section class="container pb-4">
+    <div class="newspaper-back">
+        <div class="content">
+            <h3 class="heading text-center">Design for Change In Action</h3>
+            <hr class="h-line">
+            <div class="row align-items-stretch text-justify">
+                <div class="col-md-6 order-md-last mt-3 mb-3">
+                    <iframe width="100%"
+                            height="330"
+                            src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+                <div class="col-md-1 line-middle"></div>
+                <div class="col-md-5 order-md-first mt-3 mb-3">
+                    <h5>North Carolina Students Address Historic Racism</h5>
+                    <p>
+                        The George Taylor Remembrance Project raised awareness about the lynching
+                        of George Taylor which occurred over 100 years ago and is the only
+                        documented lynching in Wake County, North Carolina.
+                    </p>
+                    <p>
+                        As part of the reconciliation process, students conducted a soil collection
+                        and created the Citizen's Promise.
+                    </p>
+                    <a class="btn btn-outline-secondary text-uppercase"
+                       href="https://blog.designforchange.us/george-taylor-remembrance/"
+                       target="_blank">Read the case study</a>
+                </div>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 order-md-first mb-4">
-                <h5>North Carolina Students Address Historic Racism</h5>
-                <p>
-                  The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.
-                  <br/><br/>
-                  As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.
-                </p>
-                <a class="btn btn-outline-secondary text-uppercase"
-                   href="https://blog.designforchange.us/george-taylor-remembrance/"
-                   target="_blank">Read the case study</a>
-            </div>
         </div>
-    </div>    
+    </div>
+</section>
 
     <section class="cta py-5 cta-ending">
         <div class="container my-3">

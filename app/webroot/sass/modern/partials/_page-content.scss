@@ -324,21 +324,16 @@
   .global-goals{
     .images{
       display: flex;
-      justify-content: space-between;
       flex-wrap: wrap;
 
+      .img{
+        flex: 0 0 33.3333333%;
+        padding: 0.3rem;
+      }
+
       img{
-        margin-bottom: 0.5rem;
-        width: 48%;
+        width: 100%;
         height: auto;
-
-        @include media-breakpoint-up(md){
-          width: 32%;
-        }
-
-        @include media-breakpoint-up(lg){
-          width: 150px;
-        }
       }
     }
   }
@@ -737,6 +732,67 @@
     .lead-wrap{
       padding-right: 140px;
     }
+  }
+
+}
+
+
+.newspaper-back{
+  margin-bottom: 3rem;
+  padding: 2rem 3rem 3rem 3rem;
+  font-family: serif;
+  position: relative;
+  border-radius: 1px 1px 8px 1px;
+  box-shadow: rgba(black, 0.3) -3px 3px 5px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.3085609243697479) 0%, rgba(255,255,255,0.1) 94%, rgba(191,191,191,1) 98%, rgba(64,64,64,0.5214460784313726) 100%),
+              linear-gradient(90deg, rgba(255,255,255,0.3085609243697479) 0%, rgba(227,227,227,0.5242471988795518) 6%, rgba(255,255,255,0.3309698879551821) 27%, rgba(228,228,228,0.45702030812324934) 44%, rgba(255,255,255,0.3029586834733894) 60%, rgba(255,255,255,0.0760679271708683) 80%, rgba(255,255,255,0.41780462184873945) 100%),
+              url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center / cover;
+  //transform: rotate(-1deg);
+
+  &:before, &:after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 1px 1px 8px 1px;
+    background: url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center / cover;
+  }
+
+  &:before{
+    top: 25px;
+    transform: translate(-14px) skewX(3deg);
+    box-shadow: rgba(black, 0.3) -2px 0 2px,
+                rgba(black, 0.2) 0 3px 5px;
+  }
+
+  &:after{
+    top: 15px;
+    transform: translate(-9px) skewX(2deg);
+    box-shadow: rgba(black, 0.3) -1px 0 2px;
+  }
+
+  .content{
+    position: relative;
+    z-index: 2;
+  }
+
+  .heading{
+    font-size: 2.5rem;
+  }
+
+  h5{
+    font-size: 2rem;
+  }
+
+  .line-middle{
+    background: linear-gradient(90deg, rgba(255,255,255,0) 55%, rgba(64,64,64,1) 56%, rgba(255,255,255,0) 57%);
+  }
+
+  .h-line{
+    border-color: rgba(black, 0.8);
+    margin-bottom: 0;
   }
 
 }
