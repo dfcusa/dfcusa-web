@@ -746,7 +746,7 @@
   box-shadow: rgba(black, 0.3) -3px 3px 5px;
   background: linear-gradient(180deg, rgba(255,255,255,0.3085609243697479) 0%, rgba(255,255,255,0.1) 94%, rgba(191,191,191,1) 98%, rgba(64,64,64,0.5214460784313726) 100%),
               linear-gradient(90deg, rgba(255,255,255,0.3085609243697479) 0%, rgba(227,227,227,0.5242471988795518) 6%, rgba(255,255,255,0.3309698879551821) 27%, rgba(228,228,228,0.45702030812324934) 44%, rgba(255,255,255,0.3029586834733894) 60%, rgba(255,255,255,0.0760679271708683) 80%, rgba(255,255,255,0.41780462184873945) 100%),
-              url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center / cover;
+              url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center / cover;
   //transform: rotate(-1deg);
 
   &:before, &:after{
@@ -757,7 +757,8 @@
     bottom: 0;
     left: 0;
     border-radius: 1px 1px 8px 1px;
-    background: url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center / cover;
+    background: linear-gradient(90deg, rgba(255,255,255,0.3085609243697479) 0%, rgba(227,227,227,0.5242471988795518) 6%, rgba(255,255,255,0.3309698879551821) 27%, rgba(228,228,228,0.45702030812324934) 44%, rgba(255,255,255,0.3029586834733894) 60%, rgba(255,255,255,0.0760679271708683) 80%, rgba(255,255,255,0.41780462184873945) 100%),
+                url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center / cover;
   }
 
   &:before{

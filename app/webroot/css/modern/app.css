@@ -14773,8 +14773,8 @@ a.text-dark-green:focus {
   position: relative;
   border-radius: 1px 1px 8px 1px;
   box-shadow: rgba(0, 0, 0, 0.3) -3px 3px 5px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.3085609244)), color-stop(94%, rgba(255, 255, 255, 0.1)), color-stop(98%, #bfbfbf), to(rgba(64, 64, 64, 0.5214460784))), -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.3085609244)), color-stop(6%, rgba(227, 227, 227, 0.5242471989)), color-stop(27%, rgba(255, 255, 255, 0.330969888)), color-stop(44%, rgba(228, 228, 228, 0.4570203081)), color-stop(60%, rgba(255, 255, 255, 0.3029586835)), color-stop(80%, rgba(255, 255, 255, 0.0760679272)), to(rgba(255, 255, 255, 0.4178046218))), url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(255, 255, 255, 0.1) 94%, #bfbfbf 98%, rgba(64, 64, 64, 0.5214460784) 100%), linear-gradient(90deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(227, 227, 227, 0.5242471989) 6%, rgba(255, 255, 255, 0.330969888) 27%, rgba(228, 228, 228, 0.4570203081) 44%, rgba(255, 255, 255, 0.3029586835) 60%, rgba(255, 255, 255, 0.0760679272) 80%, rgba(255, 255, 255, 0.4178046218) 100%), url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.3085609244)), color-stop(94%, rgba(255, 255, 255, 0.1)), color-stop(98%, #bfbfbf), to(rgba(64, 64, 64, 0.5214460784))), -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.3085609244)), color-stop(6%, rgba(227, 227, 227, 0.5242471989)), color-stop(27%, rgba(255, 255, 255, 0.330969888)), color-stop(44%, rgba(228, 228, 228, 0.4570203081)), color-stop(60%, rgba(255, 255, 255, 0.3029586835)), color-stop(80%, rgba(255, 255, 255, 0.0760679272)), to(rgba(255, 255, 255, 0.4178046218))), url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center/cover;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(255, 255, 255, 0.1) 94%, #bfbfbf 98%, rgba(64, 64, 64, 0.5214460784) 100%), linear-gradient(90deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(227, 227, 227, 0.5242471989) 6%, rgba(255, 255, 255, 0.330969888) 27%, rgba(228, 228, 228, 0.4570203081) 44%, rgba(255, 255, 255, 0.3029586835) 60%, rgba(255, 255, 255, 0.0760679272) 80%, rgba(255, 255, 255, 0.4178046218) 100%), url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center/cover;
 }
 
 .newspaper-back:before,
@@ -14786,7 +14786,8 @@ a.text-dark-green:focus {
   bottom: 0;
   left: 0;
   border-radius: 1px 1px 8px 1px;
-  background: url("https://www.photohdx.com/images/2016/11/white-vintage-paper-background.jpg") no-repeat center/cover;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.3085609244)), color-stop(6%, rgba(227, 227, 227, 0.5242471989)), color-stop(27%, rgba(255, 255, 255, 0.330969888)), color-stop(44%, rgba(228, 228, 228, 0.4570203081)), color-stop(60%, rgba(255, 255, 255, 0.3029586835)), color-stop(80%, rgba(255, 255, 255, 0.0760679272)), to(rgba(255, 255, 255, 0.4178046218))), url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center/cover;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.3085609244) 0%, rgba(227, 227, 227, 0.5242471989) 6%, rgba(255, 255, 255, 0.330969888) 27%, rgba(228, 228, 228, 0.4570203081) 44%, rgba(255, 255, 255, 0.3029586835) 60%, rgba(255, 255, 255, 0.0760679272) 80%, rgba(255, 255, 255, 0.4178046218) 100%), url("/dfcusa-web/app/webroot/images/paper-background.jpg") no-repeat center/cover;
 }
 
 .newspaper-back:before {
