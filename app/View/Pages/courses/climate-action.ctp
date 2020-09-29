@@ -19,6 +19,22 @@
                 </p>
             </div>
         </div>
+
+        <div class="row mb-4">
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-3.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-6.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-7.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+        </div>
+
         <div class="cta cta-interested p-3 mb-5">
           <div class="container">
             <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 25px">

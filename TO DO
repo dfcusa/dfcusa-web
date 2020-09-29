@@ -1,25 +1,25 @@
 TO DO 
 
-[] index
-	[] Fix colors - it goes from white to blue and then more blue - maybe try something else?
-	[] Fix spacing of the 91% banner
-	[] The "Engage students in a virtual changemaking experience" section is totally broken - should be laid out better with divisions between each section - use this for inspiration: https://projects.invisionapp.com/share/EDWG5YQJSKU#/screens/429355777_Design_For_Change-12
-	[] After the "Engage students" section, there needs to be a section that depicts "Three steps to change:". Feel free to design something you think will look good.
-		[] Step 1: Choose a pathway.
-		[] Step 2: Access the virtual platform.
-		[] Step 3: Support students to create change.
+[x] index
+	[x] Fix colors - it goes from white to blue and then more blue - maybe try something else?
+	[x] Fix spacing of the 91% banner
+	[x] The "Engage students in a virtual changemaking experience" section is totally broken - should be laid out better with divisions between each section - use this for inspiration: https://projects.invisionapp.com/share/EDWG5YQJSKU#/screens/429355777_Design_For_Change-12
+	[x] After the "Engage students" section, there needs to be a section that depicts "Three steps to change:". Feel free to design something you think will look good.
+		[x] Step 1: Choose a pathway.
+		[x] Step 2: Access the virtual platform.
+		[x] Step 3: Support students to create change.
 
-[] get-started
-	[] In the opening paragraph - make the "3 steps to get started" a seperate section to the right - maybe make the section 2 columns
-	[] The "Step #3: Support Students to Create Change" obviously needs work - needs to be a seperate section and highlighted better
+[x] get-started
+	[x] In the opening paragraph - make the "3 steps to get started" a seperate section to the right - maybe make the section 2 columns
+	[x] The "Step #3: Support Students to Create Change" obviously needs work - needs to be a seperate section and highlighted better
 
-[] how-it-works
-	[] Fix the flickity carousel spacing
-	[] The Grants box obviously needs work - open to ideas to display it in a way that it sticks out
+[x] how-it-works
+	[x] Fix the flickity carousel spacing
+	[x] The Grants box obviously needs work - open to ideas to display it in a way that it sticks out
 
 [] racial-justice
-	[] Add a row of 3 pictures above the red box - pick any pictures from here: https://drive.google.com/drive/folders/1F3h6qwW4izNB0HsiPFiy05OcCzyAaBis?usp=sharing
-	[] Find a way to seperate out the "Think Globally. Act Locally" section and the "Design for Change In Action" sections
+	[x] Add a row of 3 pictures above the red box - pick any pictures from here: https://drive.google.com/drive/folders/1F3h6qwW4izNB0HsiPFiy05OcCzyAaBis?usp=sharing
+	[?] Find a way to seperate out the "Think Globally. Act Locally" section and the "Design for Change In Action" sections
 	[] The other two pages - climate-action and equicational-equity should mimic racial-justice with flow and content
 
 

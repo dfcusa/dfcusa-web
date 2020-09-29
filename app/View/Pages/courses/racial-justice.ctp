@@ -30,6 +30,22 @@
                 </ul>
             </div>
         </div>
+
+        <div class="row mb-4">
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-3.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-6.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+            <div class="col-sm-4 mb-4">
+                <img src="/dfcusa-web/app/webroot/img/classroom/education-7.png"
+                     alt="" class="img-fluid img-thumbnail">
+            </div>
+        </div>
+
         <div class="cta cta-interested p-3 mb-5">
           <div class="container">
             <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 25px">
@@ -55,7 +71,7 @@
                         We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
                     </p>
                 </div>
-                <div class="steps">
+                <div class="steps connected-bi-slider">
                     <div class="row">
                         <div class="col-md-8 mb-3">
                             <div class="slider-wrap">

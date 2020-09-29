@@ -27,7 +27,7 @@
                       We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
                   </p>
               </div>
-              <div class="steps">
+              <div class="steps connected-bi-slider">
                   <div class="row">
                       <div class="col-md-8 mb-3">
                           <div class="slider-wrap">
@@ -114,126 +114,138 @@
   </div>
 </section> 
 
-  <div class="container">
-    <div class="mb-5 pb-3 hide">
-        <div class="program-list program-list-shadowed">
-            <table class="table">
-                <tbody>
-                <tr>
-                    <th>Who:</th>
-                    <td>
-                        Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)
-                    </td>
-                </tr>
-                <tr>
-                    <th>What:</th>
-                    <td>
-                        Students work individually and in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. "Through" this process, they develop empathy, persistence, and resilience.
-                    </td>
-                </tr>
-                <tr>
-                    <th>How:</th>
-                    <td>
-                        Using Design for Change's unique web and mobile experience, students do a series of online activities and then come together virtually or physically to collaborate and learn from each other.
-                    </td>
-                </tr>
-                <tr>
-                    <th>When:</th>
-                    <td>
-                        Design for Change USA will award three $500 grants to youth teams to advance their Design for Change USA projects. Projects will need to address one of our critical themes this year: Racial Justice, Educational Equity, Climate Action. Ambassador teams will be announced on May 30th, 2021. 
-                    </td>
-                </tr>
-                </tbody>
-            </table>
+<section>
+    <div class="container">
+        <div class="mb-5 pb-3 hide">
+            <div class="program-list program-list-shadowed">
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th>Who:</th>
+                        <td>
+                            Middle school-aged students with an adult educator (teacher, parent, youth leader, coach, etc.)
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>What:</th>
+                        <td>
+                            Students work individually and in teams to investigate social issues, brainstorm solutions, develop action plans, and implement their ideas. "Through" this process, they develop empathy, persistence, and resilience.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>How:</th>
+                        <td>
+                            Using Design for Change's unique web and mobile experience, students do a series of online activities and then come together virtually or physically to collaborate and learn from each other.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>When:</th>
+                        <td>
+                            Design for Change USA will award three $500 grants to youth teams to advance their Design for Change USA projects. Projects will need to address one of our critical themes this year: Racial Justice, Educational Equity, Climate Action. Ambassador teams will be announced on May 30th, 2021.
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
-    </div>
 
-    <div class="p-4 mb-5">
-        <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
-        <div class="lead-content mr-5">
-            <ol class="list-group w-100 mx-auto">
-                <li class="list-unstyled mb-5">
-                    <div class="row align-items-center">
-                        <div class="col-2 hide-mobile">
-                            <div class="big_number bg-success border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
+        <div class="p-4 mb-5">
+            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
+            <div class="lead-content mr-5">
+                <ol class="list-group w-100 mx-auto">
+                    <li class="list-unstyled mb-5">
+                        <div class="row align-items-center">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-success border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>1</strong></div>
+                            </div>
+                            <div class="col">
+                                <strong>We elevate the work of educators:</strong><br/>
+                                Because we believe educators are designers, Design for Change equips all educators
+                                to be leaders in the design thinking process and provides them with tools, resources,
+                                training, and coaching in the DFC methodology.
+                            </div>
                         </div>
-                        <div class="col">
-                            <strong>We elevate the work of educators:</strong><br/>
-                            Because we believe educators are designers, Design for Change equips all educators
-                            to be leaders in the design thinking process and provides them with tools, resources,
-                            training, and coaching in the DFC methodology.
+                    </li>
+                    <li class="list-unstyled mb-5">
+                        <div class="row align-items-center">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-primary border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
+                            </div>
+                            <div class="col">
+                                <strong>We support student-driven social impact:</strong><br/>
+                                Educators facilitate each stage of the Feel, Imagine, Do, Share process, enabling
+                                students to respond and take action on a local issue they are passionate about.
+                            </div>
                         </div>
-                    </div>
-                </li>
-                <li class="list-unstyled mb-5">
-                    <div class="row align-items-center">
-                        <div class="col-2 hide-mobile">
-                            <div class="big_number bg-primary border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>2</strong></div>
+                    </li>
+                    <li class="list-unstyled mb-2 mt-0">
+                        <div class="row align-items-center">
+                            <div class="col-2 hide-mobile">
+                                <div class="big_number bg-warning border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
+                            </div>
+                            <div class="col">
+                                <strong>We connect you and your students to a global network:</strong><br/>
+                                By participating in Design for Change, students join a coalition of students
+                                creating social change around the world by designing solutions to address the
+                                <a href="https://globalgoals.org" target="_new">UN Global Goals.</a>
+                            </div>
                         </div>
-                        <div class="col">
-                            <strong>We support student-driven social impact:</strong><br/>
-                            Educators facilitate each stage of the Feel, Imagine, Do, Share process, enabling
-                            students to respond and take action on a local issue they are passionate about.
-                        </div>
-                    </div>
-                </li>
-                <li class="list-unstyled mb-2 mt-0">
-                    <div class="row align-items-center">
-                        <div class="col-2 hide-mobile">
-                            <div class="big_number bg-warning border text-center text-white float-left ml-lg-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>3</strong></div>
-                        </div>
-                        <div class="col">                     
-                            <strong>We connect you and your students to a global network:</strong><br/>
-                            By participating in Design for Change, students join a coalition of students
-                            creating social change around the world by designing solutions to address the
-                            <a href="https://globalgoals.org" target="_new">UN Global Goals.</a>
-                        </div>
-                    </div>
-                </li>
-            </ol>
+                    </li>
+                </ol>
+            </div>
         </div>
-    </div>
 
-    <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
-        <div class="lead-content">
-            <div class="row align-items-center">
-                <div class="col-md-4 order-md-last px-md-5 pb-4">
-                    <img src="/dfcusa-web/app/webroot/img/pic_share.png" class="img-fluid mb-md-0 w-100" alt="img">
-                </div>
-                <div class="col-md-8">
-                    <h3 class="heading text-uppercase mb-1">Why Design Thinking?</h3>
-                    <hr>
-                    <p>
-                        After years of experience in education and design, we know that students have the capacity to make immediate change in their communities and that design thinking provides a framework for driving that change. Through innovative and collaborative design experiences, students apply critical thinking and creative problem-solving. 
-                    </p>
-                    <div class="mt-4">
-                        <a class="btn btn-outline-light text-uppercase"
-                           href="/pages/get-started/design-thinking-classroom">Learn More</a>
+        <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
+            <div class="lead-content">
+                <div class="row align-items-center">
+                    <div class="col-md-4 order-md-last px-md-5 pb-4">
+                        <img src="/dfcusa-web/app/webroot/img/pic_share.png" class="img-fluid mb-md-0 w-100" alt="img">
+                    </div>
+                    <div class="col-md-8">
+                        <h3 class="heading text-uppercase mb-1">Why Design Thinking?</h3>
+                        <hr>
+                        <p>
+                            After years of experience in education and design, we know that students have the capacity to make immediate change in their communities and that design thinking provides a framework for driving that change. Through innovative and collaborative design experiences, students apply critical thinking and creative problem-solving.
+                        </p>
+                        <div class="mt-4">
+                            <a class="btn btn-outline-light text-uppercase"
+                               href="/pages/get-started/design-thinking-classroom">Learn More</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-  </div>
 </section>
 
-<section class="design-change reverse pb-5">
-  <div class="container">
-
-        <div class="lead shadow-lg p-4 mb-4 mt-5 bg-white rounded text-dark w-100 mx-auto">
-            <h2 class="heading text-black">Grants</h2>
-            At Design for Change USA, we are pleased to announce that we will be awarding three $500 grants to youth teams to advance their Design for Change USA projects. 
-              <br/><br/>
-              Projects will need to address one of our critical themes this year:
-              <ul>
-                <li>Racial Justice</li>
-                <li>Educational Equity</li>
-                <li>Climate Action</li>
-              </ul>
-              Ambassador teams will be announced on May 30th, 2021. 
+<section class="grants reverse">
+    <div class="container">
+        <div class="lead-wrap">
+            <div class="lead shadow-lg mb-4 mt-5 mx-auto rounded">
+                <div class="lead-image">
+                    <img src="/dfcusa-web/app/webroot/images/trophy.svg" alt="">
+                </div>
+                <div class="lead-content">
+                    <h2 class="heading">Grants</h2>
+                    <p>
+                        At Design for Change USA, we are pleased to announce that we will be
+                        awarding <strong>three $500 grants</strong> to youth teams to advance their Design for
+                        Change USA projects.
+                    </p>
+                    <p>
+                        Projects will need to address one of our critical themes this year:
+                    </p>
+                    <ul class="list-unstyled">
+                        <li><i class="fas fa-chess-king mr-1"></i> Racial Justice</li>
+                        <li><i class="fas fa-chess-king mr-1"></i> Educational Equity</li>
+                        <li><i class="fas fa-chess-king mr-1"></i> Climate Action</li>
+                    </ul>
+                    <p>
+                        Ambassador teams will be announced on <strong>May 30th, 2021</strong>.
+                    </p>
+                </div>
             </div>
         </div>
-
     </div>
 </section>
 

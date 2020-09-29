@@ -1,7 +1,7 @@
 .design-change{
   background: $theme-blue;
   //background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
-  background: linear-gradient(to top, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  background: linear-gradient(to bottom, $gray-400 0%, $gray-100 20%, white 50%, white 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
   padding: 4rem 0 1.5rem;
   text-align: center;
@@ -26,6 +26,13 @@
     color: $dark;
 
     .program-icon{
+
+      .icon{
+        border: $light solid 5px;
+        border-radius: 50%;
+        background: $light;
+        box-shadow: rgba($dark, 0.1) 0 1px 2px;
+      }
 
       &.item-white p{
         color: #ffffff;

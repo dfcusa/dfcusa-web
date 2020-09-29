@@ -8,16 +8,31 @@
 
 <section class="page-content">
     <div class="container">
-        <h2 class="heading-secondary">Get Started with Design for Change</h2>
-        <p>
-          Join the movement of educators who are creating experiences for their students to lead change. Through a virtual platform, students build awareness around a social cause and design solutions for change.
-        </p>
-        <p>
-          3 steps to get started:
-          1. Choose a theme.
-          2. Set up the experience.
-          3. Support students to create change.
-        </p>
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h2 class="heading-secondary">Get Started with Design for Change</h2>
+                <p class="mb-md-0">
+                    Join the movement of educators who are creating experiences for their students to lead change. Through a virtual platform, students build awareness around a social cause and design solutions for change.
+                </p>
+            </div>
+            <div class="col-md-5">
+                <!--p>3 steps to get started:</p-->
+                <table class="number-list">
+                    <tr>
+                        <th><span>1</span></th>
+                        <td>Choose a theme.</td>
+                    </tr>
+                    <tr>
+                        <th><span>2</span></th>
+                        <td>Set up the experience.</td>
+                    </tr>
+                    <tr>
+                        <th><span>3</span></th>
+                        <td>Support students to create change.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -31,7 +46,7 @@
               Select a theme that you think will engage your students and fits your curriculum goals:
             </h4>
         </div>
-        
+
         <div class="row pb-5">
           <div class="get-started-inner">
               <div class="row align-items-stretch">
@@ -149,19 +164,38 @@
   <div class="lead-box lead-success border-0 rounded-0 mb-0 bg-primary pb-5">
     <div class="container">
 
-        <div class="text-center">
-            <h3 class="h4 mt-2 mb-2">Step #3: Support Students to Create Change</h3>
-            <h4 class="h5 mb-4 font-weight-normal">
-              As an educator, you will have access to a teacher platform that allows you to: 
-              <ul>
-                <li>Customize content </li>
-                <li>Monitor the student experience</li>
-                <li>Set up collaborative sessions with your class</li>
-                <li>Support students’ changemaking </li>
-                <li>Capture students’ stories of change </li>
-              </ul>
-
-            </h4>
+        <h3 class="h4 mt-2 mb-2 text-center">Step #3: Support Students to Create Change</h3>
+        <div class="h5 mb-4 font-weight-normal">
+            <p class="text-center">
+                As an educator, you will have access to a teacher platform that allows you to:
+            </p>
+            <div class="row justify-content-center my-4">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png" alt="Screenshot">
+                </div>
+            </div>
+            <ul class="list-unstyled h6 font-weight-normal d-md-flex flex-wrap justify-content-center">
+                <li class="m-3 d-flex align-items-center">
+                    <i class="fas fa-check-circle fa-2x mr-3"></i>
+                    Customize content
+                </li>
+                <li class="m-3 d-flex align-items-center">
+                    <i class="fas fa-check-circle fa-2x mr-3"></i>
+                    Monitor the student experience
+                </li>
+                <li class="m-3 d-flex align-items-center">
+                    <i class="fas fa-check-circle fa-2x mr-3"></i>
+                    Support students’ change making
+                </li>
+                <li class="m-3 d-flex align-items-center">
+                    <i class="fas fa-check-circle fa-2x mr-3"></i>
+                    Set up collaborative sessions with your class
+                </li>
+                <li class="m-3 d-flex align-items-center">
+                    <i class="fas fa-check-circle fa-2x mr-3"></i>
+                    Capture students’ stories of change
+                </li>
+            </ul>
         </div>
 
     </div>

@@ -52,25 +52,25 @@
         <div class="container">
             <img src="/dfcusa-web/app/webroot/img/accent_3greenstars.png" class="accent-3greenstars hide-mobile" alt="Green Stars">
             <div class="program-icons">
-                <div class="program-icon item-white">
+                <div class="program-icon item-blue">
                     <img src="/dfcusa-web/app/webroot/img/feel_arrow.png" alt="Feel :: Empathize" class="icon">
                     <h4>Feel</h4>
                     <p>Build Empathy</p>
                 </div>
 
-                <div class="program-icon item-white">
+                <div class="program-icon item-blue">
                     <img src="/dfcusa-web/app/webroot/img/imagine_arrow.png" alt="Imagine :: Brainstrom" class="icon">
                     <h4>Imagine</h4>
                     <p>Brainstorm Ideas</p>
                 </div>
 
-                <div class="program-icon item-white">
+                <div class="program-icon item-blue">
                     <img src="/dfcusa-web/app/webroot/img/do_arrow.png" alt="Do :: Prototype" class="icon">
                     <h4>Do</h4>
                     <p>Implement Solutions</p>
                 </div>
 
-                <div class="program-icon item-white">
+                <div class="program-icon item-blue">
                     <img src="/dfcusa-web/app/webroot/img/share_arrow.png" align="Share :: Inspire" class="icon">
                     <h4>SHARE</h4>
                     <p>Inspire Others</p>
@@ -166,32 +166,32 @@
             </div>
             <div class="right-flap"></div>
         </div>
-    </section>      
+    </section>
 
     <section class="container">
       <div class="features text-center">
-        <h2 class="text-light-blue mb-5">Engage students in a virtual changemaking experience!</h2>
+        <h2 class="text-light-blue">Engage students in a virtual changemaking experience!</h2>
         <p>Through a virtual platform, student build awareness around a social cause and design solutions for change.</p>
-        <div class="row">
-            <div class="col-md-6 col-lg-3 mb-3 px-5">
+        <div class="row mt-5">
+            <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
                      class="img-fluid img-center" alt="Self Guided Mobile App">
                 <h5 class="my-3">Social<br>Causes</h5>
                 <p>Students build empathy around racial justice, educational equity or climate action.</p>
-            </div>                
-            <div class="col-md-6 col-lg-3 mb-3 px-5">
+            </div>
+            <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
                      class="img-fluid img-center" alt="Address Social Causes">
                 <h5 class="my-3">Design<br>Thinking</h5>
                 <p>Students use design thinking to create social change.</p>
             </div>
-            <div class="col-md-6 col-lg-3 mb-3 px-5">
+            <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
                      class="img-fluid img-center" alt="Design Thinking">
                 <h5 class="my-3">Self-guide<br>Virtual Platform</h5>
                 <p>Students move through a virtual platform of guided activities.</p>
             </div>
-            <div class="col-md-6 col-lg-3 mb-3 px-5">
+            <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-megaphone.png"
                      class="img-fluid img-center" alt="Community Support">
                 <h5 class="my-3">Amplified<br>Impact</h5>
@@ -199,7 +199,19 @@
             </div>
         </div>
       </div>
-    </section> 
+    </section>
+
+    <section class="container">
+        <div class="pathway">
+            <div class="line"></div>
+            <h2 class="text-center">Choose a pathway</h2>
+            <ul class="text-md-center">
+                <li><span class="step">1</span><div class="content">Choose a pathway</div></li>
+                <li><span class="step">2</span><div class="content">Access the virtual platform</div></li>
+                <li><span class="step">3</span><div class="content">Support students to create change</div></li>
+            </ul>
+        </div>
+    </section>
 
     <section class="reviews-new">
         <div class="container">
