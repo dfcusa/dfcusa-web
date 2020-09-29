@@ -105,7 +105,7 @@
                         <div class="big_number bg-success border text-center text-white float-left ml-4 mr-4 shadow-sm" style="font-size: 3em; border-radius: 10em; height: 2em; width: 2em; line-height: 1.9em"><strong>4</strong></div>
                         <div class="float-left w-50">
                             <strong>Impact was transformative and long lasting</strong><br/>
-                            Teachers reported that the skills learned by students transcend their involvement with DFC and allowed young people to improve relationships, schoolwork, and their view of themselves.
+                            Teachers reported that the skills learned by students transcend their involvement with DFC and allowed students to improve relationships, schoolwork, and their view of themselves.
                         </div>
                     </div>
                 </div>

@@ -39,7 +39,7 @@
                           <div class="lead-content">
                               <h4 class="heading">RACIAL<br>INJUSTICE</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Racism does exist in America and the impact and the history of it is complex. Students lean in and join the movement for racial justice and change. </p>
+                                  <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>
@@ -55,9 +55,9 @@
                               <img src="/dfcusa-web/app/webroot/img/ico_c_equityeducation.png">
                           </div>
                           <div class="lead-content">
-                              <h4 class="heading">EQUITY IN<br>EDUCATION</h4>
+                              <h4 class="heading">EDUCATIONAL<br>EQUITY</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Students explore the many factors and get inspired to disrupt the inequity.</p>
+                                  <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Explore the many factors. Disrupt the inequity.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>
@@ -75,7 +75,7 @@
                           <div class="lead-content">
                               <h4 class="heading">CLIMATE<br>ACTION</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Students learn about the realities of climate change and learn what they can do about it.</p>
+                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Learn about the current realities. Create change.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours<br/><i>(virtually, in person or hybrid)</i>

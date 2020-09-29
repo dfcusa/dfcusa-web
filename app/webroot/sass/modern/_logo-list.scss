@@ -1,12 +1,5 @@
 .logo-list{
-  padding: 1.3rem 0;
   text-align: center;
-
-  .heading{
-    font-size: 0.9rem;
-    font-weight: $font-weight-base;
-    color: $gray-700;
-  }
 
   .logos{
     margin: 1.2rem 0 1rem;
@@ -14,6 +7,13 @@
     align-items: stretch;
     justify-content: center;
     flex-wrap: wrap;
+
+    .heading{
+      font-size: 0.9rem;
+      font-weight: $font-weight-base;
+      color: $gray-700;
+      width: 100%;
+    }
 
     &.logo-large{
       .logo{

@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">Racism exists and we need to talk about it!</h4>
+    <h4 class="heading">We Must Do Better</h4>
   </div>
 </section>
 
@@ -9,22 +9,22 @@
 
     <div class="container">
 
-        <h2 class="heading-secondary">Racial Injustice</h2>
+        <h2 class="heading-secondary">Racial Justice</h2>
 
         <div class="row mt-2">
-            <div class="col-sm-6 mb-4">
-                <h5>We Need to Talk About It</h5>
+            <div class="col-sm-12 mb-4">
+                <h5>We Must Do Better</h5>
                 <p>
                     Racial disparities have permeated all facets of our societies, our communities, schools and our classrooms. Yet discussions about racism do not often make their way into our curriculum, our textbooks. We are here to support you in changing the status quo. 
                 </p>
             </div>
-            <div class="col-sm-6 mb-4">
+            <div class="col-sm-6 mb-4 hide">
                 <h5>Our Program Can Help</h5>
                 <p>
                     We have designed a unique learning experience around our globally recognized design thinking process. Students engage in a self directed virtual experience to: 
                 </p>
                 <ul>
-                    <li>Engage in the topic of racial injustice</li>
+                    <li>Engage in the topic of racial justice</li>
                     <li>Build radical empathy</li>
                     <li>Take meaningful action</li>
                 </ul>
@@ -46,11 +46,11 @@
         </div>
     </div>
 
-    <div class="lead-box lead-light-blue py-5 mb-5 shadow-none rounded-0 border-0">
+    <div class="lead-box lead-light-blue py-5 shadow-none rounded-0 border-0 hide">
         <div class="container py-4">
             <div class="lead-content">
                 <div class="text-center mb-5">
-                    <h2>Feel. Imagine. Do. Share.</h2>
+                    <h2>The Process</h2>
                     <p class="lead text-block">
                         We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
                     </p>
@@ -89,7 +89,7 @@
                                     </h4>
 
                                     <p class="pt-3 pb-4">
-                                        Students listen to a podcast, highlighting a series of interviews about racial injustice, and think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections. 
+                                        Students listen to a podcast, highlighting a series of interviews about racial justice, and think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections. 
                                     </p>
                                     <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                                 </div>
@@ -99,7 +99,7 @@
                                         Feel
                                     </h4>
                                     <p class="pt-3 pb-4">
-                                        Students consider the symptoms and the underlying factors that continue to cause racial injustice in a root cause analysis exercise.  
+                                        Students consider the symptoms and the underlying factors that continue to cause racial justice in a root cause analysis exercise.  
                                     </p>
                                     <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                                 </div>
@@ -142,47 +142,20 @@
     </div>
 
 
-    <div class="container pb-4">
-        <div class="text-center">
-            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
-        </div>
-        <div class="row align-items-center">
-            <div class="col-md-6 order-md-last mb-4">
-                <iframe width="100%"
-                        height="315"
-                        src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 order-md-first mb-4">
-                <h5>Our Program in Action</h5>
-                <p>
-                  The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.<br><br>As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.
-                </p>
-                <a class="btn btn-outline-secondary text-uppercase"
-                   href="https://blog.designforchange.us/george-taylor-remembrance/"
-                   target="_blank">Read the case study</a>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="lead-box lead-lime py-5 mb-5 shadow-none rounded-0 border-0">
+    <div class="lead-box py-5 lead-lime shadow-none rounded-0 border-0">
         <div class="container py-4">
             <div class="lead-content">
                 <div class="text-center mb-5">
-                    <h2>Social Cause Podcasts</h2>
+                    <h2>Community Voices. Real Empathy.</h2>
                     <p class="lead text-block">
-                        We have amazing content for your students to learn about racial justice:
+                        Introduce your students to Racial Justice by having them<br/>listen to the real voices by those affected by the issue.
                     </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-11">
                         <ul class="block-num-list">
                             <li>
-                                <span class="num pink">10</span>
+                                <span class="num pink"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="" style="width: 35px"></span>
                                 <a class="text-white" href="/dfcusa-pm/podcasts#view/racializeddiscrimination">Racialized Discrimination</a>
                             </li>
                             <li>
@@ -212,9 +185,12 @@
         </div>
     </div>
 
-    <div class="container pb-4 global-goals">
+    <div class="container pb-4 global-goals mt-5 pt-3">
         <div class="mb-5">
-            <h2 class="heading-secondary text-center">Global Goals</h2>
+            <h2 class="heading-secondary text-center">Think Globally. Act Locally.</h2>
+            <p class="text-black">
+                The following UN Global Goals are relevant to the theme of Racial Justice.
+            </p>
             <div class="images mb-3">
                 <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
                 <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
@@ -223,10 +199,38 @@
                 <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
             </div>
             <p class="text-black">
-                DFC has partnered with the World's Largest Lesson to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.
+                Our platform helps students address these global goals through engaging activities that result in real changemaking.
             </p>
         </div>
-    </div>
+    </div>    
+
+<div class="container pb-4">
+        <div class="text-center">
+            <h3 class="heading w-100 text-center pb-5">Design for Change In Action</h3>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-6 order-md-last mb-4">
+                <iframe width="100%"
+                        height="315"
+                        src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5 order-md-first mb-4">
+                <h5>North Carolina Students Address Historic Racism</h5>
+                <p>
+                  The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.
+                  <br/><br/>
+                  As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.
+                </p>
+                <a class="btn btn-outline-secondary text-uppercase"
+                   href="https://blog.designforchange.us/george-taylor-remembrance/"
+                   target="_blank">Read the case study</a>
+            </div>
+        </div>
+    </div>    
 
     <section class="cta py-5 cta-ending">
         <div class="container my-3">

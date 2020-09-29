@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">The gaps are widening, we need to act now!</h4>
+    <h4 class="heading">We Have To Act Now</h4>
   </div>
 </section>
 
@@ -9,25 +9,14 @@
 
     <div class="container">
 
-        <h2 class="heading-secondary">Equity in Education</h2>
+        <h2 class="heading-secondary">Educational Equity</h2>
 
         <div class="row mt-2">
-            <div class="col-sm-6 mb-4">
+            <div class="col-sm-12 mb-4">
                 <h5>We Have To Act Now</h5>
                 <p>
                     School closures and virtual learning have shone a spotlight on the inequities in the US education system. From access to technology to the internet, to basic supplies, to child care, America’s most vulnerable students are facing unprecedented challenges. We are here, to help you ground your students in an understanding about these disparities and what they can do to combat them in their own communities. 
                 </p>
-            </div>
-            <div class="col-sm-6 mb-4">
-                <h5>Our Program Can Help</h5>
-                <p>
-                    We have designed a unique learning experience around our globally recognized design thinking process. Students engage in a self directed virtual experience to: 
-                </p>
-                <ul>
-                    <li>Engage in the topic of equity in education</li>
-                    <li>Build radical empathy</li>
-                    <li>Take meaningful action</li>
-                </ul>
             </div>
         </div>
         <div class="cta cta-interested p-3 mb-5">
@@ -144,7 +133,7 @@
 
     <div class="container pb-4">
         <div class="text-center">
-            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
+            <h3 class="heading w-100 text-center pb-5">Our Program In Action</h3>
         </div>
         <div class="row align-items-center">
             <div class="col-md-6 order-md-last mb-4">
@@ -157,9 +146,9 @@
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-5 order-md-first mb-4">
-                <h5>Our Program in Action</h5>
+                <h5>Idaho Students Combat Poverty In Their Community</h5>
                 <p>
-                  The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.<br><br>As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.
+                  The Start Local Go Global Project, from Sandpoint, Idaho, researched the underlying factors and the impact of poverty in their community and around the world. They worked to create donation bags with supplies that community members most needed while also connecting the work of the community garden with their local food bank.
                 </p>
                 <a class="btn btn-outline-secondary text-uppercase"
                    href="https://blog.designforchange.us/george-taylor-remembrance/"
@@ -212,21 +201,22 @@
         </div>
     </div>
 
-    <div class="container pb-4 global-goals">
+    <div class="container pb-4 global-goals mt-5 pt-3">
         <div class="mb-5">
-            <h2 class="heading-secondary text-center">Global Goals</h2>
+            <h2 class="heading-secondary text-center">DFC USA students think globally and act locally.</h2>
             <div class="images mb-3">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_3.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_5.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
                 <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_5.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
             </div>
             <p class="text-black">
-                DFC has partnered with the World's Largest Lesson to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.
+                Help students kick start their project by introducing them to the UN Global Goals and encouraging them to consider these goals as they work together to design innovative solutions. 
+                <br/><br/>For the theme of Education Equity, students may consider the following UN Global Goals or select their own. To learn more about the UN Global Goals, check out The World’s Largest Lesson.
             </p>
         </div>
-    </div>
+    </div>  
 
     <section class="cta py-5 cta-ending">
         <div class="container my-3">

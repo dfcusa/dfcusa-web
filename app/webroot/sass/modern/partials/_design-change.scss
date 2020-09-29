@@ -1,10 +1,11 @@
 .design-change{
   background: $theme-blue;
-  background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  //background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  background: linear-gradient(to top, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
   padding: 4rem 0 1.5rem;
   text-align: center;
-  color: $white;
+  color: $dark;
 
   &.reverse {
     background: linear-gradient(to top, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 90%, #ffffff 100%);
@@ -21,10 +22,14 @@
   }
 
   .program-icons{
-    margin-top: 2.4rem;
+    margin-top: 0rem;
     color: $dark;
 
     .program-icon{
+
+      &.item-white p{
+        color: #ffffff;
+      }      
 
       &.item-yellow p{
         color: darken($theme-yellow, 10%);

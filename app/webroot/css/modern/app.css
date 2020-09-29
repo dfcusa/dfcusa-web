@@ -8942,7 +8942,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   padding-top: 100px;
   padding-bottom: 30px;
   text-align: left;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.6) 100%), url("/dfcusa-web/app/webroot/img/new-pages/washhands.png") no-repeat center center/cover;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.6) 100%), url("/dfcusa-web/app/webroot/img/photos/15466014711_8c1447012e_k.jpg") no-repeat center center/cover;
   font-size: 1.5rem;
   border-radius: 2rem 2rem 0 0;
   margin: -95px 10px 0;
@@ -8952,7 +8952,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
       margin: -120px 15px 0; } }
 .new-home .hero-container {
   max-width: 430px;
-  margin-right: 0; }
+  margin-left: 0; }
 .new-home h1 {
   font-size: 3.2rem;
   line-height: 1.1;
@@ -8960,18 +8960,18 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   color: #02c2ed; }
 
 .logo-list {
-  padding: 1.3rem 0;
   text-align: center; }
-  .logo-list .heading {
-    font-size: 0.9rem;
-    font-weight: 400;
-    color: #495057; }
   .logo-list .logos {
     margin: 1.2rem 0 1rem;
     display: flex;
     align-items: stretch;
     justify-content: center;
     flex-wrap: wrap; }
+    .logo-list .logos .heading {
+      font-size: 0.9rem;
+      font-weight: 400;
+      color: #495057;
+      width: 100%; }
     @media (min-width: 992px) {
       .logo-list .logos.logo-large .logo {
         border-bottom: #dee2e6 solid 1px; } }
@@ -9032,11 +9032,11 @@ a.text-dark-green:hover, a.text-dark-green:focus {
 
 .design-change {
   background: #0096db;
-  background: linear-gradient(to bottom, #007ab2 0%, #05b0ff 60%, #ffffff 100%);
+  background: linear-gradient(to top, #007ab2 0%, #05b0ff 60%, #ffffff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
   padding: 4rem 0 1.5rem;
   text-align: center;
-  color: #fff; }
+  color: #343a40; }
   .design-change.reverse {
     background: linear-gradient(to top, #007ab2 0%, #05b0ff 90%, #ffffff 100%); }
   .design-change .heading {
@@ -9046,8 +9046,10 @@ a.text-dark-green:hover, a.text-dark-green:focus {
     font-size: 1.3rem;
     font-weight: 400; }
   .design-change .program-icons {
-    margin-top: 2.4rem;
+    margin-top: 0rem;
     color: #343a40; }
+    .design-change .program-icons .program-icon.item-white p {
+      color: #ffffff; }
     .design-change .program-icons .program-icon.item-yellow p {
       color: #d1a604; }
     .design-change .program-icons .program-icon.item-green p {

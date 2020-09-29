@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">Our world is changing, let’s do our part!</h4>
+    <h4 class="heading">Let’s Do Our Part</h4>
   </div>
 </section>
 
@@ -12,22 +12,11 @@
         <h2 class="heading-secondary">Climate Action</h2>
 
         <div class="row mt-2">
-            <div class="col-sm-6 mb-4">
+            <div class="col-sm-12 mb-4">
                 <h5>Let's Do Our Part</h5>
                 <p>
                     Raging wildfires, rising sea levels and disastrous storms continue to devastate our planet. Students around the world are expressing concern for their future through protests, advocacy and action. We are here to support educators in helping students to become aware of the impact of climate change and understand what they can do to have a positive impact. 
                 </p>
-            </div>
-            <div class="col-sm-6 mb-4">
-                <h5>Our Program Can Help</h5>
-                <p>
-                    We have designed a unique learning experience around our globally recognized design thinking process. Students engage in a self directed virtual experience to: 
-                </p>
-                <ul>
-                    <li>Engage in the topic of climate action</li>
-                    <li>Build radical empathy</li>
-                    <li>Take meaningful action</li>
-                </ul>
             </div>
         </div>
         <div class="cta cta-interested p-3 mb-5">
@@ -144,7 +133,7 @@
 
     <div class="container pb-4">
         <div class="text-center">
-            <h3 class="heading w-100 text-center pb-5">How We Help Educators</h3>
+            <h3 class="heading w-100 text-center pb-5">Our Program In Action</h3>
         </div>
         <div class="row align-items-center">
             <div class="col-md-6 order-md-last mb-4">
@@ -157,9 +146,9 @@
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-5 order-md-first mb-4">
-                <h5>Our Program in Action</h5>
+                <h5>The Honoring the Land: Fighting the Keystone XL Pipeline</h5>
                 <p>
-                  The Start Local Go Global Project, from Sandpoint, Idaho, researched the underlying factors and the impact of poverty in their community and around the world. They worked to create donation bags with supplies that community members most needed while also connecting the work of the community garden with their local food bank.
+                  This project was aimed at uncovering community thoughts and documenting those thoughts regarding the Keystone XL Pipeline while finding ways to insert student voices as advocates for their community by bringing concerns straight to state lawmakers.
                 </p>
                 <a class="btn btn-outline-secondary text-uppercase"
                    href="https://blog.designforchange.us/start-local-go-global/"
@@ -212,21 +201,22 @@
         </div>
     </div>
 
-    <div class="container pb-4 global-goals">
+    <div class="container pb-4 global-goals mt-5 pt-3">
         <div class="mb-5">
-            <h2 class="heading-secondary text-center">Global Goals</h2>
+            <h2 class="heading-secondary text-center">DFC USA students think globally and act locally.</h2>
             <div class="images mb-3">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_3.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_9.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_12.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_13.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_15.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
+                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
             </div>
             <p class="text-black">
-                DFC has partnered with the World's Largest Lesson to address the 17 Global Goals as determined by the United Nations. The DFC experience is carefully crafted to ensure a focus on the Global Goals at each of the four steps in the DFC process. Young people are encouraged to think globally while acting locally. Using this framework, young people are tasked with addressing the UN Global Goals, while designing new and innovative solutions for the world's most pressing challenges.
+                Help students kick start their project by introducing them to the UN Global Goals and encouraging them to consider these goals as they work together to design innovative solutions. 
+                <br/><br/>For the theme of Climate Action, students may consider the following UN Global Goals or select their own. To learn more about the UN Global Goals, check out The World’s Largest Lesson.
             </p>
         </div>
-    </div>
+    </div>  
 
     <section class="cta py-5 cta-ending">
         <div class="container my-3">

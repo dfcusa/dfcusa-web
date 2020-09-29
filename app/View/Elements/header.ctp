@@ -40,12 +40,13 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?> <?php if ((strpos($_SERVER['REQUEST_URI'], 'courses') > -1)) { ?>active<?php } ?>">
-                        <a class="nav-link dropdown-toggle" data-toggle="courses" href="#" target="_parent">Courses</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="courses" href="#" target="_parent">Themes</a>
                         <div class="dropdown-menu">
-                          <a class="dropdown-item" href="/pages/courses/racial-injustice" target="_parent">Racial Injustice</a>
-                          <a class="dropdown-item" href="/pages/courses/climate-action" target="_parent">Climate Action</a>
-                          <a class="dropdown-item" href="/pages/courses/equity-education" target="_parent">Equity in Education</a>
-                          <a class="dropdown-item" href="/pages/courses/custom-course" target="_parent">Build Your Own</a>
+                          <a class="dropdown-item" href="#" target="_parent"><i>Choose a theme...</i></a>
+                          <a class="dropdown-item" href="/pages/courses/racial-justice" target="_parent" style="padding-left: 35px">Racial Justice</a>
+                          <a class="dropdown-item" href="/pages/courses/educational-equity" target="_parent" style="padding-left: 35px">Educational Equity</a>
+                          <a class="dropdown-item" href="/pages/courses/climate-action" target="_parent" style="padding-left: 35px">Climate Action</a>
+                          <a class="dropdown-item" href="/pages/courses/custom-course" target="_parent">Explore others...</a>
                         </div>
                     </li>
                     <li class="nav-item <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?><?php if ((strpos($_SERVER['REQUEST_URI'], 'stories') > -1) || (strpos($_GET['nav'], 'stories') > -1)) { ?>active<?php } ?>">
