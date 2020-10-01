@@ -636,7 +636,6 @@
     position: relative;
 
     &:before{
-      content: url("/dfcusa-web/app/webroot/images/confetti.svg");
       width: 200px;
       height: auto;
       position: absolute;
@@ -709,7 +708,7 @@
     }
 
     .lead-wrap{
-      padding-left: 140px;
+      padding-left: 100px;
     }
 
     .lead-image{
@@ -730,7 +729,7 @@
 
   @include media-breakpoint-up(lg){
     .lead-wrap{
-      padding-right: 140px;
+      padding-right: 0px;
     }
   }
 

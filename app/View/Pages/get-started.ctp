@@ -20,11 +20,11 @@
                 <table class="number-list">
                     <tr>
                         <th><span>1</span></th>
-                        <td>Choose a theme.</td>
+                        <td>Choose a theme to focus on.</td>
                     </tr>
                     <tr>
                         <th><span>2</span></th>
-                        <td>Set up the experience.</td>
+                        <td>Set up the experience in the platform.</td>
                     </tr>
                     <tr>
                         <th><span>3</span></th>
@@ -57,12 +57,12 @@
                               <img src="/dfcusa-web/app/webroot/img/ico_c_racialinjustice.png" alt="">
                           </div>
                           <div class="lead-content">
-                              <h4 class="heading">RACIAL<br>INJUSTICE</h4>
+                              <h4 class="heading">RACIAL<br>JUSTICE</h4>
                               <div>
                                   <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice and make a real difference.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
-                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                      5+ hours
                                   </p>
                                   <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-justice">Learn more</a>
                               </div>
@@ -78,10 +78,10 @@
                           <div class="lead-content">
                               <h4 class="heading">EDUCATIONAL<br>EQUITY</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Explore the many factors. Disrupt the inequity.</p>
+                                  <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice and make a real difference.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
-                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                      5+ hours
                                   </p>
                                   <a class="btn btn-inverse-light-blue" href="/pages/courses/educational-equity">Learn more</a>
                               </div>
@@ -97,10 +97,10 @@
                           <div class="lead-content">
                               <h4 class="heading">CLIMATE<br>ACTION</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the current realities and create change in your community.</p>
+                                  <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the realities and create change in your community.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
-                                      5+ hours<br/><i>(virtually, in person or hybrid)</i>
+                                      5+ hours
                                   </p>
                                   <a class="btn btn-inverse-light-blue" href="/pages/courses/racial-justice">Learn more</a>
                               </div>
@@ -309,7 +309,7 @@
                              alt="img">
                     </div>
                     <div class="lead-content">
-                        <h3 class="h4 mb-1">WORKSHOPS</h3>
+                        <h3 class="h4 mb-1">BUILD YOUR OWN EXPERIENCE</h3>
                         <hr>
                         <p>
                             Master the principles of design thinking and get trained
@@ -319,7 +319,7 @@
                             <strong>Time Commitment:</strong><br>
                             2 Hours | 1/2 Day | Full Day
                         </p>
-                        <a href="/dfcusa-web/pages/get-started/workshops"
+                        <a href="/dfcusa-web/pages/get-started/custom-experience"
                            class="btn btn-inverse-magenta">Learn more</a>
                     </div>
                 </div>
@@ -332,17 +332,16 @@
                              alt="img">
                     </div>
                     <div class="lead-content">
-                        <h3 class="h4 mb-1">COACHING</h3>
+                        <h3 class="h4 mb-1">PROFESSIONAL DEVELOPMENT</h3>
                         <hr>
                         <p>
-                            Receive customized coaching sessions on adopting
-                            Design for Change across your organization.
+                            For more information regarding options for group workshops and coaching sessions, contact us. 
                         </p>
                         <p class="small">
                             <strong>Time Commitment:</strong><br>
                             Flexible
                         </p>
-                        <a href="/dfcusa-web/pages/get-started/coaching"
+                        <a href="/dfcusa-web/pages/get-started/professional-development"
                            class="btn btn-inverse-primary">Learn more</a>
                     </div>
                 </div>
@@ -360,9 +359,7 @@
                 <h3 class="h4 mb-1">NEED A CUSTOM DESIGNED PROGRAM?</h3>
                 <hr>
                 <p>
-                    In the spirit of design thinking, our DFC Certified Coaches
-                    will co-create a series of learning experiences that best
-                    align to the priorities of your organization.
+                    If you are interested in engaging students in a context-specific social cause - including a custom-made podcast - contact us for more information. 
                 </p>
                 <a href="/dfcusa-web/pages/contact-us"
                    class="btn btn-outline-light">Contact us</a>

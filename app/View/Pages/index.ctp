@@ -115,7 +115,7 @@
                                     <img src="/dfcusa-web/app/webroot/img/ico_c_equityeducation.png">
                                 </div>
                                 <div class="lead-content">
-                                    <h4 class="heading">EDUCATIONAL EQUITY</h4>
+                                    <h4 class="heading">EDUCATIONAL<br>EQUITY</h4>
                                     <div>
                                         <p class="pt-2 pb-3">Differences in educational experiences have major consequences. Explore the many factors. Disrupt the inequity.</p>
                                         <p class="small pb-3">
@@ -136,7 +136,7 @@
                                 <div class="lead-content">
                                     <h4 class="heading">CLIMATE<br>ACTION</h4>
                                     <div>
-                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the current realities and create change in your community.</p>
+                                        <p class="pt-2 pb-3">Climate change is real and affecting communities around the world. Face the realities and create change in your community.</p>
                                         <p class="small pb-3">
                                             <strong>Time Commitment:</strong><br>
                                             5+ hours
@@ -174,28 +174,28 @@
         <p>Through a virtual platform, student build awareness around a social cause and design solutions for change.</p>
         <div class="row mt-5">
             <div class="col-md-6 col-lg-3 mb-3">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-love.png"
                      class="img-fluid img-center" alt="Self Guided Mobile App">
+                <h5 class="my-3">Student<br>Voice</h5>
+                <p>Empathy-building content and activities that builds awareness and centers student voice.</p>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-3">
+                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
+                     class="img-fluid img-center" alt="Address Social Causes">
                 <h5 class="my-3">Social<br>Causes</h5>
-                <p>Students build empathy around racial justice, educational equity or climate action.</p>
+                <p>Focus on the most current, relevant social causes such as racial justice, educational equity and climate action.</p>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-design-thinking.png"
-                     class="img-fluid img-center" alt="Address Social Causes">
-                <h5 class="my-3">Design<br>Thinking</h5>
-                <p>Students use design thinking to create social change.</p>
-            </div>
-            <div class="col-md-6 col-lg-3 mb-3">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/icon-mobile.png"
                      class="img-fluid img-center" alt="Design Thinking">
-                <h5 class="my-3">Self-guide<br>Virtual Platform</h5>
-                <p>Students move through a virtual platform of guided activities.</p>
+                <h5 class="my-3">Design<br>Thinking</h5>
+                <p>Series of design thinking activities that follow a student-centered framework: Feel, Imagine, Do, Share.</p>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-megaphone.png"
                      class="img-fluid img-center" alt="Community Support">
-                <h5 class="my-3">Amplified<br>Impact</h5>
-                <p>Students who submit their story of change are eligible for a small grant to support their changemaking. </p>
+                <h5 class="my-3">Social<br>Change</h5>
+                <p>A virtual changemaking platform that guides students to lead change in their own community. </p>
             </div>
         </div>
       </div>
@@ -204,12 +204,13 @@
     <section class="container">
         <div class="pathway">
             <div class="line"></div>
-            <h2 class="text-center">Choose a pathway</h2>
+            <h2 class="text-center">Getting Started</h2>
             <ul class="text-md-center">
-                <li><span class="step">1</span><div class="content">Choose a pathway</div></li>
-                <li><span class="step">2</span><div class="content">Access the virtual platform</div></li>
+                <li><span class="step">1</span><div class="content">Choose a theme to focus on</div></li>
+                <li><span class="step">2</span><div class="content">Set up the experience in the platform</div></li>
                 <li><span class="step">3</span><div class="content">Support students to create change</div></li>
             </ul>
+            <center><a href="/pages/get-started" class="btn btn-lg btn-secondary mt-4">Get Started</a></center>
         </div>
     </section>
 

@@ -236,9 +236,9 @@
                         Projects will need to address one of our critical themes this year:
                     </p>
                     <ul class="list-unstyled">
-                        <li><i class="fas fa-chess-king mr-1"></i> Racial Justice</li>
-                        <li><i class="fas fa-chess-king mr-1"></i> Educational Equity</li>
-                        <li><i class="fas fa-chess-king mr-1"></i> Climate Action</li>
+                        <li><i class="fas fa-circle mr-1"></i> Racial Justice</li>
+                        <li><i class="fas fa-circle mr-1"></i> Educational Equity</li>
+                        <li><i class="fas fa-circle mr-1"></i> Climate Action</li>
                     </ul>
                     <p>
                         Ambassador teams will be announced on <strong>May 30th, 2021</strong>.
