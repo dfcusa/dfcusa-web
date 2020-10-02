@@ -9987,7 +9987,7 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   position: relative; }
 .design-change .accent-3greenstars {
   position: absolute;
-  top: 50px;
+  top: -70px;
   left: 0px; }
 
 @media (max-width: 767px) {

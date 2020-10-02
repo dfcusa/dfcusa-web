@@ -185,19 +185,20 @@
                 </li>
                 <li class="m-3 d-flex align-items-center">
                     <i class="fas fa-check-circle fa-2x mr-3"></i>
-                    Support students’ change making
+                    Virtual or in-person interaction
                 </li>
                 <li class="m-3 d-flex align-items-center">
                     <i class="fas fa-check-circle fa-2x mr-3"></i>
-                    Set up collaborative sessions with your class
+                    Step-by-step instructions for students
                 </li>
                 <li class="m-3 d-flex align-items-center">
                     <i class="fas fa-check-circle fa-2x mr-3"></i>
                     Capture students’ stories of change
                 </li>
             </ul>
+            <br>
+            <center><a href="/dfcusa-pm/login#register" class="btn btn-danger btn-lg">REGISTER NOW</a></center>
         </div>
-
     </div>
   </div>
 </section>
@@ -206,15 +207,15 @@
     <div class="lead-box lead-success border-0 rounded-0 mb-0">
         <div class="container py-4">
 
-            <div class="text-center">
-                <h3 class="h4 mt-0 mb-2">READY TO GO?</h3>
+            <div class="text-center hide">
+                <h3 class="h4 mt-0 mb-2">LOOKING FOR MORE?</h3>
                 <h4 class="h5 mb-4 font-weight-normal">
                     Create an account on our Educator Platform:
                 </h4>
             </div>
 
             <div class="lead-content">
-                <div class="row justify-content-center align-items-center">
+                <div class="row justify-content-center align-items-center hide">
                     <div class="col-sm-6 mb-4">
                         <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png" alt="Screenshot">
                     </div>
@@ -226,7 +227,7 @@
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
-                                Virtual or in-person interaction 
+                                Virtual or in-person interaction
                             </li>
                             <li class="mb-3 d-flex align-items-center">
                                 <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -251,7 +252,7 @@
                     </div>
                 </div>
 
-                <div class="lead-box lead-primary img-right mt-5">
+                <div class="lead-box lead-primary img-right mt-0">
                     <div class="lead-image">
                         <img src="/dfcusa-web/app/webroot/img/ico_c_school.png"
                              class="img-fluid"
@@ -319,7 +320,7 @@
                             <strong>Time Commitment:</strong><br>
                             2 Hours | 1/2 Day | Full Day
                         </p>
-                        <a href="/dfcusa-web/pages/get-started/custom-experience"
+                        <a href="/dfcusa-web/pages/courses/custom-course"
                            class="btn btn-inverse-magenta">Learn more</a>
                     </div>
                 </div>
@@ -341,8 +342,8 @@
                             <strong>Time Commitment:</strong><br>
                             Flexible
                         </p>
-                        <a href="/dfcusa-web/pages/get-started/professional-development"
-                           class="btn btn-inverse-primary">Learn more</a>
+                        <a href="/dfcusa-web/pages/contact-us"
+                          class="btn btn-outline-light">Contact us</a>
                     </div>
                 </div>
             </div>
@@ -356,7 +357,7 @@
                      alt="img">
             </div>
             <div class="lead-content px-4">
-                <h3 class="h4 mb-1">NEED A CUSTOM DESIGNED PROGRAM?</h3>
+                <h3 class="h4 mb-1">LOOKING FOR A CUSTOM DESIGNED PROGRAM?</h3>
                 <hr>
                 <p>
                     If you are interested in engaging students in a context-specific social cause - including a custom-made podcast - contact us for more information. 
