@@ -1,7 +1,7 @@
 <section class="hero with-background-image"
          style="background-image: url('/dfcusa-web/app/webroot/img/img_hedr_teachers.png');">
   <div class="hero-container">
-    <h4 class="heading">We Have To Act Now</h4>
+    <h4 class="heading">We have to act now.</h4>
   </div>
 </section>
 
