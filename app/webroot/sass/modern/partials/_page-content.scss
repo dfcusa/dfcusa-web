@@ -521,7 +521,7 @@
 }
 
 .pathway{
-  background: lighten($green, 50%);
+  background: lighten($primary, 50%);
   color: $dark;
   margin: 3rem 0;
   padding: 2rem 1rem;
@@ -534,7 +534,7 @@
     top: 9.8rem;
     left: 20%;
     right: 20%;
-    border: $green dashed 1px;
+    border-top: $primary dashed 2px;
     z-index: 0;
 
     @include media-breakpoint-down(sm){
@@ -548,12 +548,12 @@
       content: '';
       position: absolute;
       left: 19%;
-      top: 0;
+      top: -1px;
       width: 12px;
       height: 12px;
       border: transparent solid 2px;
-      border-top-color: $green;
-      border-right-color: $green;
+      border-top-color: $primary;
+      border-right-color: $primary;
       transform: translateY(-50%) rotateZ(45deg);
 
       @include media-breakpoint-down(sm){
@@ -603,7 +603,7 @@
       display: block;
       width: 80px;
       height: 80px;
-      background: $green;
+      background: $primary;
       color: $light;
       text-align: center;
       vertical-align: middle;
@@ -613,7 +613,7 @@
       box-shadow: rgba(black, 0.1) 0 1px 3px inset;
       font-size: 2rem;
       font-weight: bold;
-      border: lighten($green, 50%) solid 8px;
+      border: lighten($primary, 50%) solid 8px;
 
       @include media-breakpoint-down(sm){
         margin: 0 0.6rem 0 0;
@@ -809,13 +809,12 @@
   }
 
   &-wrap{
-    max-width: 750px;
+    max-width: 820px;
     margin: 0 auto;
 
     .heading{
       text-align: center;
       margin-bottom: 1rem;
-      font-size: 1.4rem;
       color: $theme-pink;
 
       @include media-breakpoint-up(lg){
@@ -830,7 +829,8 @@
     position: relative;
 
     @include media-breakpoint-up(lg){
-      padding-top: 2rem;
+      //padding-top: 2rem;
+      margin-bottom: 0;
     }
 
     &:before, &:after{
@@ -953,6 +953,7 @@
         max-width: none;
         padding: 90px 25px 73px 25px;
         background-size: 100%;
+        //margin: 30px auto -51px;
       }
     }
 
@@ -974,5 +975,7 @@
 }
 
 .shadow-top{
+  position: relative;
+  z-index: 1;
   box-shadow: rgba(black, 0.2) 0 -3px 10px;
 }

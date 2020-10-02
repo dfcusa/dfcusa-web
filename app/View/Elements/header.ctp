@@ -4,9 +4,7 @@
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
                 <div class="content">
-                    We stand in solidarity for equity and equality and encourage you to checkout
-                    resources to listen, learn and use your voice. You can
-                    <a href="http://www.dogoodfromhome.com" style="color: inherit; text-decoration: underline">#DoGoodFromHome</a>.
+                    Looking for a quick way to create change, check out our resources to <a href="http://www.dogoodfromhome.com" style="color: inherit; text-decoration: underline">#DoGoodFromHome</a>.
                 </div>
             </div>
         </div>

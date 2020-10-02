@@ -244,6 +244,9 @@
                         <h5>North Carolina Students Address Historic Racism</h5>
                         <p>The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.</p>
                         <p>As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.</p>
+                        <a class="btn btn-outline-secondary text-uppercase"
+                           href="https://blog.designforchange.us/george-taylor-remembrance/"
+                           target="_blank">Read the case study</a>
                     </div>
                 </div>
             </div>

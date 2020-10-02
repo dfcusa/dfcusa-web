@@ -7,7 +7,7 @@
 
 <section class="page-content mb-5">
     <div class="container">
-      <h2 class="heading-secondary">Design Your Own Design for Change Course</h2>
+      <h2 class="heading-secondary">Design Your Own Design for Change Experience</h2>
 
       <p class="mb-5">Choose a social cause to learn about and then download <a target="_new" href="https://dfc-files.s3.amazonaws.com/Design+for+Change+USA+Design+Sprint+Toolkit.pdf">our free Educator Toolkit</a> to guide you on setting up your Design for Change course. These podcasts are under 10 minutes and have an accompanying presentation to introduce the topic to your students and get their brainstorming juices flowing!
       </p>

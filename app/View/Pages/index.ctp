@@ -292,8 +292,7 @@
     <section class="news py-4">
         <div class="container">
             <h2 class="text-block text-center text-light-blue mb-5">Latest News & Updates</h2>
-            <div class="row align-self-stretch news-posts">
-            </div>
+            <div class="row align-self-stretch news-posts"></div>
         </div>
     </section>
 
@@ -358,7 +357,7 @@
 </script>
 
 <script type="text/x-handlebars-template" id="postTemplate">
-  <div class="col-lg-4">
+  <div class="col-lg-4 mb-3">
     <div class="post-block {{color}}">
       <div class="post-img" style="background-image: url('{{feature_image}}'); background-size: 100%; background-repeat: no-repeat"></div>
         <div class="post-brief">

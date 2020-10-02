@@ -51,34 +51,68 @@
         </div>
     </div>
 
-    <div class="container pb-4">
-        <div class="text-center">
-            <h3 class="heading w-100 text-center pb-5">Our Program In Action</h3>
-        </div>
-        <div class="row align-items-center">
-            <div class="col-md-6 order-md-last mb-4">
-                <iframe width="100%"
-                        height="315"
-                        src="https://www.youtube.com/embed/YeaiWM28a6A"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+    <section class="container pb-4">
+        <div class="in-action-wrap">
+            <div class="in-action">
+                <div class="post">
+                    <h3 class="heading">Our Program In Action</h3>
+                    <div class="post-card">
+                        <div class="content">
+                            <h5>The Honoring the Land: Fighting the Keystone XL Pipeline</h5>
+                            <p>
+                                This project was aimed at uncovering community thoughts and
+                                documenting those thoughts regarding the Keystone XL Pipeline
+                                while finding ways to insert student voices as advocates for
+                                their community by bringing concerns straight to state lawmakers.
+                            </p>
+                            <a class="btn btn-outline-secondary text-uppercase"
+                               href="https://blog.designforchange.us/start-local-go-global/"
+                               target="_blank">Read the case study</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="video">
+                    <div class="frame">
+                        <iframe width="100%"
+                                height="315"
+                                src="https://www.youtube.com/embed/YeaiWM28a6A"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 order-md-first mb-4">
-                <h5>The Honoring the Land: Fighting the Keystone XL Pipeline</h5>
-                <p>
-                  This project was aimed at uncovering community thoughts and documenting those thoughts regarding the Keystone XL Pipeline while finding ways to insert student voices as advocates for their community by bringing concerns straight to state lawmakers.
-                </p>
-                <a class="btn btn-outline-secondary text-uppercase"
-                   href="https://blog.designforchange.us/start-local-go-global/"
-                   target="_blank">Read the case study</a>
-            </div>
         </div>
-    </div>
+    </section>
+
+<!--    <div class="container pb-4">-->
+<!--        <div class="text-center">-->
+<!--            <h3 class="heading w-100 text-center pb-5">Our Program In Action</h3>-->
+<!--        </div>-->
+<!--        <div class="row align-items-center">-->
+<!--            <div class="col-md-6 order-md-last mb-4">-->
+<!--                <iframe width="100%"-->
+<!--                        height="315"-->
+<!--                        src="https://www.youtube.com/embed/YeaiWM28a6A"-->
+<!--                        frameborder="0"-->
+<!--                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"-->
+<!--                        allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--            <div class="col-md-1"></div>-->
+<!--            <div class="col-md-5 order-md-first mb-4">-->
+<!--                <h5>The Honoring the Land: Fighting the Keystone XL Pipeline</h5>-->
+<!--                <p>-->
+<!--                  This project was aimed at uncovering community thoughts and documenting those thoughts regarding the Keystone XL Pipeline while finding ways to insert student voices as advocates for their community by bringing concerns straight to state lawmakers.-->
+<!--                </p>-->
+<!--                <a class="btn btn-outline-secondary text-uppercase"-->
+<!--                   href="https://blog.designforchange.us/start-local-go-global/"-->
+<!--                   target="_blank">Read the case study</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 
 
-    <div class="lead-box lead-lime py-5 mb-5 shadow-none rounded-0 border-0">
+    <div class="lead-box lead-lime py-5 mb-5 rounded-0 border-0 shadow-top">
         <div class="container py-4">
             <div class="lead-content">
                 <div class="text-center mb-5">
@@ -121,22 +155,61 @@
         </div>
     </div>
 
+
     <div class="container pb-4 global-goals mt-5 pt-3">
-        <div class="mb-5">
-            <h2 class="heading-secondary text-center">DFC USA students think globally and act locally.</h2>
-            <div class="images mb-3">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">
-                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-11">
+                <div class="lead lead-light shadow-lg">
+                    <div class="card-body">
+                        <h2 class="heading-secondary text-center d-md-none">DFC USA students think globally and act locally.</h2>
+                        <div class="row align-items-center">
+                            <div class="col-sm-6">
+                                <div class="images mb-3">
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt=""></div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 text-black">
+                                <h2 class="heading-secondary d-none d-md-block">
+                                    DFC USA students think globally and act locally.
+                                </h2>
+                                <p>
+                                    Help students kick start their project by introducing them to
+                                    the UN Global Goals and encouraging them to consider these
+                                    goals as they work together to design innovative solutions.
+                                </p>
+                                <p>
+                                    For the theme of Education Equity, students may consider the
+                                    following UN Global Goals or select their own. To learn more
+                                    about the UN Global Goals, check out The World’s Largest Lesson.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <p class="text-black">
-                Help students kick start their project by introducing them to the UN Global Goals and encouraging them to consider these goals as they work together to design innovative solutions. 
-                <br/><br/>For the theme of Climate Action, students may consider the following UN Global Goals or select their own. To learn more about the UN Global Goals, check out The World’s Largest Lesson.
-            </p>
         </div>
-    </div>  
+    </div>
+
+<!--    <div class="container pb-4 global-goals mt-5 pt-3">-->
+<!--        <div class="mb-5">-->
+<!--            <h2 class="heading-secondary text-center">DFC USA students think globally and act locally.</h2>-->
+<!--            <div class="images mb-3">-->
+<!--                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt="">-->
+<!--                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt="">-->
+<!--                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="">-->
+<!--                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt="">-->
+<!--                <img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt="">-->
+<!--            </div>-->
+<!--            <p class="text-black">-->
+<!--                Help students kick start their project by introducing them to the UN Global Goals and encouraging them to consider these goals as they work together to design innovative solutions. -->
+<!--                <br/><br/>For the theme of Climate Action, students may consider the following UN Global Goals or select their own. To learn more about the UN Global Goals, check out The World’s Largest Lesson.-->
+<!--            </p>-->
+<!--        </div>-->
+<!--    </div>  -->
 
     <section class="cta py-5 cta-ending">
         <div class="container my-3">

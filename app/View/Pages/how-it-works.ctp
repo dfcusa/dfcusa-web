@@ -35,19 +35,19 @@
                                    class="img-fluid" alt="">
                               <div class="main-slider">
                                   <div class="carousel-cell">
-                                      <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                      <img src="/dfcusa-web/app/webroot/img/new-pages/warmup-screen.png">
                                   </div>
                                   <div class="carousel-cell">
-                                      <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                      <img src="/dfcusa-web/app/webroot/img/new-pages/feel-screen.png">
                                   </div>
                                   <div class="carousel-cell">
-                                      <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                      <img src="/dfcusa-web/app/webroot/img/new-pages/imagine-screen.png">
                                   </div>
                                   <div class="carousel-cell">
-                                      <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                      <img src="/dfcusa-web/app/webroot/img/new-pages/do-screen.png">
                                   </div>
                                   <div class="carousel-cell">
-                                      <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
+                                      <img src="/dfcusa-web/app/webroot/img/new-pages/share-screen.png">
                                   </div>
                               </div>
                           </div>
