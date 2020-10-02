@@ -235,12 +235,20 @@
     </div>    
 
 <section class="container pb-4">
-    <div class="newspaper-back">
-        <div class="content">
-            <h3 class="heading text-center">Design for Change In Action</h3>
-            <hr class="h-line">
-            <div class="row align-items-stretch text-justify">
-                <div class="col-md-6 order-md-last mt-3 mb-3">
+    <div class="in-action-wrap">
+        <div class="in-action">
+            <div class="post">
+                <h3 class="heading">Design for Change In Action</h3>
+                <div class="post-card">
+                    <div class="content">
+                        <h5>North Carolina Students Address Historic Racism</h5>
+                        <p>The George Taylor Remembrance Project raised awareness about the lynching of George Taylor which occurred over 100 years ago and is the only documented lynching in Wake County, North Carolina.</p>
+                        <p>As part of the reconciliation process, students conducted a soil collection and created the Citizen's Promise.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="frame">
                     <iframe width="100%"
                             height="330"
                             src="https://spark.adobe.com/video/zrxKJNDSIrJ69/embed"
@@ -248,28 +256,12 @@
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                 </div>
-                <div class="col-md-1 line-middle"></div>
-                <div class="col-md-5 order-md-first mt-3 mb-3">
-                    <h5>North Carolina Students Address Historic Racism</h5>
-                    <p>
-                        The George Taylor Remembrance Project raised awareness about the lynching
-                        of George Taylor which occurred over 100 years ago and is the only
-                        documented lynching in Wake County, North Carolina.
-                    </p>
-                    <p>
-                        As part of the reconciliation process, students conducted a soil collection
-                        and created the Citizen's Promise.
-                    </p>
-                    <a class="btn btn-outline-secondary text-uppercase"
-                       href="https://blog.designforchange.us/george-taylor-remembrance/"
-                       target="_blank">Read the case study</a>
-                </div>
             </div>
         </div>
     </div>
 </section>
 
-    <section class="cta py-5 cta-ending">
+    <section class="cta py-5 cta-ending shadow-top">
         <div class="container my-3">
             <img src="/dfcusa-web/app/webroot/img/img_lightbulb.png" alt="" class="cta-icon">
             <div class="mb-4">
