@@ -9,10 +9,9 @@
 	<div class="container">
     <h2 class="heading-secondary">How Design for Change Works</h2>
     <p>
-        Design for Change equips students to transform empathy into social action using 4 steps:
-        <strong>Feel, Imagine, Do, Share.</strong><br/><br/>
-        Educators use DFC to facilitate a design process that fosters empathy and student agency.<br/><br/>
-        Students <strong>brainstorm, plan,</strong> and <strong>execute</strong> service learning projects.
+        Design for Change provides a virtual platform for students to build empathy and create social change.
+        <br><br>Educators can set up an experience for students to go through a simple design thinking framework of <b>Feel, Imagine, Do, Share</b>.
+        <br><br>Through this platform, students will learn about a social issue, brainstorm solutions, plan and execute a change project.
     </p>
   </div>
 </section>
@@ -24,7 +23,7 @@
               <div class="text-center mb-5">
                   <h2>The Process</h2>
                   <p class="lead text-block">
-                      We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
+                      Design for Change equips your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, students are guided through a series of activities that they can do independently and with their educator by themselves and with their teacher.
                   </p>
               </div>
               <div class="steps connected-bi-slider">
@@ -61,7 +60,7 @@
                                   </h4>
 
                                   <p class="pt-3 pb-4">
-                                      Students listen to a podcast, highlighting a series of interviews about racial justice, and think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections. 
+                                      Students listen to an empathy podcast; a series of interviews highlighting the real voices of real people. They then think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections to what they heard.
                                   </p>
                                   <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                               </div>
@@ -71,7 +70,7 @@
                                       Feel
                                   </h4>
                                   <p class="pt-3 pb-4">
-                                      Students consider the symptoms and the underlying factors that continue to cause racial justice in a root cause analysis exercise.  
+                                      Students consider the symptoms and the underlying factors of the chosen theme, e.g., racial justice, educational equity or climate action through a root cause analysis exercise.
                                   </p>
                                   <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                               </div>
@@ -81,7 +80,7 @@
                                       Imagine
                                   </h4>
                                   <p class="pt-3 pb-4">
-                                      Sudents imagine how they might change the current situation by brainstorming new ideas, and then pick an idea they'd like to move forward with.
+                                      Students imagine how they might change the current situation by brainstorming new ideas, and then picking an idea they'd like to move forward with.
                                   </p>
                                   <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                               </div>
@@ -91,7 +90,7 @@
                                       Do
                                   </h4>
                                   <p class="pt-3 pb-4">
-                                      Use a storyboard to determine and order any action steps, students plan out their action plan and implement their solution, if possible.
+                                      Students use a storyboard to determine and order any action steps, plan their action plan and implement their solution (if possible).
                                   </p>
                                   <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
                               </div>
@@ -101,7 +100,7 @@
                                       Share
                                   </h4>
                                   <p class="pt-3 pb-4">
-                                      Students reflect on all the things they learned about themselves, the issue and the community and they consider how others felt about these things too.
+                                      Students reflect on all the things they learned about, including: themselves, the issue, and the community. They then consider how others felt about these things too.
                                   </p>
                                   <a class="btn btn-outline-light text-uppercase" href="/pages/get-started">Get Started</a>
                               </div>
@@ -261,7 +260,7 @@
                 </div>
                 <div class="col-sm-9 mb-4">
                     <p>
-                        Over the last 8 years, Design for Change has hosted multiple global celebrations, bringing together student changemakers from over 70+ countries, to share their projects for a better world! 
+                        Over the last 10 years, Design for Change has hosted multiple global celebrations, bringing together student changemakers from over 70+ countries, to share their projects for a better world! 
                         <br/><br/>
                         These celebrations have historically been a time for students to gather and build cross cultural connections and friendships, helping them realize the power of their collective action! 
                         <br/><br/>

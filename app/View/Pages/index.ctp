@@ -3,7 +3,7 @@
     <section class="hero">
         <div class="container">
             <div class="hero-container">
-                <h1>Turn Empathy into Action</h1>
+                <h1>Turn Empathy Into Action</h1>
                 <p>Join the movement of students designing solutions for change.</p>
                 <div class="row text-center mt-4 mb-3">
                     <div class="col-4 mb-3">
@@ -31,19 +31,19 @@
         <div class="logos">
             <h5 class="heading pb-4">Supporters of Design for Change Global and DFC USA...</h5>
             <div class="logo">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt="">
+                <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt=""></a>
             </div>
             <div class="logo">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt="">
+                <a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt=""></a>
             </div>
             <div class="logo">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt="">
+                <a href="http://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt=""></a>
             </div>
             <div class="logo">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt="">
+                <a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt=""></a>
             </div>
             <div class="logo">
-                <img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt="">
+                <a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt=""></a>
             </div>
         </div>
     </section>
@@ -85,7 +85,7 @@
         <div class="container py-4">
             <div class="lead-content">
                 <div class="mb-5">
-                  <h2 class="text-center">Support young people to build empathy!</h2>
+                  <h2 class="text-center">Support Students to Build Empathy!</h2>
                 </div>
                 <div class="get-started-inner">
                     <div class="row align-items-stretch">
@@ -160,7 +160,7 @@
             <div class="survey-inner">
                 <span class="number">91<sup>%</sup></span>
                 <span class="details">
-                    of teachers surveyed report that Design for Change increased students'
+                    of educators surveyed report that Design for Change increased students'
                     self-motivation to complete tasks and persist through obstacles.
                 </span>
             </div>
@@ -171,13 +171,13 @@
     <section class="container">
       <div class="features text-center">
         <h2 class="text-light-blue">Engage students in a virtual changemaking experience!</h2>
-        <p>Through a virtual platform, student build awareness around a social cause and design solutions for change.</p>
+        <p>Through our virtual platform, student's build awareness around a social cause and design solutions for change.</p>
         <div class="row mt-5">
             <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-love.png"
                      class="img-fluid img-center" alt="Self Guided Mobile App">
                 <h5 class="my-3">Student<br>Voice</h5>
-                <p>Empathy-building content and activities that builds awareness and centers student voice.</p>
+                <p>Empathy-building content and activities that increase awareness and center student voice.</p>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
                 <img src="/dfcusa-web/app/webroot/img/new-pages/icon-community-support.png"
@@ -217,7 +217,7 @@
     <section class="reviews-new">
         <div class="container">
 
-            <h2 class="text-light-blue text-center mb-5 font-weight-bolder">What educators think</h2>
+            <h2 class="text-light-blue text-center mb-5 font-weight-bolder">What Educators Think</h2>
 
             <div class="row">
                 <div class="col-md-4">
@@ -268,11 +268,11 @@
             </div>
 
             <div class="text-center">
-                <h2 class="text-block-sm text-light-blue">See it in action</h2>
+                <h2 class="text-block-sm text-light-blue">See It In Action</h2>
                 <p class="text-block lead">
-                    Explore projects from some of the thousands of student teams using Design for Change
+                    Explore projects from some of the thousands of student teams using Design for Change.
                 </p>
-                <a href="/pages/impact" class="btn btn-lg btn-secondary">See real Projects</a>
+                <a href="/pages/stories" class="btn btn-lg btn-secondary">See student projects</a>
             </div>
 
         </div>
@@ -280,9 +280,9 @@
 
     <section class="lead lead-secondary py-5 my-5">
         <div class="container text-block text-center py-4">
-            <h2>Best of All, Our Resources Are Free!</h2>
+            <h2>Best Of All, Our Resources Are Free!</h2>
             <p class="lead">
-                We provide a free web and mobile experience for educators to bring the Design for Change program into their classrooms, <i><b>in person or virtually</b></i>.
+                We provide a free web and mobile platform for educators to bring the Design for Change program into their classrooms, <b><i>in person or virtually</i></b>.
             </p>
             <a href="/pages/get-started" class="btn btn-lg btn-outline-light">Get Started</a>
         </div>
@@ -297,7 +297,7 @@
     </section>
 
     <section class="newsletter mt-5 text-center">
-        <h2 class="h5 text-light-blue">Change Starts with You</h2>
+        <h2 class="h5 text-light-blue">Change Starts With You</h2>
         <p>Sign up to receive our newsletter and other free resources.</p>
         <div class="newsletter-form mx-auto">
             <div class="bg-success p-3 text-white success-box" style="display: none">Thanks for signing up!</div>

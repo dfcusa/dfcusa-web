@@ -12,12 +12,7 @@
         <h2 class="heading-secondary">Community Action</h2>
 
         <p>
-            Community Action offer an authentic and responsive experience for students,
-            guiding them through the design thinking process as they develop and implement
-            a community change project. With the Community Project resources, educators can
-            access 100+ lesson plans and activities to best serve their students according
-            to their prior knowledge and unique context. Ultimately, students build skills
-            and carry out an action plan to create social change locally.
+            Introduce your students to important themes about Racial Justice by having them listen to one of our many podcasts featuring the real voices of those affected by the issue.
         </p>
 
 

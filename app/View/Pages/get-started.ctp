@@ -43,7 +43,7 @@
         <div class="text-center">
             <h3 class="h4 mt-2 mb-2">Step #1: Choose a Theme</h3>
             <h4 class="h5 mb-4 font-weight-normal">
-              Select a theme that you think will engage your students and fits your curriculum goals:
+              Work with your students to select a theme that most excites them and fits your curriculum goals:
             </h4>
         </div>
 
@@ -78,7 +78,7 @@
                           <div class="lead-content">
                               <h4 class="heading">EDUCATIONAL<br>EQUITY</h4>
                               <div>
-                                  <p class="pt-2 pb-3">Racism exists. The impact and the history of racism is complex. Join the movement for racial justice and make a real difference.</p>
+                                  <p class="pt-2 pb-3">Difference in educational experiences have major consequences. Explore the many factors. Disrupt the inequity.</p>
                                   <p class="small">
                                       <strong>Time Commitment:</strong><br>
                                       5+ hours
@@ -132,7 +132,7 @@
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
-                        Each podcast center community perspective and youth voice
+                        Each podcast centers community and youth voice
                     </li>
                     <li class="mb-3 d-flex align-items-center">
                         <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -169,11 +169,6 @@
             <p class="text-center">
                 As an educator, you will have access to a teacher platform that allows you to:
             </p>
-            <div class="row justify-content-center my-4">
-                <div class="col-md-6">
-                    <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png" alt="Screenshot">
-                </div>
-            </div>
             <ul class="list-unstyled h6 font-weight-normal d-md-flex flex-wrap justify-content-center">
                 <li class="m-3 d-flex align-items-center">
                     <i class="fas fa-check-circle fa-2x mr-3"></i>
@@ -196,6 +191,11 @@
                     Capture students’ stories of change
                 </li>
             </ul>
+            <div class="row justify-content-center my-4">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="/dfcusa-web/app/webroot/img/screenshot.png" alt="Screenshot">
+                </div>
+            </div>            
             <br>
             <center><a href="/dfcusa-pm/login#register" class="btn btn-danger btn-lg">REGISTER NOW</a></center>
         </div>
@@ -259,7 +259,7 @@
                              alt="img">
                     </div>
                     <div class="lead-content px-4">
-                        <h3 class="h4 mb-1">OUR SCHOOL / DISTRICT VERSION</h3>
+                        <h3 class="h4 mb-1">CUSTOM SCHOOL / DISTRICT PLATFORM</h3>
                         <hr>
                         <ul class="list-unstyled h6 font-weight-normal">
                             <li class="mb-3 d-flex align-items-center">
@@ -313,8 +313,7 @@
                         <h3 class="h4 mb-1">BUILD YOUR OWN EXPERIENCE</h3>
                         <hr>
                         <p>
-                            Master the principles of design thinking and get trained
-                            on the Design for Change methodology.
+                            Explore our library of podcasts related to a diverse set of social causes. Build your own experience using the DFC Toolkit. 
                         </p>
                         <p class="small">
                             <strong>Time Commitment:</strong><br>
@@ -350,7 +349,7 @@
         </div>
 
 
-        <div class="lead-box lead-dark-green img-right h-100 mb-4">
+        <div class="lead-box lead-dark-green img-right h-100 mb-4 pb-4">
             <div class="lead-image">
                 <img src="/dfcusa-web/app/webroot/img/ico_c_custom.png"
                      class="img-fluid"

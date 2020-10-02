@@ -15,7 +15,7 @@
             <div class="col-sm-12 mb-4">
                 <h5>We Must Do Better</h5>
                 <p>
-                    Racial disparities have permeated all facets of our societies, our communities, schools and our classrooms. Yet discussions about racism do not often make their way into our curriculum, our textbooks. We are here to support you in changing the status quo. 
+                    Racial disparities have permeated all facets of our societies, our communities, schools and our classrooms. Yet, discussions about and actions to combat racism do not often make their way into our textbooks or our classrooms. We are here to support you in changing the status quo.
                 </p>
             </div>
             <div class="col-sm-6 mb-4 hide">
@@ -33,15 +33,15 @@
 
         <div class="row mb-4">
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/classroom/education-3.png"
+                <img src="/dfcusa-web/app/webroot/img/themes/justice1.png"
                      alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/classroom/education-6.png"
+                <img src="/dfcusa-web/app/webroot/img/themes/justice2.png"
                      alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/classroom/education-7.png"
+                <img src="/dfcusa-web/app/webroot/img/themes/justice3.png"
                      alt="" class="img-fluid img-thumbnail">
             </div>
         </div>
@@ -61,102 +61,6 @@
           </div>
         </div>
     </div>
-
-    <div class="lead-box lead-light-blue py-5 shadow-none rounded-0 border-0 hide">
-        <div class="container py-4">
-            <div class="lead-content">
-                <div class="text-center mb-5">
-                    <h2>The Process</h2>
-                    <p class="lead text-block">
-                        We help you equip your students to transform empathy into social action using four steps: Feel, Imagine, Do, Share. After listening to one of our social cause podcasts, young people are guided through a series of activities that they can do by themselves and with their teacher.
-                    </p>
-                </div>
-                <div class="steps connected-bi-slider">
-                    <div class="row">
-                        <div class="col-md-8 mb-3">
-                            <div class="slider-wrap">
-                                <img src="/dfcusa-web/app/webroot/img/new-pages/laptop-outline.svg"
-                                     class="img-fluid" alt="">
-                                <div class="main-slider">
-                                    <div class="carousel-cell">
-                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
-                                    </div>
-                                    <div class="carousel-cell">
-                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
-                                    </div>
-                                    <div class="carousel-cell">
-                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
-                                    </div>
-                                    <div class="carousel-cell">
-                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
-                                    </div>
-                                    <div class="carousel-cell">
-                                        <img src="/dfcusa-web/app/webroot/img/new-pages/screen-01.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="text-slider">
-                                <div class="carousel-cell">
-                                    <h4>
-                                        STEP 1:<br>
-                                        Empathy Warmup
-                                    </h4>
-
-                                    <p class="pt-3 pb-4">
-                                        Students listen to a podcast, highlighting a series of interviews about racial justice, and think about the topic critically by naming facts, asking questions, pulling quotes and making personal connections. 
-                                    </p>
-                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
-                                </div>
-                                <div class="carousel-cell">
-                                    <h4>
-                                        STEP 2:<br>
-                                        Feel
-                                    </h4>
-                                    <p class="pt-3 pb-4">
-                                        Students consider the symptoms and the underlying factors that continue to cause racial justice in a root cause analysis exercise.  
-                                    </p>
-                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
-                                </div>
-                                <div class="carousel-cell">
-                                    <h4>
-                                        STEP 3:<br>
-                                        Imagine
-                                    </h4>
-                                    <p class="pt-3 pb-4">
-                                        Sudents imagine how they might change the current situation by brainstorming new ideas, and then pick an idea they'd like to move forward with.
-                                    </p>
-                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
-                                </div>
-                                <div class="carousel-cell">
-                                    <h4>
-                                        STEP 4:<br>
-                                        Do
-                                    </h4>
-                                    <p class="pt-3 pb-4">
-                                        Use a storyboard to determine and order any action steps, students plan out their action plan and implement their solution, if possible.
-                                    </p>
-                                    <a class="btn btn-outline-light text-uppercase next" href="#">Next Step</a>
-                                </div>
-                                <div class="carousel-cell">
-                                    <h4>
-                                        STEP 5:<br>
-                                        Share
-                                    </h4>
-                                    <p class="pt-3 pb-4">
-                                        Students reflect on all the things they learned about themselves, the issue and the community and they consider how others felt about these things too.
-                                    </p>
-                                    <a class="btn btn-outline-light text-uppercase" href="/pages/get-started">Get Started</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
 
     <div class="lead-box py-5 lead-lime shadow-none rounded-0 border-0">
         <div class="container py-4">
