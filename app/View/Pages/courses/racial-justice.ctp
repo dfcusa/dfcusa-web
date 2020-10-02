@@ -114,10 +114,8 @@
                         <div class="row align-items-center">
                             <div class="col-sm-6">
                                 <div class="images mb-3">
-                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_1.png" alt=""></div>
-                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_2.png" alt=""></div>
-                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt=""></div>
                                     <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_4.png" alt=""></div>
+                                    <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt=""></div>
                                     <div class="img"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_16.png" alt=""></div>
                                 </div>
                             </div>
