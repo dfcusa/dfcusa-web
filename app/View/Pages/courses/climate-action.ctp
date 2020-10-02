@@ -40,7 +40,7 @@
             <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 25px">
             <div class="row w-100 mx-auto">
                 <div class="col-lg-4">
-                    <h1 class="num ml-5 pt-4" style="font-size: 6.5em">100</h1>
+                    <h1 class="num ml-5 pt-4" style="font-size: 5.5em">100%</h1>
                 </div>
                 <div class="col-lg-7 mt-4 pb-4 text-left">
                 "This generation of students will feel the effects of climate change more than any other, and it is critical that every student is provided an opportunity to study and understand the climate crisis through a comprehensive, interdisciplinary lens," she said in a statement. Young people, including teen activist Greta Thunberg, have been at the forefront of recent climate change protests and students in more than 100 countries staged walkouts last year.
@@ -56,37 +56,37 @@
         <div class="container py-4">
             <div class="lead-content">
                 <div class="text-center mb-5">
-                    <h2>Social Cause Podcasts</h2>
+                    <h2>Community Voices. Real Empathy.</h2>
                     <p class="lead text-block">
-                        We have amazing content for your students to learn about climate change:
+                        Introduce your students to important themes about Climate Action by having them listen to one of our many podcasts featuring the real voices of those affected by the issue.
                     </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-11">
                         <ul class="block-num-list">
                             <li>
-                                <span class="num pink">3</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/local_climate_action">Local Climate Action</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Local Climate Action</a>
                             </li>
                             <li>
-                                <span class="num pink">9</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/water_contamination">Water Contamination</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Water Contamination</a>
                             </li>
                             <li>
-                                <span class="num pink">12</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_waste">Food Waste</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Waste</a>
                             </li>
                             <li>
-                                <span class="num red">13</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/plastic_pollution">Plastic Pollution</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Plastic Pollution</a>
                             </li>
                             <li>
-                                <span class="num pink">15</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/covid19_air_quality">COVID-19: Air Quality</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">COVID-19: Air Quality</a>
                             </li>
                             <li>
-                                <span class="num yellow">2</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_desert">Food Deserts</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Deserts</a>
                             </li>
                         </ul>
                     </div>
@@ -138,7 +138,7 @@
         <div class="in-action-wrap">
             <div class="in-action">
                 <div class="post">
-                    <h3 class="heading">Our Program In Action</h3>
+                    <h3 class="heading">Design for Change in Action</h3>
                     <div class="post-card">
                         <div class="content">
                             <h5>The Honoring the Land: Fighting the Keystone XL Pipeline</h5>

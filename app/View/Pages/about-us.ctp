@@ -12,14 +12,14 @@
         <h2 class="heading-secondary">A Global Organization with Local Impact</h2>
         <p>
             Design for Change USA is the national affiliate of
-            <a href="https://www.dfcworld.com" target="_blank">Design for Change World</a>,
+            <a href="https://www.dfcworld.com" target="_blank">Design for Change World</a>.
             When young people participate in DFC, they are joining a powerful coalition
             of others around the world in saying, I CAN!
         </p>
 
 
         <div class="lead-box lead-secondary text-center px-4 my-5">
-            <h3 class="heading">What is the Design for Change?</h3>
+            <h3 class="heading">What is Design for Change?</h3>
             <div class="lead-content">
                 <p>DFC equips young people to transform empathy into social action using a simple framework. <br/>
                     Educators use DFC to facilitate a design process that fosters empathy and student agency. <br/>
@@ -233,7 +233,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-3 hide">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/team/ryancowden.png" alt="">
                         <h6 class="text-secondary mt-3 mb-1">Ryan Cowden</h6>
@@ -268,7 +268,7 @@
                 <div class="col-sm-3">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/champions/kristabrincheck.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Krista Brinchecke</h6>
+                        <h6 class="text-secondary mt-3 mb-1">Krista Brincheck</h6>
                         <div class="small">
                             <div class="text-muted">Science Specialist <br> Wake County Public School System</div>
                             <div class="text-muted font-italic mb-1">Raleigh, NC</div>
@@ -313,7 +313,7 @@
                     </div>
                 </div>           
             </div>
-            <div class="row text-center justify-content-center pt-5">     
+            <div class="row text-center justify-content-center pt-5 hide">     
 
                 <div class="col-sm-3">
                     <div class="member mb-5">

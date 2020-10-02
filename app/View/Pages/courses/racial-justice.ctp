@@ -68,35 +68,35 @@
                 <div class="text-center mb-5">
                     <h2>Community Voices. Real Empathy.</h2>
                     <p class="lead text-block">
-                        Introduce your students to Racial Justice by having them<br/>listen to the real voices by those affected by the issue.
+                        Introduce your students to important themes about Racial Justice by having them listen to one of our many podcasts featuring the real voices of those affected by the issue.
                     </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-11">
                         <ul class="block-num-list">
                             <li>
-                                <span class="num pink"><img src="/dfcusa-pm/app/webroot/img/global_goals/TheGlobalGoals_Icons_Color_Goal_10.png" alt="" style="width: 35px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/racializeddiscrimination">Racialized Discrimination</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Racialized Discrimination</a>
                             </li>
                             <li>
-                                <span class="num pink">10</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/black_youth_leadership">Combating Racism: Black Youth Leadership</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Combating Racism: Black Youth Leadership</a>
                             </li>
                             <li>
-                                <span class="num pink">10</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/youth_advocacy">Combating Racism: Youth Advocacy</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Combating Racism: Youth Advocacy</a>
                             </li>
                             <li>
-                                <span class="num red">4</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/black_youth_perspective">Racism: Black Youth Perspective</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Racism: Black Youth Perspective</a>
                             </li>
                             <li>
-                                <span class="num pink">4</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/teaching_accurate_history">Teaching Accurate History</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Teaching Accurate History</a>
                             </li>
                             <li>
-                                <span class="num yellow">2</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_desert">Food Deserts</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Deserts</a>
                             </li>
                         </ul>
                     </div>

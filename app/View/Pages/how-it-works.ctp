@@ -17,7 +17,7 @@
 </section>
 
 <section class="page-content">
-  <div class="lead-box lead-light-blue py-5 shadow-none rounded-0 border-0">
+  <div class="lead-box lead-light-blue bg-primary py-5 shadow-none rounded-0 border-0">
       <div class="container py-4">
           <div class="lead-content">
               <div class="text-center mb-5">

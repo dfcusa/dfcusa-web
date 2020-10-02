@@ -56,37 +56,37 @@
         <div class="container py-4">
             <div class="lead-content">
                 <div class="text-center mb-5">
-                    <h2>Social Cause Podcasts</h2>
+                    <h2>Community Voices. Real Empathy.</h2>
                     <p class="lead text-block">
-                        We have amazing content for your students to learn about inequities in education:
+                        Introduce your students to important themes about Educational Equity by having them listen to one of our many podcasts featuring the real voices of those affected by the issue.
                     </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-11">
                         <ul class="block-num-list">
                             <li>
-                                <span class="num pink">10</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/covid19_student_reflections">COVID19: Student Reflections</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">COVID19: Student Reflections</a>
                             </li>
                             <li>
-                                <span class="num pink">10</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/school_funding">School Funding Disparities</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">School Funding Disparities</a>
                             </li>
                             <li>
-                                <span class="num pink">10</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/new_student">New Student</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">New Student</a>
                             </li>
                             <li>
-                                <span class="num red">4</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/youth_disabilities">Youth Living with Disabilities</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Youth Living with Disabilities</a>
                             </li>
                             <li>
-                                <span class="num pink">3</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/school_pressures">School and Academic Pressures</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">School and Academic Pressures</a>
                             </li>
                             <li>
-                                <span class="num yellow">3</span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/teaching_accurate_history">Teaching Accurate History</a>
+                                <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
+                                <a class="text-white" href="/dfcusa-pm/podcasts">Teaching Accurate History</a>
                             </li>
                         </ul>
                     </div>
@@ -137,7 +137,7 @@
         <div class="in-action-wrap">
             <div class="in-action">
                 <div class="post">
-                    <h3 class="heading">Our Program In Action</h3>
+                    <h3 class="heading">Design for Change in Action</h3>
                     <div class="post-card">
                         <div class="content">
                             <h5>Idaho Students Combat Poverty In Their Community</h5>
