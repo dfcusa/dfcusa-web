@@ -139,13 +139,9 @@
                     <h3 class="heading">Design for Change in Action</h3>
                     <div class="post-card">
                         <div class="content">
-                            <h5>Idaho Students Combat Poverty In Their Community</h5>
+                            <h5>Students from The Pine Ridge Reservation Address 70% High School Dropout Rate</h5>
                             <p>
-                                The Start Local Go Global Project, from Sandpoint, Idaho, researched
-                                the underlying factors and the impact of poverty in their community
-                                and around the world. They worked to create donation bags with
-                                supplies that community members most needed while also connecting the
-                                work of the community garden with their local food bank.
+                               Students from the Pine Ridge Reservation in South Dakota, worked to both understand and find solutions to combat the 70% high school dropout rate in their community. They then advocated in front of parents, teachers and district leaders for better activities to keep young people engaged. Documenting the stories of elders, crafting nights and athletics were some of the ideas they proposed. The student team went on to represent Design for Change USA at the annual DFC Global Conference in India.
                             </p>
                             <a class="btn btn-outline-secondary text-uppercase"
                                href="https://blog.designforchange.us/george-taylor-remembrance/"
