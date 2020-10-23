@@ -40,7 +40,7 @@
         <p class="description">{{description}}</p>
 
         <div class="details">
-          <span class="content"><b>Course:</b> {{course}}</span>
+          <span class="content hide"><b>Course:</b> {{course}}</span>
           <span class="content"><b>Duration:</b> {{duration}}</span>
           <span class="content"><b>Difficulty:</b> {{difficulty}}</span>
           <span class="content"><b>Global Goal(s):</b> {{global_goal}}</span>
