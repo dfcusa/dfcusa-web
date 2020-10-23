@@ -20,6 +20,14 @@
     height: 490px;
   }
 
+  &.class {
+    height: 400px;
+  }
+
+  &.library {
+    height: 470px;
+  }
+
   &.podcast-pink{
     .post-brief{
       background: $theme-pink;

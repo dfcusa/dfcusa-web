@@ -9330,6 +9330,10 @@ a.text-dark-green:hover, a.text-dark-green:focus {
   background-color: white; }
   .podcast-block.extended {
     height: 490px; }
+  .podcast-block.class {
+    height: 400px; }
+  .podcast-block.library {
+    height: 470px; }
   .podcast-block.podcast-pink .post-brief {
     background: #ed1651; }
   .podcast-block.podcast-yellow .post-brief {
