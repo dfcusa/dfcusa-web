@@ -59,14 +59,14 @@
                 </ul>
 
                 <?php if ($_COOKIE['user']) { ?>
-                    <ul class="navbar-nav login-nav">
+                    <ul class="navbar-nav login-nav mt-1">
                         <li class="nav-item short">
                           <a class="nav-link" href="/dfcusa-pm/dashboard">Dashboard</a>
                         </li>
                         <li class="nav-item profile-nav short">
-                          <i class="fas fa-user-circle user-profile mt-1"></i>
+                          <i class="fas fa-user-circle user-profile mt-1" style="color: #fff"></i>
                           <div class="profile-nav-dropdown border pl-2 pr-2 pb-1 pt-1 bg-light shadow-sm">
-                            <a href="javascript:void(0)" class="edit-profile">Profile</a>
+                            <a href="/dfcusa-pm/dashboard">Dashboard</a>
                             <a href="/dfcusa-pm/logout">Logout</a>
                           </div>
                         </li>
