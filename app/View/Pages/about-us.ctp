@@ -59,7 +59,52 @@
 
     <div class="container">
 
-        <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
+        <div class="lead-box lead-light px-5 mt-5 mb-0 shadow-none bg-primary text-white">
+            <div class="lead-content">
+                <div class="row align-items-center">
+                    <div class="col-md-4 order-md-last px-md-5" >
+                        <img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo_white.png"
+                             class="img-fluid rounded shadow mb-3 mb-md-0"
+                             alt="img">
+                    </div>
+                    <div class="col-md-8">
+                        <h3 class="heading text-uppercase mb-1">Our Partner for Success</h3>
+                        <hr>
+                        <p>
+                            Design for Change USA is proud to have the support of Hasbro. BE FEARLESS BE KIND, Hasbro’s signature philanthropic initiative, is designed to inspire and empower kids to have the compassion, empathy and courage to stand up for others and be inclusive throughout their lives. 
+                        </p>
+                        <div class="mt-4">
+                            <a class="btn btn-inverse-dark text-uppercase mr-sm-3"
+                               href="https://globalphilanthropy.hasbro.com/en-us"
+                               target="_new"><i class="fas fa-external-link-square-alt"></i> Learn More</a>
+                               <br/><br/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr class="my-5">
+
+        <div class="row">
+            <div class="col-md-6 order-md-last">
+                <iframe class="w-100 mt-1" style="height: 310px; margin-bottom: 1.5em" allowfullscreen="" frameborder="0"
+                        mozallowfullscreen=""
+                        src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html"
+                        webkitallowfullscreen="" width="400" height="385"></iframe>
+            </div>
+            <div class="col-md-6">
+                <h3 class="heading-secondary mb-3">The story of our founder,<br/>Kiran Bir Sethi</h3>
+                <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design
+                    thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were
+                    empowered, they could design a better world. Kiran partnered with leading experts from Stanford
+                    Design School and IDEO to launch the very first design thinking guide for young people across India,
+                    which introduced them to the FIDS Framework. Today, the DFC movement includes over 2 million young
+                    people in 65+ countries.</p>
+            </div>
+        </div>
+
+        <div class="lead-box lead-dark-green px-5 mt-5 mb-1 shadow-none">
             <div class="lead-content">
                 <div class="row align-items-center">
                     <div class="col-md-4 order-md-last px-md-5">
@@ -88,28 +133,8 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>        
 
-
-        <hr class="my-5">
-
-        <div class="row">
-            <div class="col-md-6 order-md-last">
-                <iframe class="w-100 mt-1" style="height: 310px; margin-bottom: 1.5em" allowfullscreen="" frameborder="0"
-                        mozallowfullscreen=""
-                        src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html"
-                        webkitallowfullscreen="" width="400" height="385"></iframe>
-            </div>
-            <div class="col-md-6">
-                <h3 class="heading-secondary mb-3">The story of our founder,<br/>Kiran Bir Sethi</h3>
-                <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design
-                    thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were
-                    empowered, they could design a better world. Kiran partnered with leading experts from Stanford
-                    Design School and IDEO to launch the very first design thinking guide for young people across India,
-                    which introduced them to the FIDS Framework. Today, the DFC movement includes over 2 million young
-                    people in 65+ countries.</p>
-            </div>
-        </div>
 
     </div>
 

@@ -27,22 +27,25 @@
     </section>
 
 
-    <section class="container logo-list pb-3">
+    <section class="container logo-list pb-2"  style="width: 100%">
         <div class="logos">
             <h5 class="heading pb-4">Supporters of Design for Change Global and DFC USA...</h5>
-            <div class="logo">
+            <div class="logo" style="flex: 0 0 15%; border: 0px ">
+                <a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro" style="width: 100px"></a>
+            </div>
+            <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt=""></a>
             </div>
-            <div class="logo">
+            <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt=""></a>
             </div>
-            <div class="logo">
+            <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="http://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt=""></a>
             </div>
-            <div class="logo">
+            <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt=""></a>
             </div>
-            <div class="logo">
+            <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt=""></a>
             </div>
         </div>
