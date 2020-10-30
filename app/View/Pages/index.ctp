@@ -31,7 +31,7 @@
         <div class="logos">
             <h5 class="heading pb-4">Supporters of Design for Change Global and DFC USA...</h5>
             <div class="logo" style="flex: 0 0 15%; border: 0px ">
-                <a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro" style="width: 100px"></a>
+                <a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro"></a>
             </div>
             <div class="logo" style="flex: 0 0 16%; border: 0px ">
                 <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt=""></a>
