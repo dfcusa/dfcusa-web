@@ -81,7 +81,7 @@
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts#view/combating_racism_youth" target="_new">Combating Racism: Youth Advocacy</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/combating_racism_youth" target="_new">Combating Racism: Youth Activism</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
