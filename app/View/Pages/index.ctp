@@ -27,27 +27,35 @@
     </section>
 
 
-    <section class="container logo-list pb-2"  style="width: 100%">
-        <div class="logos" style="position: relative;">
-            <div style="position: absolute; top: 3px; left: 200px"><h5 class="heading pb-4">Supporters of Design for Change Global and DFC USA...</h5></div>
-            <div class="logo" style="flex: 0 0 15%; border: 0px; text-align: center; border-right: 1px solid #cecece">
-                <div style="margin-left: -50px; margin-right: 10px" class="mb-3"><h5 class="heading">Our presenting partner:</h5></div>
-                <a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro" style="width: 100px; margin-left: -20px"></a>
+    <section class="container logo-list-split">
+        <div class="list-wrap">
+            <div class="presenter">
+                <h5 class="heading">Our presenting partner:</h5>
+                <div class="logos-wrap">
+                    <div class="logo">
+                        <a href="https://www.hasbro.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo.png" alt="Hasbro"></a>
+                    </div>
+                </div>
             </div>
-            <div class="logo" style="flex: 0 0 16%; border: 0px; margin-left: 30px">
-                <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt="" style="width: 95px"></a>
-            </div>
-            <div class="logo" style="flex: 0 0 16%; border: 0px ">
-                <a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt="" style="width: 95px"></a>
-            </div>
-            <div class="logo" style="flex: 0 0 16%; border: 0px ">
-                <a href="http://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt="" style="width: 95px"></a>
-            </div>
-            <div class="logo" style="flex: 0 0 16%; border: 0px ">
-                <a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt="" style="width: 95px"></a>
-            </div>
-            <div class="logo" style="flex: 0 0 16%; border: 0px ">
-                <a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt="" style="width: 95px"></a>
+            <div class="supporters">
+                <h5 class="heading">Supporters of Design for Change Global and DFC USA...</h5>
+                <div class="logos-wrap">
+                    <div class="logo">
+                        <a href="https://www.teachforamerica.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tfa.png" alt=""></a>
+                    </div>
+                    <div class="logo">
+                        <a href="http://tstnfp.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-tst.png" alt=""></a>
+                    </div>
+                    <div class="logo">
+                        <a href="http://higherachievement.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ha.png" alt=""></a>
+                    </div>
+                    <div class="logo">
+                        <a href="https://galileo-camps.com/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-galileo.png" alt=""></a>
+                    </div>
+                    <div class="logo">
+                        <a href="https://ysa.org/" target="_new"><img src="/dfcusa-web/app/webroot/img/new-pages/logo-ysa.png" alt=""></a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
