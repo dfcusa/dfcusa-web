@@ -22,16 +22,13 @@
 
         <div class="row mb-4">
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/climate1.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/climate1.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/climate2.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/climate2.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/climate3.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/climate3.png" alt="" class="img-fluid img-thumbnail">
             </div>
         </div>
 
@@ -66,27 +63,27 @@
                         <ul class="block-num-list">
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Local Climate Action</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/climateaction" target="_new">Local Climate Action</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Water Contamination</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/water_contamination" target="_new">Urban Water Contamination</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Waste</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_waste" target="_new">Food Waste</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Plastic Pollution</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/plastic_pollution" target="_new">Plastic Pollution</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">COVID-19: Air Quality</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/airquality" target="_new">COVID-19: Air Quality</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Deserts</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_desert" target="_new">Food Desert</a>
                             </li>
                         </ul>
                     </div>

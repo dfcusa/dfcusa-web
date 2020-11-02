@@ -33,16 +33,13 @@
 
         <div class="row mb-4">
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/justice1.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/justice1.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/justice2.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/justice2.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/justice3.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/justice3.png" alt="" class="img-fluid img-thumbnail">
             </div>
         </div>
 
@@ -76,27 +73,27 @@
                         <ul class="block-num-list">
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Racialized Discrimination</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/racializeddiscrimination" target="_new">Racialized Discrimination</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Combating Racism: Black Youth Leadership</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/combating_racism_byl" target="_new">Combating Racism: Black Youth Leadership</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Combating Racism: Youth Advocacy</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/combating_racism_youth" target="_new">Combating Racism: Youth Advocacy</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Racism: Black Youth Perspective</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/racism_byp" target="_new">Racism: Black Youth Perspective</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Teaching Accurate History</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/teaching_accurate_history" target="_new">Teaching Accurate History</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Food Deserts</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/food_desert" target="_new">Food Desert</a>
                             </li>
                         </ul>
                     </div>

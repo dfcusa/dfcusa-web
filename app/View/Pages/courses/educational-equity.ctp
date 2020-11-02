@@ -22,16 +22,13 @@
 
         <div class="row mb-4">
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/equity1.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/equity1.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/equity2.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/equity2.png" alt="" class="img-fluid img-thumbnail">
             </div>
             <div class="col-sm-4 mb-4">
-                <img src="/dfcusa-web/app/webroot/img/themes/equity3.png"
-                     alt="" class="img-fluid img-thumbnail">
+                <img src="/dfcusa-web/app/webroot/img/themes/equity3.png" alt="" class="img-fluid img-thumbnail">
             </div>
         </div>
 
@@ -66,27 +63,27 @@
                         <ul class="block-num-list">
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">COVID19: Student Reflections</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/covid19_reflections" target="_new">COVID-19: Student Reflections</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">School Funding Disparities</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/school_funding" target="_new">School Funding Disparities</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">New Student</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/school_community" target="_new">School Community</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Youth Living with Disabilities</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/youth_disabilities" target="_new">Youth Living with Disabilities</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">School and Academic Pressures</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/school_pressures" target="_new">School and Academic Pressures</a>
                             </li>
                             <li>
                                 <span><img src="/dfcusa-web/app/webroot/img/podcast.png" alt="" style="width: 35px; margin-right: 10px"></span>
-                                <a class="text-white" href="/dfcusa-pm/podcasts">Teaching Accurate History</a>
+                                <a class="text-white" href="/dfcusa-pm/podcasts#view/teaching_accurate_history" target="_new">Teaching Accurate History</a>
                             </li>
                         </ul>
                     </div>
