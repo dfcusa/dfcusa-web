@@ -120,7 +120,7 @@
                             is made possible with the generous support of individual and
                             corporate sponsors. Learn more about how you can support our
                             mission by reviewing our Case for Support. Please contact us if
-                            you'd like to donate.
+                            you'd like to donate or <a href="/pages/donate" class="text-white" style="text-decoration: underline;">donate now.</a>
                         </p>
                         <div class="mt-4">
                             <a class="btn btn-inverse-dark text-uppercase mr-sm-3"
