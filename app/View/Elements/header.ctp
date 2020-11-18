@@ -3,9 +3,13 @@
     <div class="top-bar navbar navbar-expand-lg">
         <div id="notice-top-bar" class="navbar-collapse collapse">
             <div class="container-fluid justify-content-center">
-                <div class="content">
+                <div class="content hide">
                     Looking for a quick way to create change, check out our resources to <a href="http://www.dogoodfromhome.com" style="color: inherit; text-decoration: underline">#DoGoodFromHome</a>.
-                    <a href="/pages/donate"><div class="btn btn-primary float-right btn-sm ml-3" style="float: right; position: absolute; top: 8px">Donate Now!</div></a>
+                    <a href="/pages/donate"><div class="btn btn-primary float-right btn-sm ml-3" style="float: right; position: absolute; top: 8px">Donate to DFC on Giving Tuesday - December 1st</div></a>
+                </div>
+                <div class="content" style="font-size: 12pt; color: #000">
+                    <b>Giving Tuesday is December 1st!</b>&nbsp;&nbsp;&nbsp;Support Design for Change USA!
+                    <a href="/pages/donate"><div class="btn btn-primary float-right btn-sm ml-3" style="float: right; position: absolute; top: 8px">Donate Now</div></a>
                 </div>
             </div>
         </div>
