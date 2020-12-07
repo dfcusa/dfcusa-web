@@ -37,10 +37,10 @@
             <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 45px">
             <div class="row w-100 mx-auto">
                 <div class="col-lg-5 mt-2">
-                    <h1 class="num ml-5" style="font-size: 6.5em">20%</h1>
+                    <h1 class="num ml-5 mt-3" style="font-size: 7.5em">20%</h1>
                 </div>
-                <div class="col-lg-7 mt-4 text-left">
-                    "The persistent achievement disparities across income levels and between white students and students of black and Hispanic heritage. School shutdowns could not only cause disproportionate learning losses for these students (students of black and Hispanic heritage)—compounding existing gaps—but also lead more of them to drop out. This could have long-term effects on these children's long-term economic well-being and on the US economy as a whole."
+                <div class="col-lg-7 mt-4 mb-4 text-left">
+                    "The persistent achievement disparities across income levels and between white students and students of black and Hispanic heritage. School shutdowns could not only cause disproportionate learning losses for these students (students of black and Hispanic heritage)—compounding existing gaps—but also lead more of them to drop out. This could have long-term effects on these children's long-term economic well-being and on the US economy as a whole... We estimate that this would exacerbate existing achievement gaps by 15 to 20 percent."
                     - <em><a href="https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19-and-student-learning-in-the-united-states-the-hurt-could-last-a-lifetime#" target="_new" class="text-white">McKinsey and Company</a></em>
                 </div>
             </div>

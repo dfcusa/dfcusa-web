@@ -37,10 +37,10 @@
             <img class="accent-exclamation hide-mobile" src="/dfcusa-web/app/webroot/img/accent_exclamation.png" style="left: 25px">
             <div class="row w-100 mx-auto">
                 <div class="col-lg-4">
-                    <h1 class="num ml-5 pt-4" style="font-size: 5.5em">100%</h1>
+                    <h1 class="num ml-5 pt-4" style="font-size: 7em">100</h1>
                 </div>
                 <div class="col-lg-7 mt-4 pb-4 text-left">
-                "This generation of students will feel the effects of climate change more than any other, and it is critical that every student is provided an opportunity to study and understand the climate crisis through a comprehensive, interdisciplinary lens," she said in a statement. Young people, including teen activist Greta Thunberg, have been at the forefront of recent climate change protests and students in more than 100 countries staged walkouts last year.
+                "This generation of students will feel the effects of climate change more than any other, and it is critical that every student is provided an opportunity to study and understand the climate crisis through a comprehensive, interdisciplinary lens," she said in a statement. Young people, including teen activist Greta Thunberg, have been at the forefront of recent climate change protests and students in more than 100 countries staged walkouts last year. 
                     <em><a href="https://www.cnn.com/2020/06/04/us/new-jersey-climate-schools-scn-trnd/index.html" target="_new" class="text-white">CNN</a></em>
                 </div>
             </div>
