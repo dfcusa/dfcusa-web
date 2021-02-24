@@ -112,7 +112,7 @@
 <script type="text/javascript">
   function onConversationsAPIReady() {
     window.hsConversationsSettings = {
-      loadImmediately: true,
+      loadImmediately: false,
       enableWidgetCookieBanner: true,
       disableAttachment: true
     };
