@@ -112,13 +112,12 @@
 <script type="text/javascript">
   function onConversationsAPIReady() {
     window.hsConversationsSettings = {
-      loadImmediately: false,
-      inlineEmbedSelector: '#some-id',
+      loadImmediately: true,
       enableWidgetCookieBanner: true,
       disableAttachment: true
     };
 
-//    window.HubSpotConversations.widget.load();
+    window.HubSpotConversations.widget.load();
   }
 
   
