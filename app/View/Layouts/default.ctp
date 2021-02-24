@@ -117,7 +117,7 @@
       disableAttachment: true
     };
 
-    window.HubSpotConversations.widget.load();
+//    window.HubSpotConversations.widget.load();
   }
 
   
