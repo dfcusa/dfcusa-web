@@ -67,7 +67,7 @@ class DATABASE_CONFIG {
 		'host' 			=> 'localhost',
 		'login'	 		=> 'root',
 		'password' 		=> 'root',
-		'database' 		=> 'dfcusa_sprints',
+		'database' 		=> 'dfcusa_v4',
 		'prefix' 		=> '',
 		//'encoding' => 'utf8',
 	);
@@ -78,7 +78,7 @@ class DATABASE_CONFIG {
 		'host' 			=> 'dfcusapm-2.cul7rr78u6no.us-east-1.rds.amazonaws.com',
 		'login'	 		=> 'root',
 		'password' 		=> 'designforchange',
-		'database' 		=> 'dfcusa_sprints',
+		'database' 		=> 'dfcusa_v4',
 		'prefix' 		=> '',
 		//'encoding' => 'utf8',
 	);
@@ -88,8 +88,6 @@ class DATABASE_CONFIG {
 	  	$this->default = $this->live;
 	  } else if (dbConfig == 'local') {
 	  	$this->default = $this->default;
-	  } else if (dbConfig == 'beta') {
-	  	 $this->default = $this->beta;
 	  } else {
 	  	$this->default = $this->default;
 	  }

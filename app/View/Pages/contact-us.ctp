@@ -7,7 +7,7 @@
 
 
 <section class="page-content">
-	<div class="container">
+    <div class="container">
         <h2 class="heading-secondary">Contact Us</h2>
         <p class="pb-3">Are you interested in Design for Change and would like to stay connected? Are you inspired by the work of young people creating change and want to learn more? Drop us a line! We are excited to connect.</p>
 

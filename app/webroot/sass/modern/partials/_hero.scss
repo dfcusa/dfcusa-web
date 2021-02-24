@@ -24,7 +24,7 @@
     }
 
     .hero-container{
-      padding: 3rem 15px;
+      padding: 2rem 15px;
 
       @include media-breakpoint-down(md){
         padding: 1.4rem 15px;
@@ -32,6 +32,7 @@
     }
 
     .heading{
+      
       position: relative;
       z-index: 2;
       margin: 0;
@@ -50,7 +51,7 @@
   }
 
   .hero-container{
-    width: 90%;
+    width: 100%;
     max-width: 810px;
     margin: auto;
     padding: 3rem 15px 2rem;
@@ -69,7 +70,7 @@
     }
 
     @include media-breakpoint-up(lg){
-      font-size: 3.15rem;
+      font-size: 3rem;
     }
   }
 
@@ -81,4 +82,37 @@
   .lead{
     font-weight: $font-weight-semi-bold;
   }
+}
+
+
+.new-home{
+
+  .hero{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: left;
+    background: linear-gradient(180deg, rgba(black, 0.5) 0%, rgba(black, 0.6) 100%),
+                url('/dfcusa-web/app/webroot/img/photos/15466014711_8c1447012e_k.jpg') no-repeat center center / cover;
+    font-size: 1.5rem;
+    border-radius: 2rem 2rem 0 0;
+    margin: -95px 10px 0;
+    text-shadow: rgba(black, 0.1) 0 2px 3px;
+
+    @include media-breakpoint-up(lg){
+      margin: -120px 15px 0;
+    }
+  }
+
+  .hero-container{
+    max-width: 430px;
+    margin-left: 0;
+  }
+
+  h1{
+    font-size: 3.2rem;
+    line-height: 1.1;
+    font-weight: $font-weight-bolder;
+    color: $theme-light-blue;
+  }
+
 }

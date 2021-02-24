@@ -1,7 +1,6 @@
 .navbar{
   padding: 0.6rem 0;
-  text-transform: uppercase;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
 
   @include media-breakpoint-up(lg){
     padding: 1.5rem 0;
@@ -18,15 +17,18 @@
   .navbar-nav{
 
     .nav-item{
-      margin-left: 0;
-      text-align: right;
+      text-align: center;
+      margin-left: 1.5em;
+      margin-right: 1.5em;
 
-      @include media-breakpoint-up(lg) {
-        margin-left: 1.5rem;
+      @include media-breakpoint-down(lg){
+        margin-left: 1em;
+        margin-right: 1em;
       }
 
-      &:first-child{
-        margin-left: 0;
+      &.short {
+        margin-left: 0em;
+        text-align: center;
       }
 
       &:hover, &.active{
@@ -37,50 +39,46 @@
       }
     }
 
+    .nav-item {
+      &.homepage {
+        &:hover, &.active{
+          > .nav-link{
+            color: #fff;
+            border-bottom-color: #fff;
+          }
+        }
+      }
+    }
+
     .nav-link{
       font-weight: $font-weight-bold;
       border-bottom: transparent solid 2px;
-
-      @include media-breakpoint-up(lg) {
-        padding: 0.1rem 0;
-      }
+      padding: 0.1em;
     }
   }
 
 
   .navbar-brand{
     width: 80px;
-
-    @include media-breakpoint-up(lg){
-      width: 128px;
-    }
-  }
-
-
-  .my-projects-nav{
-    display: none;
+    width: 128px;
   }
 
   .login-nav{
-    margin-top: 0.5rem;
-    padding-top: 0.5rem;
     border-top: rgba($dark, 0.3) solid 1px;
+    margin-left: 1rem;
+    border: none;
+    margin-top: -5px;
 
-    @include media-breakpoint-up(lg){
-      margin-left: 2rem;
-      margin-top: 0;
-      padding-top: 0;
-      border: none;
+    .user-profile {
+      font-size: 1.5em;
     }
 
     .nav-link{
+      padding-top: 0.3rem;
       font-size: 0.8rem;
       font-weight: $font-weight-regular;
-
-      @include media-breakpoint-up(lg){
-        border-color: $dark;
-        border-bottom-width: 1px;
-      }
+      border-color: $dark;
+      border-bottom-width: 1px;
     }
 
   }

@@ -11,6 +11,7 @@
 @import "cta";
 
 
+@import "partials/header";
 @import "partials/navbar";
 @import "partials/top-bar";
 @import "partials/hero";
@@ -26,13 +27,161 @@
 @import "partials/global-impact";
 @import "partials/newsletter";
 @import "partials/footer";
+@import "partials/podcasts";
 
 @import "partials/page-content";
 @import "partials/contact-form";
+@import "partials/accents";
 
 
 @media (max-width: 767px) {
 	.hide-mobile {
 		display: none !important;
+	}
+
+	.force-full-size {
+		max-width: 100% !important;
+		flex: 1;
+	}
+}
+
+@media (max-width: 1024px) {
+	.navbar {
+		font-size: 1em;
+	}
+}
+
+.hide {
+	display: none !important;
+}
+
+
+
+.on-hover{
+	.hover{
+		display: none;
+	}
+
+	&:hover{
+		.hover{
+			display: block;
+		}
+	}
+}
+
+.dogoodfromhome {
+	margin-bottom: 1rem;
+	font-size: 0.6rem;
+
+	@include media-breakpoint-up(sm){
+		font-size: 0.9rem;
+	}
+
+	@include media-breakpoint-up(lg){
+		position: absolute;
+		left: 30px;
+		top: 170px;
+		cursor: pointer;
+		font-size: 0.8rem;
+	}
+
+	@include media-breakpoint-up(xl){
+		font-size: 1rem;
+	}
+
+	.heading {
+	  font-size: 0.9em;
+	  font-weight: 300;
+	  transform: rotate(-3deg);
+	  text-align: center;
+	  display: inline-block;
+
+	  .big {
+	    font-family: 'Anton';
+	    display: block;
+	    font-size: 2.8em;
+	  }
+
+	  .hashtag {
+	    font-size: 0.7em;
+	    color: #000;
+	    line-height: 1em;
+	    vertical-align: middle;
+	    margin-right: 0.2em;
+	  }
+	}
+}
+
+.story-chart-image{
+	@extend .rounded;
+
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	padding-bottom: 1rem;
+}
+
+
+
+.navbar{
+	@include media-breakpoint-down(md){
+		.navbar-nav{
+			padding-top: 1rem;
+
+			.nav-item{
+				margin: 0;
+
+				&.active > .nav-link{
+					background: rgba($theme-pink, 0.1);
+					border-radius: 0.3rem;
+				}
+			}
+
+			.nav-link{
+				padding: 0.6rem 1rem;
+				text-align: left;
+				border-bottom: none;
+			}
+
+			.dropdown-toggle{
+				position: relative;
+
+				&:after{
+					position: absolute;
+					right: 0.6rem;
+					top: 50%;
+					transform: translateY(-50%);
+				}
+			}
+
+			.dropdown-menu{
+				border: none;
+				border-radius: 0;
+				margin-bottom: 0.25rem;
+
+				.dropdown-item{
+					padding: 0.6rem 1rem;
+
+					&:active{
+						background: none;
+					}
+
+					&:before{
+						content: '-';
+						margin-right: 1rem;
+						color: $gray-400;
+					}
+				}
+
+			}
+
+
+			&.login-nav{
+				padding: 0.3rem 0 0;
+				margin-left: 0;
+				border-top: $gray-400 solid 1px;
+				margin-top: 0.3rem;
+			}
+		}
 	}
 }

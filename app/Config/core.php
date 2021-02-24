@@ -37,13 +37,11 @@
 		define('cookieBase', '');
 		define('dbConfig', 'local');
 		define('envAws', 'dev');
-		define('ignoreProsper', false);
 	} else {
 		define('debug_level', 0);
 		define('cookieBase', 'designforchange.us');
 		define('dbConfig', 'live');
 		define('envAws', 'dev');
-		define('ignoreProsper', false);
 	}
 
 /**

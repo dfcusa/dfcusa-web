@@ -46,8 +46,14 @@
  * ...and connect the rest of 'Pages' controller's urls.
  */
 
+	Router::connect('/activities', array('controller' => 'pages', 'action' => 'podcasts'));
+
 	Router::connect('/pages/raw/header', array('controller' => 'pages', 'action' => 'rawHeader'));
 	Router::connect('/pages/raw/footer', array('controller' => 'pages', 'action' => 'rawFooter'));
+
+	Router::connect('/dogoodfromhome', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
+	Router::connect('/thedoorstepchallenge', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
+	Router::connect('/doorstepchallenge', array('controller' => 'pages', 'action' => 'dogoodfromhome'));
 
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 

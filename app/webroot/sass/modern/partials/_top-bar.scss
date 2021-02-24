@@ -4,10 +4,10 @@
 
   .navbar-collapse{
     background: $topbar-background;
-    color: get-contrast-color($topbar-background);
+    color: $topbar-color;
     text-align: center;
-    font-weight: $font-weight-bold;
-    padding: 1rem 0;
+    padding: 0.8rem 0;
+    font-size: 0.8rem;
   }
 
   .btn{

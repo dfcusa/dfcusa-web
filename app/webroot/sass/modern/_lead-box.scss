@@ -2,7 +2,7 @@
   @extend .rounded;
   box-shadow: rgba($dark, 0.2) 0 3px 5px;
   background: $light;
-  padding: 2.5rem 1rem;
+  padding: 2.5rem 1rem 1.2em;
   display: flex;
   margin-bottom: 0.6rem;
   flex-direction: column;
@@ -88,16 +88,98 @@
       }
 
       &-compressed{
-        font-size: 3.4rem;
+        font-size: 3rem;
         letter-spacing: -0.2rem;
+
+        @include media-breakpoint-up(xl){
+          font-size: 3.4rem;
+        }
       }
     }
   }
 
+
+  &.lead-offsetted{
+    padding: 2.5rem 1.5rem 2.7em;
+
+    &.img-left{
+      margin-top: 130px;
+      position: relative;
+
+      .lead-image{
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        overflow: hidden;
+        box-shadow: rgba(black, 0.23) 0 8px 25px;
+        left: 50%;
+        top: 0;
+        transform: translateX(-50%) translateY(-50%);
+
+        img{
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+        }
+      }
+
+      .lead-content{
+        padding-top: 90px;
+        text-align: center;
+      }
+
+
+      @include media-breakpoint-up(md){
+        margin-left: 90px;
+        margin-top: 3rem;
+
+        .lead-image{
+          left: -90px;
+          top: 50%;
+          transform: translateY(-50%);
+        }
+
+        .lead-content{
+          padding-top: 0;
+          width: auto;
+          padding-left: 120px;
+          text-align: left;
+        }
+      }
+    }
+
+
+
+    &.img-center{
+      position: relative;
+      margin-top: 100px;
+
+      .lead-image{
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+
+        img{
+          border-radius: 50%;
+          box-shadow: rgba(black, 0.2) 0 12px 25px;
+        }
+      }
+
+      .lead-content{
+        margin-top: 80px;
+      }
+
+    }
+
+  }
+
 }
 
-
-@each $color, $value in $theme-colors {
+@mixin lead($color, $value){
   .lead-#{$color} {
     color: get-value-for-contrast($value, $lightness: 60);
     background: $value;
@@ -108,6 +190,15 @@
         border-bottom-color: get-value-for-contrast($value, lighten($value, 10%), darken($value, 10%), 20);
       }
     }
-
   }
 }
+
+
+// Theme Colors --------------------------------
+
+@each $color, $value in $theme-colors {
+  @include lead($color, $value);
+}
+
+// Some custom color -------------------------
+@include lead('lime', #70D047);

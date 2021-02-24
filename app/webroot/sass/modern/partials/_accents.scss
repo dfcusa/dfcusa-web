@@ -1,0 +1,102 @@
+.cta-interested {
+  position: relative;
+  overflow: hidden;
+
+  .accent-exclamation {
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .container{
+    position: relative;
+  }
+
+  .accent-speech {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    right: 0;
+    transform: translateX(40%) translateY(55%) scale(0.8);
+
+    @include media-breakpoint-up(lg){
+      right: 0;
+      transform: translateX(50%) translateY(35%);
+    }
+  }
+}
+
+.reviews {
+
+  .container{
+    position: relative;
+  }
+
+  .accent-heart {
+    position: absolute;
+    right: 0px;
+    top: 47px;
+    z-index: 99999;
+  }
+}
+
+.get-started {
+
+  .container{
+    position: relative;
+  }
+
+  &-head{
+    position: relative;
+    z-index: 10;
+    text-shadow: rgba(black, 0.1) 1px 1px 2px;
+  }
+
+  .accent-yellowcircle {
+    position: absolute;
+    left: 0px;
+    top: 40px;
+  }
+}
+
+.hero{
+  position: relative;
+  overflow: hidden;
+
+  .accent-star {
+    position: absolute;
+    right: 0;
+    top: -30px;
+    transform: translateX(50%);
+
+    @include media-breakpoint-up(md){
+      right: 10px;
+      transform: none;
+    }
+  }
+
+}
+
+.hero-art {
+  position: relative;
+
+  .accent-arrow {
+    position: absolute; 
+    bottom: -90px; 
+    left: -200px;
+  }
+}
+
+.design-change {
+
+  .container{
+    position: relative;
+  }
+
+  .accent-3greenstars {
+    position: absolute;
+    top: -70px;
+    left: 0px;
+  }
+}

@@ -12,19 +12,19 @@
         <h2 class="heading-secondary">A Global Organization with Local Impact</h2>
         <p>
             Design for Change USA is the national affiliate of
-            <a href="https://www.dfcworld.com" target="_blank">Design for Change World</a>,
+            <a href="https://www.dfcworld.com" target="_blank">Design for Change World</a>.
             When young people participate in DFC, they are joining a powerful coalition
             of others around the world in saying, I CAN!
         </p>
 
 
         <div class="lead-box lead-secondary text-center px-4 my-5">
-            <h3 class="heading">What is the Design for Change?</h3>
+            <h3 class="heading">What is Design for Change?</h3>
             <div class="lead-content">
                 <p>DFC equips young people to transform empathy into social action using a simple framework. <br/>
                     Educators use DFC to facilitate a design process that fosters empathy and student agency. <br/>
                     Students brainstorm, plan, and execute community change projects.</p>
-                <a class="btn btn-inverse-dark" href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
+                <a class="btn btn-inverse-dark hide" href="/dfcusa-web/pages/program">HOW DOES IT WORK?</a>
             </div>
         </div>
 
@@ -59,7 +59,52 @@
 
     <div class="container">
 
-        <div class="lead-box lead-dark-green px-5 mb-5 shadow-none">
+        <div class="lead-box lead-light px-5 mt-5 mb-0 shadow-none bg-primary text-white">
+            <div class="lead-content">
+                <div class="row align-items-center">
+                    <div class="col-md-4 order-md-last px-md-5" >
+                        <img src="/dfcusa-web/app/webroot/img/partners/hasbro_logo_white.png"
+                             class="img-fluid rounded shadow mb-3 mb-md-0"
+                             alt="img">
+                    </div>
+                    <div class="col-md-8">
+                        <h3 class="heading text-uppercase mb-1">Our Partner for Success</h3>
+                        <hr>
+                        <p>
+                            Design for Change USA is proud to have the support of Hasbro. BE FEARLESS BE KIND, Hasbro’s signature philanthropic initiative, is designed to inspire and empower kids to have the compassion, empathy and courage to stand up for others and be inclusive throughout their lives. 
+                        </p>
+                        <div class="mt-4">
+                            <a class="btn btn-inverse-dark text-uppercase mr-sm-3"
+                               href="https://globalphilanthropy.hasbro.com/en-us"
+                               target="_new"><i class="fas fa-external-link-square-alt"></i> Learn More</a>
+                               <br/><br/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr class="my-5">
+
+        <div class="row">
+            <div class="col-md-6 order-md-last">
+                <iframe class="w-100 mt-1" style="height: 310px; margin-bottom: 1.5em" allowfullscreen="" frameborder="0"
+                        mozallowfullscreen=""
+                        src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html"
+                        webkitallowfullscreen="" width="400" height="385"></iframe>
+            </div>
+            <div class="col-md-6">
+                <h3 class="heading-secondary mb-3">The story of our founder,<br/>Kiran Bir Sethi</h3>
+                <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design
+                    thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were
+                    empowered, they could design a better world. Kiran partnered with leading experts from Stanford
+                    Design School and IDEO to launch the very first design thinking guide for young people across India,
+                    which introduced them to the FIDS Framework. Today, the DFC movement includes over 2 million young
+                    people in 65+ countries.</p>
+            </div>
+        </div>
+
+        <div class="lead-box lead-dark-green px-5 mt-5 mb-1 shadow-none">
             <div class="lead-content">
                 <div class="row align-items-center">
                     <div class="col-md-4 order-md-last px-md-5">
@@ -75,7 +120,7 @@
                             is made possible with the generous support of individual and
                             corporate sponsors. Learn more about how you can support our
                             mission by reviewing our Case for Support. Please contact us if
-                            you'd like to donate.
+                            you'd like to donate or <a href="/pages/donate" class="text-white" style="text-decoration: underline;">donate now.</a>
                         </p>
                         <div class="mt-4">
                             <a class="btn btn-inverse-dark text-uppercase mr-sm-3"
@@ -88,28 +133,8 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>        
 
-
-        <hr class="my-5">
-
-        <div class="row">
-            <div class="col-md-6 order-md-last">
-                <iframe class="w-100 mt-1" style="height: 310px; margin-bottom: 1.5em" allowfullscreen="" frameborder="0"
-                        mozallowfullscreen=""
-                        src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html"
-                        webkitallowfullscreen="" width="400" height="385"></iframe>
-            </div>
-            <div class="col-md-6">
-                <h3 class="heading-secondary mb-3">The story of our founder, Kiran Bir Sethi</h3>
-                <p>The Design for Change global movement was founded in 2009 by world-renowned educator and design
-                    thinker Kiran Bir Sethi. She started the movement with the conviction that, if young people were
-                    empowered, they could design a better world. Kiran partnered with leading experts from Stanford
-                    Design School and IDEO to launch the very first design thinking guide for young people across India,
-                    which introduced them to the FIDS Framework. Today, the DFC movement includes over 2 million young
-                    people in 65+ countries.</p>
-            </div>
-        </div>
 
     </div>
 
@@ -233,7 +258,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-3 hide">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/team/ryancowden.png" alt="">
                         <h6 class="text-secondary mt-3 mb-1">Ryan Cowden</h6>
@@ -268,14 +293,14 @@
                 <div class="col-sm-3">
                     <div class="member mb-5">
                         <img src="/dfcusa-web/app/webroot/img/champions/kristabrincheck.png" alt="">
-                        <h6 class="text-secondary mt-3 mb-1">Krista Brinchecke</h6>
+                        <h6 class="text-secondary mt-3 mb-1">Krista Brincheck</h6>
                         <div class="small">
                             <div class="text-muted">Science Specialist <br> Wake County Public School System</div>
                             <div class="text-muted font-italic mb-1">Raleigh, NC</div>
                             <a class="text-decoration-none"
                                href="https://www.linkedin.com/in/krista-brinchek-p-g-m-a-t-229a6947/"
                                target="_blank">
-                                <i class="fas fa-linkedin mr-1"></i> More Info
+                                <i class="fab fa-linkedin mr-1"></i> More Info
                             </a>
                         </div>
                     </div>
@@ -313,7 +338,7 @@
                     </div>
                 </div>           
             </div>
-            <div class="row text-center justify-content-center pt-5">     
+            <div class="row text-center justify-content-center pt-5 hide">     
 
                 <div class="col-sm-3">
                     <div class="member mb-5">

@@ -43,3 +43,43 @@
     margin-bottom: 0.8rem;
   }
 }
+
+.reviews-new{
+
+  .review-item{
+    margin-bottom: 2rem;
+  }
+
+  .review-text{
+    background: $theme-light-blue;
+    color: white;
+    padding: 1.3rem 1.5rem;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    margin-bottom: 2rem;
+  }
+
+  .review-author{
+    text-align: center;
+    max-width: 200px;
+    margin: auto;
+  }
+
+  .author-image{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: $theme-light-blue solid 6px;
+  }
+
+  .author-name{
+    font-size: 1rem;
+    margin-top: 1.3rem;
+  }
+
+  .author-details{
+    font-size: 0.85rem;
+  }
+
+}

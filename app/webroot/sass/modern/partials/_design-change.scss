@@ -1,10 +1,15 @@
 .design-change{
   background: $theme-blue;
-  background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  //background: linear-gradient(to bottom, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 60%, #ffffff 100%);
+  background: linear-gradient(to bottom, $gray-400 0%, $gray-100 20%, white 50%, white 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a81c4', endColorstr='#ffffff',GradientType=0 );
-  padding: 4rem 0 3rem;
+  padding: 4rem 0 1.5rem;
   text-align: center;
-  color: $white;
+  color: $dark;
+
+  &.reverse {
+    background: linear-gradient(to top, darken($theme-blue, 8%) 0%, lighten($theme-blue, 8%) 90%, #ffffff 100%);
+  }
 
   .heading{
     font-weight: $font-weight-bolder;
@@ -12,15 +17,26 @@
   }
 
   .lead{
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: $font-weight-base;
   }
 
   .program-icons{
-    margin-top: 2.4rem;
+    margin-top: 0rem;
     color: $dark;
 
     .program-icon{
+
+      .icon{
+        border: $light solid 5px;
+        border-radius: 50%;
+        background: $light;
+        box-shadow: rgba($dark, 0.1) 0 1px 2px;
+      }
+
+      &.item-white p{
+        color: #ffffff;
+      }      
 
       &.item-yellow p{
         color: darken($theme-yellow, 10%);

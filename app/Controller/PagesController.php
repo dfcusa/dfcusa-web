@@ -70,11 +70,30 @@ class PagesController extends AppController {
 		if (!empty($path[$count - 1])) {
 			$title_for_layout = Inflector::humanize($path[$count - 1]);
 		}
-		$this->set(compact('page', 'subpage', 'title_for_layout'));
-		
-		$this->layout = 'default';
-		$this->render(implode('/', $path));
+
+		$is_homepage = $this->request->here === '/';
+		$is_homepage = $this->request->here === '/dfcusa-web/';
+
+		$this->set(compact('page', 'subpage', 'title_for_layout', 'is_homepage'));
+
+		if (strpos($_SERVER['HTTP_HOST'], 'doorstepchallenge')) {
+			$this->redirect('/doorstepchallenge');
+		} else {
+			$this->layout = 'default';
+			$this->render(implode('/', $path));
+		}
 	}
+
+	public function dogoodfromhome() {
+		$this->layout = 'blank';
+		$this->render('/Pages/challenges/dogoodfromhome');
+	}	
+
+	public function activities() {
+		echo '123';
+		$this->layout = 'blank';
+		$this->render('/Pages/podcasts');
+	}	
 
 	public function rawHeader() {
 		$this->layout = 'header';

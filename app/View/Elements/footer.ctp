@@ -1,14 +1,17 @@
 <footer class="footer">
     <div class="container">
         <div class="footer-top">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
-                        <h4>OUR SERVICES</h4>
-                        <a href="/pages/get-started/design-thinking-classroom">In Your Classroom</a>
-                        <a href="/pages/get-started/professional-development">Professional Development</a>
-                        <a href="/pages/get-started/coaching">Coaching</a>
-                        <a href="/pages/impact">Our Impact</a>
+                        <h4>OUR PROGRAM</h4>
+                        <a href="/pages/how-it-works">How It Works</a>
+                        <a href="/pages/get-started">Get Started</a>
+                        <a href="/dfcusa-pm/podcasts">Social Causes</a>
+                        <a href="/pages/get-started/empathy-warmups">Empathy Warmups</a>
+                        <a href="/pages/get-started/design-sprints">Design Sprints</a>
+                        <a href="/pages/get-started/community-action">Community Action</a>
+                        <a href="/dfcusa-pm/activities">Activities</a>
                     </div>
                 </div>
                 <div class="col-md-2 col-lg-2">
@@ -20,12 +23,11 @@
                 </div>
                 <div class="col-md-2 col-lg-2">
                     <div class="footer-links">
-                        <h4>OUR PROGRAM</h4>
-                        <a href="/pages/get-started">Getting Started</a>
-                        <a href="/pages/program">How It Works</a>
-                        <a href="/pages/get-started/design-sprints">Design Sprints</a>
-                        <a href="/pages/get-started/community-projects">Community Projects</a>
-                        <a href="/dfcusa-pm/activities">Activities</a>
+                        <h4>OUR SERVICES</h4>
+                        <a href="/pages/get-started/design-thinking-classroom">In Your Classroom</a>
+                        <a href="/pages/get-started/workshops">Workshops</a>
+                        <a href="/pages/get-started/coaching">Coaching</a>
+                        <a href="/pages/impact">Our Impact</a>
                         <a href="http://www.dfcworld.com/SITE/Research" target="_new">Research</a>
                     </div>
                 </div>
@@ -47,8 +49,8 @@
                         <h4>CONTACT</h4>
                         <a href="/pages/contact-us">Contact Us</a>
                         <a href="mailto:info@designforchange.us">info@designforchange.us</a>
-                        <a href="#">6 Liberty Square #2339</a>
-                        <a href="#">Boston, MA 02109 USA</a>
+                        <p>6 Liberty Square #2339
+                        Boston, MA 02109 USA</p>
                     </div>
                 </div>
             </div>
@@ -60,15 +62,14 @@
                     <p class="copyright-info">©2014 - 2020 Design for Change USA. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p class="legal-links d-none">
-                        <a href="#">Terms & Conditions</a>
-                        <a href="#">Privacy Policy</a>
-                    </p>
+                    
                 </div>
                 <div class="col-lg-3">
                     <p class="footer-social">
                         <a href="https://www.youtube.com/channel/UCA18h_Zj-pCR_hpwVFAULgQ" target="_new"><i
                                 class="fab fa-youtube"></i></a>
+                        <a href="https://instagram.com/designforchangeus" target="_new"><i
+                                class="fab fa-instagram"></i></a>
                         <a href="https://www.twitter.com/dfcusa" target="_new"><i class="fab fa-twitter"></i></a>
                         <a href="https://www.facebook.com/dfcusa" target="_new"><i class="fab fa-facebook-f"></i></a>
                     </p>

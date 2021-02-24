@@ -10,10 +10,37 @@
     }
   }
 
+  &.reverse {
+    background: lighten($theme-light-blue, 50%);
+    background: linear-gradient(lighten($white, 45%) 0%, $theme-light-blue 100%);    
+  }
+
   .btn{
 
     @include media-breakpoint-down(sm){
       font-size: 0.8rem;
     }
+  }
+}
+
+
+.image-overlay-background{
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  &:before{
+    content: '';
+    position: absolute;
+    background: rgba(lighten($primary, 30%), 0.9);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  > *{
+    position: relative;
+    z-index: 1;
   }
 }

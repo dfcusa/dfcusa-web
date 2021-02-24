@@ -1,6 +1,7 @@
 node_modules/
 .idea/
-app/webroot/router.php
+#app/webroot/router.php
 app/webroot/.sass-cache
 app/tmp/cache/*
 app/tmp/logs/*
+.directory
