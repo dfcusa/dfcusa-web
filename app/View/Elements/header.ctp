@@ -66,23 +66,22 @@
                 <?php if ($_COOKIE['user']) { ?>
                     <ul class="navbar-nav login-nav mt-1">
                         <li class="nav-item short">
-                          <a class="nav-link" href="/dfcusa-pm/dashboard">Dashboard</a>
+                          <a class="nav-link" href="https://pm.designforchange.us">Dashboard</a>
                         </li>
                         <li class="nav-item profile-nav short">
                           <i class="fas fa-user-circle user-profile mt-1" style="color: #fff"></i>
                           <div class="profile-nav-dropdown border pl-2 pr-2 pb-1 pt-1 bg-light shadow-sm">
-                            <a href="/dfcusa-pm/dashboard">Dashboard</a>
-                            <a href="/dfcusa-pm/logout">Logout</a>
+                            <a href="https://pm.designforchange.us">Dashboard</a>
                           </div>
                         </li>
                     </ul>
                 <?php } else { ?>
                     <ul class="navbar-nav login-nav hide-mobile">
                         <li class="nav-item short">
-                            <a class="nav-link" href="/dfcusa-pm/login#register">Sign Up</a>
+                            <a class="nav-link" href="https://pm.designforchange.us/auth">Sign Up</a>
                         </li>
                         <li class="nav-item short">
-                            <a class="nav-link" href="/dfcusa-pm/login">Login</a>
+                            <a class="nav-link" href="https://pm.designforchange.us/auth">Login</a>
                         </li>
                     </ul>
                 <?php } ?>
