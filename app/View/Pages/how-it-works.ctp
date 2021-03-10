@@ -366,7 +366,7 @@
                             </li>
                         </ul>
 
-                        <a href="/dfcusa-pm/login#register" class="btn btn-danger btn-lg">REGISTER NOW</a>
+                        <a href="http://pm.designforchange.us" class="btn btn-danger btn-lg">REGISTER NOW</a>
 
                     </div>
                 </div>

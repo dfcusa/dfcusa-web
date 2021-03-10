@@ -117,7 +117,7 @@
                     <br><br><strong>Embrace messiness.</strong> Design thinking is often unpredictable because it is influenced by factors that are out of an educator’s control. Knowing this, educators are better equipped to maximize its potential.
                     <br><br>Design is messy. The DFC framework can help.
                 </p>
-                <a class="btn btn-secondary" href="/dfcusa-pm/login#register">SIGN UP FOR A FREE ACCOUNT</a>
+                <a class="btn btn-secondary" href="http://pm.designforchange.us">SIGN UP FOR A FREE ACCOUNT</a>
             </div>
         </div>
   </div>

@@ -36,7 +36,7 @@
               Each podcast is aligned with a UN Global Goal and includes real interviews
               with people affected by that issue and changemakers making a difference.
           </p>
-          <a class="btn btn-inverse-primary" href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
+          <a class="btn btn-inverse-primary" href="http://pm.designforchange.us/podcasts">SEE PODCAST EPISODES</a>
         </div>
       </div>
 
@@ -113,7 +113,7 @@
             <p>Get your lesson going in minutes.</p>
         </div>
         <a class="btn btn-secondary btn-lg"
-           href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
+           href="http://pm.designforchange.us/podcasts">SEE PODCAST EPISODES</a>
     </div>
 </section>
 

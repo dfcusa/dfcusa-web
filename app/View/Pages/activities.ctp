@@ -22,7 +22,7 @@
           <div class="mb-4">
               <h2 class="heading text-secondary">Ready to move forward? It's free...</h2>
           </div>
-          <a class="btn btn-secondary btn-lg" href="/dfcusa-pm/login#register">REGISTER</a>
+          <a class="btn btn-secondary btn-lg" href="http://pm.designforchange.us/">REGISTER</a>
       </div>
   </section>
 

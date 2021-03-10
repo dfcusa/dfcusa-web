@@ -127,7 +127,7 @@
             <p>Get your lesson going in minutes.</p>
         </div>
         <a class="btn btn-secondary btn-lg"
-           href="/dfcusa-pm/podcasts">SEE PODCAST EPISODES</a>
+           href="http://pm.designforchange.us/podcasts">SEE PODCAST EPISODES</a>
     </div>
 </section>
 

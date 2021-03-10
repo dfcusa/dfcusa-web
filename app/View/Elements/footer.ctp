@@ -7,11 +7,10 @@
                         <h4>OUR PROGRAM</h4>
                         <a href="/pages/how-it-works">How It Works</a>
                         <a href="/pages/get-started">Get Started</a>
-                        <a href="/dfcusa-pm/podcasts">Social Causes</a>
+                        <a href="http://pm.designforchange.us/podcasts">Social Causes</a>
                         <a href="/pages/get-started/empathy-warmups">Empathy Warmups</a>
                         <a href="/pages/get-started/design-sprints">Design Sprints</a>
                         <a href="/pages/get-started/community-action">Community Action</a>
-                        <a href="/dfcusa-pm/activities">Activities</a>
                     </div>
                 </div>
                 <div class="col-md-2 col-lg-2">
