@@ -49,7 +49,7 @@
                           <a class="dropdown-item" href="/pages/courses/racial-justice" target="_parent" style="padding-left: 35px">Racial Justice</a>
                           <a class="dropdown-item" href="/pages/courses/educational-equity" target="_parent" style="padding-left: 35px">Educational Equity</a>
                           <a class="dropdown-item" href="/pages/courses/climate-action" target="_parent" style="padding-left: 35px">Climate Action</a>
-                          <a class="dropdown-item" href="/pages/courses/custom-course" target="_parent">Explore others...</a>
+                          <a class="dropdown-item" href="https://pm.designforchange.us/podcasts" target="_parent">Explore others...</a>
                         </div>
                     </li>
                     <li class="nav-item <?php if ($_SERVER['REQUEST_URI'] == '/') { ?>homepage<?php } ?><?php if ((strpos($_SERVER['REQUEST_URI'], 'stories') > -1) || (strpos($_GET['nav'], 'stories') > -1)) { ?>active<?php } ?>">
